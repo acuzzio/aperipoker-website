@@ -886,30 +886,33 @@ footer {
 
 /* Member Photo Support */
 .member-photo {
-    width: 80px;
-    height: 80px;
+    width: 120px;
+    height: 120px;
     border-radius: 50%;
     object-fit: cover;
+    object-position: center top;
     border: 3px solid var(--secondary);
 }
 
 .member-avatar-wrapper {
-    width: 80px;
-    height: 80px;
+    width: 120px;
+    height: 120px;
     border-radius: 50%;
     margin: 0 auto 1rem;
     overflow: hidden;
     display: flex;
     align-items: center;
     justify-content: center;
-    background: var(--secondary);
-    font-size: 2rem;
+    background: var(--bg-light);
+    font-size: 2.5rem;
+    border: 3px solid var(--secondary);
 }
 
 .member-avatar-wrapper img {
     width: 100%;
     height: 100%;
     object-fit: cover;
+    object-position: center 20%;
 }
 
 .member-avatar-fallback {
@@ -918,7 +921,9 @@ footer {
     justify-content: center;
     width: 100%;
     height: 100%;
-    font-size: 2rem;
+    font-size: 2.5rem;
+    background: var(--secondary);
+    color: var(--bg-dark);
 }
 
 /* Leaderboard with bars */
