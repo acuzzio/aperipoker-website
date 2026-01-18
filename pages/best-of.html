@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Best Of - AperiPoker</title>
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="nav-brand">AperiPoker</div>
+        <ul class="nav-links">
+            <li><a href="../index.html">Home</a></li>
+            <li><a href="classifica.html">Classifica</a></li>
+            <li><a href="pagelle.html">Pagelle</a></li>
+            <li><a href="best-of.html" class="active">Best Of</a></li>
+            <li><a href="membri.html">Membri</a></li>
+        </ul>
+    </nav>
+
+    <main class="container">
+        <header class="page-header">
+            <h1>Best Of</h1>
+            <p>I momenti iconici, le battute leggendarie, gli epic fail memorabili</p>
+        </header>
+
+        <section class="category-tabs">
+            <button class="tab-btn active" data-category="all">Tutti</button>
+            <button class="tab-btn" data-category="battute">Battute Top</button>
+            <button class="tab-btn" data-category="fails">Epic Fail</button>
+            <button class="tab-btn" data-category="quotes">Citazioni</button>
+            <button class="tab-btn" data-category="momenti">Momenti Storici</button>
+        </section>
+
+        <section class="best-of-list" id="best-of-list">
+            <!-- Popolato da JS con dati da data/best-of.json -->
+            <div class="loading">Caricamento momenti epici...</div>
+        </section>
+
+        <section class="hall-of-fame">
+            <h2>Hall of Fame</h2>
+            <div class="fame-grid" id="hall-of-fame">
+                <!-- I momenti più votati/apprezzati -->
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>AperiPoker &copy; 2025 - Fatto con goliardia</p>
+    </footer>
+
+    <script src="../js/main.js"></script>
+    <script src="../js/best-of.js"></script>
+</body>
+</html>

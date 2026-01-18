@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chi è Chi - AperiPoker</title>
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="nav-brand">AperiPoker</div>
+        <ul class="nav-links">
+            <li><a href="../index.html">Home</a></li>
+            <li><a href="classifica.html">Classifica</a></li>
+            <li><a href="pagelle.html">Pagelle</a></li>
+            <li><a href="best-of.html">Best Of</a></li>
+            <li><a href="membri.html" class="active">Membri</a></li>
+        </ul>
+    </nav>
+
+    <main class="container">
+        <header class="page-header">
+            <h1>Chi è Chi</h1>
+            <p>Guida semiseria ai personaggi del gruppo</p>
+        </header>
+
+        <section class="members-grid" id="members-grid">
+            <!-- Popolato da JS con dati da data/membri.json -->
+            <div class="loading">Caricamento profili...</div>
+        </section>
+    </main>
+
+    <footer>
+        <p>AperiPoker &copy; 2025 - Fatto con goliardia</p>
+    </footer>
+
+    <script src="../js/main.js"></script>
+    <script src="../js/membri.js"></script>
+</body>
+</html>

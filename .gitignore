@@ -1,0 +1,21 @@
+# Chat export (contiene dati personali)
+*.txt
+data/raw_messages.json
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Temp
+*.tmp
+*.bak

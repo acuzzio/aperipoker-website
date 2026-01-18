@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pagelle Settimanali - AperiPoker</title>
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="nav-brand">AperiPoker</div>
+        <ul class="nav-links">
+            <li><a href="../index.html">Home</a></li>
+            <li><a href="classifica.html">Classifica</a></li>
+            <li><a href="pagelle.html" class="active">Pagelle</a></li>
+            <li><a href="best-of.html">Best Of</a></li>
+            <li><a href="membri.html">Membri</a></li>
+        </ul>
+    </nav>
+
+    <main class="container">
+        <header class="page-header">
+            <h1>Pagelle Settimanali</h1>
+            <p>Giudizi imparziali* sulla settimana appena trascorsa</p>
+            <small>*imparzialità non garantita</small>
+        </header>
+
+        <section class="week-selector">
+            <button id="prev-week" class="btn">&larr; Settimana precedente</button>
+            <span id="current-week">Settimana corrente</span>
+            <button id="next-week" class="btn">Settimana successiva &rarr;</button>
+        </section>
+
+        <section class="pagelle-grid" id="pagelle-grid">
+            <!-- Popolato da JS con dati da data/pagelle.json -->
+            <div class="loading">Caricamento pagelle...</div>
+        </section>
+
+        <section class="week-summary" id="week-summary">
+            <h2>Riassunto della Settimana</h2>
+            <div class="summary-content">
+                <!-- Generato dall'agente pagelle -->
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>AperiPoker &copy; 2025 - Fatto con goliardia</p>
+    </footer>
+
+    <script src="../js/main.js"></script>
+    <script src="../js/pagelle.js"></script>
+</body>
+</html>

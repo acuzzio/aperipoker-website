@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Classifica Attività - AperiPoker</title>
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="nav-brand">AperiPoker</div>
+        <ul class="nav-links">
+            <li><a href="../index.html">Home</a></li>
+            <li><a href="classifica.html" class="active">Classifica</a></li>
+            <li><a href="pagelle.html">Pagelle</a></li>
+            <li><a href="best-of.html">Best Of</a></li>
+            <li><a href="membri.html">Membri</a></li>
+        </ul>
+    </nav>
+
+    <main class="container">
+        <header class="page-header">
+            <h1>Classifica Attività</h1>
+            <p>Chi domina la chat? Chi lurka nell'ombra?</p>
+        </header>
+
+        <section class="filters">
+            <label for="period-select">Periodo:</label>
+            <select id="period-select">
+                <option value="all">Tutto il tempo</option>
+                <option value="month">Ultimo mese</option>
+                <option value="week">Ultima settimana</option>
+            </select>
+        </section>
+
+        <section class="leaderboard" id="leaderboard">
+            <!-- Popolato da JS con dati da data/classifica.json -->
+            <div class="loading">Caricamento classifica...</div>
+        </section>
+
+        <section class="activity-charts" id="charts">
+            <h2>Grafici Attività</h2>
+            <div class="chart-placeholder">
+                <p>Messaggi per ora del giorno</p>
+                <div id="hourly-chart" class="chart"></div>
+            </div>
+            <div class="chart-placeholder">
+                <p>Messaggi per giorno della settimana</p>
+                <div id="daily-chart" class="chart"></div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>AperiPoker &copy; 2025 - Fatto con goliardia</p>
+    </footer>
+
+    <script src="../js/main.js"></script>
+    <script src="../js/classifica.js"></script>
+</body>
+</html>
