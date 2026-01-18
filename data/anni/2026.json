@@ -1,5 +1,12 @@
 {
-  "members": [
+  "year": 2026,
+  "stats": {
+    "totalMessages": 421,
+    "totalMembers": 7,
+    "mvp": "Adriano Sergio Lorenzo Facchini",
+    "trend": -91.2
+  },
+  "classifica": [
     {
       "name": "Adriano Sergio Lorenzo Facchini",
       "messageCount": 113,
@@ -211,7 +218,10 @@
       }
     }
   ],
-  "hourlyTotal": {
+  "monthlyActivity": {
+    "2026-01": 421
+  },
+  "hourlyActivity": {
     "4": 5,
     "7": 20,
     "10": 27,
@@ -235,7 +245,7 @@
     "22": 1,
     "23": 1
   },
-  "dailyTotal": {
+  "dailyActivity": {
     "3": 73,
     "6": 16,
     "0": 67,
@@ -244,8 +254,23 @@
     "4": 51,
     "5": 71
   },
-  "monthlyTotal": {
-    "2026-01": 421
-  },
-  "generatedAt": "2026-01-18T11:47:30.649394"
+  "highlights": "Anno in corso. Nuove avventure all'orizzonte.",
+  "bestOf": [
+    {
+      "quote": "Soddisfazione massima per aver aggiustato l'autoclave con chat gpt.",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "ChatGPT fa l'idraulico"
+    },
+    {
+      "quote": "W il bollore",
+      "author": "Fausto Petrini",
+      "context": "Il motto del 2026"
+    },
+    {
+      "quote": "Tombino",
+      "author": "Cosimo Nenciòni",
+      "context": "Risposta filosofica"
+    }
+  ],
+  "generatedAt": "2026-01-18T11:47:30.647702"
 }

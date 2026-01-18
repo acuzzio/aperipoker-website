@@ -1,0 +1,11 @@
+# Photo placeholder directory for member photos
+# Expected files:
+# - adriano.jpg
+# - cosimo.jpg
+# - alessio-v.jpg
+# - fausto.jpg
+# - alessio-m.jpg
+# - giacomo.jpg
+# - federico.jpg
+#
+# If photos are not available, the system will fall back to emoji/initials.

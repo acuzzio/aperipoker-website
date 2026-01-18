@@ -1,0 +1,61 @@
+{
+  "years": [
+    {
+      "year": 2019,
+      "totalMessages": 2288,
+      "mvp": "Cosimo Nenciòni",
+      "trend": null,
+      "highlights": "Nascita ufficiale del gruppo chat. Cosimo domina la scena."
+    },
+    {
+      "year": 2020,
+      "totalMessages": 6107,
+      "mvp": "Adriano Sergio Lorenzo Facchini",
+      "trend": 166.9,
+      "highlights": "Anno del COVID: il gruppo esplode con 6107 messaggi! Adriano prende lo scettro."
+    },
+    {
+      "year": 2021,
+      "totalMessages": 6136,
+      "mvp": "Adriano Sergio Lorenzo Facchini",
+      "trend": 0.5,
+      "highlights": "Picco storico di attività: 6136 messaggi. Il gruppo è on fire."
+    },
+    {
+      "year": 2022,
+      "totalMessages": 3505,
+      "mvp": "Adriano Sergio Lorenzo Facchini",
+      "trend": -42.9,
+      "highlights": "Si torna alla normalità post-COVID. Attività più moderata."
+    },
+    {
+      "year": 2023,
+      "totalMessages": 3874,
+      "mvp": "Adriano Sergio Lorenzo Facchini",
+      "trend": 10.5,
+      "highlights": "Il gruppo trova un nuovo equilibrio. Discussioni di qualità."
+    },
+    {
+      "year": 2024,
+      "totalMessages": 3496,
+      "mvp": "Adriano Sergio Lorenzo Facchini",
+      "trend": -9.8,
+      "highlights": "Anno di consolidamento. Le dinamiche sono ormai rodate."
+    },
+    {
+      "year": 2025,
+      "totalMessages": 4761,
+      "mvp": "Adriano Sergio Lorenzo Facchini",
+      "trend": 36.2,
+      "highlights": "Arriva Federico! Aria fresca nel gruppo."
+    },
+    {
+      "year": 2026,
+      "totalMessages": 421,
+      "mvp": "Adriano Sergio Lorenzo Facchini",
+      "trend": -91.2,
+      "highlights": "Anno in corso. Nuove avventure all'orizzonte."
+    }
+  ],
+  "generatedAt": "2026-01-18T11:47:30.647993"
+}

@@ -574,6 +574,420 @@ footer {
     line-height: 1.8;
 }
 
+/* ============================================
+   GRAFICI CSS PURI
+   ============================================ */
+
+/* Barre Orizzontali (per classifica) */
+.bar-chart-horizontal {
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+}
+
+.bar-row {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.bar-label {
+    min-width: 120px;
+    font-size: 0.9rem;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.bar-container {
+    flex: 1;
+    background: var(--bg-light);
+    border-radius: 4px;
+    height: 24px;
+    position: relative;
+    overflow: hidden;
+}
+
+.bar-fill {
+    height: 100%;
+    background: linear-gradient(90deg, var(--primary), var(--primary-light));
+    border-radius: 4px;
+    transition: width 0.5s ease;
+    min-width: 2px;
+}
+
+.bar-fill.gold { background: linear-gradient(90deg, #d4a017, #f1c40f); }
+.bar-fill.silver { background: linear-gradient(90deg, #95a5a6, #bdc3c7); }
+.bar-fill.bronze { background: linear-gradient(90deg, #cd7f32, #e6a85c); }
+
+.bar-value {
+    min-width: 60px;
+    text-align: right;
+    font-size: 0.9rem;
+    color: var(--text-muted);
+}
+
+/* Barre Verticali (per attività oraria/giornaliera) */
+.bar-chart-vertical {
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    height: 150px;
+    padding: 0.5rem 0;
+    gap: 2px;
+    background: var(--bg-light);
+    border-radius: 8px;
+    padding: 1rem 0.5rem 0.5rem;
+}
+
+.bar-vertical {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
+    height: 100%;
+    max-width: 40px;
+}
+
+.bar-vertical-fill {
+    width: 100%;
+    background: linear-gradient(0deg, var(--primary), var(--primary-light));
+    border-radius: 3px 3px 0 0;
+    transition: height 0.5s ease;
+    min-height: 2px;
+}
+
+.bar-vertical-label {
+    margin-top: 0.5rem;
+    font-size: 0.7rem;
+    color: var(--text-muted);
+    text-align: center;
+}
+
+/* Grafico giorni settimana */
+.weekday-chart {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    gap: 0.5rem;
+    padding: 1rem;
+    background: var(--bg-card);
+    border-radius: 8px;
+}
+
+.weekday-bar {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.weekday-bar-container {
+    width: 100%;
+    height: 100px;
+    background: var(--bg-light);
+    border-radius: 4px;
+    display: flex;
+    align-items: flex-end;
+    overflow: hidden;
+}
+
+.weekday-bar-fill {
+    width: 100%;
+    background: linear-gradient(0deg, var(--secondary), #f1c40f);
+    transition: height 0.5s ease;
+    border-radius: 0 0 4px 4px;
+}
+
+.weekday-label {
+    font-size: 0.8rem;
+    font-weight: 500;
+}
+
+.weekday-value {
+    font-size: 0.75rem;
+    color: var(--text-muted);
+}
+
+/* Sparkline (mini grafico trend) */
+.sparkline {
+    display: flex;
+    align-items: flex-end;
+    height: 40px;
+    gap: 1px;
+    padding: 0.25rem;
+    background: var(--bg-light);
+    border-radius: 4px;
+}
+
+.sparkline-bar {
+    flex: 1;
+    background: var(--primary);
+    border-radius: 1px;
+    transition: height 0.3s ease;
+    min-height: 2px;
+}
+
+/* Year Tabs */
+.year-tabs {
+    display: flex;
+    gap: 0.5rem;
+    margin-bottom: 1.5rem;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.year-tab {
+    background: var(--bg-card);
+    border: 2px solid var(--bg-light);
+    color: var(--text);
+    padding: 0.5rem 1rem;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    font-size: 0.9rem;
+}
+
+.year-tab:hover {
+    border-color: var(--primary);
+}
+
+.year-tab.active {
+    background: var(--primary);
+    border-color: var(--primary);
+    color: white;
+}
+
+.year-tab.current {
+    position: relative;
+}
+
+.year-tab.current::after {
+    content: '•';
+    position: absolute;
+    top: -2px;
+    right: -2px;
+    color: var(--secondary);
+    font-size: 1.5rem;
+}
+
+/* Year Selector (dropdown) */
+.year-selector {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin-bottom: 1.5rem;
+}
+
+.year-selector label {
+    font-weight: 500;
+}
+
+.year-selector select {
+    background: var(--bg-card);
+    color: var(--text);
+    border: 2px solid var(--bg-light);
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+    font-size: 1rem;
+    cursor: pointer;
+}
+
+.year-selector select:hover {
+    border-color: var(--primary);
+}
+
+/* Archivio Cards */
+.archivio-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 1.5rem;
+}
+
+.archivio-card {
+    background: var(--bg-card);
+    border-radius: 12px;
+    overflow: hidden;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    text-decoration: none;
+    color: var(--text);
+}
+
+.archivio-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+}
+
+.archivio-card.current {
+    border: 2px solid var(--secondary);
+}
+
+.archivio-card-header {
+    background: linear-gradient(135deg, var(--primary), var(--bg-light));
+    padding: 1.5rem;
+    text-align: center;
+}
+
+.archivio-card-year {
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: var(--secondary);
+}
+
+.archivio-card-badge {
+    display: inline-block;
+    background: var(--secondary);
+    color: var(--bg-dark);
+    padding: 0.2rem 0.6rem;
+    border-radius: 12px;
+    font-size: 0.75rem;
+    font-weight: bold;
+    margin-top: 0.5rem;
+}
+
+.archivio-card-body {
+    padding: 1.5rem;
+}
+
+.archivio-stat {
+    display: flex;
+    justify-content: space-between;
+    padding: 0.5rem 0;
+    border-bottom: 1px solid var(--bg-light);
+}
+
+.archivio-stat:last-child {
+    border-bottom: none;
+}
+
+.archivio-stat-label {
+    color: var(--text-muted);
+}
+
+.archivio-stat-value {
+    font-weight: 500;
+}
+
+.archivio-trend {
+    font-size: 0.85rem;
+}
+
+.archivio-trend.positive { color: var(--success); }
+.archivio-trend.negative { color: var(--danger); }
+
+.archivio-highlight {
+    margin-top: 1rem;
+    padding-top: 1rem;
+    border-top: 1px solid var(--bg-light);
+    font-size: 0.9rem;
+    font-style: italic;
+    color: var(--text-muted);
+}
+
+/* Member Photo Support */
+.member-photo {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 3px solid var(--secondary);
+}
+
+.member-avatar-wrapper {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    margin: 0 auto 1rem;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: var(--secondary);
+    font-size: 2rem;
+}
+
+.member-avatar-wrapper img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.member-avatar-fallback {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    font-size: 2rem;
+}
+
+/* Leaderboard with bars */
+.leaderboard-with-bars .leaderboard-item {
+    display: grid;
+    grid-template-columns: 50px 1fr 100px;
+    gap: 1rem;
+    align-items: center;
+}
+
+.leaderboard-bar-wrapper {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.leaderboard-bar {
+    flex: 1;
+    height: 8px;
+    background: var(--bg-light);
+    border-radius: 4px;
+    overflow: hidden;
+}
+
+.leaderboard-bar-fill {
+    height: 100%;
+    background: linear-gradient(90deg, var(--primary), var(--primary-light));
+    border-radius: 4px;
+    transition: width 0.5s ease;
+}
+
+/* Stats highlight box */
+.stats-highlight {
+    background: linear-gradient(135deg, var(--bg-card), var(--bg-light));
+    border-radius: 12px;
+    padding: 2rem;
+    margin-bottom: 2rem;
+    text-align: center;
+    border: 1px solid var(--primary);
+}
+
+.stats-highlight h2 {
+    color: var(--secondary);
+    margin-bottom: 1rem;
+}
+
+.stats-highlight-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 1.5rem;
+    margin-top: 1.5rem;
+}
+
+.stats-highlight-item {
+    text-align: center;
+}
+
+.stats-highlight-value {
+    font-size: 2rem;
+    font-weight: bold;
+    color: var(--secondary);
+}
+
+.stats-highlight-label {
+    font-size: 0.9rem;
+    color: var(--text-muted);
+}
+
 /* Responsive */
 @media (max-width: 768px) {
     .navbar {
@@ -596,5 +1010,27 @@ footer {
 
     .week-selector {
         flex-direction: column;
+    }
+
+    .bar-label {
+        min-width: 80px;
+        font-size: 0.8rem;
+    }
+
+    .bar-chart-vertical {
+        height: 120px;
+    }
+
+    .bar-vertical-label {
+        font-size: 0.6rem;
+    }
+
+    .year-tabs {
+        gap: 0.25rem;
+    }
+
+    .year-tab {
+        padding: 0.4rem 0.8rem;
+        font-size: 0.8rem;
     }
 }

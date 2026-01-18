@@ -12,9 +12,10 @@
         <ul class="nav-links">
             <li><a href="../index.html">Home</a></li>
             <li><a href="classifica.html" class="active">Classifica</a></li>
-            <li><a href="pagelle.html">Pagelle</a></li>
+            <li><a href="pagelle.html">Pagelle 2026</a></li>
             <li><a href="best-of.html">Best Of</a></li>
             <li><a href="membri.html">Membri</a></li>
+            <li><a href="archivio.html">Archivio</a></li>
             <li><a href="history.html">History</a></li>
         </ul>
     </nav>
@@ -25,16 +26,46 @@
             <p>Chi domina la chat? Chi lurka nell'ombra?</p>
         </header>
 
-        <section class="filters">
-            <label for="period-select">Periodo:</label>
-            <select id="period-select">
-                <option value="all">Tutto il tempo</option>
-                <option value="month">Ultimo mese</option>
-                <option value="week">Ultima settimana</option>
+        <!-- Year Selector -->
+        <section class="year-selector">
+            <label for="year-select">Anno:</label>
+            <select id="year-select">
+                <option value="2026" selected>2026 (in corso)</option>
+                <option value="2025">2025</option>
+                <option value="2024">2024</option>
+                <option value="2023">2023</option>
+                <option value="2022">2022</option>
+                <option value="2021">2021</option>
+                <option value="2020">2020</option>
+                <option value="2019">2019</option>
+                <option value="all">Tutti gli anni</option>
             </select>
         </section>
 
-        <section class="leaderboard" id="leaderboard">
+        <!-- Stats anno selezionato -->
+        <section class="stats-highlight" id="year-stats">
+            <h2 id="year-title">2026</h2>
+            <div class="stats-highlight-grid">
+                <div class="stats-highlight-item">
+                    <span class="stats-highlight-value" id="year-messages">-</span>
+                    <span class="stats-highlight-label">Messaggi</span>
+                </div>
+                <div class="stats-highlight-item">
+                    <span class="stats-highlight-value" id="year-members">-</span>
+                    <span class="stats-highlight-label">Membri attivi</span>
+                </div>
+                <div class="stats-highlight-item">
+                    <span class="stats-highlight-value" id="year-mvp">-</span>
+                    <span class="stats-highlight-label">MVP</span>
+                </div>
+                <div class="stats-highlight-item">
+                    <span class="stats-highlight-value" id="year-trend">-</span>
+                    <span class="stats-highlight-label">Trend</span>
+                </div>
+            </div>
+        </section>
+
+        <section class="leaderboard leaderboard-with-bars" id="leaderboard">
             <!-- Popolato da JS con dati da data/classifica.json -->
             <div class="loading">Caricamento classifica...</div>
         </section>
@@ -42,18 +73,22 @@
         <section class="activity-charts" id="charts">
             <h2>Grafici Attività</h2>
             <div class="chart-placeholder">
-                <p>Messaggi per ora del giorno</p>
-                <div id="hourly-chart" class="chart"></div>
+                <h3>Messaggi per ora del giorno</h3>
+                <div class="bar-chart-vertical" id="hourly-chart">
+                    <div class="loading">Caricamento...</div>
+                </div>
             </div>
             <div class="chart-placeholder">
-                <p>Messaggi per giorno della settimana</p>
-                <div id="daily-chart" class="chart"></div>
+                <h3>Messaggi per giorno della settimana</h3>
+                <div class="weekday-chart" id="daily-chart">
+                    <div class="loading">Caricamento...</div>
+                </div>
             </div>
         </section>
     </main>
 
     <footer>
-        <p>AperiPoker &copy; 2025 - Fatto con goliardia</p>
+        <p>AperiPoker &copy; 2026 - Fatto con goliardia</p>
     </footer>
 
     <script src="../js/main.js"></script>

@@ -9,8 +9,8 @@ Uso:
 Output:
     - data/stats.json: Statistiche generali (da 2026)
     - data/classifica.json: Classifica per attività (da 2026)
-    - data/raw_messages_2025.json: Messaggi 2025 (per profili membri)
-    - data/raw_messages_2026.json: Messaggi 2026 (per pagelle/best-of)
+    - data/anni/*.json: Statistiche per ogni anno (2019-2026)
+    - data/raw_messages_*.json: Messaggi per anno
 """
 
 import re
@@ -19,6 +19,7 @@ import sys
 from datetime import datetime
 from collections import defaultdict
 from pathlib import Path
+import calendar
 
 # Pattern per messaggi WhatsApp
 # Formato: M/D/YY, H:MM AM/PM - Nome: messaggio
@@ -171,9 +172,15 @@ def analyze_messages(messages):
         'emojiCount': 0,
         'hourlyActivity': defaultdict(int),
         'dailyActivity': defaultdict(int),
+        'monthlyActivity': defaultdict(int),
         'firstMessage': None,
         'lastMessage': None,
     })
+
+    # Attività aggregata per grafici
+    hourly_total = defaultdict(int)
+    daily_total = defaultdict(int)
+    monthly_total = defaultdict(int)
 
     for msg in messages:
         author = msg['author']
@@ -183,6 +190,15 @@ def analyze_messages(messages):
         member['wordCount'] += len(msg['text'].split())
         member['hourlyActivity'][msg['hour']] += 1
         member['dailyActivity'][msg['weekday']] += 1
+
+        # Attività mensile
+        month_key = msg['timestamp'][:7]  # YYYY-MM
+        member['monthlyActivity'][month_key] += 1
+        monthly_total[month_key] += 1
+
+        # Totali aggregati
+        hourly_total[msg['hour']] += 1
+        daily_total[msg['weekday']] += 1
 
         # Primo e ultimo messaggio
         if not member['firstMessage'] or msg['timestamp'] < member['firstMessage']:
@@ -204,13 +220,107 @@ def analyze_messages(messages):
                 'messageCount': data['messageCount'],
                 'wordCount': data['wordCount'],
                 'avgWordsPerMessage': round(data['wordCount'] / data['messageCount'], 1) if data['messageCount'] > 0 else 0,
+                'hourlyActivity': dict(data['hourlyActivity']),
+                'dailyActivity': dict(data['dailyActivity']),
             }
             for name, data in sorted(members.items(), key=lambda x: -x[1]['messageCount'])
         ],
+        'hourlyTotal': dict(hourly_total),
+        'dailyTotal': dict(daily_total),
+        'monthlyTotal': dict(monthly_total),
         'generatedAt': datetime.now().isoformat(),
     }
 
     return stats, classifica, dict(members)
+
+
+def generate_year_data(messages, year, all_years_stats):
+    """Genera dati completi per un singolo anno."""
+    year_messages = [m for m in messages if m['year'] == year]
+
+    if not year_messages:
+        return None
+
+    stats, classifica, members_data = analyze_messages(year_messages)
+
+    # MVP dell'anno (dati storici forniti)
+    mvp_map = {
+        2019: 'Cosimo Nenciòni',
+        2020: 'Adriano Sergio Lorenzo Facchini',
+        2021: 'Adriano Sergio Lorenzo Facchini',
+        2022: 'Adriano Sergio Lorenzo Facchini',
+        2023: 'Adriano Sergio Lorenzo Facchini',
+        2024: 'Adriano Sergio Lorenzo Facchini',
+        2025: 'Adriano Sergio Lorenzo Facchini',
+        2026: 'Adriano Sergio Lorenzo Facchini',
+    }
+
+    # Highlights storici
+    highlights_map = {
+        2019: "Nascita ufficiale del gruppo chat. Cosimo domina la scena.",
+        2020: "Anno del COVID: il gruppo esplode con 6107 messaggi! Adriano prende lo scettro.",
+        2021: "Picco storico di attività: 6136 messaggi. Il gruppo è on fire.",
+        2022: "Si torna alla normalità post-COVID. Attività più moderata.",
+        2023: "Il gruppo trova un nuovo equilibrio. Discussioni di qualità.",
+        2024: "Anno di consolidamento. Le dinamiche sono ormai rodate.",
+        2025: "Arriva Federico! Aria fresca nel gruppo.",
+        2026: "Anno in corso. Nuove avventure all'orizzonte.",
+    }
+
+    # Best-of placeholder per l'anno
+    best_of_by_year = {
+        2019: [
+            {"quote": "Primo anno del gruppo!", "author": "Gruppo", "context": "Gli inizi di AperiPoker"}
+        ],
+        2020: [
+            {"quote": "Covid edition - tutti a casa a scrivere", "author": "Gruppo", "context": "L'anno del lockdown"}
+        ],
+        2021: [
+            {"quote": "Anno record per messaggi!", "author": "Gruppo", "context": "Peak activity"}
+        ],
+        2022: [
+            {"quote": "Si ricomincia a uscire", "author": "Gruppo", "context": "Post-pandemia"}
+        ],
+        2023: [
+            {"quote": "Ritorno alla normalità", "author": "Gruppo", "context": "Equilibrio ritrovato"}
+        ],
+        2024: [
+            {"quote": "Routine consolidata", "author": "Gruppo", "context": "Il gruppo va avanti"}
+        ],
+        2025: [
+            {"quote": "Federico si unisce al gruppo!", "author": "Gruppo", "context": "New entry"}
+        ],
+        2026: [
+            {"quote": "Soddisfazione massima per aver aggiustato l'autoclave con chat gpt.", "author": "Adriano Sergio Lorenzo Facchini", "context": "ChatGPT fa l'idraulico"},
+            {"quote": "W il bollore", "author": "Fausto Petrini", "context": "Il motto del 2026"},
+            {"quote": "Tombino", "author": "Cosimo Nenciòni", "context": "Risposta filosofica"}
+        ],
+    }
+
+    # Calcola trend rispetto anno precedente
+    prev_year_stats = all_years_stats.get(year - 1, {})
+    trend = None
+    if prev_year_stats:
+        prev_messages = prev_year_stats.get('totalMessages', 0)
+        if prev_messages > 0:
+            trend = round((stats['totalMessages'] - prev_messages) / prev_messages * 100, 1)
+
+    return {
+        'year': year,
+        'stats': {
+            'totalMessages': stats['totalMessages'],
+            'totalMembers': stats['totalMembers'],
+            'mvp': mvp_map.get(year, stats['mostActive']),
+            'trend': trend,
+        },
+        'classifica': classifica['members'][:7],  # Top 7
+        'monthlyActivity': classifica['monthlyTotal'],
+        'hourlyActivity': classifica['hourlyTotal'],
+        'dailyActivity': classifica['dailyTotal'],
+        'highlights': highlights_map.get(year, ""),
+        'bestOf': best_of_by_year.get(year, []),
+        'generatedAt': datetime.now().isoformat(),
+    }
 
 
 def main():
@@ -234,11 +344,55 @@ def main():
         print("Nessun messaggio trovato. Verifica il formato del file.")
         sys.exit(1)
 
-    # Separa per anno
+    # Trova tutti gli anni presenti
+    years = sorted(set(m['year'] for m in messages))
+    print(f"Anni trovati: {years}")
+
+    # Crea directory
+    data_dir = Path(__file__).parent.parent / 'data'
+    data_dir.mkdir(exist_ok=True)
+    anni_dir = data_dir / 'anni'
+    anni_dir.mkdir(exist_ok=True)
+
+    # Calcola stats per ogni anno (per i trend)
+    all_years_stats = {}
+    for year in years:
+        year_messages = [m for m in messages if m['year'] == year]
+        all_years_stats[year] = {'totalMessages': len(year_messages)}
+
+    print("\n--- Generazione dati per anno ---")
+
+    # Genera JSON per ogni anno
+    years_summary = []
+    for year in years:
+        year_data = generate_year_data(messages, year, all_years_stats)
+        if year_data:
+            # Salva file anno
+            with open(anni_dir / f'{year}.json', 'w', encoding='utf-8') as f:
+                json.dump(year_data, f, indent=2, ensure_ascii=False)
+            print(f"  Salvato: anni/{year}.json ({year_data['stats']['totalMessages']} messaggi)")
+
+            years_summary.append({
+                'year': year,
+                'totalMessages': year_data['stats']['totalMessages'],
+                'mvp': year_data['stats']['mvp'],
+                'trend': year_data['stats']['trend'],
+                'highlights': year_data['highlights'],
+            })
+
+    # Salva overview anni
+    with open(data_dir / 'anni-overview.json', 'w', encoding='utf-8') as f:
+        json.dump({
+            'years': years_summary,
+            'generatedAt': datetime.now().isoformat(),
+        }, f, indent=2, ensure_ascii=False)
+    print(f"Salvato: anni-overview.json")
+
+    # Separa per anno (2025 e 2026 per retrocompatibilità)
     messages_2025 = [m for m in messages if m['year'] == 2025]
     messages_2026 = [m for m in messages if m['year'] == 2026]
 
-    print(f"  - 2025: {len(messages_2025)} messaggi")
+    print(f"\n  - 2025: {len(messages_2025)} messaggi")
     print(f"  - 2026: {len(messages_2026)} messaggi")
 
     # Analizza solo 2026 per stats e classifica correnti
@@ -246,10 +400,6 @@ def main():
 
     # Analizza 2025 per profili membri
     _, _, members_data_2025 = analyze_messages(messages_2025)
-
-    # Crea directory data se non esiste
-    data_dir = Path(__file__).parent.parent / 'data'
-    data_dir.mkdir(exist_ok=True)
 
     # Salva stats.json (da 2026)
     with open(data_dir / 'stats.json', 'w', encoding='utf-8') as f:
@@ -307,9 +457,10 @@ def main():
     for i, member in enumerate(classifica['members'][:7], 1):
         print(f"  {i}. {member['name']}: {member['messageCount']} messaggi")
 
-    print("\n--- Prossimi passi ---")
-    print("1. Genera profili membri: leggi agents/membri-agent.md")
-    print("2. Genera pagelle/best-of: leggi agents/pagelle-agent.md e agents/best-of-agent.md")
+    print("\n--- Riepilogo storico ---")
+    for ys in years_summary:
+        trend_str = f" ({'+' if ys['trend'] and ys['trend'] > 0 else ''}{ys['trend']}%)" if ys['trend'] else ""
+        print(f"  {ys['year']}: {ys['totalMessages']} messaggi{trend_str} - MVP: {ys['mvp'].split()[0]}")
 
 
 if __name__ == '__main__':

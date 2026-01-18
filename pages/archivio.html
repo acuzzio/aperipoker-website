@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Archivio Storico - AperiPoker</title>
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="nav-brand">AperiPoker</div>
+        <ul class="nav-links">
+            <li><a href="../index.html">Home</a></li>
+            <li><a href="classifica.html">Classifica</a></li>
+            <li><a href="pagelle.html">Pagelle 2026</a></li>
+            <li><a href="best-of.html">Best Of</a></li>
+            <li><a href="membri.html">Membri</a></li>
+            <li><a href="archivio.html" class="active">Archivio</a></li>
+            <li><a href="history.html">History</a></li>
+        </ul>
+    </nav>
+
+    <main class="container">
+        <header class="page-header">
+            <h1>Archivio Storico</h1>
+            <p>Un viaggio attraverso gli anni del gruppo AperiPoker</p>
+        </header>
+
+        <!-- Stats overview -->
+        <section class="stats-highlight" id="total-stats">
+            <h2>Dal 2019 ad oggi</h2>
+            <div class="stats-highlight-grid">
+                <div class="stats-highlight-item">
+                    <span class="stats-highlight-value" id="total-messages-all">-</span>
+                    <span class="stats-highlight-label">Messaggi totali</span>
+                </div>
+                <div class="stats-highlight-item">
+                    <span class="stats-highlight-value" id="total-years">-</span>
+                    <span class="stats-highlight-label">Anni di storia</span>
+                </div>
+                <div class="stats-highlight-item">
+                    <span class="stats-highlight-value" id="peak-year">-</span>
+                    <span class="stats-highlight-label">Anno record</span>
+                </div>
+                <div class="stats-highlight-item">
+                    <span class="stats-highlight-value" id="all-time-mvp">-</span>
+                    <span class="stats-highlight-label">MVP assoluto</span>
+                </div>
+            </div>
+        </section>
+
+        <!-- Trend Chart -->
+        <section class="chart-placeholder">
+            <h3>Trend messaggi per anno</h3>
+            <div class="bar-chart-vertical" id="yearly-trend-chart">
+                <!-- Popolato da JS -->
+                <div class="loading">Caricamento trend...</div>
+            </div>
+        </section>
+
+        <!-- Year Cards Grid -->
+        <section class="archivio-grid" id="archivio-grid">
+            <div class="loading">Caricamento archivio...</div>
+        </section>
+    </main>
+
+    <footer>
+        <p>AperiPoker &copy; 2026 - Fatto con goliardia</p>
+    </footer>
+
+    <script src="../js/main.js"></script>
+    <script src="../js/archivio.js"></script>
+</body>
+</html>

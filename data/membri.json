@@ -3,6 +3,7 @@
     {
       "name": "Adriano Sergio Lorenzo Facchini",
       "emoji": "👑",
+      "photo": "adriano.png",
       "title": "Il Re della Chat",
       "description": "Con oltre 7000 messaggi, Adriano domina il gruppo con la costanza di un maratoneta e la verbosità di un fiume in piena. Quando non scrive, probabilmente sta pensando a cosa scrivere.",
       "traits": ["Prolisso", "Sempre presente", "Enciclopedico", "Nottambulo occasionale"],
@@ -19,6 +20,7 @@
     {
       "name": "Cosimo Nenciòni",
       "emoji": "🎭",
+      "photo": "cosimo.png",
       "title": "Il Provocatore Raffinato",
       "description": "Maestro dell'understatement e delle battute secche. I suoi messaggi sono brevi ma letali. Quando chiede 'Che ce metto in saccoccia?' sapete che sta per succedere qualcosa.",
       "traits": ["Sarcastico", "Sintetico", "Esploratore", "Filosofo involontario"],
@@ -35,6 +37,7 @@
     {
       "name": "Alessio Valentini",
       "emoji": "🌍",
+      "photo": "alessio-v.png",
       "title": "Il Giramondo",
       "description": "Da Bacalar ai concerti punk, Alessio è quello che sta sempre da qualche parte esotica con internet di merda. Si sveglia a orari improbabili e manda messaggi a tutte le ore.",
       "traits": ["Nomade digitale", "Orari impossibili", "Affettuoso", "Crudo ma onesto"],
@@ -51,6 +54,7 @@
     {
       "name": "Fausto Petrini",
       "emoji": "🔥",
+      "photo": "fausto.png",
       "title": "Il Trascinatore",
       "description": "L'anima organizzativa del gruppo. Quando Fausto propone, il gruppo (forse) dispone. Vuole sempre fare 'seratone' e 'struscio', possibilmente a Firenze. W il bollore.",
       "traits": ["Organizzatore", "Entusiasta", "On fire", "Amante dello struscio"],
@@ -67,6 +71,7 @@
     {
       "name": "Alessio Macalùso",
       "emoji": "🧘",
+      "photo": "alessio-m.jpg",
       "title": "La Voce della Ragione",
       "description": "L'equilibratore del gruppo. Risponde con calma zen a qualsiasi provocazione. Quando dice 'Credo' o 'Boh non so cosa si può dire', sta in realtà meditando sulla vacuità dell'esistenza.",
       "traits": ["Pacato", "Laconico", "Saggio", "Host delle serate"],
@@ -83,6 +88,7 @@
     {
       "name": "Giacomo Dolfi",
       "emoji": "🏛️",
+      "photo": "giacomo.png",
       "title": "Il Fondatore",
       "description": "Colui che nel settembre 2013 creò 'Aperipoker?' con quel punto interrogativo profetico. Da Poggibonsi veglia sul gruppo come un patriarca benevolo, intervenendo con saggezza e ironia.",
       "traits": ["Fondatore", "Storico", "Curioso", "Amante del gossip politico"],
@@ -99,6 +105,7 @@
     {
       "name": "Federico Ceccuzzi",
       "emoji": "🆕",
+      "photo": "federico.png",
       "title": "La New Entry",
       "description": "Arrivato nel 2025, Federico ha portato aria fresca e nuove prospettive. Segue i social più degli altri e ha già capito le dinamiche del gruppo. La pizza del Piccolo Mondo non gli è piaciuta.",
       "traits": ["Social media savvy", "Padre di Livia", "Critico gastronomico", "Integrato"],
