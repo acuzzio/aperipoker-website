@@ -83,7 +83,6 @@ function renderCumulativeStats(cumulative) {
         else if (rank === 3) { medalClass = 'bronze'; medal = '🥉'; }
 
         const votoClass = member.mediaVoto >= 7 ? 'voto-alto' : member.mediaVoto >= 6 ? 'voto-medio' : 'voto-basso';
-        const firstName = member.name.split(' ')[0];
         const signatureHtml = member.signature
             ? `<span class="cumulative-signature">${member.signature}</span>`
             : '';
@@ -92,7 +91,7 @@ function renderCumulativeStats(cumulative) {
             <div class="cumulative-card ${medalClass}">
                 <div class="cumulative-rank">${medal}</div>
                 <div class="cumulative-info">
-                    <span class="cumulative-name">${firstName}</span>
+                    <span class="cumulative-name">${member.name}</span>
                     <span class="cumulative-details">
                         ${member.settimaneAttive} settimane · ${formatNumber(member.totalMessaggi)} msg
                     </span>
@@ -122,7 +121,7 @@ function updateYearSummary(data) {
     if (data.cumulative && data.cumulative.length > 0) {
         const best = data.cumulative[0];
         document.getElementById('year-best-performer').textContent =
-            `${best.name.split(' ')[0]} (${best.mediaVoto.toFixed(1)})`;
+            `${best.name} (${best.mediaVoto.toFixed(1)})`;
     } else {
         document.getElementById('year-best-performer').textContent = '-';
     }
@@ -134,7 +133,7 @@ function updateYearSummary(data) {
         for (const p of week.pagelle) {
             if (p.voto > highestVoto) {
                 highestVoto = p.voto;
-                highestName = p.name.split(' ')[0];
+                highestName = p.name;
             }
         }
     }
@@ -195,7 +194,7 @@ function renderCurrentWeek() {
                 ${week.bestQuotes.map(q => `
                     <blockquote class="week-quote">
                         <p>"${q.quote}"</p>
-                        <cite>— ${q.author.split(' ')[0]}</cite>
+                        <cite>— ${q.author}</cite>
                     </blockquote>
                 `).join('')}
             </div>
