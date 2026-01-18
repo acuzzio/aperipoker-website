@@ -1,0 +1,118 @@
+{
+  "moments": [
+    {
+      "id": "autoclave-gpt",
+      "category": "momenti",
+      "quote": "Soddisfazione massima per aver aggiustato l'autoclave con chat gpt. Totale spesa 10 euro.",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "date": "2026-01-05",
+      "context": "Adriano scopre che l'AI può sostituire l'idraulico",
+      "reactions": "Federico scettico: 'Fino alla rottura definitiva...'"
+    },
+    {
+      "id": "tombino",
+      "category": "battute",
+      "quote": "Tombino",
+      "author": "Cosimo Nenciòni",
+      "date": "2026-01-01",
+      "context": "Risposta a 'Prodigio' di Alessio M. Nessuno sa cosa significhi, ma è perfetta.",
+      "reactions": "Adriano rilancia con 'Portento'"
+    },
+    {
+      "id": "test-paternita",
+      "category": "battute",
+      "quote": "Io farei un test di paternità.",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "date": "2026-01-01",
+      "context": "Fausto spiega che i bimbi crescono, Adriano ha dubbi.",
+      "reactions": "Silenzio imbarazzato"
+    },
+    {
+      "id": "bollore",
+      "category": "quotes",
+      "quote": "Cmq per chiarezza: io ho gran voglia di vedersi e anche farsi le canne se capita, certo. Ma poi voglio cmq fare una seratona a far tardi, possibilmente a firenze, a fare struscio... W il bollore",
+      "author": "Fausto Petrini",
+      "date": "2026-01-17",
+      "context": "Fausto espone il suo programma serale ideale",
+      "reactions": "Cosimo preferisce rinchiudersi in casa"
+    },
+    {
+      "id": "accento-fiorentino",
+      "category": "quotes",
+      "quote": "L'accento fiorentino è diventato per me insopportabile. Un tempo mi piaceva. Ora mi risulta ostico, ridondante e autocelebrativo.",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "date": "2026-01-17",
+      "context": "Adriano, in visita ai suoceri, ha una rivelazione",
+      "reactions": "Fausto concorda: 'Vero'"
+    },
+    {
+      "id": "canne-ipocrisia",
+      "category": "quotes",
+      "quote": "Bravo adri. C'è troppa ipocrisia. Anche io vorrei rinchiudermi in casa a farmi le canne con voialtri",
+      "author": "Cosimo Nenciòni",
+      "date": "2026-01-17",
+      "context": "Cosimo esprime il vero desiderio del gruppo",
+      "reactions": "Tutti d'accordo, nessuno lo farà"
+    },
+    {
+      "id": "pranzo-tre",
+      "category": "fails",
+      "quote": "nel frattempo, io, dopo essere andato a letto a mezzanotte, mi sono alzato alle 10, colazione, tornato a letto e adesso alle 3 del pomeriggio faccio pranzo.",
+      "author": "Alessio Valentini",
+      "date": "2026-01-17",
+      "context": "Il jet lag come stile di vita",
+      "reactions": "Invidia generale"
+    },
+    {
+      "id": "laguna-scienza",
+      "category": "momenti",
+      "quote": "è una laguna, ma c'è un fondo poroso che filtra l'acqua via e ci scioglie così tanti sali minerali che uccide i batteri e le alghe",
+      "author": "Alessio Valentini",
+      "date": "2026-01-01",
+      "context": "Alessio spiega Bacalar come un professore di geologia",
+      "reactions": "Alessio M: 'Pensavo foste su un'isola'"
+    },
+    {
+      "id": "uccello",
+      "category": "battute",
+      "quote": "Ti casca l uccello",
+      "author": "Cosimo Nenciòni",
+      "date": "2026-01-05",
+      "context": "Federico spiega perché non entrare in certi posti",
+      "reactions": "Nessuno chiede ulteriori dettagli"
+    },
+    {
+      "id": "annali-anali",
+      "category": "battute",
+      "quote": "Peccato ma ho una gara di Livia a Sesto F. perché con questo Fausto on fire, si prospetta una serata da annali (o da anali)",
+      "author": "Federico Ceccuzzi",
+      "date": "2026-01-17",
+      "context": "Federico si scusa per l'assenza con una battuta memorabile",
+      "reactions": "Cosimo: 'Anali magari.. ma non ci scommetterei un penny'"
+    }
+  ],
+  "hallOfFame": [
+    {
+      "id": "autoclave-gpt",
+      "quote": "Soddisfazione massima per aver aggiustato l'autoclave con chat gpt. Totale spesa 10 euro.",
+      "author": "Adriano Sergio Lorenzo Facchini"
+    },
+    {
+      "id": "bollore",
+      "quote": "W il bollore",
+      "author": "Fausto Petrini"
+    },
+    {
+      "id": "tombino",
+      "quote": "Tombino",
+      "author": "Cosimo Nenciòni"
+    }
+  ],
+  "categories": {
+    "battute": "Battute e freddure memorabili",
+    "fails": "Epic fail e figuracce",
+    "quotes": "Citazioni involontariamente profonde o assurde",
+    "momenti": "Momenti storici del gruppo"
+  },
+  "generatedAt": "2026-01-18T12:00:00"
+}

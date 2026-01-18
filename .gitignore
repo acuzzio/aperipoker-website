@@ -1,6 +1,6 @@
 # Chat export (contiene dati personali)
 *.txt
-data/raw_messages.json
+data/raw_messages*.json
 
 # Python
 __pycache__/

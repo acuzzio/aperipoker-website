@@ -480,6 +480,100 @@ footer {
     color: var(--text-muted);
 }
 
+/* Timeline */
+.timeline-container {
+    position: relative;
+    padding-left: 30px;
+}
+
+.timeline-container::before {
+    content: '';
+    position: absolute;
+    left: 10px;
+    top: 0;
+    bottom: 0;
+    width: 3px;
+    background: var(--primary);
+}
+
+.timeline-event {
+    position: relative;
+    margin-bottom: 2rem;
+    padding-left: 20px;
+}
+
+.timeline-event::before {
+    content: '';
+    position: absolute;
+    left: -24px;
+    top: 5px;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background: var(--secondary);
+    border: 3px solid var(--bg-dark);
+}
+
+.event-date {
+    color: var(--secondary);
+    font-weight: bold;
+    font-size: 0.9rem;
+    margin-bottom: 0.3rem;
+}
+
+.event-content {
+    background: var(--bg-card);
+    padding: 1rem;
+    border-radius: 8px;
+}
+
+.event-content h3 {
+    margin-bottom: 0.5rem;
+    color: var(--text);
+}
+
+/* Years Grid */
+.years-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1rem;
+    margin-top: 1rem;
+}
+
+.year-card {
+    background: var(--bg-card);
+    padding: 1.5rem;
+    border-radius: 8px;
+    border-top: 4px solid var(--primary);
+}
+
+.year-card h3 {
+    color: var(--secondary);
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+}
+
+.year-stats p {
+    margin-bottom: 0.5rem;
+}
+
+.year-stats .highlight {
+    font-style: italic;
+    color: var(--text-muted);
+    font-size: 0.9rem;
+    margin-top: 0.5rem;
+    padding-top: 0.5rem;
+    border-top: 1px solid var(--bg-light);
+}
+
+/* Evolution Content */
+.evolution-content {
+    background: var(--bg-card);
+    padding: 2rem;
+    border-radius: 8px;
+    line-height: 1.8;
+}
+
 /* Responsive */
 @media (max-width: 768px) {
     .navbar {

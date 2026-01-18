@@ -1,0 +1,129 @@
+{
+  "weeks": [
+    {
+      "startDate": "2026-01-01",
+      "endDate": "2026-01-05",
+      "pagelle": [
+        {
+          "name": "Adriano Sergio Lorenzo Facchini",
+          "voto": 8,
+          "giudizio": "Parte l'anno col botto: auguri dalle foreste casentinesi, aggiusta l'autoclave con ChatGPT, e propone test di paternità. Il solito Adriano.",
+          "messaggi": 35,
+          "mediaGiornaliera": 7
+        },
+        {
+          "name": "Alessio Valentini",
+          "voto": 7.5,
+          "giudizio": "Capodanno a Bacalar a spiegare lagune e sali minerali. Poi torna in Carolina. La vita del nomade digitale.",
+          "messaggi": 18,
+          "mediaGiornaliera": 3.6
+        },
+        {
+          "name": "Federico Ceccuzzi",
+          "voto": 7,
+          "giudizio": "Esordio convincente nel 2026. Scettico sull'autoclave ma generoso nei complimenti. Consiglia di non entrare in posti misteriosi.",
+          "messaggi": 12,
+          "mediaGiornaliera": 2.4
+        },
+        {
+          "name": "Alessio Macalùso",
+          "voto": 6.5,
+          "giudizio": "Auguri puntuali alle 4:20 del mattino (coincidenza?). Confuso tra isole e terraferma. Prodigio.",
+          "messaggi": 14,
+          "mediaGiornaliera": 2.8
+        },
+        {
+          "name": "Cosimo Nenciòni",
+          "voto": 6.5,
+          "giudizio": "Risposta secca 'Tombino' come sempre. Si preoccupa per il ritorno di Alessio. Fico.",
+          "messaggi": 10,
+          "mediaGiornaliera": 2
+        },
+        {
+          "name": "Fausto Petrini",
+          "voto": 6,
+          "giudizio": "Deve chiarire che il bimbo non è un prodigio, è solo che i bimbi crescono. Pedanteria necessaria.",
+          "messaggi": 8,
+          "mediaGiornaliera": 1.6
+        },
+        {
+          "name": "Giacomo Dolfi",
+          "voto": 5,
+          "giudizio": "Il fondatore sonnecchia a inizio anno. In letargo post-festivo? Speriamo si svegli.",
+          "messaggi": 4,
+          "mediaGiornaliera": 0.8
+        }
+      ],
+      "riassunto": "L'anno inizia con gli auguri dalle location più disparate: Adriano nelle foreste casentinesi, Alessio a Bacalar. Discussioni scientifiche sulle lagune, riparazioni DIY con AI, e la perla di Cosimo 'Tombino'. Gruppo in forma.",
+      "awards": {
+        "mvp": "Adriano Sergio Lorenzo Facchini",
+        "chiacchierone": "Adriano Sergio Lorenzo Facchini",
+        "fantasma": "Giacomo Dolfi",
+        "comico": "Cosimo Nenciòni"
+      }
+    },
+    {
+      "startDate": "2026-01-06",
+      "endDate": "2026-01-12",
+      "pagelle": [
+        {
+          "name": "Adriano Sergio Lorenzo Facchini",
+          "voto": 8.5,
+          "giudizio": "Domina la settimana con interventi su tutto: dall'accento fiorentino ai suoceri. Vuole le canne ma andare a letto presto.",
+          "messaggi": 42,
+          "mediaGiornaliera": 6
+        },
+        {
+          "name": "Fausto Petrini",
+          "voto": 8,
+          "giudizio": "Settimana on fire! Propone serate, struscio, vuole fare tardi a Firenze. W il bollore! Finalmente si sveglia.",
+          "messaggi": 28,
+          "mediaGiornaliera": 4
+        },
+        {
+          "name": "Cosimo Nenciòni",
+          "voto": 7,
+          "giudizio": "Filosofeggia sull'ipocrisia e il rinchiudersi in casa a farsi le canne. Preferisce evitare il 'fingere di socializzare'.",
+          "messaggi": 20,
+          "mediaGiornaliera": 2.9
+        },
+        {
+          "name": "Alessio Macalùso",
+          "voto": 7,
+          "giudizio": "Host della potenziale serata del 25. 'Mettiamoci un poker' - l'AperiPoker originale!",
+          "messaggi": 22,
+          "mediaGiornaliera": 3.1
+        },
+        {
+          "name": "Federico Ceccuzzi",
+          "voto": 6.5,
+          "giudizio": "Ha una gara di Livia, non può venire il 25. Peccato: Fausto on fire prometteva serata da annali (o anali).",
+          "messaggi": 18,
+          "mediaGiornaliera": 2.6
+        },
+        {
+          "name": "Alessio Valentini",
+          "voto": 6,
+          "giudizio": "Dopo colazione, torna a letto e pranzo alle 3 del pomeriggio. Il jet lag è una scusa perpetua.",
+          "messaggi": 15,
+          "mediaGiornaliera": 2.1
+        },
+        {
+          "name": "Giacomo Dolfi",
+          "voto": 5.5,
+          "giudizio": "Ancora in fase di risveglio. Interventi sporadici ma mirati. Il fondatore aspetta il suo momento.",
+          "messaggi": 8,
+          "mediaGiornaliera": 1.1
+        }
+      ],
+      "riassunto": "La settimana della grande discussione: Fausto vuole fare serata, Cosimo vuole farsi le canne a casa, Adriano vuole andare a letto presto ma anche fare le canne. Si converge su un aperipoker da Alessio M. il 25. L'accento fiorentino viene dichiarato insopportabile.",
+      "awards": {
+        "mvp": "Adriano Sergio Lorenzo Facchini",
+        "chiacchierone": "Adriano Sergio Lorenzo Facchini",
+        "fantasma": "Giacomo Dolfi",
+        "comico": "Federico Ceccuzzi"
+      }
+    }
+  ],
+  "generatedAt": "2026-01-18T12:00:00"
+}

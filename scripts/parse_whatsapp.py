@@ -7,9 +7,10 @@ Uso:
     python parse_whatsapp.py <path_to_chat.txt>
 
 Output:
-    - data/stats.json: Statistiche generali
-    - data/classifica.json: Classifica per attività
-    - data/raw_messages.json: Tutti i messaggi parsati (per gli agenti)
+    - data/stats.json: Statistiche generali (da 2026)
+    - data/classifica.json: Classifica per attività (da 2026)
+    - data/raw_messages_2025.json: Messaggi 2025 (per profili membri)
+    - data/raw_messages_2026.json: Messaggi 2026 (per pagelle/best-of)
 """
 
 import re
@@ -19,20 +20,27 @@ from datetime import datetime
 from collections import defaultdict
 from pathlib import Path
 
-# Pattern per messaggi WhatsApp (gestisce vari formati)
-# Formato italiano: "12/01/23, 18:30 - Nome: messaggio"
-# Formato con parentesi: "[12/01/23, 18:30] Nome: messaggio"
+# Pattern per messaggi WhatsApp
+# Formato: M/D/YY, H:MM AM/PM - Nome: messaggio
 PATTERNS = [
-    # Formato: DD/MM/YY, HH:MM - Nome: messaggio
-    re.compile(r'^(\d{1,2}/\d{1,2}/\d{2,4}),?\s+(\d{1,2}:\d{2})\s*[-–]\s*([^:]+):\s*(.+)$'),
-    # Formato con parentesi quadre
-    re.compile(r'^\[(\d{1,2}/\d{1,2}/\d{2,4}),?\s+(\d{1,2}:\d{2})\]\s*([^:]+):\s*(.+)$'),
-    # Formato americano: MM/DD/YY
-    re.compile(r'^(\d{1,2}/\d{1,2}/\d{2,4}),?\s+(\d{1,2}:\d{2})\s*(?:AM|PM)?\s*[-–]\s*([^:]+):\s*(.+)$', re.IGNORECASE),
+    # Formato americano con AM/PM: 1/17/26, 9:08 AM - Nome: messaggio
+    re.compile(r'^(\d{1,2}/\d{1,2}/\d{2,4}),?\s+(\d{1,2}:\d{2})\s*(AM|PM)?\s*[-–]\s*([^:]+):\s*(.*)$', re.IGNORECASE),
+    # Formato senza AM/PM
+    re.compile(r'^(\d{1,2}/\d{1,2}/\d{2,4}),?\s+(\d{1,2}:\d{2})\s*[-–]\s*([^:]+):\s*(.*)$'),
 ]
 
 # Messaggi di sistema da ignorare
 SYSTEM_KEYWORDS = [
+    'created group',
+    'added you',
+    'added',
+    'removed',
+    'left',
+    'changed',
+    'end-to-end encrypted',
+    'group settings',
+    'modified',
+    'disappearing messages',
     'ha creato il gruppo',
     'ti ha aggiunto',
     'ha aggiunto',
@@ -43,6 +51,8 @@ SYSTEM_KEYWORDS = [
     'impostazioni del gruppo',
     'ha modificato',
     'messaggi effimeri',
+    '<This message was deleted>',
+    '<Media omitted>',
     '<Questo messaggio è stato eliminato>',
     '<Media omessi>',
 ]
@@ -54,17 +64,27 @@ def is_system_message(text):
     return any(kw.lower() in text_lower for kw in SYSTEM_KEYWORDS)
 
 
-def parse_date(date_str, time_str):
+def parse_date(date_str, time_str, ampm=None):
     """Parsa data e ora in formato datetime."""
-    # Prova vari formati di data
-    formats = [
-        '%d/%m/%y',
-        '%d/%m/%Y',
-        '%m/%d/%y',
-        '%m/%d/%Y',
-    ]
+    # Formato americano M/D/YY
+    try:
+        date = datetime.strptime(date_str, '%m/%d/%y')
+        hour, minute = map(int, time_str.split(':'))
 
-    for fmt in formats:
+        # Gestisci AM/PM
+        if ampm:
+            ampm = ampm.upper()
+            if ampm == 'PM' and hour != 12:
+                hour += 12
+            elif ampm == 'AM' and hour == 12:
+                hour = 0
+
+        return date.replace(hour=hour, minute=minute)
+    except ValueError:
+        pass
+
+    # Fallback: altri formati
+    for fmt in ['%d/%m/%y', '%d/%m/%Y', '%m/%d/%Y']:
         try:
             date = datetime.strptime(date_str, fmt)
             hour, minute = map(int, time_str.split(':'))
@@ -80,18 +100,26 @@ def parse_message_line(line):
     for pattern in PATTERNS:
         match = pattern.match(line.strip())
         if match:
-            date_str, time_str, author, text = match.groups()
+            groups = match.groups()
+
+            # Pattern con AM/PM ha 5 gruppi, senza ne ha 4
+            if len(groups) == 5:
+                date_str, time_str, ampm, author, text = groups
+            else:
+                date_str, time_str, author, text = groups
+                ampm = None
 
             # Salta messaggi di sistema
             if is_system_message(text) or is_system_message(author):
                 return None
 
-            timestamp = parse_date(date_str, time_str)
+            timestamp = parse_date(date_str, time_str, ampm)
             if not timestamp:
                 continue
 
             return {
                 'timestamp': timestamp.isoformat(),
+                'year': timestamp.year,
                 'author': author.strip(),
                 'text': text.strip(),
                 'date': date_str,
@@ -200,48 +228,88 @@ def main():
 
     print(f"Parsing {chat_file}...")
     messages = parse_chat_file(chat_file)
-    print(f"Trovati {len(messages)} messaggi")
+    print(f"Trovati {len(messages)} messaggi totali")
 
     if not messages:
         print("Nessun messaggio trovato. Verifica il formato del file.")
         sys.exit(1)
 
-    # Analizza
-    stats, classifica, members_data = analyze_messages(messages)
+    # Separa per anno
+    messages_2025 = [m for m in messages if m['year'] == 2025]
+    messages_2026 = [m for m in messages if m['year'] == 2026]
+
+    print(f"  - 2025: {len(messages_2025)} messaggi")
+    print(f"  - 2026: {len(messages_2026)} messaggi")
+
+    # Analizza solo 2026 per stats e classifica correnti
+    stats, classifica, members_data_2026 = analyze_messages(messages_2026)
+
+    # Analizza 2025 per profili membri
+    _, _, members_data_2025 = analyze_messages(messages_2025)
 
     # Crea directory data se non esiste
     data_dir = Path(__file__).parent.parent / 'data'
     data_dir.mkdir(exist_ok=True)
 
-    # Salva stats.json
+    # Salva stats.json (da 2026)
     with open(data_dir / 'stats.json', 'w', encoding='utf-8') as f:
         json.dump(stats, f, indent=2, ensure_ascii=False)
-    print(f"Salvato: {data_dir / 'stats.json'}")
+    print(f"Salvato: stats.json (2026)")
 
-    # Salva classifica.json
+    # Salva classifica.json (da 2026)
     with open(data_dir / 'classifica.json', 'w', encoding='utf-8') as f:
         json.dump(classifica, f, indent=2, ensure_ascii=False)
-    print(f"Salvato: {data_dir / 'classifica.json'}")
+    print(f"Salvato: classifica.json (2026)")
 
-    # Salva raw_messages.json (per gli agenti)
-    with open(data_dir / 'raw_messages.json', 'w', encoding='utf-8') as f:
+    # Salva raw_messages_2025.json (per profili membri)
+    with open(data_dir / 'raw_messages_2025.json', 'w', encoding='utf-8') as f:
         json.dump({
-            'messages': messages,
-            'members': members_data,
+            'messages': messages_2025,
+            'members': members_data_2025,
+            'year': 2025,
             'parsedAt': datetime.now().isoformat(),
         }, f, indent=2, ensure_ascii=False)
-    print(f"Salvato: {data_dir / 'raw_messages.json'}")
+    print(f"Salvato: raw_messages_2025.json ({len(messages_2025)} messaggi)")
+
+    # Salva raw_messages_2026.json (per pagelle/best-of)
+    with open(data_dir / 'raw_messages_2026.json', 'w', encoding='utf-8') as f:
+        json.dump({
+            'messages': messages_2026,
+            'members': members_data_2026,
+            'year': 2026,
+            'parsedAt': datetime.now().isoformat(),
+        }, f, indent=2, ensure_ascii=False)
+    print(f"Salvato: raw_messages_2026.json ({len(messages_2026)} messaggi)")
+
+    # Analizza TUTTA la chat per profili membri e history
+    _, _, members_data_all = analyze_messages(messages)
+
+    # Salva raw_messages_all.json (per profili e history)
+    with open(data_dir / 'raw_messages_all.json', 'w', encoding='utf-8') as f:
+        json.dump({
+            'messages': messages,
+            'members': members_data_all,
+            'totalMessages': len(messages),
+            'dateRange': {
+                'from': messages[0]['timestamp'] if messages else None,
+                'to': messages[-1]['timestamp'] if messages else None,
+            },
+            'parsedAt': datetime.now().isoformat(),
+        }, f, indent=2, ensure_ascii=False)
+    print(f"Salvato: raw_messages_all.json ({len(messages)} messaggi totali)")
 
     # Riepilogo
-    print("\n--- Riepilogo ---")
-    print(f"Messaggi totali: {stats['totalMessages']}")
-    print(f"Membri: {stats['totalMembers']}")
+    print("\n--- Riepilogo 2026 ---")
+    print(f"Messaggi: {stats['totalMessages']}")
+    print(f"Membri attivi: {stats['totalMembers']}")
     print(f"Più attivo: {stats['mostActive']}")
-    print("\nTop 5:")
-    for i, member in enumerate(classifica['members'][:5], 1):
+    print("\nClassifica 2026:")
+    for i, member in enumerate(classifica['members'][:7], 1):
         print(f"  {i}. {member['name']}: {member['messageCount']} messaggi")
 
-    print("\nOra puoi eseguire gli agenti per generare pagelle, best-of e profili membri!")
+    print("\n--- Prossimi passi ---")
+    print("1. Genera profili membri: leggi agents/membri-agent.md")
+    print("2. Genera pagelle/best-of: leggi agents/pagelle-agent.md e agents/best-of-agent.md")
 
 
 if __name__ == '__main__':

@@ -1,0 +1,121 @@
+{
+  "members": [
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "emoji": "👑",
+      "title": "Il Re della Chat",
+      "description": "Con oltre 7000 messaggi, Adriano domina il gruppo con la costanza di un maratoneta e la verbosità di un fiume in piena. Quando non scrive, probabilmente sta pensando a cosa scrivere.",
+      "traits": ["Prolisso", "Sempre presente", "Enciclopedico", "Nottambulo occasionale"],
+      "catchphrase": "Fausto, se te ci vieni ci vengo pure io",
+      "superpower": "Trasformare qualsiasi argomento in una discussione infinita",
+      "weakness": "Non sa stare zitto (ma lo amiamo per questo)",
+      "stats": {
+        "messageCount": 7097,
+        "favoriteEmoji": "😂",
+        "avgWordsPerMessage": 7.3,
+        "rank": 1
+      }
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "emoji": "🎭",
+      "title": "Il Provocatore Raffinato",
+      "description": "Maestro dell'understatement e delle battute secche. I suoi messaggi sono brevi ma letali. Quando chiede 'Che ce metto in saccoccia?' sapete che sta per succedere qualcosa.",
+      "traits": ["Sarcastico", "Sintetico", "Esploratore", "Filosofo involontario"],
+      "catchphrase": "Certamente. No sbatti",
+      "superpower": "Smontare qualsiasi piano con una singola frase",
+      "weakness": "La collaborazione degli altri (che non arriva mai)",
+      "stats": {
+        "messageCount": 5816,
+        "favoriteEmoji": "🤷",
+        "avgWordsPerMessage": 6.8,
+        "rank": 2
+      }
+    },
+    {
+      "name": "Alessio Valentini",
+      "emoji": "🌍",
+      "title": "Il Giramondo",
+      "description": "Da Bacalar ai concerti punk, Alessio è quello che sta sempre da qualche parte esotica con internet di merda. Si sveglia a orari improbabili e manda messaggi a tutte le ore.",
+      "traits": ["Nomade digitale", "Orari impossibili", "Affettuoso", "Crudo ma onesto"],
+      "catchphrase": "c'ho internet di merda scusate",
+      "superpower": "Dormire fino alle 3 del pomeriggio senza vergogna",
+      "weakness": "Il caldo e la spiaggia all'italiana con ombrelloni",
+      "stats": {
+        "messageCount": 5266,
+        "favoriteEmoji": "😅",
+        "avgWordsPerMessage": 7.1,
+        "rank": 3
+      }
+    },
+    {
+      "name": "Fausto Petrini",
+      "emoji": "🔥",
+      "title": "Il Trascinatore",
+      "description": "L'anima organizzativa del gruppo. Quando Fausto propone, il gruppo (forse) dispone. Vuole sempre fare 'seratone' e 'struscio', possibilmente a Firenze. W il bollore.",
+      "traits": ["Organizzatore", "Entusiasta", "On fire", "Amante dello struscio"],
+      "catchphrase": "W il bollore",
+      "superpower": "Proporre uscite a cui poi nessuno partecipa",
+      "weakness": "L'accento fiorentino (che prima amava, ora no)",
+      "stats": {
+        "messageCount": 5189,
+        "favoriteEmoji": "😄",
+        "avgWordsPerMessage": 8.7,
+        "rank": 4
+      }
+    },
+    {
+      "name": "Alessio Macalùso",
+      "emoji": "🧘",
+      "title": "La Voce della Ragione",
+      "description": "L'equilibratore del gruppo. Risponde con calma zen a qualsiasi provocazione. Quando dice 'Credo' o 'Boh non so cosa si può dire', sta in realtà meditando sulla vacuità dell'esistenza.",
+      "traits": ["Pacato", "Laconico", "Saggio", "Host delle serate"],
+      "catchphrase": "Credo",
+      "superpower": "Non prendere mai posizioni nette ma avere sempre ragione",
+      "weakness": "La verbosità (usa le parole con parsimonia)",
+      "stats": {
+        "messageCount": 3556,
+        "favoriteEmoji": "🙋",
+        "avgWordsPerMessage": 5.5,
+        "rank": 5
+      }
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "emoji": "🏛️",
+      "title": "Il Fondatore",
+      "description": "Colui che nel settembre 2013 creò 'Aperipoker?' con quel punto interrogativo profetico. Da Poggibonsi veglia sul gruppo come un patriarca benevolo, intervenendo con saggezza e ironia.",
+      "traits": ["Fondatore", "Storico", "Curioso", "Amante del gossip politico"],
+      "catchphrase": "Sentiti libero",
+      "superpower": "Fare domande che sembrano innocue ma aprono dibattiti infiniti",
+      "weakness": "Le trasmissioni con giornaliste insopportabili",
+      "stats": {
+        "messageCount": 3294,
+        "favoriteEmoji": "😂",
+        "avgWordsPerMessage": 7.3,
+        "rank": 6
+      }
+    },
+    {
+      "name": "Federico Ceccuzzi",
+      "emoji": "🆕",
+      "title": "La New Entry",
+      "description": "Arrivato nel 2025, Federico ha portato aria fresca e nuove prospettive. Segue i social più degli altri e ha già capito le dinamiche del gruppo. La pizza del Piccolo Mondo non gli è piaciuta.",
+      "traits": ["Social media savvy", "Padre di Livia", "Critico gastronomico", "Integrato"],
+      "catchphrase": "Seguite poco i social allora",
+      "superpower": "Inserirsi nelle discussioni con tempismo perfetto",
+      "weakness": "Le gare di Livia che lo portano lontano da Siena",
+      "stats": {
+        "messageCount": 370,
+        "favoriteEmoji": "😊",
+        "avgWordsPerMessage": 7.6,
+        "rank": 7
+      }
+    }
+  ],
+  "groupDynamics": {
+    "description": "Un gruppo di amici toscani (con qualche infiltrato) che condivide la passione per l'aperitivo, il poker, e soprattutto per prendersi in giro. Le dinamiche sono quelle di vecchi amici: si organizzano uscite che poi saltano, si discute di tutto dal fantacalcio alla filosofia, e ci si lamenta di non vedersi mai abbastanza.",
+    "subgroups": ["I nottambuli (Adriano, Alessio V)", "Gli organizzatori frustrati (Fausto)", "I saggi silenziosi (Alessio M, Giacomo)"]
+  },
+  "generatedAt": "2026-01-18T12:00:00"
+}

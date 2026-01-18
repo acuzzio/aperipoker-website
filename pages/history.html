@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Storia del Gruppo - AperiPoker</title>
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="nav-brand">AperiPoker</div>
+        <ul class="nav-links">
+            <li><a href="../index.html">Home</a></li>
+            <li><a href="classifica.html">Classifica</a></li>
+            <li><a href="pagelle.html">Pagelle</a></li>
+            <li><a href="best-of.html">Best Of</a></li>
+            <li><a href="membri.html">Membri</a></li>
+            <li><a href="history.html" class="active">History</a></li>
+        </ul>
+    </nav>
+
+    <main class="container">
+        <header class="page-header">
+            <h1>Storia dell'AperiPoker</h1>
+            <p>Dal 2013 ad oggi: la saga di un gruppo che non si prende mai sul serio</p>
+        </header>
+
+        <section class="timeline-stats" id="timeline-stats">
+            <div class="stats-grid">
+                <div class="stat-card">
+                    <span class="stat-number" id="years-active">-</span>
+                    <span class="stat-label">Anni di Attività</span>
+                </div>
+                <div class="stat-card">
+                    <span class="stat-number" id="total-messages-ever">-</span>
+                    <span class="stat-label">Messaggi Totali</span>
+                </div>
+                <div class="stat-card">
+                    <span class="stat-number" id="founding-date">-</span>
+                    <span class="stat-label">Data di Fondazione</span>
+                </div>
+                <div class="stat-card">
+                    <span class="stat-number" id="founder">-</span>
+                    <span class="stat-label">Fondatore</span>
+                </div>
+            </div>
+        </section>
+
+        <section class="timeline" id="timeline">
+            <h2>La Timeline</h2>
+            <div class="timeline-container">
+                <!-- Popolato da JS con dati da data/history.json -->
+                <div class="loading">Caricamento storia...</div>
+            </div>
+        </section>
+
+        <section class="yearly-recap" id="yearly-recap">
+            <h2>Anno per Anno</h2>
+            <div class="years-grid">
+                <!-- Statistiche per ogni anno -->
+            </div>
+        </section>
+
+        <section class="group-evolution">
+            <h2>L'Evoluzione del Gruppo</h2>
+            <div id="evolution-content" class="evolution-content">
+                <!-- Descrizione narrativa generata dall'agente -->
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>AperiPoker &copy; 2025 - Fatto con goliardia</p>
+    </footer>
+
+    <script src="../js/main.js"></script>
+    <script src="../js/history.js"></script>
+</body>
+</html>

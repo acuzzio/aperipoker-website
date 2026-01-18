@@ -5,8 +5,8 @@ Genera profili semiseri per ogni membro del gruppo, descrivendo "chi è questo q
 
 ## Input
 Leggi i file:
-- `data/raw_messages.json` - tutti i messaggi per analizzare comportamento e stile
-- `data/classifica.json` - statistiche già calcolate
+- `data/raw_messages_all.json` - TUTTA la chat storica (2019-2026) per capire davvero chi è ognuno
+- `data/classifica.json` - statistiche correnti (2026)
 - `data/best-of.json` (se esiste) - momenti memorabili per arricchire i profili
 
 ## Output
