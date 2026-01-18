@@ -6,7 +6,7 @@
       "endDate": "2023-01-01",
       "pagelle": [
         {
-          "name": "Alessio M.",
+          "name": "Alessio Macalùso",
           "voto": 8.0,
           "giudizio": "Settimana dominante con 1 messaggi. Protagonista assoluto.",
           "messaggi": 1,
@@ -44,7 +44,7 @@
       "endDate": "2023-01-08",
       "pagelle": [
         {
-          "name": "Alessio V.",
+          "name": "Alessio Valentini",
           "voto": 8.2,
           "giudizio": "Settimana dominante con 22 messaggi. Protagonista assoluto.",
           "messaggi": 22,
@@ -65,7 +65,7 @@
           "mediaGiornaliera": 1.0
         },
         {
-          "name": "Alessio M.",
+          "name": "Alessio Macalùso",
           "voto": 6.5,
           "giudizio": "Settimana nella media con 6 messaggi. Presente ma non protagonista.",
           "messaggi": 6,
@@ -110,7 +110,7 @@
           "mediaGiornaliera": 0.1
         },
         {
-          "name": "Alessio V.",
+          "name": "Alessio Valentini",
           "voto": 8.0,
           "giudizio": "Settimana dominante con 1 messaggi. Protagonista assoluto.",
           "messaggi": 1,
@@ -141,7 +141,7 @@
           "mediaGiornaliera": 3.3
         },
         {
-          "name": "Alessio V.",
+          "name": "Alessio Valentini",
           "voto": 7.8,
           "giudizio": "Buona presenza nel gruppo con 19 messaggi. Partecipazione attiva.",
           "messaggi": 19,
@@ -169,7 +169,7 @@
           "mediaGiornaliera": 1.3
         },
         {
-          "name": "Alessio M.",
+          "name": "Alessio Macalùso",
           "voto": 6.5,
           "giudizio": "Settimana nella media con 6 messaggi. Presente ma non protagonista.",
           "messaggi": 6,
@@ -200,7 +200,7 @@
           "mediaGiornaliera": 3.3
         },
         {
-          "name": "Alessio M.",
+          "name": "Alessio Macalùso",
           "voto": 7.7,
           "giudizio": "Buona presenza nel gruppo con 15 messaggi. Partecipazione attiva.",
           "messaggi": 15,
@@ -228,7 +228,7 @@
           "mediaGiornaliera": 1.3
         },
         {
-          "name": "Alessio V.",
+          "name": "Alessio Valentini",
           "voto": 6.5,
           "giudizio": "Settimana nella media con 6 messaggi. Presente ma non protagonista.",
           "messaggi": 6,
@@ -252,7 +252,7 @@
       "endDate": "2023-02-05",
       "pagelle": [
         {
-          "name": "Alessio V.",
+          "name": "Alessio Valentini",
           "voto": 8.4,
           "giudizio": "Settimana dominante con 38 messaggi. Protagonista assoluto.",
           "messaggi": 38,
@@ -266,7 +266,7 @@
           "mediaGiornaliera": 5.4
         },
         {
-          "name": "Alessio M.",
+          "name": "Alessio Macalùso",
           "voto": 7.8,
           "giudizio": "Buona presenza nel gruppo con 29 messaggi. Partecipazione attiva.",
           "messaggi": 29,
@@ -332,7 +332,7 @@
           "mediaGiornaliera": 3.0
         },
         {
-          "name": "Alessio M.",
+          "name": "Alessio Macalùso",
           "voto": 6.8,
           "giudizio": "Settimana nella media con 19 messaggi. Presente ma non protagonista.",
           "messaggi": 19,
@@ -346,7 +346,7 @@
           "mediaGiornaliera": 2.0
         },
         {
-          "name": "Alessio V.",
+          "name": "Alessio Valentini",
           "voto": 6.6,
           "giudizio": "Settimana nella media con 13 messaggi. Presente ma non protagonista.",
           "messaggi": 13,
@@ -384,7 +384,7 @@
           "mediaGiornaliera": 1.1
         },
         {
-          "name": "Alessio V.",
+          "name": "Alessio Valentini",
           "voto": 7.0,
           "giudizio": "Buona presenza nel gruppo con 5 messaggi. Partecipazione attiva.",
           "messaggi": 5,
@@ -398,7 +398,7 @@
           "mediaGiornaliera": 0.6
         },
         {
-          "name": "Alessio M.",
+          "name": "Alessio Macalùso",
           "voto": 6.0,
           "giudizio": "Settimana nella media con 2 messaggi. Presente ma non protagonista.",
           "messaggi": 2,
@@ -457,14 +457,14 @@
           "mediaGiornaliera": 0.9
         },
         {
-          "name": "Alessio V.",
+          "name": "Alessio Valentini",
           "voto": 6.0,
           "giudizio": "Settimana nella media con 4 messaggi. Presente ma non protagonista.",
           "messaggi": 4,
           "mediaGiornaliera": 0.6
         },
         {
-          "name": "Alessio M.",
+          "name": "Alessio Macalùso",
           "voto": 5.5,
           "giudizio": "Settimana sottotono con solo 2 messaggi. Si può fare di più.",
           "messaggi": 2,
@@ -509,14 +509,14 @@
           "mediaGiornaliera": 1.9
         },
         {
-          "name": "Alessio M.",
+          "name": "Alessio Macalùso",
           "voto": 6.6,
           "giudizio": "Settimana nella media con 10 messaggi. Presente ma non protagonista.",
           "messaggi": 10,
           "mediaGiornaliera": 1.4
         },
         {
-          "name": "Alessio V.",
+          "name": "Alessio Valentini",
           "voto": 6.6,
           "giudizio": "Settimana nella media con 10 messaggi. Presente ma non protagonista.",
           "messaggi": 10,
@@ -561,7 +561,7 @@
           "mediaGiornaliera": 6.9
         },
         {
-          "name": "Alessio V.",
+          "name": "Alessio Valentini",
           "voto": 7.6,
           "giudizio": "Buona presenza nel gruppo con 31 messaggi. Partecipazione attiva.",
           "messaggi": 31,
@@ -575,7 +575,7 @@
           "mediaGiornaliera": 3.4
         },
         {
-          "name": "Alessio M.",
+          "name": "Alessio Macalùso",
           "voto": 6.6,
           "giudizio": "Settimana nella media con 16 messaggi. Presente ma non protagonista.",
           "messaggi": 16,
@@ -620,7 +620,7 @@
           "mediaGiornaliera": 2.9
         },
         {
-          "name": "Alessio V.",
+          "name": "Alessio Valentini",
           "voto": 7.8,
           "giudizio": "Buona presenza nel gruppo con 20 messaggi. Partecipazione attiva.",
           "messaggi": 20,
@@ -641,7 +641,7 @@
           "mediaGiornaliera": 1.9
         },
         {
-          "name": "Alessio M.",
+          "name": "Alessio Macalùso",
           "voto": 6.8,
           "giudizio": "Settimana nella media con 11 messaggi. Presente ma non protagonista.",
           "messaggi": 11,
@@ -693,14 +693,14 @@
           "mediaGiornaliera": 1.1
         },
         {
-          "name": "Alessio V.",
+          "name": "Alessio Valentini",
           "voto": 6.6,
           "giudizio": "Settimana nella media con 6 messaggi. Presente ma non protagonista.",
           "messaggi": 6,
           "mediaGiornaliera": 0.9
         },
         {
-          "name": "Alessio M.",
+          "name": "Alessio Macalùso",
           "voto": 6.6,
           "giudizio": "Settimana nella media con 6 messaggi. Presente ma non protagonista.",
           "messaggi": 6,
@@ -752,7 +752,7 @@
           "mediaGiornaliera": 0.6
         },
         {
-          "name": "Alessio M.",
+          "name": "Alessio Macalùso",
           "voto": 6.7,
           "giudizio": "Settimana nella media con 4 messaggi. Presente ma non protagonista.",
           "messaggi": 4,
@@ -776,7 +776,7 @@
       "endDate": "2023-04-09",
       "pagelle": [
         {
-          "name": "Alessio V.",
+          "name": "Alessio Valentini",
           "voto": 8.2,
           "giudizio": "Settimana dominante con 19 messaggi. Protagonista assoluto.",
           "messaggi": 19,
@@ -797,7 +797,7 @@
           "mediaGiornaliera": 0.9
         },
         {
-          "name": "Alessio M.",
+          "name": "Alessio Macalùso",
           "voto": 5.3,
           "giudizio": "Settimana sottotono con solo 1 messaggi. Si può fare di più.",
           "messaggi": 1,
@@ -842,14 +842,14 @@
           "mediaGiornaliera": 2.7
         },
         {
-          "name": "Alessio M.",
+          "name": "Alessio Macalùso",
           "voto": 6.6,
           "giudizio": "Settimana nella media con 8 messaggi. Presente ma non protagonista.",
           "messaggi": 8,
           "mediaGiornaliera": 1.1
         },
         {
-          "name": "Alessio V.",
+          "name": "Alessio Valentini",
           "voto": 5.7,
           "giudizio": "Settimana sottotono con solo 4 messaggi. Si può fare di più.",
           "messaggi": 4,
@@ -908,14 +908,14 @@
           "mediaGiornaliera": 2.3
         },
         {
-          "name": "Alessio V.",
+          "name": "Alessio Valentini",
           "voto": 6.8,
           "giudizio": "Settimana nella media con 13 messaggi. Presente ma non protagonista.",
           "messaggi": 13,
           "mediaGiornaliera": 1.9
         },
         {
-          "name": "Alessio M.",
+          "name": "Alessio Macalùso",
           "voto": 6.7,
           "giudizio": "Settimana nella media con 12 messaggi. Presente ma non protagonista.",
           "messaggi": 12,
@@ -953,7 +953,7 @@
           "mediaGiornaliera": 1.3
         },
         {
-          "name": "Alessio V.",
+          "name": "Alessio Valentini",
           "voto": 7.7,
           "giudizio": "Buona presenza nel gruppo con 6 messaggi. Partecipazione attiva.",
           "messaggi": 6,
@@ -981,7 +981,7 @@
           "mediaGiornaliera": 0.6
         },
         {
-          "name": "Alessio M.",
+          "name": "Alessio Macalùso",
           "voto": 5.6,
           "giudizio": "Settimana sottotono con solo 1 messaggi. Si può fare di più.",
           "messaggi": 1,
@@ -1012,7 +1012,7 @@
           "mediaGiornaliera": 1.1
         },
         {
-          "name": "Alessio M.",
+          "name": "Alessio Macalùso",
           "voto": 7.9,
           "giudizio": "Buona presenza nel gruppo con 7 messaggi. Partecipazione attiva.",
           "messaggi": 7,
@@ -1033,7 +1033,7 @@
           "mediaGiornaliera": 0.9
         },
         {
-          "name": "Alessio V.",
+          "name": "Alessio Valentini",
           "voto": 6.8,
           "giudizio": "Settimana nella media con 3 messaggi. Presente ma non protagonista.",
           "messaggi": 3,
@@ -1085,7 +1085,7 @@
           "mediaGiornaliera": 1.9
         },
         {
-          "name": "Alessio M.",
+          "name": "Alessio Macalùso",
           "voto": 6.8,
           "giudizio": "Settimana nella media con 12 messaggi. Presente ma non protagonista.",
           "messaggi": 12,
@@ -1099,7 +1099,7 @@
           "mediaGiornaliera": 1.6
         },
         {
-          "name": "Alessio V.",
+          "name": "Alessio Valentini",
           "voto": 5.9,
           "giudizio": "Settimana sottotono con solo 6 messaggi. Si può fare di più.",
           "messaggi": 6,
@@ -1137,7 +1137,7 @@
           "mediaGiornaliera": 2.7
         },
         {
-          "name": "Alessio V.",
+          "name": "Alessio Valentini",
           "voto": 6.7,
           "giudizio": "Settimana nella media con 7 messaggi. Presente ma non protagonista.",
           "messaggi": 7,
@@ -1151,7 +1151,7 @@
           "mediaGiornaliera": 1.0
         },
         {
-          "name": "Alessio M.",
+          "name": "Alessio Macalùso",
           "voto": 6.7,
           "giudizio": "Settimana nella media con 7 messaggi. Presente ma non protagonista.",
           "messaggi": 7,
@@ -1196,7 +1196,7 @@
           "mediaGiornaliera": 1.3
         },
         {
-          "name": "Alessio V.",
+          "name": "Alessio Valentini",
           "voto": 6.9,
           "giudizio": "Settimana nella media con 7 messaggi. Presente ma non protagonista.",
           "messaggi": 7,
@@ -1217,7 +1217,7 @@
           "mediaGiornaliera": 0.3
         },
         {
-          "name": "Alessio M.",
+          "name": "Alessio Macalùso",
           "voto": 5.3,
           "giudizio": "Settimana sottotono con solo 1 messaggi. Si può fare di più.",
           "messaggi": 1,
@@ -1241,7 +1241,7 @@
       "endDate": "2023-06-04",
       "pagelle": [
         {
-          "name": "Alessio V.",
+          "name": "Alessio Valentini",
           "voto": 8.1,
           "giudizio": "Settimana dominante con 13 messaggi. Protagonista assoluto.",
           "messaggi": 13,
@@ -1255,7 +1255,7 @@
           "mediaGiornaliera": 1.3
         },
         {
-          "name": "Alessio M.",
+          "name": "Alessio Macalùso",
           "voto": 7.7,
           "giudizio": "Buona presenza nel gruppo con 9 messaggi. Partecipazione attiva.",
           "messaggi": 9,
@@ -1307,7 +1307,7 @@
           "mediaGiornaliera": 4.0
         },
         {
-          "name": "Alessio V.",
+          "name": "Alessio Valentini",
           "voto": 8.3,
           "giudizio": "Settimana dominante con 28 messaggi. Protagonista assoluto.",
           "messaggi": 28,
@@ -1328,7 +1328,7 @@
           "mediaGiornaliera": 1.0
         },
         {
-          "name": "Alessio M.",
+          "name": "Alessio Macalùso",
           "voto": 6.4,
           "giudizio": "Settimana nella media con 6 messaggi. Presente ma non protagonista.",
           "messaggi": 6,
@@ -1359,14 +1359,14 @@
       "endDate": "2023-06-18",
       "pagelle": [
         {
-          "name": "Alessio V.",
+          "name": "Alessio Valentini",
           "voto": 8.4,
           "giudizio": "Settimana dominante con 45 messaggi. Protagonista assoluto.",
           "messaggi": 45,
           "mediaGiornaliera": 6.4
         },
         {
-          "name": "Alessio M.",
+          "name": "Alessio Macalùso",
           "voto": 7.7,
           "giudizio": "Buona presenza nel gruppo con 32 messaggi. Partecipazione attiva.",
           "messaggi": 32,
@@ -1446,14 +1446,14 @@
           "mediaGiornaliera": 0.3
         },
         {
-          "name": "Alessio V.",
+          "name": "Alessio Valentini",
           "voto": 5.8,
           "giudizio": "Settimana sottotono con solo 2 messaggi. Si può fare di più.",
           "messaggi": 2,
           "mediaGiornaliera": 0.3
         },
         {
-          "name": "Alessio M.",
+          "name": "Alessio Macalùso",
           "voto": 5.4,
           "giudizio": "Settimana sottotono con solo 1 messaggi. Si può fare di più.",
           "messaggi": 1,
@@ -1477,7 +1477,7 @@
       "endDate": "2023-07-02",
       "pagelle": [
         {
-          "name": "Alessio V.",
+          "name": "Alessio Valentini",
           "voto": 8.2,
           "giudizio": "Settimana dominante con 17 messaggi. Protagonista assoluto.",
           "messaggi": 17,
@@ -1498,7 +1498,7 @@
           "mediaGiornaliera": 1.6
         },
         {
-          "name": "Alessio M.",
+          "name": "Alessio Macalùso",
           "voto": 7.6,
           "giudizio": "Buona presenza nel gruppo con 10 messaggi. Partecipazione attiva.",
           "messaggi": 10,
@@ -1529,7 +1529,7 @@
       "endDate": "2023-07-09",
       "pagelle": [
         {
-          "name": "Alessio V.",
+          "name": "Alessio Valentini",
           "voto": 8.3,
           "giudizio": "Settimana dominante con 33 messaggi. Protagonista assoluto.",
           "messaggi": 33,
@@ -1557,7 +1557,7 @@
           "mediaGiornaliera": 1.7
         },
         {
-          "name": "Alessio M.",
+          "name": "Alessio Macalùso",
           "voto": 6.5,
           "giudizio": "Settimana nella media con 9 messaggi. Presente ma non protagonista.",
           "messaggi": 9,
@@ -1588,7 +1588,7 @@
       "endDate": "2023-07-16",
       "pagelle": [
         {
-          "name": "Alessio M.",
+          "name": "Alessio Macalùso",
           "voto": 8.3,
           "giudizio": "Settimana dominante con 29 messaggi. Protagonista assoluto.",
           "messaggi": 29,
@@ -1609,7 +1609,7 @@
           "mediaGiornaliera": 2.9
         },
         {
-          "name": "Alessio V.",
+          "name": "Alessio Valentini",
           "voto": 7.7,
           "giudizio": "Buona presenza nel gruppo con 19 messaggi. Partecipazione attiva.",
           "messaggi": 19,
@@ -1654,7 +1654,7 @@
           "mediaGiornaliera": 4.4
         },
         {
-          "name": "Alessio V.",
+          "name": "Alessio Valentini",
           "voto": 7.7,
           "giudizio": "Buona presenza nel gruppo con 23 messaggi. Partecipazione attiva.",
           "messaggi": 23,
@@ -1668,7 +1668,7 @@
           "mediaGiornaliera": 2.7
         },
         {
-          "name": "Alessio M.",
+          "name": "Alessio Macalùso",
           "voto": 6.7,
           "giudizio": "Settimana nella media con 11 messaggi. Presente ma non protagonista.",
           "messaggi": 11,
@@ -1720,7 +1720,7 @@
           "mediaGiornaliera": 1.9
         },
         {
-          "name": "Alessio V.",
+          "name": "Alessio Valentini",
           "voto": 7.8,
           "giudizio": "Buona presenza nel gruppo con 12 messaggi. Partecipazione attiva.",
           "messaggi": 12,
@@ -1734,7 +1734,7 @@
           "mediaGiornaliera": 1.1
         },
         {
-          "name": "Alessio M.",
+          "name": "Alessio Macalùso",
           "voto": 6.8,
           "giudizio": "Settimana nella media con 6 messaggi. Presente ma non protagonista.",
           "messaggi": 6,
@@ -1765,7 +1765,7 @@
       "endDate": "2023-08-06",
       "pagelle": [
         {
-          "name": "Alessio V.",
+          "name": "Alessio Valentini",
           "voto": 8.2,
           "giudizio": "Settimana dominante con 17 messaggi. Protagonista assoluto.",
           "messaggi": 17,
@@ -1786,7 +1786,7 @@
           "mediaGiornaliera": 2.0
         },
         {
-          "name": "Alessio M.",
+          "name": "Alessio Macalùso",
           "voto": 7.6,
           "giudizio": "Buona presenza nel gruppo con 11 messaggi. Partecipazione attiva.",
           "messaggi": 11,
@@ -1824,14 +1824,14 @@
       "endDate": "2023-08-13",
       "pagelle": [
         {
-          "name": "Alessio M.",
+          "name": "Alessio Macalùso",
           "voto": 8.2,
           "giudizio": "Settimana dominante con 17 messaggi. Protagonista assoluto.",
           "messaggi": 17,
           "mediaGiornaliera": 2.4
         },
         {
-          "name": "Alessio V.",
+          "name": "Alessio Valentini",
           "voto": 7.8,
           "giudizio": "Buona presenza nel gruppo con 13 messaggi. Partecipazione attiva.",
           "messaggi": 13,
@@ -1904,14 +1904,14 @@
           "mediaGiornaliera": 1.9
         },
         {
-          "name": "Alessio V.",
+          "name": "Alessio Valentini",
           "voto": 6.8,
           "giudizio": "Settimana nella media con 10 messaggi. Presente ma non protagonista.",
           "messaggi": 10,
           "mediaGiornaliera": 1.4
         },
         {
-          "name": "Alessio M.",
+          "name": "Alessio Macalùso",
           "voto": 6.8,
           "giudizio": "Settimana nella media con 9 messaggi. Presente ma non protagonista.",
           "messaggi": 9,
@@ -1949,7 +1949,7 @@
           "mediaGiornaliera": 5.3
         },
         {
-          "name": "Alessio M.",
+          "name": "Alessio Macalùso",
           "voto": 7.9,
           "giudizio": "Buona presenza nel gruppo con 34 messaggi. Partecipazione attiva.",
           "messaggi": 34,
@@ -1963,7 +1963,7 @@
           "mediaGiornaliera": 3.7
         },
         {
-          "name": "Alessio V.",
+          "name": "Alessio Valentini",
           "voto": 6.7,
           "giudizio": "Settimana nella media con 13 messaggi. Presente ma non protagonista.",
           "messaggi": 13,
@@ -2001,7 +2001,7 @@
       "endDate": "2023-09-03",
       "pagelle": [
         {
-          "name": "Alessio V.",
+          "name": "Alessio Valentini",
           "voto": 8.8,
           "giudizio": "Settimana dominante con 84 messaggi. Protagonista assoluto.",
           "messaggi": 84,
@@ -2029,7 +2029,7 @@
           "mediaGiornaliera": 1.7
         },
         {
-          "name": "Alessio M.",
+          "name": "Alessio Macalùso",
           "voto": 5.7,
           "giudizio": "Settimana sottotono con solo 11 messaggi. Si può fare di più.",
           "messaggi": 11,
@@ -2060,7 +2060,7 @@
       "endDate": "2023-09-10",
       "pagelle": [
         {
-          "name": "Alessio V.",
+          "name": "Alessio Valentini",
           "voto": 8.0,
           "giudizio": "Settimana dominante con 3 messaggi. Protagonista assoluto.",
           "messaggi": 3,
@@ -2105,7 +2105,7 @@
       "endDate": "2023-09-17",
       "pagelle": [
         {
-          "name": "Alessio V.",
+          "name": "Alessio Valentini",
           "voto": 8.0,
           "giudizio": "Settimana dominante con 2 messaggi. Protagonista assoluto.",
           "messaggi": 2,
@@ -2143,14 +2143,14 @@
           "mediaGiornaliera": 0.7
         },
         {
-          "name": "Alessio V.",
+          "name": "Alessio Valentini",
           "voto": 6.5,
           "giudizio": "Settimana nella media con 3 messaggi. Presente ma non protagonista.",
           "messaggi": 3,
           "mediaGiornaliera": 0.4
         },
         {
-          "name": "Alessio M.",
+          "name": "Alessio Macalùso",
           "voto": 5.9,
           "giudizio": "Settimana sottotono con solo 2 messaggi. Si può fare di più.",
           "messaggi": 2,
@@ -2202,7 +2202,7 @@
           "mediaGiornaliera": 1.0
         },
         {
-          "name": "Alessio M.",
+          "name": "Alessio Macalùso",
           "voto": 7.0,
           "giudizio": "Buona presenza nel gruppo con 5 messaggi. Partecipazione attiva.",
           "messaggi": 5,
@@ -2216,7 +2216,7 @@
           "mediaGiornaliera": 0.7
         },
         {
-          "name": "Alessio V.",
+          "name": "Alessio Valentini",
           "voto": 6.8,
           "giudizio": "Settimana nella media con 4 messaggi. Presente ma non protagonista.",
           "messaggi": 4,
@@ -2261,7 +2261,7 @@
           "mediaGiornaliera": 0.6
         },
         {
-          "name": "Alessio V.",
+          "name": "Alessio Valentini",
           "voto": 6.9,
           "giudizio": "Settimana nella media con 3 messaggi. Presente ma non protagonista.",
           "messaggi": 3,
@@ -2275,7 +2275,7 @@
           "mediaGiornaliera": 0.3
         },
         {
-          "name": "Alessio M.",
+          "name": "Alessio Macalùso",
           "voto": 5.7,
           "giudizio": "Settimana sottotono con solo 1 messaggi. Si può fare di più.",
           "messaggi": 1,
@@ -2299,7 +2299,7 @@
       "endDate": "2023-10-15",
       "pagelle": [
         {
-          "name": "Alessio M.",
+          "name": "Alessio Macalùso",
           "voto": 8.1,
           "giudizio": "Settimana dominante con 12 messaggi. Protagonista assoluto.",
           "messaggi": 12,
@@ -2313,7 +2313,7 @@
           "mediaGiornaliera": 1.4
         },
         {
-          "name": "Alessio V.",
+          "name": "Alessio Valentini",
           "voto": 7.7,
           "giudizio": "Buona presenza nel gruppo con 8 messaggi. Partecipazione attiva.",
           "messaggi": 8,
@@ -2358,7 +2358,7 @@
       "endDate": "2023-10-22",
       "pagelle": [
         {
-          "name": "Alessio V.",
+          "name": "Alessio Valentini",
           "voto": 8.1,
           "giudizio": "Settimana dominante con 11 messaggi. Protagonista assoluto.",
           "messaggi": 11,
@@ -2386,7 +2386,7 @@
           "mediaGiornaliera": 0.9
         },
         {
-          "name": "Alessio M.",
+          "name": "Alessio Macalùso",
           "voto": 6.9,
           "giudizio": "Settimana nella media con 5 messaggi. Presente ma non protagonista.",
           "messaggi": 5,
@@ -2445,7 +2445,7 @@
           "mediaGiornaliera": 0.7
         },
         {
-          "name": "Alessio V.",
+          "name": "Alessio Valentini",
           "voto": 6.9,
           "giudizio": "Settimana nella media con 3 messaggi. Presente ma non protagonista.",
           "messaggi": 3,
@@ -2469,7 +2469,7 @@
       "endDate": "2023-11-05",
       "pagelle": [
         {
-          "name": "Alessio V.",
+          "name": "Alessio Valentini",
           "voto": 8.2,
           "giudizio": "Settimana dominante con 16 messaggi. Protagonista assoluto.",
           "messaggi": 16,
@@ -2497,7 +2497,7 @@
           "mediaGiornaliera": 1.3
         },
         {
-          "name": "Alessio M.",
+          "name": "Alessio Macalùso",
           "voto": 7.6,
           "giudizio": "Buona presenza nel gruppo con 9 messaggi. Partecipazione attiva.",
           "messaggi": 9,
@@ -2528,7 +2528,7 @@
       "endDate": "2023-11-12",
       "pagelle": [
         {
-          "name": "Alessio V.",
+          "name": "Alessio Valentini",
           "voto": 8.3,
           "giudizio": "Settimana dominante con 30 messaggi. Protagonista assoluto.",
           "messaggi": 30,
@@ -2542,7 +2542,7 @@
           "mediaGiornaliera": 3.0
         },
         {
-          "name": "Alessio M.",
+          "name": "Alessio Macalùso",
           "voto": 7.7,
           "giudizio": "Buona presenza nel gruppo con 20 messaggi. Partecipazione attiva.",
           "messaggi": 20,
@@ -2587,7 +2587,7 @@
       "endDate": "2023-11-19",
       "pagelle": [
         {
-          "name": "Alessio V.",
+          "name": "Alessio Valentini",
           "voto": 8.1,
           "giudizio": "Settimana dominante con 8 messaggi. Protagonista assoluto.",
           "messaggi": 8,
@@ -2622,7 +2622,7 @@
           "mediaGiornaliera": 0.3
         },
         {
-          "name": "Alessio M.",
+          "name": "Alessio Macalùso",
           "voto": 6.5,
           "giudizio": "Settimana nella media con 2 messaggi. Presente ma non protagonista.",
           "messaggi": 2,
@@ -2667,7 +2667,7 @@
           "mediaGiornaliera": 3.3
         },
         {
-          "name": "Alessio V.",
+          "name": "Alessio Valentini",
           "voto": 6.9,
           "giudizio": "Settimana nella media con 19 messaggi. Presente ma non protagonista.",
           "messaggi": 19,
@@ -2681,7 +2681,7 @@
           "mediaGiornaliera": 2.3
         },
         {
-          "name": "Alessio M.",
+          "name": "Alessio Macalùso",
           "voto": 6.7,
           "giudizio": "Settimana nella media con 14 messaggi. Presente ma non protagonista.",
           "messaggi": 14,
@@ -2712,7 +2712,7 @@
           "mediaGiornaliera": 0.6
         },
         {
-          "name": "Alessio V.",
+          "name": "Alessio Valentini",
           "voto": 7.0,
           "giudizio": "Buona presenza nel gruppo con 2 messaggi. Partecipazione attiva.",
           "messaggi": 2,
@@ -2771,14 +2771,14 @@
           "mediaGiornaliera": 2.4
         },
         {
-          "name": "Alessio V.",
+          "name": "Alessio Valentini",
           "voto": 6.4,
           "giudizio": "Settimana nella media con 11 messaggi. Presente ma non protagonista.",
           "messaggi": 11,
           "mediaGiornaliera": 1.6
         },
         {
-          "name": "Alessio M.",
+          "name": "Alessio Macalùso",
           "voto": 5.8,
           "giudizio": "Settimana sottotono con solo 8 messaggi. Si può fare di più.",
           "messaggi": 8,
@@ -2809,7 +2809,7 @@
           "mediaGiornaliera": 8.9
         },
         {
-          "name": "Alessio M.",
+          "name": "Alessio Macalùso",
           "voto": 7.9,
           "giudizio": "Buona presenza nel gruppo con 56 messaggi. Partecipazione attiva.",
           "messaggi": 56,
@@ -2837,7 +2837,7 @@
           "mediaGiornaliera": 5.4
         },
         {
-          "name": "Alessio V.",
+          "name": "Alessio Valentini",
           "voto": 7.5,
           "giudizio": "Buona presenza nel gruppo con 33 messaggi. Partecipazione attiva.",
           "messaggi": 33,
@@ -2882,14 +2882,14 @@
           "mediaGiornaliera": 1.1
         },
         {
-          "name": "Alessio V.",
+          "name": "Alessio Valentini",
           "voto": 6.9,
           "giudizio": "Settimana nella media con 6 messaggi. Presente ma non protagonista.",
           "messaggi": 6,
           "mediaGiornaliera": 0.9
         },
         {
-          "name": "Alessio M.",
+          "name": "Alessio Macalùso",
           "voto": 5.7,
           "giudizio": "Settimana sottotono con solo 2 messaggi. Si può fare di più.",
           "messaggi": 2,
@@ -2927,7 +2927,7 @@
           "mediaGiornaliera": 3.1
         },
         {
-          "name": "Alessio M.",
+          "name": "Alessio Macalùso",
           "voto": 7.9,
           "giudizio": "Buona presenza nel gruppo con 20 messaggi. Partecipazione attiva.",
           "messaggi": 20,
@@ -2955,7 +2955,7 @@
           "mediaGiornaliera": 2.0
         },
         {
-          "name": "Alessio V.",
+          "name": "Alessio Valentini",
           "voto": 6.5,
           "giudizio": "Settimana nella media con 6 messaggi. Presente ma non protagonista.",
           "messaggi": 6,
@@ -2987,7 +2987,7 @@
       "worstWeek": "2023-08-21"
     },
     {
-      "name": "Alessio V.",
+      "name": "Alessio Valentini",
       "mediaVoto": 7.35,
       "totalMessaggi": 737,
       "settimaneAttive": 51,
@@ -3017,7 +3017,7 @@
       "worstWeek": "2023-09-18"
     },
     {
-      "name": "Alessio M.",
+      "name": "Alessio Macalùso",
       "mediaVoto": 6.83,
       "totalMessaggi": 527,
       "settimaneAttive": 48,
