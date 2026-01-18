@@ -6,60 +6,78 @@
       "endDate": "2026-01-04",
       "pagelle": [
         {
-          "name": "Alessio Valentini",
+          "name": "Alessio V.",
           "voto": 8,
           "giudizio": "Capodanno a Bacalar a spiegare lagune, sali minerali e filtrazione batterica. Poi torna in Carolina. La vita del nomade digitale che ti spiega la scienza mentre tu sei nel letto.",
           "messaggi": 8,
           "mediaGiornaliera": 1.1,
-          "highlights": ["Lezione di geologia acquatica", "Ritorno in Carolina"]
+          "highlights": [
+            "Lezione di geologia acquatica",
+            "Ritorno in Carolina"
+          ]
         },
         {
-          "name": "Adriano Sergio Lorenzo Facchini",
+          "name": "Adriano",
           "voto": 7.5,
           "giudizio": "Auguri dalle foreste casentinesi e subito cattiveria: 'Io farei un test di paternità' in risposta al figlio di Fausto. Il solito Adriano che non perdona.",
           "messaggi": 5,
           "mediaGiornaliera": 0.7,
-          "highlights": ["Auguri dal bosco", "Test di paternità consigliato"]
+          "highlights": [
+            "Auguri dal bosco",
+            "Test di paternità consigliato"
+          ]
         },
         {
-          "name": "Cosimo Nenciòni",
+          "name": "Cosimo",
           "voto": 7,
           "giudizio": "Con un laconico 'Tombino' in risposta a 'Prodigio', Cosimo conferma il suo stile secco e letale. Si preoccupa per il ritorno di Alessio. Affettuoso a modo suo.",
           "messaggi": 4,
           "mediaGiornaliera": 0.6,
-          "highlights": ["Tombino", "Preoccupazione per Alessio"]
+          "highlights": [
+            "Tombino",
+            "Preoccupazione per Alessio"
+          ]
         },
         {
-          "name": "Alessio Macalùso",
+          "name": "Alessio M.",
           "voto": 6.5,
           "giudizio": "Auguri alle 4:20 del mattino (coincidenza?). Confuso tra isole e terraferma ma lancia il 'Prodigio' che scatena la catena di commenti.",
           "messaggi": 5,
           "mediaGiornaliera": 0.7,
-          "highlights": ["Auguri alle 4:20", "Confusione geografica"]
+          "highlights": [
+            "Auguri alle 4:20",
+            "Confusione geografica"
+          ]
         },
         {
-          "name": "Fausto Petrini",
+          "name": "Fausto",
           "voto": 6,
           "giudizio": "Deve chiarire che il figlio non è un prodigio, sono solo i bimbi che crescono. Pedanteria necessaria che viene comunque punita dal gruppo.",
           "messaggi": 2,
           "mediaGiornaliera": 0.3,
-          "highlights": ["Chiarimento su prodigio vs crescita"]
+          "highlights": [
+            "Chiarimento su prodigio vs crescita"
+          ]
         },
         {
-          "name": "Giacomo Dolfi",
+          "name": "Giacomo",
           "voto": 5,
           "giudizio": "Il fondatore sonnecchia a inizio anno. In letargo post-festivo?",
           "messaggi": 0,
           "mediaGiornaliera": 0,
-          "highlights": ["Assente"]
+          "highlights": [
+            "Assente"
+          ]
         },
         {
-          "name": "Federico Ceccuzzi",
+          "name": "Federico",
           "voto": 5,
           "giudizio": "Ancora in fase di recupero post-feste. La new entry si risparmia.",
           "messaggi": 0,
           "mediaGiornaliera": 0,
-          "highlights": ["Assente"]
+          "highlights": [
+            "Assente"
+          ]
         }
       ],
       "riassunto": "L'anno inizia con gli auguri dalle location più disparate: Adriano nelle foreste casentinesi, Alessio a Bacalar. Discussione scientifica sulla laguna messicana che si trasforma in catena di insulti affettuosi: Prodigio → Tombino → Portento. Adriano chiude col test di paternità.",
@@ -75,8 +93,14 @@
         "avgPerMember": 3.4
       },
       "bestQuotes": [
-        {"quote": "Tombino", "author": "Cosimo Nenciòni"},
-        {"quote": "Io farei un test di paternità.", "author": "Adriano Sergio Lorenzo Facchini"}
+        {
+          "quote": "Tombino",
+          "author": "Cosimo"
+        },
+        {
+          "quote": "Io farei un test di paternità.",
+          "author": "Adriano"
+        }
       ]
     },
     {
@@ -84,60 +108,84 @@
       "endDate": "2026-01-11",
       "pagelle": [
         {
-          "name": "Adriano Sergio Lorenzo Facchini",
+          "name": "Adriano",
           "voto": 8.5,
           "giudizio": "Aggiusta l'autoclave con ChatGPT spendendo 10 euro. Poi si lamenta del freddo senza giacchetto, va al concerto PFM parcheggiando da Peregrini (una certezza), e propone la Tea Room 'come i vecchi quali siamo'. Multitasking esistenziale.",
           "messaggi": 32,
           "mediaGiornaliera": 4.6,
-          "highlights": ["Autoclave + ChatGPT = 10€", "Concerto PFM", "Parcheggio Peregrini"]
+          "highlights": [
+            "Autoclave + ChatGPT = 10€",
+            "Concerto PFM",
+            "Parcheggio Peregrini"
+          ]
         },
         {
-          "name": "Federico Ceccuzzi",
+          "name": "Federico",
           "voto": 8,
           "giudizio": "Dentro le piramidi a 40 gradi dopo 20 metri di cunicolo piegato. 'Non entrate mai dentro' - consiglio di vita. Truppe cammellate e sofferenza da boomer. Testimonianza epica.",
           "messaggi": 22,
           "mediaGiornaliera": 3.1,
-          "highlights": ["Piramidi infernali", "Conquista cammellata", "Scettico sull'autoclave"]
+          "highlights": [
+            "Piramidi infernali",
+            "Conquista cammellata",
+            "Scettico sull'autoclave"
+          ]
         },
         {
-          "name": "Fausto Petrini",
+          "name": "Fausto",
           "voto": 7.5,
           "giudizio": "Propone uscita lunedì (respinta), si compra giacchetto Decathlon 'brutto ma comodo', condivide video su Mosè ricostruito e si interessa alla neve. Fase propositiva.",
           "messaggi": 20,
           "mediaGiornaliera": 2.9,
-          "highlights": ["Giacchetto Decathlon", "Proposta lunedì", "Dan Peterson tribute"]
+          "highlights": [
+            "Giacchetto Decathlon",
+            "Proposta lunedì",
+            "Dan Peterson tribute"
+          ]
         },
         {
-          "name": "Alessio Valentini",
+          "name": "Alessio V.",
           "voto": 7,
           "giudizio": "Torna in Carolina, osserva la neve da lontano, ricorda che Essai era forte 'a suo modo un atleta'. Commenti puntuali ma distaccati dal jet lag.",
           "messaggi": 18,
           "mediaGiornaliera": 2.6,
-          "highlights": ["Neve da remoto", "Ricordo di Essai"]
+          "highlights": [
+            "Neve da remoto",
+            "Ricordo di Essai"
+          ]
         },
         {
-          "name": "Cosimo Nenciòni",
+          "name": "Cosimo",
           "voto": 7,
           "giudizio": "'Penniente' sulla neve, 'Ti casca l'uccello' sulle piramidi, 'C'è del trash' come sempre. Commenti minimal ma efficaci. Letture rilassanti post-mattone.",
           "messaggi": 14,
           "mediaGiornaliera": 2,
-          "highlights": ["Penniente", "Trash detector", "Letture rilassanti"]
+          "highlights": [
+            "Penniente",
+            "Trash detector",
+            "Letture rilassanti"
+          ]
         },
         {
-          "name": "Giacomo Dolfi",
+          "name": "Giacomo",
           "voto": 7,
           "giudizio": "FINALMENTE nella casa sistemata! 'Siamo un po' accampati ma ci si può fare'. Il fondatore risorge con la sua casa nuova. Evento storico.",
           "messaggi": 8,
           "mediaGiornaliera": 1.1,
-          "highlights": ["Casa nuova!", "Prima notte"]
+          "highlights": [
+            "Casa nuova!",
+            "Prima notte"
+          ]
         },
         {
-          "name": "Alessio Macalùso",
+          "name": "Alessio M.",
           "voto": 6,
           "giudizio": "Propone gin tonic, osserva la neve mattutina, poi sparisce. Presenza discreta.",
           "messaggi": 6,
           "mediaGiornaliera": 0.9,
-          "highlights": ["Proposta gin tonic"]
+          "highlights": [
+            "Proposta gin tonic"
+          ]
         }
       ],
       "riassunto": "Settimana dominata dalla tecnologia e dal meteo: Adriano ripara l'autoclave con l'AI, Federico soffre dentro le piramidi, Giacomo inaugura la casa nuova. Neve a Siena, scuole chiuse, Fausto bloccato sulla FI-SI. Il gruppo si divide tra chi ha il giacchetto e chi no.",
@@ -153,9 +201,18 @@
         "avgPerMember": 20.4
       },
       "bestQuotes": [
-        {"quote": "Soddisfazione massima per aver aggiustato l'autoclave con chat gpt. Totale spesa 10 euro.", "author": "Adriano Sergio Lorenzo Facchini"},
-        {"quote": "Dono di conoscenza che trasmetto è: non entrate mai dentro.", "author": "Federico Ceccuzzi"},
-        {"quote": "Siamo un po' accampati ma ci si può fare", "author": "Giacomo Dolfi"}
+        {
+          "quote": "Soddisfazione massima per aver aggiustato l'autoclave con chat gpt. Totale spesa 10 euro.",
+          "author": "Adriano"
+        },
+        {
+          "quote": "Dono di conoscenza che trasmetto è: non entrate mai dentro.",
+          "author": "Federico"
+        },
+        {
+          "quote": "Siamo un po' accampati ma ci si può fare",
+          "author": "Giacomo"
+        }
       ]
     },
     {
@@ -163,60 +220,88 @@
       "endDate": "2026-01-18",
       "pagelle": [
         {
-          "name": "Fausto Petrini",
+          "name": "Fausto",
           "voto": 9,
           "giudizio": "FAUSTO ON FIRE! Serata a San Frediano tra cocktail, musica live e 'vera fica'. Ordina il Cencios (vodka sambuco lime pompelmo), fotografa bariste fiche, proclama 'W il bollore'. Vuole seratona a Firenze con struscio. Il Fausto che volevamo.",
           "messaggi": 38,
           "mediaGiornaliera": 5.4,
-          "highlights": ["San Frediano expedition", "W il bollore", "Vera fica certificata", "Cocktail Cencios"]
+          "highlights": [
+            "San Frediano expedition",
+            "W il bollore",
+            "Vera fica certificata",
+            "Cocktail Cencios"
+          ]
         },
         {
-          "name": "Adriano Sergio Lorenzo Facchini",
+          "name": "Adriano",
           "voto": 8,
           "giudizio": "Scopre il paninaro del Meyer 'L'altro panino' - un samurai con fascia in testa che fa cose da stellato. Paccheri carciofi e bottarga nel parcheggio. Poi dichiara che l'accento fiorentino è diventato 'ostico, ridondante e autocelebrativo'. Filosofia culinaria e linguistica.",
           "messaggi": 42,
           "mediaGiornaliera": 6,
-          "highlights": ["Samurai del panino", "Paccheri bottarga", "Accento fiorentino bocciato"]
+          "highlights": [
+            "Samurai del panino",
+            "Paccheri bottarga",
+            "Accento fiorentino bocciato"
+          ]
         },
         {
-          "name": "Cosimo Nenciòni",
+          "name": "Cosimo",
           "voto": 7.5,
           "giudizio": "RICOVERATO per colica renale! Stava per prendere il treno per Roma. Due giorni a Santa Maria Nuova a digiuno ('Ho tanta fame. Non è giusto'). Dimesso con referto 'Ficoso'. Filosofeggia: 'vorrei rinchiudermi in casa a farmi le canne, non fingere di socializzare'.",
           "messaggi": 28,
           "mediaGiornaliera": 4,
-          "highlights": ["Calcolo renale n.2", "Filosofia anti-socializzazione", "Referto: Ficoso"]
+          "highlights": [
+            "Calcolo renale n.2",
+            "Filosofia anti-socializzazione",
+            "Referto: Ficoso"
+          ]
         },
         {
-          "name": "Alessio Macalùso",
+          "name": "Alessio M.",
           "voto": 7.5,
           "giudizio": "Prende un branco di cinghiali col paraurti. 'Doveva capitare prima o poi'. Propone di prendere i soldi dalla cassa aperipoker (scherza). Poi racconta del Bristol 6 notturno e del 'cagare insieme' con Cosimo. Host designato per il 25.",
           "messaggi": 35,
           "mediaGiornaliera": 5,
-          "highlights": ["Cinghiali vs paraurti", "Bristol 6", "Host 25 gennaio"]
+          "highlights": [
+            "Cinghiali vs paraurti",
+            "Bristol 6",
+            "Host 25 gennaio"
+          ]
         },
         {
-          "name": "Alessio Valentini",
+          "name": "Alessio V.",
           "voto": 7,
           "giudizio": "Al concertino punk col volume allucinante. 'Mi sono sentito Fausto, ma la fica di San Frediano credo fosse PARECCHIO meglio'. Difende la Fallaci contro l'imam. Commenta i tedofori senza criterio.",
           "messaggi": 32,
           "mediaGiornaliera": 4.6,
-          "highlights": ["Concerto punk", "Fallaci fan", "Tedofori scandal"]
+          "highlights": [
+            "Concerto punk",
+            "Fallaci fan",
+            "Tedofori scandal"
+          ]
         },
         {
-          "name": "Federico Ceccuzzi",
+          "name": "Federico",
           "voto": 7,
           "giudizio": "Propone pedinamento per fregare il collega che usa le 104 come ferie. 'Referto: Ficoso' per Cosimo. Organizza pranzo con Fiorini post-gara podistica. Vuole periodo 'dirigista' da Lider.",
           "messaggi": 25,
           "mediaGiornaliera": 3.6,
-          "highlights": ["Pedinamento proposto", "Gara con Fiorini", "Aspirante Lider dirigista"]
+          "highlights": [
+            "Pedinamento proposto",
+            "Gara con Fiorini",
+            "Aspirante Lider dirigista"
+          ]
         },
         {
-          "name": "Giacomo Dolfi",
+          "name": "Giacomo",
           "voto": 6.5,
           "giudizio": "Insalata ghiaccia senza amore. Spiega lo scandalo tedofori: 'la sorella del mio parrucchiere l'ha portata candidandosi a caso'. Il fondatore osserva e commenta.",
           "messaggi": 15,
           "mediaGiornaliera": 2.1,
-          "highlights": ["Insalata triste", "Scandalo tedofori"]
+          "highlights": [
+            "Insalata triste",
+            "Scandalo tedofori"
+          ]
         }
       ],
       "riassunto": "La settimana più intensa: Cosimo ricoverato per calcolo renale (secondo round), Alessio M investe un branco di cinghiali, Fausto esplode in modalità ON FIRE a San Frediano proclamando 'W il bollore'. Adriano scopre il samurai del panino al Meyer, dichiara l'accento fiorentino insopportabile. Si pianifica aperipoker il 25 con dibattito esistenziale: uscire a socializzare vs. restare a farsi le canne a casa.",
@@ -233,16 +318,28 @@
         "avgPerMember": 37.3
       },
       "bestQuotes": [
-        {"quote": "W il bollore", "author": "Fausto Petrini"},
-        {"quote": "L'accento fiorentino è diventato per me insopportabile. Un tempo mi piaceva. Ora mi risulta ostico, ridondante e autocelebrativo.", "author": "Adriano Sergio Lorenzo Facchini"},
-        {"quote": "vorrei rinchiudermi in casa a farmi le canne con voialtri... se si tratta di uscire a cena fingendo di socializzare allora mi sa che non vengo", "author": "Cosimo Nenciòni"},
-        {"quote": "Referto di dimissione: Ficoso", "author": "Federico Ceccuzzi"}
+        {
+          "quote": "W il bollore",
+          "author": "Fausto"
+        },
+        {
+          "quote": "L'accento fiorentino è diventato per me insopportabile. Un tempo mi piaceva. Ora mi risulta ostico, ridondante e autocelebrativo.",
+          "author": "Adriano"
+        },
+        {
+          "quote": "vorrei rinchiudermi in casa a farmi le canne con voialtri... se si tratta di uscire a cena fingendo di socializzare allora mi sa che non vengo",
+          "author": "Cosimo"
+        },
+        {
+          "quote": "Referto di dimissione: Ficoso",
+          "author": "Federico"
+        }
       ]
     }
   ],
   "cumulative": [
     {
-      "name": "Adriano Sergio Lorenzo Facchini",
+      "name": "Adriano",
       "mediaVoto": 8.0,
       "totalMessaggi": 79,
       "settimaneAttive": 3,
@@ -253,7 +350,7 @@
       "signature": "Autoclave + ChatGPT, accento fiorentino bocciato, samurai del panino"
     },
     {
-      "name": "Fausto Petrini",
+      "name": "Fausto",
       "mediaVoto": 7.5,
       "totalMessaggi": 60,
       "settimaneAttive": 3,
@@ -264,7 +361,7 @@
       "signature": "W il bollore, San Frediano, vera fica"
     },
     {
-      "name": "Federico Ceccuzzi",
+      "name": "Federico",
       "mediaVoto": 7.5,
       "totalMessaggi": 47,
       "settimaneAttive": 2,
@@ -275,7 +372,7 @@
       "signature": "Piramidi infernali, aspirante Lider dirigista"
     },
     {
-      "name": "Alessio Valentini",
+      "name": "Alessio V.",
       "mediaVoto": 7.3,
       "totalMessaggi": 58,
       "settimaneAttive": 3,
@@ -286,7 +383,7 @@
       "signature": "Laguna di Bacalar, concerto punk, jet lag perpetuo"
     },
     {
-      "name": "Cosimo Nenciòni",
+      "name": "Cosimo",
       "mediaVoto": 7.2,
       "totalMessaggi": 46,
       "settimaneAttive": 3,
@@ -297,7 +394,7 @@
       "signature": "Tombino, calcolo renale, filosofia anti-socializzazione"
     },
     {
-      "name": "Alessio Macalùso",
+      "name": "Alessio M.",
       "mediaVoto": 6.7,
       "totalMessaggi": 46,
       "settimaneAttive": 3,
@@ -308,7 +405,7 @@
       "signature": "Cinghiali investiti, Bristol 6, host del 25"
     },
     {
-      "name": "Giacomo Dolfi",
+      "name": "Giacomo",
       "mediaVoto": 6.2,
       "totalMessaggi": 23,
       "settimaneAttive": 3,
