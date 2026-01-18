@@ -4070,7 +4070,7 @@
       "pagelle": [
         {
           "name": "Adriano",
-          "voto": 7,
+          "voto": 8.5,
           "giudizio": "Il re delle proposte impossibili: prima offre casa sua per la cena, poi ci ripensa perche' 'pessima idea'. Consulente gastronomico per pranzi aziendali a 29 euro - praticamente cerca il miracolo della moltiplicazione dei pani.",
           "highlights": [
             "Propone cena a casa sua, poi si ritira",
@@ -4082,7 +4082,7 @@
         },
         {
           "name": "Cosimo",
-          "voto": 7,
+          "voto": 8,
           "giudizio": "Il logistico del gruppo: prenota, organizza, suggerisce ristoranti ai genitori. Pero' avverte che uccide cinghiali sia all'andata che al ritorno verso Castellina.",
           "highlights": [
             "Prenota il ristorante a Castellina",
@@ -4106,7 +4106,7 @@
         },
         {
           "name": "Fausto",
-          "voto": 7,
+          "voto": 6.5,
           "giudizio": "Sempre in bilico tra esserci e non esserci causa family. Pero' quando c'e', contribuisce con video comici e suggerimenti utili tipo Nuvoli per pranzi economici.",
           "highlights": [
             "Suggerisce Nuvoli e il giappo all you can eat",
@@ -4118,7 +4118,7 @@
         },
         {
           "name": "Giacomo",
-          "voto": 7,
+          "voto": 6.5,
           "giudizio": "Prima e' in dubbio per la cena del calcio di Giovanni, poi si aggiunge. Arriva tardi alle decisioni ma almeno arriva.",
           "highlights": [
             "Dubbioso fino all'ultimo per impegni familiari",
@@ -4130,7 +4130,7 @@
         },
         {
           "name": "Federico",
-          "voto": 7,
+          "voto": 5,
           "giudizio": "Praticamente invisibile questa settimana. Due messaggi in croce, uno su Tommasi nemico del web.",
           "highlights": [
             "Commenta su Tommasi e TikTok",
@@ -4141,7 +4141,7 @@
         },
         {
           "name": "Alessio M.",
-          "voto": 7,
+          "voto": 6,
           "giudizio": "Il silenzioso approvatore. Sta sullo sfondo e dice 'Evviva!' quando serve.",
           "highlights": [
             "Approva le decisioni del gruppo",
@@ -4177,7 +4177,7 @@
       "pagelle": [
         {
           "name": "Adriano",
-          "voto": 7,
+          "voto": 8,
           "giudizio": "Ancora a caccia di ristoranti per cene di lavoro, stavolta con budget piu' decente (60 euro). Cocco lo prende per mano e lo guida. Filosofeggia sulle fighe morbide e profumate generate dall'AI.",
           "highlights": [
             "Cerca ristorante budget 60 euro a Firenze",
@@ -4189,7 +4189,7 @@
         },
         {
           "name": "Cosimo",
-          "voto": 7,
+          "voto": 7.5,
           "giudizio": "Il concierge di fiducia di Adriano per Firenze. Infuriato con il sistema sanitario: vorrebbe la guerra civile per le liste d'attesa. Piazzale Loreto non e' abbastanza grande per appendere tutti.",
           "highlights": [
             "Guida Adriano verso Ortone e Locale",
@@ -4213,7 +4213,7 @@
         },
         {
           "name": "Fausto",
-          "voto": 7,
+          "voto": 6.5,
           "giudizio": "Vende condizionatore della cognata. Sempre pronto a questioni pratiche tra una notizia triste e l'altra.",
           "highlights": [
             "Offre condizionatore Daikin a poco prezzo",
@@ -4236,7 +4236,7 @@
         },
         {
           "name": "Federico",
-          "voto": 7,
+          "voto": 5.5,
           "giudizio": "Unico non-admin della chat e se ne lamenta. Adriano gli tolse i poteri 'al volo'. Cerca giustizia amministrativa.",
           "highlights": [
             "Si lamenta di non essere admin",
@@ -4248,7 +4248,7 @@
         },
         {
           "name": "Alessio M.",
-          "voto": 7,
+          "voto": 6.5,
           "giudizio": "Risponde che non c'e' niente da amministrare, quindi il dramma di Federico e' inutile. Pratico e diretto.",
           "highlights": [
             "Sminuisce il problema admin di Federico"
@@ -4283,7 +4283,7 @@
       "pagelle": [
         {
           "name": "Adriano",
-          "voto": 7,
+          "voto": 5.5,
           "giudizio": "Settimana tranquilla. Commenta su Napoli e statistiche improbabili. Suggerisce di vedere 'Il Mostro' su Netflix.",
           "highlights": [
             "Commenta 'Napoletani imbattibili'",
@@ -4294,7 +4294,7 @@
         },
         {
           "name": "Cosimo",
-          "voto": 7,
+          "voto": 6.5,
           "giudizio": "Condivide la morte del campione di scacchi Naroditsky. Ride di Alvarez. Annuncia con tristezza la morte di Rupert Sciamenna.",
           "highlights": [
             "Notizia su Naroditsky",
@@ -4306,7 +4306,7 @@
         },
         {
           "name": "Alessio V.",
-          "voto": 7,
+          "voto": 6.5,
           "giudizio": "Chiede della serie sul Mostro di Firenze. Dispiaciuto per Rupert Sciamenna. Settimana da spettatore.",
           "highlights": [
             "Interesse per la serie Netflix",
@@ -4317,7 +4317,7 @@
         },
         {
           "name": "Fausto",
-          "voto": 7,
+          "voto": 8,
           "giudizio": "Racconta del vecchietto folle che crede di aver trovato la cura per il cancro. Storie da farmacia che ti fanno ridere per non piangere. Cerca l'appartamento di Napoli.",
           "highlights": [
             "Storia dell'anziano pazzo col brevetto anticancro",
@@ -4329,7 +4329,7 @@
         },
         {
           "name": "Giacomo",
-          "voto": 7,
+          "voto": 5,
           "giudizio": "Compassionevole verso il vecchietto pazzo. 'Porello, ma di fuori davvero direi'.",
           "highlights": [
             "Commento empatico sul paziente di Fausto"
@@ -4339,7 +4339,7 @@
         },
         {
           "name": "Federico",
-          "voto": 7,
+          "voto": 6,
           "giudizio": "Risolve il mistero dell'appartamento di Napoli: Hotel Rex! Memoria storica del gruppo.",
           "highlights": [
             "Ricorda l'Hotel Rex di Napoli",
@@ -4350,7 +4350,7 @@
         },
         {
           "name": "Alessio M.",
-          "voto": 7,
+          "voto": 6,
           "giudizio": "Rivela che Youness non ha piu' tatto nei messaggi. Silenzioso ma osservatore.",
           "highlights": [
             "Condivide screenshot di Youness"
@@ -4385,7 +4385,7 @@
       "pagelle": [
         {
           "name": "Adriano",
-          "voto": 7,
+          "voto": 8,
           "giudizio": "Passa dall'ufficio di Cocco a Firenze in stile Liberty. Vive con drammaticita' le immagini generate dall'AI. Festeggia Halloween chiedendo chi esce, poi non esce nessuno incluso lui. Piscia il secondo calcolo renale di Cosimo: 'Il secondogenito non serve a una sega come nelle famiglie reali'.",
           "highlights": [
             "Visita a sorpresa a Cocco in ufficio",
@@ -4397,7 +4397,7 @@
         },
         {
           "name": "Cosimo",
-          "voto": 7,
+          "voto": 8.5,
           "giudizio": "Piscia il secondo calcolo renale in gloria! Lo lascia nel cesso senza foto ricordo. Lavora in un palazzo Liberty a Firenze. Festeggia i 70 del suocero in posto ameno rischiando di investire orsi.",
           "highlights": [
             "Secondo calcolo renale espulso",
@@ -4409,7 +4409,7 @@
         },
         {
           "name": "Alessio V.",
-          "voto": 7,
+          "voto": 8,
           "giudizio": "A Orlando/Disneyland con Elisa che aveva una conferenza (ci e' andata un'ora in una settimana). Chiede il Vernacoliere di novembre come prova di lealta'. Unico giorno dell'anno per vedere 'fica giovane vestirsi da puttane col sorriso sulla faccia'.",
           "highlights": [
             "Vacanza a Orlando con Elisa",
@@ -4433,7 +4433,7 @@
         },
         {
           "name": "Giacomo",
-          "voto": 7,
+          "voto": 6.5,
           "giudizio": "Arriva a Siena per aperitivo con Andre. Presente quando serve, assente il resto.",
           "highlights": [
             "Organizza aperitivo a Siena",
@@ -4444,7 +4444,7 @@
         },
         {
           "name": "Federico",
-          "voto": 7,
+          "voto": 7.5,
           "giudizio": "A Istanbul per la corsa dei 15km con la scusa. Foto con l'eunuco. Zero preparazione ma grande spirito.",
           "highlights": [
             "Corsa 15km a Istanbul",
@@ -4493,7 +4493,7 @@
       "pagelle": [
         {
           "name": "Adriano",
-          "voto": 7,
+          "voto": 8,
           "giudizio": "Ospita cena a casa sua per Cocco e Mac. Si ubriaco' selvaggiamente in 20 minuti alla festa dei 30. Elena e' a New York. Budget 60 euro per pranzo di Natale aziendale.",
           "highlights": [
             "Ospita cena aperipoker",
@@ -4505,7 +4505,7 @@
         },
         {
           "name": "Cosimo",
-          "voto": 7,
+          "voto": 7.5,
           "giudizio": "Analista finanziario del gruppo: mostra grafici, parla di prese di profitto sui tech USA e bolla AI. Porta vino di merda visto che Elena non c'e'. Ricorda il finale da campione di Fede.",
           "highlights": [
             "Analisi mercati finanziari",
@@ -4517,7 +4517,7 @@
         },
         {
           "name": "Alessio V.",
-          "voto": 7,
+          "voto": 6.5,
           "giudizio": "Torna dagli USA per la cena aperipoker. Atterrato e subito in pista. Indice la cena ufficiale del 15 dicembre.",
           "highlights": [
             "Ritorno dagli Stati Uniti",
@@ -4541,7 +4541,7 @@
         },
         {
           "name": "Giacomo",
-          "voto": 7,
+          "voto": 5.5,
           "giudizio": "Foto ricordo dei 30 anni del gruppo. Il sabato con la famiglia e' sacro. Provera' a raggiungerli dopo cena.",
           "highlights": [
             "Condivide foto storica",
@@ -4602,7 +4602,7 @@
       "pagelle": [
         {
           "name": "Adriano",
-          "voto": 7,
+          "voto": 7.5,
           "giudizio": "Pinnato per la sua espressivita' ai massimi livelli. Scopre il talento nascosto. Suggerisce scacchi come alternativa al calcio per il figlio di Giec.",
           "highlights": [
             "Messaggio pinnato dal gruppo",
@@ -4614,7 +4614,7 @@
         },
         {
           "name": "Cosimo",
-          "voto": 7,
+          "voto": 7.5,
           "giudizio": "Sempre perso su dove sta Alessio V.. 'Non si capisce mai una sega qui'. Analisi finanziaria: missile al culo in arrivo il venerdi'. Puppole = Crucole a Pitigliano.",
           "highlights": [
             "Confuso dalla geografia di Alessio V.",
@@ -4626,7 +4626,7 @@
         },
         {
           "name": "Alessio V.",
-          "voto": 7,
+          "voto": 7.5,
           "giudizio": "Atterrato da 2 ore, col suocero, gia' in treno. Raccoglie puppole/mazze di tamburo. Conferma cena del 30.",
           "highlights": [
             "Appena atterrato e subito in movimento",
@@ -4662,7 +4662,7 @@
         },
         {
           "name": "Federico",
-          "voto": 7,
+          "voto": 6.5,
           "giudizio": "Cerca l'osteria Gobbetto a Napoli. Insider trading fallito: 'Peggior insider trader di sempre' su Recordati.",
           "highlights": [
             "Ricerca ristorante Napoli",
@@ -4673,7 +4673,7 @@
         },
         {
           "name": "Alessio M.",
-          "voto": 7,
+          "voto": 6,
           "giudizio": "Vuole sapere se Domingo e' confermato. Minimale ma presente.",
           "highlights": [
             "Verifica conferme"
@@ -4708,7 +4708,7 @@
       "pagelle": [
         {
           "name": "Adriano",
-          "voto": 7,
+          "voto": 8.5,
           "giudizio": "Filosofo del fine vita: rispetta le gemelle Kessler per il suicidio assistito. Condivide articolo sulla capsula Sarco. Un fumanciù serale e' pace per tutti. Lettore storico del Vernacoliere, abbonamento fatto.",
           "highlights": [
             "Riflessioni su eutanasia",
@@ -4720,7 +4720,7 @@
         },
         {
           "name": "Cosimo",
-          "voto": 7,
+          "voto": 7.5,
           "giudizio": "Denuncia il problema delle edicole: 7km in bici col freddo inutilmente. Ne prendono 5 copie, 'che campi a fa'? Combatte per la leadership senza pieta'.",
           "highlights": [
             "7km in bici per il Vernacoliere",
@@ -4732,7 +4732,7 @@
         },
         {
           "name": "Alessio V.",
-          "voto": 7,
+          "voto": 8,
           "giudizio": "Rimane fino al 4 dicembre poi Londra/Bruxelles. Confessa: il Vernacoliere non lo fa ridere. Eresia totale ma onesta. Revival di Ismaele.",
           "highlights": [
             "Ammette di non ridere col Vernacoliere",
@@ -4744,7 +4744,7 @@
         },
         {
           "name": "Fausto",
-          "voto": 7,
+          "voto": 8,
           "giudizio": "Ricorda Fava di Lesso, Don Zauker, Il Troio. Il vero cultore storico. Fa presente che siamo vicini alla cena e le prove potrebbero avere un peso. Sciacallo che delega compiti, ma piace.",
           "highlights": [
             "Memoria storica Vernacoliere",
@@ -4767,7 +4767,7 @@
         },
         {
           "name": "Federico",
-          "voto": 7,
+          "voto": 5.5,
           "giudizio": "Non capisce perche' non dovrebbero aver capito il suicidio assistito. Per il resto della popolazione mondiale sicuramente, per Adriano non e' detto.",
           "highlights": [
             "Battuta su Adriano",
@@ -4778,7 +4778,7 @@
         },
         {
           "name": "Alessio M.",
-          "voto": 7,
+          "voto": 8,
           "giudizio": "Compra il Vernacoliere (glielo compra la mamma). Classifica finale: Facchini sopra per allineamento col modo di scherzare del Vernacoliere. Lui piu' figa di legno.",
           "highlights": [
             "Vernacoliere via mamma",
@@ -4815,7 +4815,7 @@
       "pagelle": [
         {
           "name": "Adriano",
-          "voto": 7,
+          "voto": 9,
           "giudizio": "Filosofo degli incel e delle donne troie. Tony Brown e Ernesto Luppoli sono i suoi amici immaginari. Usa ChatGPT per capire i messaggi di Cocco. 3 piatti di pasta al ragu', carbonara e porchetta. Invita Jacopo Baldi all'aperitivo.",
           "highlights": [
             "Disquisizione su incel e troie",
@@ -4827,7 +4827,7 @@
         },
         {
           "name": "Cosimo",
-          "voto": 7,
+          "voto": 8,
           "giudizio": "Trattato filosofico sul concetto 'le donne sono tutte troie' dell'adolescenza. Le donne si ricavano spazi di realizzazione. Arriva a casa in treno e non ha piu' tempo per queste conversazioni. Caterina Marchitti sogno erotico.",
           "highlights": [
             "Filosofia femminile da treno",
@@ -4839,7 +4839,7 @@
         },
         {
           "name": "Alessio V.",
-          "voto": 7,
+          "voto": 7.5,
           "giudizio": "Con Youness che gli ricorda il capodanno nel garage a Ponte a Bozzone. Le donne non sono troie abbastanza secondo lui. Ha febbre ma la cena e' confermata. Allo Stellino per aperitivo.",
           "highlights": [
             "Memoria del garage Bozzone",
@@ -4863,7 +4863,7 @@
         },
         {
           "name": "Giacomo",
-          "voto": 7,
+          "voto": 7.5,
           "giudizio": "Febbre sempre sui 37.5, tosse, mal di testa, a pezzi. Lucy dovrebbe confermare la drammatica situazione con un audio. L'imperatore con la coperta del divano.",
           "highlights": [
             "Malato serio",
@@ -4875,7 +4875,7 @@
         },
         {
           "name": "Federico",
-          "voto": 7,
+          "voto": 8,
           "giudizio": "38 di febbre, mal di gola, tosse. Tutta la famiglia malata. Analisi politica su Schlein-Meloni: Elly polizza vita del governo Meloni. La Salis 15k al mese per 5 anni. Non replica ai dibattiti perche' sta di merda.",
           "highlights": [
             "Malato con famiglia",
@@ -4924,7 +4924,7 @@
       "pagelle": [
         {
           "name": "Adriano",
-          "voto": 7,
+          "voto": 8.5,
           "giudizio": "Sfida personale: 30-50 libri in un anno, oltre i 50 serata a Terranova Bracciolini. A Dachau per gita con Elena. Monaco non c'e' un cazzo quindi beve. Fradicio al cubo, chiede video motivazionali.",
           "highlights": [
             "Challenge letteraria",
@@ -4936,7 +4936,7 @@
         },
         {
           "name": "Cosimo",
-          "voto": 7,
+          "voto": 6.5,
           "giudizio": "Supporto morale per la sbronza di Adriano. 'Vai con Dio'. 'Sei molto bellissimo'. Il cheerleader alcolico.",
           "highlights": [
             "Supporto da lontano",
@@ -4947,7 +4947,7 @@
         },
         {
           "name": "Alessio V.",
-          "voto": 7,
+          "voto": 6,
           "giudizio": "Atterrato ora, di nuovo in Italia. Chiede spiegazioni su Terranova Bracciolini. Alla salute! Avverte del rischio succhiacazzi.",
           "highlights": [
             "Ritorno in Italia",
@@ -4959,7 +4959,7 @@
         },
         {
           "name": "Fausto",
-          "voto": 7,
+          "voto": 5,
           "giudizio": "Continua cosi'. Supporto minimale ma efficace.",
           "highlights": [
             "Incoraggiamento lettura"
@@ -4969,7 +4969,7 @@
         },
         {
           "name": "Giacomo",
-          "voto": 7,
+          "voto": 5,
           "giudizio": "Bella sfida! Si complimenta per la challenge dei libri. Breve ma presente.",
           "highlights": [
             "Apprezza la sfida letteraria"
@@ -4979,7 +4979,7 @@
         },
         {
           "name": "Federico",
-          "voto": 7,
+          "voto": 5,
           "giudizio": "Bravo con applausi. Cancella un messaggio. Cita una perla antica.",
           "highlights": [
             "Complimenti",
@@ -4990,7 +4990,7 @@
         },
         {
           "name": "Alessio M.",
-          "voto": 7,
+          "voto": 5.5,
           "giudizio": "Chiede foto della maglietta ananas. Alla salute pure lui. Settimana tranquilla.",
           "highlights": [
             "Richiesta foto",
@@ -5026,7 +5026,7 @@
       "pagelle": [
         {
           "name": "Adriano",
-          "voto": 7,
+          "voto": 8,
           "giudizio": "Organizza aperitivi prenatalizi doppi: uno a Siena e uno a Firenze. Non ha impegni quindi si adatta a tutti. Trova ragno in casa, aspira o non aspira? Scrupoli morali fino a domani quando tutto finira' nel folletto anni 90.",
           "highlights": [
             "Doppio aperitivo natalizio",
@@ -5050,7 +5050,7 @@
         },
         {
           "name": "Alessio V.",
-          "voto": 7,
+          "voto": 6.5,
           "giudizio": "Per la pallavolo no, aperitivo si'. Non garantisce al 100% ma ci prova. Il bacchettone che rovina il giro in bici.",
           "highlights": [
             "No pallavolo",
@@ -5062,7 +5062,7 @@
         },
         {
           "name": "Fausto",
-          "voto": 7,
+          "voto": 7.5,
           "giudizio": "Propone di andare a vedere Savino Del Bene-Cuneo, pallavolo femminile. Ha lo sconto se si vuole. Ragno porta guadagno. Guccini vibes su video.",
           "highlights": [
             "Proposta pallavolo",
@@ -5074,7 +5074,7 @@
         },
         {
           "name": "Giacomo",
-          "voto": 7,
+          "voto": 5.5,
           "giudizio": "Finaccia sul video. Breve ma efficace questa settimana.",
           "highlights": [
             "Commento video"
@@ -5084,7 +5084,7 @@
         },
         {
           "name": "Federico",
-          "voto": 7,
+          "voto": 5,
           "giudizio": "Presente solo con l'aggiunta alla lista Siena. Silenzioso.",
           "highlights": [
             "Si aggiunge alla lista"
@@ -5094,7 +5094,7 @@
         },
         {
           "name": "Alessio M.",
-          "voto": 7,
+          "voto": 6.5,
           "giudizio": "Si aggiunge alle liste sia Siena che Firenze. Commenta sui video. Giro in bici interrotto da giornalismo.",
           "highlights": [
             "Doppia partecipazione",
@@ -5130,7 +5130,7 @@
       "pagelle": [
         {
           "name": "Adriano",
-          "voto": 7,
+          "voto": 8.5,
           "giudizio": "Sfida per il gruppo che il leader non ha confermato. Propone di mettere 2000 euro nel conto di Alessio V.. Capodanno forse Casentino. 5 libri in un mese. Prosciutteria o Bottega Roots per l'aperitivo.",
           "highlights": [
             "Sfida non autorizzata",
@@ -5142,7 +5142,7 @@
         },
         {
           "name": "Cosimo",
-          "voto": 7,
+          "voto": 6.5,
           "giudizio": "Col caccavomito per capodanno verso il Casentino con bamboccetti. Chi? Chi? Dicilo, non fare lo stitico. Cerca gossip su chi ha scritto in pvt.",
           "highlights": [
             "Capodanno con famiglie",
@@ -5166,7 +5166,7 @@
         },
         {
           "name": "Fausto",
-          "voto": 7,
+          "voto": 6,
           "giudizio": "Fissa aperitivo alle Serre Torrigiani per le 19.30, cena a Napoleone in piazza del Carmine. Chiede se Adriano suona anche. Organizzatore impeccabile.",
           "highlights": [
             "Prenota Serre Torrigiani",
@@ -5178,7 +5178,7 @@
         },
         {
           "name": "Giacomo",
-          "voto": 7,
+          "voto": 6,
           "giudizio": "Babbo in ospedale, montaggio cucina e camera, ma spera di farcela. Capodanno all'Arbia con amici. Presente nonostante tutto.",
           "highlights": [
             "Difficolta' familiari",
@@ -5190,7 +5190,7 @@
         },
         {
           "name": "Federico",
-          "voto": 7,
+          "voto": 6.5,
           "giudizio": "Non sa per capodanno, probabilmente a casa. Presente per Siena. Morbidi o Casual?",
           "highlights": [
             "Capodanno incerto",
@@ -5201,7 +5201,7 @@
         },
         {
           "name": "Alessio M.",
-          "voto": 7,
+          "voto": 6.5,
           "giudizio": "Non sa per capodanno. Propone dream cafe' per le 18. Nel Valdarno, chiamera' quando torna.",
           "highlights": [
             "Incertezza capodanno",
@@ -5237,7 +5237,7 @@
       "pagelle": [
         {
           "name": "Adriano",
-          "voto": 7,
+          "voto": 9,
           "giudizio": "Aperitivo in piazza Indipendenza con Jacopo Baldi. 3 piatti di pasta al ragu', carbonara e porchetta. In resort adults only: pieno di fregna, domani le vedra' nude in sauna. Una tortura da non rifare. Due giovani lesbiche fiche accanto al tavolo.",
           "highlights": [
             "Aperitivo Siena riuscito",
@@ -5260,7 +5260,7 @@
         },
         {
           "name": "Alessio V.",
-          "voto": 7,
+          "voto": 6.5,
           "giudizio": "Non viene all'aperitivo senese. Aperto a tutto per il 23 a Firenze. Partenza alle 18 dal dream cafe'. Ricordatele Adri e racconterai.",
           "highlights": [
             "Assente Siena",
@@ -5284,7 +5284,7 @@
         },
         {
           "name": "Giacomo",
-          "voto": 7,
+          "voto": 6.5,
           "giudizio": "Morbidi in Camollia? Propone alternative. Al Perlage in piazza Indipendenza con gli altri. Per aperipoker potresti fare le foto.",
           "highlights": [
             "Proposte locali",
@@ -5308,7 +5308,7 @@
         },
         {
           "name": "Alessio M.",
-          "voto": 7,
+          "voto": 6,
           "giudizio": "Direi 18:30 per partire, poi alle 18. Dream cafe' come punto d'incontro. Manda foto dalla cena.",
           "highlights": [
             "Logistica partenza",
@@ -5344,7 +5344,7 @@
       "pagelle": [
         {
           "name": "Adriano",
-          "voto": 7,
+          "voto": 6,
           "giudizio": "Tornato dalla Carinzia, purtroppo. Non si ricordava che Alessio V. fosse un tipo da mare. In che isola di merda sei? Chiude l'anno con nostalgia del resort.",
           "highlights": [
             "Ritorno dalla vacanza",
@@ -5356,7 +5356,7 @@
         },
         {
           "name": "Cosimo",
-          "voto": 7,
+          "voto": 7.5,
           "giudizio": "Report finanziario di fine anno: +5.80% lordo, quasi 6% su giacenza media. Il dollaro ha remato contro (-10%). Nuovo socio ha portato ottimismo. Poraccio mi dispiace per voi (ai Caraibi).",
           "highlights": [
             "Bilancio annuale positivo",
@@ -5380,7 +5380,7 @@
         },
         {
           "name": "Fausto",
-          "voto": 7,
+          "voto": 6,
           "giudizio": "Orgoglioso del figlio che nuota. Non vuole fare il babbo troppo fiero, ma condivide la fatica e le piccole soddisfazioni. Auguri aperipoker!",
           "highlights": [
             "Figlio nuotatore",
@@ -5392,7 +5392,7 @@
         },
         {
           "name": "Giacomo",
-          "voto": 7,
+          "voto": 6.5,
           "giudizio": "Si percepisce una certa sofferenza nei Caraibi. Merito del babbo per il nuoto. Auguri finali al gruppo.",
           "highlights": [
             "Ironia sui Caraibi",
@@ -5403,7 +5403,7 @@
         },
         {
           "name": "Federico",
-          "voto": 7,
+          "voto": 6.5,
           "giudizio": "Boss! Nota che manca il passaggio sul nuovo socio nel report di Cocco. L'unico neo sono i suggerimenti di Adriano sul medical. Bella vita ad Alessio V.!",
           "highlights": [
             "Commento sul report",
@@ -5415,7 +5415,7 @@
         },
         {
           "name": "Alessio M.",
-          "voto": 7,
+          "voto": 5.5,
           "giudizio": "Bravo! Commento minimale ma presente. Auguri di fine anno.",
           "highlights": [
             "Supporto al gruppo",
@@ -5429,21 +5429,21 @@
   ],
   "cumulative": [
     {
-      "name": "Cosimo",
-      "settimaneAttive": 53,
-      "totalMessaggi": 351,
-      "mediaVoto": 7.52,
-      "bestVoto": 9,
-      "worstVoto": 6.0,
-      "signature": ""
-    },
-    {
       "name": "Adriano",
       "settimaneAttive": 53,
       "totalMessaggi": 386,
-      "mediaVoto": 7.39,
+      "mediaVoto": 7.61,
       "bestVoto": 9,
       "worstVoto": 3,
+      "signature": ""
+    },
+    {
+      "name": "Cosimo",
+      "settimaneAttive": 53,
+      "totalMessaggi": 351,
+      "mediaVoto": 7.6,
+      "bestVoto": 9,
+      "worstVoto": 6.0,
       "signature": ""
     },
     {
@@ -5459,7 +5459,7 @@
       "name": "Fausto",
       "settimaneAttive": 53,
       "totalMessaggi": 200,
-      "mediaVoto": 7.24,
+      "mediaVoto": 7.19,
       "bestVoto": 9,
       "worstVoto": 5,
       "signature": ""
@@ -5468,7 +5468,7 @@
       "name": "Giacomo",
       "settimaneAttive": 53,
       "totalMessaggi": 138,
-      "mediaVoto": 6.97,
+      "mediaVoto": 6.79,
       "bestVoto": 9,
       "worstVoto": 5.0,
       "signature": ""
@@ -5477,7 +5477,7 @@
       "name": "Federico",
       "settimaneAttive": 35,
       "totalMessaggi": 118,
-      "mediaVoto": 6.73,
+      "mediaVoto": 6.44,
       "bestVoto": 8,
       "worstVoto": 5,
       "signature": ""
@@ -5486,7 +5486,7 @@
       "name": "Alessio M.",
       "settimaneAttive": 53,
       "totalMessaggi": 192,
-      "mediaVoto": 6.48,
+      "mediaVoto": 6.34,
       "bestVoto": 8.5,
       "worstVoto": 5,
       "signature": ""
