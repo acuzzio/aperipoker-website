@@ -1147,6 +1147,14 @@
           ],
           "messaggi": 2,
           "mediaGiornaliera": 0.3
+        },
+        {
+          "name": "Adriano",
+          "voto": 5,
+          "giudizio": "Non pervenuto.",
+          "highlights": [],
+          "messaggi": 0,
+          "mediaGiornaliera": 0
         }
       ]
     },
@@ -1916,6 +1924,14 @@
           ],
           "messaggi": 10,
           "mediaGiornaliera": 1.4
+        },
+        {
+          "name": "Alessio V.",
+          "voto": 5,
+          "giudizio": "Non pervenuto.",
+          "highlights": [],
+          "messaggi": 0,
+          "mediaGiornaliera": 0
         }
       ]
     },
@@ -2011,6 +2027,14 @@
             "Apprezza il 'bel tassello'",
             "Augura buon compleanno a Fausto a fine settimana"
           ],
+          "messaggi": 0,
+          "mediaGiornaliera": 0
+        },
+        {
+          "name": "Alessio M.",
+          "voto": 5,
+          "giudizio": "Non pervenuto.",
+          "highlights": [],
           "messaggi": 0,
           "mediaGiornaliera": 0
         }
@@ -2110,6 +2134,14 @@
           ],
           "messaggi": 0,
           "mediaGiornaliera": 0
+        },
+        {
+          "name": "Alessio M.",
+          "voto": 5,
+          "giudizio": "Non pervenuto.",
+          "highlights": [],
+          "messaggi": 0,
+          "mediaGiornaliera": 0
         }
       ]
     },
@@ -2205,6 +2237,14 @@
             "Prenota il ristorante",
             "Meta' strada tra Siena e Firenze"
           ],
+          "messaggi": 0,
+          "mediaGiornaliera": 0
+        },
+        {
+          "name": "Alessio M.",
+          "voto": 5,
+          "giudizio": "Non pervenuto.",
+          "highlights": [],
           "messaggi": 0,
           "mediaGiornaliera": 0
         }
@@ -2304,6 +2344,14 @@
           ],
           "messaggi": 0,
           "mediaGiornaliera": 0
+        },
+        {
+          "name": "Alessio M.",
+          "voto": 5,
+          "giudizio": "Non pervenuto.",
+          "highlights": [],
+          "messaggi": 0,
+          "mediaGiornaliera": 0
         }
       ]
     },
@@ -2386,6 +2434,22 @@
             "Saecula saeculorum",
             "Minimalismo comunicativo"
           ],
+          "messaggi": 0,
+          "mediaGiornaliera": 0
+        },
+        {
+          "name": "Alessio M.",
+          "voto": 5,
+          "giudizio": "Non pervenuto.",
+          "highlights": [],
+          "messaggi": 0,
+          "mediaGiornaliera": 0
+        },
+        {
+          "name": "Fausto",
+          "voto": 5,
+          "giudizio": "Non pervenuto.",
+          "highlights": [],
           "messaggi": 0,
           "mediaGiornaliera": 0
         }
@@ -2484,6 +2548,14 @@
           ],
           "messaggi": 0,
           "mediaGiornaliera": 0
+        },
+        {
+          "name": "Alessio M.",
+          "voto": 5,
+          "giudizio": "Non pervenuto.",
+          "highlights": [],
+          "messaggi": 0,
+          "mediaGiornaliera": 0
         }
       ]
     },
@@ -2576,6 +2648,14 @@
           "highlights": [
             "Disponibile se non cambia niente"
           ],
+          "messaggi": 0,
+          "mediaGiornaliera": 0
+        },
+        {
+          "name": "Alessio M.",
+          "voto": 5,
+          "giudizio": "Non pervenuto.",
+          "highlights": [],
           "messaggi": 0,
           "mediaGiornaliera": 0
         }
@@ -2672,6 +2752,14 @@
             "Al mare con famiglia",
             "Conferma sabato Feniglia"
           ],
+          "messaggi": 0,
+          "mediaGiornaliera": 0
+        },
+        {
+          "name": "Alessio M.",
+          "voto": 5,
+          "giudizio": "Non pervenuto.",
+          "highlights": [],
           "messaggi": 0,
           "mediaGiornaliera": 0
         }
@@ -2772,6 +2860,14 @@
           ],
           "messaggi": 0,
           "mediaGiornaliera": 0
+        },
+        {
+          "name": "Alessio M.",
+          "voto": 5,
+          "giudizio": "Non pervenuto.",
+          "highlights": [],
+          "messaggi": 0,
+          "mediaGiornaliera": 0
         }
       ]
     },
@@ -2868,118 +2964,1086 @@
           ],
           "messaggi": 0,
           "mediaGiornaliera": 0
+        },
+        {
+          "name": "Alessio M.",
+          "voto": 5,
+          "giudizio": "Non pervenuto.",
+          "highlights": [],
+          "messaggi": 0,
+          "mediaGiornaliera": 0
         }
       ]
     },
     {
       "startDate": "2025-07-28",
       "stats": {
-        "totalMessages": 0,
-        "activeMembers": 0,
-        "avgPerMember": 0
+        "totalMessages": 77,
+        "activeMembers": 7,
+        "avgPerMember": 11.0
       },
-      "riassunto": "",
-      "bestQuotes": [],
-      "pagelle": []
+      "riassunto": "Feniglia vs Giannella e notti insonni a 3000 metri",
+      "bestQuotes": [
+        {
+          "quote": "Meglio giannella perche' non vorrei pubblicizzare troppo la feniglia che me la rovinate",
+          "author": "Adriano"
+        },
+        {
+          "quote": "Quando andavo alla feniglia te c'avevi da nascere",
+          "author": "Giacomo"
+        },
+        {
+          "quote": "Colorado TANTO bello... e marijuana free come a Amsterdam",
+          "author": "Alessio V."
+        }
+      ],
+      "pagelle": [
+        {
+          "name": "Adriano",
+          "voto": 7.5,
+          "giudizio": "Il guardiano della Feniglia. Confermatissimo per il mare, ma non vuole pubblicizzare troppo il suo posto segreto che 'me la rovinate'. Protezionista balneare.",
+          "highlights": [
+            "Protegge la Feniglia dagli invasori",
+            "Solo in Colorado trovi il Colorado (filosofo)",
+            "Confermatissimo per tutto ma a condizioni sue"
+          ],
+          "messaggi": 11,
+          "mediaGiornaliera": 1.57
+        },
+        {
+          "name": "Cosimo",
+          "voto": 7,
+          "giudizio": "Il veterano dell'alta quota: ha dormito a 4000 metri mentre la Renata 'quasi morta'. Lui speciale. Poi si lamenta che piscia ogni ora come i vecchi. Benvenuto nel club.",
+          "highlights": [
+            "Vanta dormite a 4000 metri",
+            "Problemi urinari condivisi col gruppo",
+            "A Castiglioncello con la sorella, impossibile unirsi"
+          ],
+          "messaggi": 14,
+          "mediaGiornaliera": 2.0
+        },
+        {
+          "name": "Fausto",
+          "voto": 7.5,
+          "giudizio": "L'influencer culturale del gruppo. Condivide articolo su Amici Miei, consiglia la serie di Maccio Capatonda ('ECCEZIONALE'), e lancia video per partire 'col piede giusto'. Sempre sul pezzo.",
+          "highlights": [
+            "Articolo su Amici Miei a mezzanotte",
+            "Recensione entusiasta di Sconfort Zone",
+            "Video motivazionali per il weekend"
+          ],
+          "messaggi": 15,
+          "mediaGiornaliera": 2.14
+        },
+        {
+          "name": "Giacomo",
+          "voto": 7,
+          "giudizio": "Il Lider balneare ricorda ad Adriano che 'quando andavo alla feniglia te c'avevi da nascere'. Memoria storica del gruppo. Campeggio la settimana prima e scirocco, ma va bene tutto.",
+          "highlights": [
+            "Storico frequentatore della Feniglia",
+            "Non fara' molta strada sulla spiaggia",
+            "Deve risentire la Vigni e la Fiamma"
+          ],
+          "messaggi": 8,
+          "mediaGiornaliera": 1.14
+        },
+        {
+          "name": "Alessio V.",
+          "voto": 8,
+          "giudizio": "L'avventuriero del Colorado che non ha dormito un CAZZO a 3000 metri. 'Mi veniva il fiatone, avevo proprio bisogno di ossigeno'. Ma Colorado TANTO bello, gente spettacolare, marijuana free.",
+          "highlights": [
+            "Notte insonne a 3000 metri",
+            "Elogio del Colorado e della marijuana legale",
+            "Chiede se Cocco e' vivo"
+          ],
+          "messaggi": 20,
+          "mediaGiornaliera": 2.86
+        },
+        {
+          "name": "Alessio M.",
+          "voto": 6.5,
+          "giudizio": "Si unisce al club dei problemi urinari: 'io solo di notte, madonna puttana'. Apprezza le foto della gita al mare con un sincero 'che meraviglia'. Presenza discreta ma affettuosa.",
+          "highlights": [
+            "Condivide problemi notturni alla vescica",
+            "Apprezza le foto della giornata al mare",
+            "Nota che c'e' anche un fico"
+          ],
+          "messaggi": 6,
+          "mediaGiornaliera": 0.86
+        },
+        {
+          "name": "Federico",
+          "voto": 6,
+          "giudizio": "Non c'e' per il weekend ma suggerisce comunque 'Giannella diretta'. Tre messaggi secchi e si defila. Efficienza nordica.",
+          "highlights": [
+            "Non presente al mare",
+            "Suggerisce Giannella",
+            "Notizia del doppio italiano"
+          ],
+          "messaggi": 3,
+          "mediaGiornaliera": 0.43
+        }
+      ]
     },
     {
       "startDate": "2025-08-04",
       "stats": {
-        "totalMessages": 0,
-        "activeMembers": 0,
-        "avgPerMember": 0
+        "totalMessages": 19,
+        "activeMembers": 5,
+        "avgPerMember": 3.8
       },
-      "riassunto": "",
-      "bestQuotes": [],
-      "pagelle": []
+      "riassunto": "Ferie, compleanni e il mistero del 24 agosto",
+      "bestQuotes": [
+        {
+          "quote": "Il 24? Diobono",
+          "author": "Cosimo"
+        },
+        {
+          "quote": "Mercoledi' e' il mio compleanno",
+          "author": "Adriano"
+        },
+        {
+          "quote": "Finita di vedere la serie di maccio, confermo che va guardata",
+          "author": "Fausto"
+        }
+      ],
+      "pagelle": [
+        {
+          "name": "Adriano",
+          "voto": 7,
+          "giudizio": "In ferie da oggi ma parte solo il 24 agosto - 'Diobono' commenta Cosimo. Annuncia il compleanno del 13 e ipotizza 'una cosa semplice'. Maestro del timing sfasato.",
+          "highlights": [
+            "Ferie ma parte solo il 24",
+            "Compleanno il 13 agosto",
+            "Propone qualcosa tra sabato e domenica"
+          ],
+          "messaggi": 8,
+          "mediaGiornaliera": 1.14
+        },
+        {
+          "name": "Cosimo",
+          "voto": 6.5,
+          "giudizio": "Tra Castiglioncello, Pitigliano e Firenze. Reagisce al 24 agosto di Adriano con un sonoro 'Diobono'. Sara' a Firenze dopo il Palio, quantomeno in settimana.",
+          "highlights": [
+            "Itinerario vacanziero complesso",
+            "Diobono sul 24 agosto",
+            "A Firenze dopo il Palio"
+          ],
+          "messaggi": 2,
+          "mediaGiornaliera": 0.29
+        },
+        {
+          "name": "Fausto",
+          "voto": 7.5,
+          "giudizio": "L'evangelista di Maccio Capatonda conferma: la serie va guardata. Condivide articoli sui dazi USA e offre di sganciarsi dalla cena in contrada per il compleanno di Adriano. Generoso.",
+          "highlights": [
+            "Conferma finale su Sconfort Zone",
+            "Articolo sui dazi USA",
+            "Disponibile a lasciare la contrada per Adriano"
+          ],
+          "messaggi": 6,
+          "mediaGiornaliera": 0.86
+        },
+        {
+          "name": "Giacomo",
+          "voto": 6,
+          "giudizio": "A casa fino a dopo il Palio. Un messaggio e via. Il Lider in modalita' risparmio energetico estivo.",
+          "highlights": [
+            "A casa fino al Palio",
+            "Minimalismo comunicativo"
+          ],
+          "messaggi": 1,
+          "mediaGiornaliera": 0.14
+        },
+        {
+          "name": "Alessio V.",
+          "voto": 6.5,
+          "giudizio": "Parte domenica e torna il 18. Due messaggi, informazioni essenziali. Efficienza americana.",
+          "highlights": [
+            "In partenza domenica",
+            "Ritorno il 18 agosto"
+          ],
+          "messaggi": 2,
+          "mediaGiornaliera": 0.29
+        },
+        {
+          "name": "Alessio M.",
+          "voto": 5,
+          "giudizio": "Non pervenuto.",
+          "highlights": [],
+          "messaggi": 0,
+          "mediaGiornaliera": 0
+        },
+        {
+          "name": "Federico",
+          "voto": 5,
+          "giudizio": "Non pervenuto.",
+          "highlights": [],
+          "messaggi": 0,
+          "mediaGiornaliera": 0
+        }
+      ]
     },
     {
       "startDate": "2025-08-11",
       "stats": {
-        "totalMessages": 0,
-        "activeMembers": 0,
-        "avgPerMember": 0
+        "totalMessages": 196,
+        "activeMembers": 7,
+        "avgPerMember": 28.0
       },
-      "riassunto": "",
-      "bestQuotes": [],
-      "pagelle": []
+      "riassunto": "Compleanno Adriano, Palio del Montone, e la cena della pisciata del papa",
+      "bestQuotes": [
+        {
+          "quote": "Che poi e' strano che invece non mi mettano a disagio video di fisting",
+          "author": "Cosimo"
+        },
+        {
+          "quote": "La pisciata del papa",
+          "author": "Cosimo"
+        },
+        {
+          "quote": "Tittia vergognoso. Onda vergognosa",
+          "author": "Adriano"
+        }
+      ],
+      "pagelle": [
+        {
+          "name": "Adriano",
+          "voto": 8,
+          "giudizio": "Il festeggiato che organizza tutto da solo. 'La prima cosa che faro' stamattina e' farmi questa barba bianca per sembrare piu' giovane'. Post-Palio commenta indignato: 'Tittia vergognoso, Onda vergognosa'. Al masoni non gli fara' male fare la telecronaca?",
+          "highlights": [
+            "Compleanno il 13 agosto con barba bianca",
+            "Indignato per il Palio (Montone vince)",
+            "Fausto dorme sulla tavernetta come Nosferatu biondo"
+          ],
+          "messaggi": 48,
+          "mediaGiornaliera": 6.86
+        },
+        {
+          "name": "Cosimo",
+          "voto": 8.5,
+          "giudizio": "MVP della settimana. Tra confessioni sui video di fisting, organizzazione della cena 'alla pisciata del papa' e il Montone che vince il Palio. 'Benissimo per ciccia a Sambuca'. Poi alla fine devono ripiegare su Barberino.",
+          "highlights": [
+            "Confessione sui video di fisting",
+            "Battezza il ristorante 'la pisciata del papa'",
+            "Montone vince, deve andare in contrada"
+          ],
+          "messaggi": 49,
+          "mediaGiornaliera": 7.0
+        },
+        {
+          "name": "Fausto",
+          "voto": 7,
+          "giudizio": "Consiglia il Tour de France su Netflix e fa gli auguri per primo ad Adriano. Ma il momento epico e' la foto di lui che dorme sulla tavernetta di Adriano come un vampiro biondo. 'Teneva bisogno di riposare.'",
+          "highlights": [
+            "Consiglia docuserie Tour de France",
+            "Dorme sulla tavernetta come Nosferatu",
+            "Si e' pure fatto riaprire la porta"
+          ],
+          "messaggi": 7,
+          "mediaGiornaliera": 1.0
+        },
+        {
+          "name": "Giacomo",
+          "voto": 6.5,
+          "giudizio": "Auguroni ad Adriano e poi sparisce. Non c'e' per la cena ma almeno manda gli auguri. Il Lider in vacanza mentale.",
+          "highlights": [
+            "Auguroni ad Adriano",
+            "Non disponibile per la cena",
+            "Assente dal dibattito ristoranti"
+          ],
+          "messaggi": 3,
+          "mediaGiornaliera": 0.43
+        },
+        {
+          "name": "Alessio V.",
+          "voto": 7.5,
+          "giudizio": "Riflette sul bisogno della gente di essere 'pettata' come i cani. Augura 'vecchiaccio bastardo' ad Adriano. In nave verso casa, arrivo previsto alle 16 a Civitavecchia - 'L'anno scorso ha fatto 9 ore di ritardo'.",
+          "highlights": [
+            "Teoria sul petting umano",
+            "Auguri da vecchiaccio bastardo",
+            "In nave con ansia ritardo"
+          ],
+          "messaggi": 31,
+          "mediaGiornaliera": 4.43
+        },
+        {
+          "name": "Alessio M.",
+          "voto": 7,
+          "giudizio": "Annuncia che il conto Aperipoker e' in attivo di ben 22 euro. 'VIVA PASQUALE QUELLO NUOVO'. Suggerisce Casato o Bocca d'Ersa per il pesce, Barberino per la carne. Conoscitore.",
+          "highlights": [
+            "Annuncia attivo di 22 euro",
+            "Suggerisce ristoranti alternativi",
+            "Ovviamente presentarsi con occhiali da sole"
+          ],
+          "messaggi": 14,
+          "mediaGiornaliera": 2.0
+        },
+        {
+          "name": "Federico",
+          "voto": 8,
+          "giudizio": "Il nuovo che si fa notare. Sogna Las Vegas con i 50k del fondo pensione. Vede Cocco alla TV durante il Palio: 'C'ha Gingillo sulle spalle'. Mai ricevuto comunicazioni dal Lider ma sta bello rilassato.",
+          "highlights": [
+            "Sogna viaggio a Las Vegas col fondo",
+            "Spot televisivo di Cocco al Palio",
+            "Paghera' dopo il Palio per principio"
+          ],
+          "messaggi": 44,
+          "mediaGiornaliera": 6.29
+        }
+      ]
     },
     {
       "startDate": "2025-08-18",
       "stats": {
-        "totalMessages": 0,
-        "activeMembers": 0,
-        "avgPerMember": 0
+        "totalMessages": 69,
+        "activeMembers": 7,
+        "avgPerMember": 9.86
       },
-      "riassunto": "",
-      "bestQuotes": [],
-      "pagelle": []
+      "riassunto": "Cena con occhiali da sole, AI nei musei e caduta teutonica",
+      "bestQuotes": [
+        {
+          "quote": "Con occhiali da sole e iPad per vedere Sinner Alcaraz",
+          "author": "Cosimo"
+        },
+        {
+          "quote": "Vi giuro come nei video su tik tok della gente che si fa male",
+          "author": "Adriano"
+        },
+        {
+          "quote": "Fossi il proprietario della staccionata, smadonnerei imprecando contro l'overtourism",
+          "author": "Federico"
+        }
+      ],
+      "pagelle": [
+        {
+          "name": "Adriano",
+          "voto": 7.5,
+          "giudizio": "Parte in vacanza e subito si fa male cadendo dalla bicicletta come nei video di TikTok. 'Mi sono sentito come Fausto'. Scopre l'AI nei musei grazie a Fausto: 'Sono un pirla, non ci avevo pensato'.",
+          "highlights": [
+            "Caduta teutonica dalla bicicletta",
+            "Si sente come Fausto (non un complimento)",
+            "Scopre l'AI per i musei"
+          ],
+          "messaggi": 15,
+          "mediaGiornaliera": 2.14
+        },
+        {
+          "name": "Cosimo",
+          "voto": 7.5,
+          "giudizio": "Organizza la cena del 18 con requisiti precisi: 'Con occhiali da sole e iPad per vedere Sinner Alcaraz'. Si ferma al Decathlon e deve farsi riaccompagnare. Logistica complessa.",
+          "highlights": [
+            "Dress code: occhiali da sole",
+            "iPad per Sinner-Alcaraz",
+            "Fermata strategica al Decathlon"
+          ],
+          "messaggi": 9,
+          "mediaGiornaliera": 1.29
+        },
+        {
+          "name": "Fausto",
+          "voto": 8,
+          "giudizio": "Il guru tecnologico: 'Vedere un qualsiasi museo con una AI e' un altro tipo di esperienza'. Da Lubiana condivide foto del parco con 8 campi gratuiti. Jack dovrebbe fare quella ciclo coi figlioli.",
+          "highlights": [
+            "Consiglia AI per musei",
+            "In vacanza a Lubiana",
+            "Chiede oculista per bambini"
+          ],
+          "messaggi": 9,
+          "mediaGiornaliera": 1.29
+        },
+        {
+          "name": "Giacomo",
+          "voto": 6.5,
+          "giudizio": "Chiede la foto con gli occhiali da sole che non e' stata fatta. Messaggi cancellati misteriosi. Il Lider vuole le prove fotografiche.",
+          "highlights": [
+            "Richiede foto con occhiali",
+            "Messaggi cancellati",
+            "Non presente alla cena"
+          ],
+          "messaggi": 6,
+          "mediaGiornaliera": 0.86
+        },
+        {
+          "name": "Alessio V.",
+          "voto": 7,
+          "giudizio": "Sulla caduta di Adriano: 'Aspettiamo domani o domani l'altro' per il dolore. Fantasizza sui 'bastardi ricchi con le biciclette elettriche' che arrivano dappertutto.",
+          "highlights": [
+            "Predice dolori ritardati per Adriano",
+            "Battuta sulle e-bike dei ricchi",
+            "Video capolavoro condiviso"
+          ],
+          "messaggi": 8,
+          "mediaGiornaliera": 1.14
+        },
+        {
+          "name": "Alessio M.",
+          "voto": 6.5,
+          "giudizio": "Ricorda a tutti di portare gli occhiali da sole. Dice 'niente' quando Fausto chiede delle foto. Presente ma silenzioso.",
+          "highlights": [
+            "Promemoria occhiali da sole",
+            "Niente foto della serata",
+            "Presente alla cena"
+          ],
+          "messaggi": 5,
+          "mediaGiornaliera": 0.71
+        },
+        {
+          "name": "Federico",
+          "voto": 7.5,
+          "giudizio": "Il sarcastico della settimana. Sulla caduta di Adriano: 'Fossi il proprietario della staccionata, smadonnerei imprecando contro l'overtourism'. Risonanza fatta, niente nuove rotture oltre alle note.",
+          "highlights": [
+            "Battuta sull'overtourism",
+            "Risonanza al ginocchio ok",
+            "Sgocciola Adriano per il ritardo"
+          ],
+          "messaggi": 17,
+          "mediaGiornaliera": 2.43
+        }
+      ]
     },
     {
       "startDate": "2025-08-25",
       "stats": {
-        "totalMessages": 0,
-        "activeMembers": 0,
-        "avgPerMember": 0
+        "totalMessages": 25,
+        "activeMembers": 7,
+        "avgPerMember": 3.57
       },
-      "riassunto": "",
-      "bestQuotes": [],
-      "pagelle": []
+      "riassunto": "Compleanno Cocco e pipi' rossa",
+      "bestQuotes": [
+        {
+          "quote": "Piu' rossa che gialla. NO good",
+          "author": "Cosimo"
+        },
+        {
+          "quote": "Proprio ora che ho fatto il laser...",
+          "author": "Adriano"
+        },
+        {
+          "quote": "Questo te li RIMETTE i peli",
+          "author": "Alessio V."
+        }
+      ],
+      "pagelle": [
+        {
+          "name": "Adriano",
+          "voto": 7,
+          "giudizio": "Fa gli auguri a Cocco per primo. Sul laser: 'Proprio ora che ho fatto il laser...' - 'Sei stato troppo impulsivo' risponde Cosimo. Ride con le lacrime per commenti pericolosi.",
+          "highlights": [
+            "Primo a fare auguri a Cocco",
+            "Ha fatto il laser (non si sa dove)",
+            "Chiede se mangia barbabietole"
+          ],
+          "messaggi": 5,
+          "mediaGiornaliera": 0.71
+        },
+        {
+          "name": "Cosimo",
+          "voto": 7.5,
+          "giudizio": "Il festeggiato con problemi urinari: 'Piu' rossa che gialla. NO good'. Consiglia Le Ali della Liberta': 'oggettivamente una delle cose scritte meglio che abbia letto'. Compie gli anni il 28.",
+          "highlights": [
+            "Compleanno il 28 agosto",
+            "Pipi' rossa preoccupante",
+            "Consiglia Le Ali della Liberta'"
+          ],
+          "messaggi": 7,
+          "mediaGiornaliera": 1.0
+        },
+        {
+          "name": "Fausto",
+          "voto": 6.5,
+          "giudizio": "Dice 'Leggerollo' sul libro di Stephen King. Poi avverte: 'Di questi tempi c'e' da andare in galera a fare questi commenti'. Prudente.",
+          "highlights": [
+            "Prenota lettura libro",
+            "Avverte sui commenti pericolosi"
+          ],
+          "messaggi": 2,
+          "mediaGiornaliera": 0.29
+        },
+        {
+          "name": "Giacomo",
+          "voto": 6,
+          "giudizio": "Un messaggio: 'Auguri zi'. Minimalismo estremo ma affettuoso.",
+          "highlights": [
+            "Auguri zi a Cocco"
+          ],
+          "messaggi": 1,
+          "mediaGiornaliera": 0.14
+        },
+        {
+          "name": "Alessio V.",
+          "voto": 7.5,
+          "giudizio": "Battuta epica sul dispositivo che 'te li RIMETTE i peli'. Ha comprato uno a Elisa. Chiede 'Come va la pipi?' e scatena la rivelazione rossa di Cocco.",
+          "highlights": [
+            "Battuta sul dispositivo rimettilepeli",
+            "Chiede aggiornamenti urinari",
+            "Regalo a Elisa"
+          ],
+          "messaggi": 6,
+          "mediaGiornaliera": 0.86
+        },
+        {
+          "name": "Alessio M.",
+          "voto": 6.5,
+          "giudizio": "Curioso sul libro: 'che libro e'?', 'sembra bello', 'Le ali della Liberta'?'. Partecipa al dibattito letterario con genuino interesse.",
+          "highlights": [
+            "Curiosita' sul libro",
+            "Indovina Le Ali della Liberta'"
+          ],
+          "messaggi": 2,
+          "mediaGiornaliera": 0.29
+        },
+        {
+          "name": "Federico",
+          "voto": 6.5,
+          "giudizio": "Nota che nelle foto sono tutti col casco. 'Che bravi tutti con il casco'. Auguri a Cocco. Presenza discreta.",
+          "highlights": [
+            "Apprezza sicurezza stradale",
+            "Auguri a Cocco"
+          ],
+          "messaggi": 2,
+          "mediaGiornaliera": 0.29
+        }
+      ]
     },
     {
       "startDate": "2025-09-01",
       "stats": {
-        "totalMessages": 0,
-        "activeMembers": 0,
-        "avgPerMember": 0
+        "totalMessages": 96,
+        "activeMembers": 7,
+        "avgPerMember": 13.71
       },
-      "riassunto": "",
-      "bestQuotes": [],
-      "pagelle": []
+      "riassunto": "Nino Frassica e il proiettore nel culo",
+      "bestQuotes": [
+        {
+          "quote": "Proiettore in culo a lei allora. Ringraziera' il figlio",
+          "author": "Cosimo"
+        },
+        {
+          "quote": "61 euro non e' poco... So belle finiti #fannoilfumo",
+          "author": "Federico"
+        },
+        {
+          "quote": "Morte di Rey si piange di piu', ma la morte di Yuza e' piu' memorabile",
+          "author": "Fausto"
+        }
+      ],
+      "pagelle": [
+        {
+          "name": "Adriano",
+          "voto": 6.5,
+          "giudizio": "Prima prenota Nino Frassica entusiasta, poi dopo il video si tira indietro: 'No allora aspettiamo un secondo... Salto'. 'Giec facciamo altro'. Il re delle retromarce dell'ultimo minuto.",
+          "highlights": [
+            "Entusiasta per Frassica poi si ritira",
+            "61 euro gli sembrano economici (poi salto)",
+            "Propone alternativa a Giacomo"
+          ],
+          "messaggi": 15,
+          "mediaGiornaliera": 2.14
+        },
+        {
+          "name": "Cosimo",
+          "voto": 8,
+          "giudizio": "Sul dissidente cinese: 'Proiettore in culo a lei allora. Ringraziera' il figlio'. Conferma Frassica e vuole portare il fratello di Renata, 'gran fan del Frassica'. Sempre presente.",
+          "highlights": [
+            "Battuta sul proiettore cinese",
+            "Vuole portare il cognato a Frassica",
+            "Quoto su Frankenstein"
+          ],
+          "messaggi": 15,
+          "mediaGiornaliera": 2.14
+        },
+        {
+          "name": "Fausto",
+          "voto": 7.5,
+          "giudizio": "Propone Frankenstein al cinema. Poi sul Frassica: 'Si ma se e' tutto cosi' con le canzoni mi fa cagare'. '61 euro costano troppo per Nino'. Si ritira anche lui. Filosofo di Ken il Guerriero: 'la morte di Toki la piu' incomprensibile'.",
+          "highlights": [
+            "Propone Frankenstein",
+            "Si ritira da Frassica",
+            "Filosofia sulle morti di Ken"
+          ],
+          "messaggi": 13,
+          "mediaGiornaliera": 1.86
+        },
+        {
+          "name": "Giacomo",
+          "voto": 8.5,
+          "giudizio": "Il Lider organizzatore: trova Frassica, gestisce le prenotazioni, sopporta i ritiri degli altri. 'Ma scusa se uno ci vuole andare tanto vale prenderli'. Alla fine: 'Adriano sei il peggio'. Amen.",
+          "highlights": [
+            "Organizza biglietti Frassica",
+            "Sopporta ritiri multipli",
+            "Accusa Adriano: sei il peggio"
+          ],
+          "messaggi": 18,
+          "mediaGiornaliera": 2.57
+        },
+        {
+          "name": "Alessio V.",
+          "voto": 7.5,
+          "giudizio": "Conferma Frassica senza esitazioni: 'Prendi anche per me!'. Trova il video completo: 'Praticamente e' un concerto con canzoncine demenziali. Il fratello di Renata ne andra' matto'.",
+          "highlights": [
+            "Conferma immediata per Frassica",
+            "Trova video completo dello spettacolo",
+            "Prevede successo col cognato"
+          ],
+          "messaggi": 12,
+          "mediaGiornaliera": 1.71
+        },
+        {
+          "name": "Alessio M.",
+          "voto": 7,
+          "giudizio": "Entusiasta: 'o mio dio, Nino Frassica e' il numero 1'. Conferma subito. Suggerisce alternative come Luca Ravenna, Montanini, Eleazaro. Il vero fan del cabaret.",
+          "highlights": [
+            "Nino Frassica numero 1",
+            "Conferma immediata",
+            "Suggerisce comici alternativi"
+          ],
+          "messaggi": 6,
+          "mediaGiornaliera": 0.86
+        },
+        {
+          "name": "Federico",
+          "voto": 7,
+          "giudizio": "Scettico dall'inizio: '61 euro non e' poco'. 'So belle finiti #fannoilfumo'. Poi guarda il video e salta pure lui. Ma almeno trova il video su YouTube per decidere.",
+          "highlights": [
+            "Scetticismo sui 61 euro",
+            "Hashtag fannoilfumo",
+            "Trova video per valutare"
+          ],
+          "messaggi": 17,
+          "mediaGiornaliera": 2.43
+        }
+      ]
     },
     {
       "startDate": "2025-09-08",
       "stats": {
-        "totalMessages": 0,
-        "activeMembers": 0,
-        "avgPerMember": 0
+        "totalMessages": 117,
+        "activeMembers": 7,
+        "avgPerMember": 16.71
       },
-      "riassunto": "",
-      "bestQuotes": [],
-      "pagelle": []
+      "riassunto": "Cistoscopio nel billo e emorroidi del Lider",
+      "bestQuotes": [
+        {
+          "quote": "Fatto. Ma devono morire",
+          "author": "Cosimo"
+        },
+        {
+          "quote": "Ano e' decisamente una delle parole piu' divertenti che ci sia",
+          "author": "Cosimo"
+        },
+        {
+          "quote": "La fine del retto si chiama anche 'ampolla fecale', anch'essa parola molto gioiosa",
+          "author": "Fausto"
+        }
+      ],
+      "pagelle": [
+        {
+          "name": "Adriano",
+          "voto": 7.5,
+          "giudizio": "Filosofo della settimana: 'Il Nepal e' da sempre un paese pacifico, ma non c'e' cattivo piu' cattivo di un buono che diventa cattivo'. Sul cistoscopio: 'Tutto finito ormai, grande Cocco'. Sulle emorroidi di Giacomo: 'Povera stella'.",
+          "highlights": [
+            "Filosofia sul Nepal e i buoni cattivi",
+            "Splendido Nepal condiviso",
+            "Compassione limitata per le emorroidi"
+          ],
+          "messaggi": 16,
+          "mediaGiornaliera": 2.29
+        },
+        {
+          "name": "Cosimo",
+          "voto": 9,
+          "giudizio": "L'eroe della settimana. Cistoscopio nel billo: 'Fatto. Ma devono morire. Male bestia'. Poi diventa filosofo: 'Ano e' decisamente una delle parole piu' divertenti che ci sia'. Bravi tutti. Disfacetevi.",
+          "highlights": [
+            "Cistoscopio: Male sul momento la morte",
+            "Filosofia sulla parola 'ano'",
+            "Emorroide ciliegia anni fa alla sbarra"
+          ],
+          "messaggi": 19,
+          "mediaGiornaliera": 2.71
+        },
+        {
+          "name": "Fausto",
+          "voto": 8,
+          "giudizio": "L'esperto proctologico: 'Purtroppo te la devi riinfilare dentro col dito, come fanno i veri esperti'. Poi la perla: 'La fine del retto si chiama ampolla fecale'. Un must. Suggerisce Anonet e Cateni per pranzo.",
+          "highlights": [
+            "Consigli sul reinserimento emorroidi",
+            "Lezione di anatomia: ampolla fecale",
+            "Suggerisce Anonet sapone specifico"
+          ],
+          "messaggi": 20,
+          "mediaGiornaliera": 2.86
+        },
+        {
+          "name": "Giacomo",
+          "voto": 7,
+          "giudizio": "La vittima: 'prima, terribile, esperienza con le emorroidi e pensavo di ammattire. Ho cacato con molta fatica tipo un sasso'. Buongiorno balenottere. Chiamato il dottore, cremina ordinata.",
+          "highlights": [
+            "Prima esperienza emorroidi traumatica",
+            "Cacata tipo sasso",
+            "Saluto: Buongiorno balenottere"
+          ],
+          "messaggi": 7,
+          "mediaGiornaliera": 1.0
+        },
+        {
+          "name": "Alessio V.",
+          "voto": 8,
+          "giudizio": "Il cronista della decadenza: 'I nostri corpi si stanno degradando'. Canta: 'NELL'ANOOO, ANOOO, nell'ANOOOOO'. Chiede aggiornamenti sul ginocchio di Federico. Solidale nel disfacimento collettivo.",
+          "highlights": [
+            "Canto dell'ano",
+            "Diagnosi: corpi in decadenza",
+            "Suggerisce Cateni per pranzo"
+          ],
+          "messaggi": 22,
+          "mediaGiornaliera": 3.14
+        },
+        {
+          "name": "Alessio M.",
+          "voto": 7,
+          "giudizio": "Condivide esperienze personali e commenta la situazione. Solidale con tutti i problemi intestinali e urinari del gruppo. 'bella roba vai'.",
+          "highlights": [
+            "Solidarieta' generale",
+            "Commenti sui meme Netflix",
+            "Bella roba vai"
+          ],
+          "messaggi": 16,
+          "mediaGiornaliera": 2.29
+        },
+        {
+          "name": "Federico",
+          "voto": 7.5,
+          "giudizio": "L'esperto di meme: spiega il meme Netflix sulle minoranze etniche. 'Siccome Netflix mette tutti attori di minoranze... l'immagine e' un meme'. Risonanza ok, era a correre mentre si parlava di ani.",
+          "highlights": [
+            "Spiega meme Netflix",
+            "Era a correre durante dibattito proctologico",
+            "Ginocchio stabile"
+          ],
+          "messaggi": 17,
+          "mediaGiornaliera": 2.43
+        }
+      ]
     },
     {
       "startDate": "2025-09-15",
       "stats": {
-        "totalMessages": 0,
-        "activeMembers": 0,
-        "avgPerMember": 0
+        "totalMessages": 55,
+        "activeMembers": 7,
+        "avgPerMember": 7.86
       },
-      "riassunto": "",
-      "bestQuotes": [],
-      "pagelle": []
+      "riassunto": "Nasce Bruno, 7 compresse al giorno e cena da organizzare",
+      "bestQuotes": [
+        {
+          "quote": "Attualmente sto prendendo 7 compresse + una bustina da sciogliere in acqua per di'. Bono dai",
+          "author": "Cosimo"
+        },
+        {
+          "quote": "39 anni e 364 giorni meno di Lucia",
+          "author": "Giacomo"
+        },
+        {
+          "quote": "Un atto meteorite prima o poi mettera' tutto a tacere",
+          "author": "Adriano"
+        }
+      ],
+      "pagelle": [
+        {
+          "name": "Adriano",
+          "voto": 7.5,
+          "giudizio": "Apocalittico: 'Un atto meteorite prima o poi mettera' tutto a tacere'. Sul nome Bruno: 'Forse il mio nome preferito'. Propone cena e poi scopre che ha amici di Elena in visita. Geniale timing.",
+          "highlights": [
+            "Profezia sul meteorite",
+            "Bruno nome preferito",
+            "Propone cena poi ha ospiti"
+          ],
+          "messaggi": 12,
+          "mediaGiornaliera": 1.71
+        },
+        {
+          "name": "Cosimo",
+          "voto": 8,
+          "giudizio": "Il paziente modello: '7 compresse + una bustina per di'. Tamsolusina, ibuprofene, cortisone, omeprazolo e integratori vari. Bono dai. Apprezza enormemente la scelta del nome Bruno.",
+          "highlights": [
+            "7 compresse al giorno",
+            "Lista farmaci completa",
+            "Enorme apprezzamento per Bruno"
+          ],
+          "messaggi": 14,
+          "mediaGiornaliera": 2.0
+        },
+        {
+          "name": "Fausto",
+          "voto": 7,
+          "giudizio": "Chiede che visto ha Alessio per gli USA. Congratula Bruno con 'GrandeBrunildo'. Ritrova un video su YouTube. Sempre curioso.",
+          "highlights": [
+            "Domanda sul visto H1B",
+            "GrandeBrunildo",
+            "Video ritrovato"
+          ],
+          "messaggi": 8,
+          "mediaGiornaliera": 1.14
+        },
+        {
+          "name": "Giacomo",
+          "voto": 8,
+          "giudizio": "Annuncia la nascita di Bruno, il terzo nipote: '39 anni e 364 giorni meno di Lucia'. Lucia sperava domani per il compleanno insieme. Il Lider zio orgoglioso.",
+          "highlights": [
+            "Annuncia nascita di Bruno",
+            "Calcolo preciso differenza d'eta'",
+            "Lucia mancato compleanno condiviso"
+          ],
+          "messaggi": 4,
+          "mediaGiornaliera": 0.57
+        },
+        {
+          "name": "Alessio V.",
+          "voto": 7.5,
+          "giudizio": "Condivide foto delle sue medicine: 'give me 5 brother, welcome to the club'. 5 compresse, 3 anni. Solidarieta' farmaceutica con Cosimo. Si organizza per la cena.",
+          "highlights": [
+            "Club delle medicine",
+            "5 compresse da 3 anni",
+            "Propone weekend cena"
+          ],
+          "messaggi": 10,
+          "mediaGiornaliera": 1.43
+        },
+        {
+          "name": "Alessio M.",
+          "voto": 6.5,
+          "giudizio": "Fa un giorno senza cellulare: 'tremendo, ci fanno diventare una tariffa'. Congrats per Bruno. Disponibile per la cena infrasettimana.",
+          "highlights": [
+            "Giorno senza cellulare",
+            "Riflessione sulla dipendenza",
+            "Ok per cena"
+          ],
+          "messaggi": 6,
+          "mediaGiornaliera": 0.86
+        },
+        {
+          "name": "Federico",
+          "voto": 6,
+          "giudizio": "Un messaggio: Sambuca, macelleria Francini. Efficienza assoluta. Proposta e via.",
+          "highlights": [
+            "Propone Macelleria Francini",
+            "Minimalismo comunicativo"
+          ],
+          "messaggi": 1,
+          "mediaGiornaliera": 0.14
+        }
+      ]
     },
     {
       "startDate": "2025-09-22",
       "stats": {
-        "totalMessages": 0,
-        "activeMembers": 0,
-        "avgPerMember": 0
+        "totalMessages": 60,
+        "activeMembers": 7,
+        "avgPerMember": 8.57
       },
-      "riassunto": "",
-      "bestQuotes": [],
-      "pagelle": []
+      "riassunto": "Cocco espelle il calcolo e sfoghi politici dagli USA",
+      "bestQuotes": [
+        {
+          "quote": "Io gli spaccherei la faccia a mattonate",
+          "author": "Cosimo"
+        },
+        {
+          "quote": "Non posso scrivere quello che penso perche' voglio rimanere qua a rubare i soldi un altro po'",
+          "author": "Alessio V."
+        },
+        {
+          "quote": "Dentato!!! La soddisfazione negli occhi",
+          "author": "Federico"
+        }
+      ],
+      "pagelle": [
+        {
+          "name": "Adriano",
+          "voto": 6.5,
+          "giudizio": "Poco presente ma celebra l'espulsione del calcolo: 'Per mille creste di gallo salificate!!! Ora bevi, non ti scordare'. Filosofico come sempre.",
+          "highlights": [
+            "Creste di gallo salificate",
+            "Ricorda a Cocco di bere",
+            "Chiede se operazione o niente"
+          ],
+          "messaggi": 4,
+          "mediaGiornaliera": 0.57
+        },
+        {
+          "name": "Cosimo",
+          "voto": 8.5,
+          "giudizio": "L'EROE. Foto del calcolo espulso: 'Dentato!!! Me lo incastono in un anello con teschio'. Fatto dal billo, sofferenza sopportabile. Poi sui politici: 'Io gli spaccherei la faccia a mattonate'. Complottista dichiarato.",
+          "highlights": [
+            "Calcolo espulso e fotografato",
+            "Piano anello con teschio",
+            "Vorrebbe spaccare facce"
+          ],
+          "messaggi": 13,
+          "mediaGiornaliera": 1.86
+        },
+        {
+          "name": "Fausto",
+          "voto": 6.5,
+          "giudizio": "Ride per l'espulsione del calcolo: 'Ahhhhhahahahahaha Sofferenzaaaaaa'. Condivide articolo sui data worker AI. Presente ma non dominante.",
+          "highlights": [
+            "Risata sulla sofferenza",
+            "Articolo su AI e lavoro",
+            "Partecipa al dibattito"
+          ],
+          "messaggi": 4,
+          "mediaGiornaliera": 0.57
+        },
+        {
+          "name": "Giacomo",
+          "voto": 7.5,
+          "giudizio": "Interrogatorio sul calcolo: 'Ma l'hai fatto dal billo alla fine?' 'Sofferenza assurda?' 'Ospedale?'. La famiglia Dolfi si congratula tutta per il lieto evento. Investigatore medico.",
+          "highlights": [
+            "Interrogatorio completo sul calcolo",
+            "Congratulazioni familiari",
+            "Bene cosi'!"
+          ],
+          "messaggi": 7,
+          "mediaGiornaliera": 1.0
+        },
+        {
+          "name": "Alessio V.",
+          "voto": 9,
+          "giudizio": "Sfogo epico sulla politica USA: 'Non posso scrivere quello che penso perche' voglio rimanere qua a rubare i soldi'. Tucker Carlson gli fa venire i brividi. 'Mr T ha detto che il paracetamolo fa venire l'autismo'. Ognuna di queste e' da rivoluzione popolare.",
+          "highlights": [
+            "Sfogo politico memorabile",
+            "Vuole rubare soldi ancora un po'",
+            "Ogni settimana roba da rivoluzione"
+          ],
+          "messaggi": 21,
+          "mediaGiornaliera": 3.0
+        },
+        {
+          "name": "Alessio M.",
+          "voto": 7.5,
+          "giudizio": "Festeggia l'espulsione: 'FANTASTICO CAZZZO ALLUCINANTE CAZZZO ANCORA OUCH AAAH'. Poi propone: 'Adriano e Federico organizzate una cena in onore dello zio!'. Entusiasta.",
+          "highlights": [
+            "Reazione esplosiva al calcolo",
+            "Propone cena celebrativa",
+            "CAZZZO x2"
+          ],
+          "messaggi": 8,
+          "mediaGiornaliera": 1.14
+        },
+        {
+          "name": "Federico",
+          "voto": 7,
+          "giudizio": "Celebra il calcolo: 'Dentato!!! La soddisfazione negli occhi'. Top. Partecipa al dibattito politico con spiegazioni sui video virali.",
+          "highlights": [
+            "Nota il calcolo dentato",
+            "Apprezza la soddisfazione",
+            "Partecipa ai dibattiti"
+          ],
+          "messaggi": 3,
+          "mediaGiornaliera": 0.43
+        }
+      ]
     },
     {
       "startDate": "2025-09-29",
       "stats": {
-        "totalMessages": 0,
-        "activeMembers": 0,
-        "avgPerMember": 0
+        "totalMessages": 41,
+        "activeMembers": 6,
+        "avgPerMember": 6.83
       },
-      "riassunto": "",
-      "bestQuotes": [],
-      "pagelle": []
+      "riassunto": "AI che sovverte la realta' e cena del 10 con Costanza",
+      "bestQuotes": [
+        {
+          "quote": "Vorrei investire in disconnessione",
+          "author": "Adriano"
+        },
+        {
+          "quote": "Se scrivo sul suo profilo che e' una gran fica e me la scoperei brutta troia, e' reato?",
+          "author": "Fausto"
+        },
+        {
+          "quote": "Vai agile",
+          "author": "Cosimo"
+        }
+      ],
+      "pagelle": [
+        {
+          "name": "Adriano",
+          "voto": 8,
+          "giudizio": "Filosofo tech-scettico: 'Vorrei investire in disconnessione'. 'L'unica salvezza e' la disconnessione'. Poi organizza la cena del 10 e invita anche Costanza. 'Ci potrebbe scappare anche una storica partita a carte'.",
+          "highlights": [
+            "Vuole investire in disconnessione",
+            "Organizza cena del 10",
+            "Invita Costanza"
+          ],
+          "messaggi": 18,
+          "mediaGiornaliera": 2.57
+        },
+        {
+          "name": "Cosimo",
+          "voto": 7,
+          "giudizio": "'Vai agile' per l'invito a Costanza. Conferma per la cena. Presente e collaborativo nonostante la convalescenza.",
+          "highlights": [
+            "Vai agile su Costanza",
+            "Conferma cena",
+            "Ottima idea"
+          ],
+          "messaggi": 4,
+          "mediaGiornaliera": 0.57
+        },
+        {
+          "name": "Fausto",
+          "voto": 7.5,
+          "giudizio": "Solleva questioni etiche epocali sull'attrice AI: 'Se scrivo che e' una gran fica e me la scoperei... e' reato?'. Si sdoganano video snuff per pedofili? 'Interessante questione etica'. Ha teatro il 10, salta la cena.",
+          "highlights": [
+            "Questioni etiche sull'AI",
+            "Articolo attrice virtuale",
+            "Salta cena per teatro"
+          ],
+          "messaggi": 6,
+          "mediaGiornaliera": 0.86
+        },
+        {
+          "name": "Giacomo",
+          "voto": 7,
+          "giudizio": "Conferma il 10 per la cena: 'Anche per me va bene i'ddieci'. Apprezza video comico: 'In effetti fa molto ridere'. Il Lider approva.",
+          "highlights": [
+            "Conferma cena i'ddieci",
+            "Ride ai video",
+            "Purtroppo non riesce a vedere Fausto"
+          ],
+          "messaggi": 3,
+          "mediaGiornaliera": 0.43
+        },
+        {
+          "name": "Alessio V.",
+          "voto": 7.5,
+          "giudizio": "Prevede il futuro: 'come le pocce finte, prima tanto slop, poi la gente iniziera' a fare pubblicita' con video con bambini VERI!'. Propone cena e organizza il 10. Nel Valdarno.",
+          "highlights": [
+            "Previsione sulle pocce finte",
+            "Propone data cena",
+            "Nel Valdarno durante richiesta Fausto"
+          ],
+          "messaggi": 7,
+          "mediaGiornaliera": 1.0
+        },
+        {
+          "name": "Alessio M.",
+          "voto": 7,
+          "giudizio": "Propone di organizzare con Fausto se non il 10: 'L'11 per esempio'. Pratico e disponibile. Tutte ottime idee sulla cena.",
+          "highlights": [
+            "Propone 11 per Fausto",
+            "Tutte ottime idee",
+            "Flessibile su date"
+          ],
+          "messaggi": 3,
+          "mediaGiornaliera": 0.43
+        },
+        {
+          "name": "Federico",
+          "voto": 5,
+          "giudizio": "Non pervenuto.",
+          "highlights": [],
+          "messaggi": 0,
+          "mediaGiornaliera": 0
+        }
+      ]
     },
     {
       "startDate": "2025-10-06",
@@ -4366,65 +5430,65 @@
   "cumulative": [
     {
       "name": "Cosimo",
-      "settimaneAttive": 43,
-      "totalMessaggi": 205,
-      "mediaVoto": 7.47,
+      "settimaneAttive": 53,
+      "totalMessaggi": 351,
+      "mediaVoto": 7.52,
       "bestVoto": 9,
       "worstVoto": 6.0,
       "signature": ""
     },
     {
       "name": "Adriano",
-      "settimaneAttive": 42,
-      "totalMessaggi": 234,
-      "mediaVoto": 7.46,
+      "settimaneAttive": 53,
+      "totalMessaggi": 386,
+      "mediaVoto": 7.39,
       "bestVoto": 9,
       "worstVoto": 3,
       "signature": ""
     },
     {
-      "name": "Fausto",
-      "settimaneAttive": 42,
-      "totalMessaggi": 110,
-      "mediaVoto": 7.27,
+      "name": "Alessio V.",
+      "settimaneAttive": 53,
+      "totalMessaggi": 199,
+      "mediaVoto": 7.26,
       "bestVoto": 9,
-      "worstVoto": 6.5,
+      "worstVoto": 5,
       "signature": ""
     },
     {
-      "name": "Alessio V.",
-      "settimaneAttive": 42,
-      "totalMessaggi": 60,
+      "name": "Fausto",
+      "settimaneAttive": 53,
+      "totalMessaggi": 200,
       "mediaVoto": 7.24,
       "bestVoto": 9,
-      "worstVoto": 6.0,
+      "worstVoto": 5,
       "signature": ""
     },
     {
       "name": "Giacomo",
-      "settimaneAttive": 43,
-      "totalMessaggi": 80,
+      "settimaneAttive": 53,
+      "totalMessaggi": 138,
       "mediaVoto": 6.97,
       "bestVoto": 9,
       "worstVoto": 5.0,
       "signature": ""
     },
     {
-      "name": "Alessio M.",
-      "settimaneAttive": 33,
-      "totalMessaggi": 126,
-      "mediaVoto": 6.88,
-      "bestVoto": 8.5,
+      "name": "Federico",
+      "settimaneAttive": 35,
+      "totalMessaggi": 118,
+      "mediaVoto": 6.73,
+      "bestVoto": 8,
       "worstVoto": 5,
       "signature": ""
     },
     {
-      "name": "Federico",
-      "settimaneAttive": 25,
-      "totalMessaggi": 14,
-      "mediaVoto": 6.8,
-      "bestVoto": 7.5,
-      "worstVoto": 5.5,
+      "name": "Alessio M.",
+      "settimaneAttive": 53,
+      "totalMessaggi": 192,
+      "mediaVoto": 6.48,
+      "bestVoto": 8.5,
+      "worstVoto": 5,
       "signature": ""
     }
   ],
