@@ -148,7 +148,7 @@
         {
           "name": "Cosimo",
           "voto": 8,
-          "giudizio": "Apre il dibattito filosofico della settimana: 'Ma te il bidet c'e l'hai?'. Scopre con orrore che Alessio in America si lava nella vasca. Si vanta dei 'gran bidet a lavoro'. Eroe igienico.",
+          "giudizio": "Apre il dibattito filosofico della settimana: 'Ma te il bidet c'e l'hai?'. Scopre con orrore che Alessio V. in America si lava nella vasca. Si vanta dei 'gran bidet a lavoro'. Eroe igienico.",
           "highlights": [
             "Inizia l'epico dibattito sul bidet",
             "Shockato dalla mancanza di bidet in USA",
@@ -321,7 +321,7 @@
           "giudizio": "Si trasforma completamente. Coordina il gruppo durante la tragedia, va a Careggi, organizza fiori e raccolta fondi. Da pecora nera a pilastro del gruppo. A casa sua 'si piange e basta'.",
           "highlights": [
             "Primo a proporre di andare a Careggi",
-            "Offre passaggio al Maca per andare all'ospedale",
+            "Offre passaggio al Alessio M. per andare all'ospedale",
             "Coordina organizzazione fiori e funerale"
           ],
           "messaggi": 0,
@@ -346,7 +346,7 @@
           "highlights": [
             "Comunica al gruppo la morte cerebrale di Andrea",
             "Organizza corona di fiori per il funerale",
-            "Chiama il Maca per informarlo della tragedia"
+            "Chiama Alessio M. per informarlo della tragedia"
           ],
           "messaggi": 0,
           "mediaGiornaliera": 0
@@ -439,11 +439,11 @@
         {
           "name": "Giacomo",
           "voto": 8,
-          "giudizio": "Il Lider organizza la logistica: Dream Cafe', posto in macchina per tutti, prenotazione al Cavaliere Errante. Sorpresa: aveva gia' prenotato per il Maca senza dirglielo.",
+          "giudizio": "Il Lider organizza la logistica: Dream Cafe', posto in macchina per tutti, prenotazione al Cavaliere Errante. Sorpresa: aveva gia' prenotato per Alessio M. senza dirglielo.",
           "highlights": [
             "Coordina partenza da Siena con tutti",
             "Prenota cena al Cavaliere Errante",
-            "Aveva prenotato per il Maca che non sapeva"
+            "Aveva prenotato per Alessio M. che non sapeva"
           ],
           "messaggi": 0,
           "mediaGiornaliera": 0
@@ -730,7 +730,7 @@
         {
           "name": "Adriano",
           "voto": 7,
-          "giudizio": "Troppo presto per montare in macchina e ascoltare Radio 1. Quando scopre che anche Alessio la ascolta, minaccia di smettere: 'va cosi' di moda smettero' io'. Il contrarian del gruppo.",
+          "giudizio": "Troppo presto per montare in macchina e ascoltare Radio 1. Quando scopre che anche Alessio V. la ascolta, minaccia di smettere: 'va cosi' di moda smettero' io'. Il contrarian del gruppo.",
           "highlights": [
             "Troppo pigro per ascoltare Radio 1 presto",
             "Minaccia di smettere perche' va di moda",
@@ -912,11 +912,11 @@
         {
           "name": "Giacomo",
           "voto": 7.5,
-          "giudizio": "Annuncia la morte di Bruno Pizzul: 'Brutta notizia'. Non riesce a liberarsi sabato. Chiede al Maca se puo' ri-uscire. Il Lider informato e premuroso.",
+          "giudizio": "Annuncia la morte di Bruno Pizzul: 'Brutta notizia'. Non riesce a liberarsi sabato. Chiede al Alessio M. se puo' ri-uscire. Il Lider informato e premuroso.",
           "highlights": [
             "Annuncia morte di Bruno Pizzul",
             "Difficile liberarsi dal weekend",
-            "Chiede al Maca del recupero"
+            "Chiede al Alessio M. del recupero"
           ],
           "messaggi": 0,
           "mediaGiornaliera": 0
@@ -1561,7 +1561,7 @@
         {
           "name": "Cosimo",
           "voto": 8.0,
-          "giudizio": "Prima reazione alla morte del Papa: 'Poteva andare peggio. Poteva cadere un meteorite all'Arbia'. I compleannari sono gentaglia. Foto del 25 Aprile. Fa gli auguri ad Alessio anche dal Lenzi.",
+          "giudizio": "Prima reazione alla morte del Papa: 'Poteva andare peggio. Poteva cadere un meteorite all'Arbia'. I compleannari sono gentaglia. Foto del 25 Aprile. Fa gli auguri ad Alessio V. anche dal Lenzi.",
           "highlights": [
             "Relativismo cosmico sulla morte del Papa",
             "Filosofia anti-compleannara",
@@ -1573,7 +1573,7 @@
         {
           "name": "Adriano",
           "voto": 7.5,
-          "giudizio": "Catastrofismo pasquale: 'Durante un'alluvione seguita da incendio successivo a un terremoto con epicentro via Marche 16'. Si dimentica del compleanno di Alessio: 'Ah gia', ce ne siamo scordati tutti. Sorry!!!' Eccitato dalla Francesca 'un casino'.",
+          "giudizio": "Catastrofismo pasquale: 'Durante un'alluvione seguita da incendio successivo a un terremoto con epicentro via Marche 16'. Si dimentica del compleanno di Alessio V.: 'Ah gia', ce ne siamo scordati tutti. Sorry!!!' Eccitato dalla Francesca 'un casino'.",
           "highlights": [
             "Scenari apocalittici combinati",
             "Dimenticanza del compleanno con scuse",
@@ -1608,7 +1608,7 @@
         {
           "name": "Fausto",
           "voto": 6.5,
-          "giudizio": "Unico a ricordarsi del compleanno di Alessio (anche se in ritardo): 'Anche se con estremo ritardo, che mi perdonera' visto che ero in viaggio'. Teorie sulla morte del Papa: 'lo hanno ammazzato approfittando che stava male'.",
+          "giudizio": "Unico a ricordarsi del compleanno di Alessio V. (anche se in ritardo): 'Anche se con estremo ritardo, che mi perdonera' visto che ero in viaggio'. Teorie sulla morte del Papa: 'lo hanno ammazzato approfittando che stava male'.",
           "highlights": [
             "Unico a fare gli auguri (in ritardo)",
             "Teorie complottiste sul Papa"
@@ -1860,10 +1860,10 @@
         {
           "name": "Giacomo",
           "voto": 8.0,
-          "giudizio": "Giugno e' il Green Day month. Vuole ascoltare il podcast. 'Il 20 torna Alessio... iniziamo a pensare alla cena'. Il Leader stanco che forse lascera' la questione Federico al prossimo. I cappellini dovrebbero farli piu' grossi.",
+          "giudizio": "Giugno e' il Green Day month. Vuole ascoltare il podcast. 'Il 20 torna Alessio V.... iniziamo a pensare alla cena'. Il Leader stanco che forse lascera' la questione Federico al prossimo. I cappellini dovrebbero farli piu' grossi.",
           "highlights": [
             "Annuncio mese Green Day",
-            "Organizzazione cena per Alessio",
+            "Organizzazione cena per Alessio V.",
             "Stanchezza da Leader"
           ],
           "messaggi": 15,
@@ -1981,7 +1981,7 @@
         {
           "name": "Giacomo",
           "voto": 7.5,
-          "giudizio": "Lider organizzativo: propone subito di fissare la cena aperipoker per il rientro di Alessio. Pietro va alle semifinali di matematica a Pisa. Orgoglio paterno che tracima.",
+          "giudizio": "Lider organizzativo: propone subito di fissare la cena aperipoker per il rientro di Alessio V.. Pietro va alle semifinali di matematica a Pisa. Orgoglio paterno che tracima.",
           "highlights": [
             "Lancia l'organizzazione cena aperipoker",
             "Pietro alle olimpiadi di matematica",
@@ -1997,7 +1997,7 @@
           "highlights": [
             "Accetta cena pur sapendo che Renata lo inculera'",
             "Definisce la serata con un semplice 'Fradici'",
-            "Nota l'espressione 'un po' cosi'' di Alessio"
+            "Nota l'espressione 'un po' cosi'' di Alessio V."
           ],
           "messaggi": 0,
           "mediaGiornaliera": 0
@@ -2345,11 +2345,11 @@
         {
           "name": "Adriano",
           "voto": 8,
-          "giudizio": "Cammino Pontassieve-Camaldoli: tre giorni di cammino, 17 km al giorno. Sempre un piacere quando Alessio torna, sempre un dispiacere quando riparte. Poeta sentimentale.",
+          "giudizio": "Cammino Pontassieve-Camaldoli: tre giorni di cammino, 17 km al giorno. Sempre un piacere quando Alessio V. torna, sempre un dispiacere quando riparte. Poeta sentimentale.",
           "highlights": [
             "Cammino Pontassieve-Camaldoli completato",
             "17 km al giorno",
-            "Riflessione dolceamara sulla partenza di Alessio"
+            "Riflessione dolceamara sulla partenza di Alessio V."
           ],
           "messaggi": 0,
           "mediaGiornaliera": 0
@@ -3551,9 +3551,9 @@
         {
           "name": "Cosimo",
           "voto": 7,
-          "giudizio": "Sempre perso su dove sta Alessio. 'Non si capisce mai una sega qui'. Analisi finanziaria: missile al culo in arrivo il venerdi'. Puppole = Crucole a Pitigliano.",
+          "giudizio": "Sempre perso su dove sta Alessio V.. 'Non si capisce mai una sega qui'. Analisi finanziaria: missile al culo in arrivo il venerdi'. Puppole = Crucole a Pitigliano.",
           "highlights": [
-            "Confuso dalla geografia di Alessio",
+            "Confuso dalla geografia di Alessio V.",
             "Previsioni finanziarie catastrofiche",
             "Lezione di dialetto sui funghi"
           ],
@@ -4067,7 +4067,7 @@
         {
           "name": "Adriano",
           "voto": 7,
-          "giudizio": "Sfida per il gruppo che il leader non ha confermato. Propone di mettere 2000 euro nel conto di Alessio. Capodanno forse Casentino. 5 libri in un mese. Prosciutteria o Bottega Roots per l'aperitivo.",
+          "giudizio": "Sfida per il gruppo che il leader non ha confermato. Propone di mettere 2000 euro nel conto di Alessio V.. Capodanno forse Casentino. 5 libri in un mese. Prosciutteria o Bottega Roots per l'aperitivo.",
           "highlights": [
             "Sfida non autorizzata",
             "Capodanno incerto",
@@ -4281,11 +4281,11 @@
         {
           "name": "Adriano",
           "voto": 7,
-          "giudizio": "Tornato dalla Carinzia, purtroppo. Non si ricordava che Alessio fosse un tipo da mare. In che isola di merda sei? Chiude l'anno con nostalgia del resort.",
+          "giudizio": "Tornato dalla Carinzia, purtroppo. Non si ricordava che Alessio V. fosse un tipo da mare. In che isola di merda sei? Chiude l'anno con nostalgia del resort.",
           "highlights": [
             "Ritorno dalla vacanza",
             "Nostalgia fregna",
-            "Sorpreso dal mare di Alessio"
+            "Sorpreso dal mare di Alessio V."
           ],
           "messaggi": 0,
           "mediaGiornaliera": 0
@@ -4340,7 +4340,7 @@
         {
           "name": "Federico",
           "voto": 7,
-          "giudizio": "Boss! Nota che manca il passaggio sul nuovo socio nel report di Cocco. L'unico neo sono i suggerimenti di Adriano sul medical. Bella vita ad Alessio!",
+          "giudizio": "Boss! Nota che manca il passaggio sul nuovo socio nel report di Cocco. L'unico neo sono i suggerimenti di Adriano sul medical. Bella vita ad Alessio V.!",
           "highlights": [
             "Commento sul report",
             "Critica ad Adriano",
