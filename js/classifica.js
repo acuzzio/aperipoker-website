@@ -150,11 +150,12 @@ function renderHourlyChart(hourlyData) {
         if (value > maxValue) maxValue = value;
     }
 
+    const maxHeight = 140; // pixels
     container.innerHTML = hours.map(h => {
-        const heightPercent = maxValue > 0 ? (h.value / maxValue) * 100 : 0;
+        const heightPx = maxValue > 0 ? Math.max(3, (h.value / maxValue) * maxHeight) : 3;
         return `
             <div class="bar-vertical">
-                <div class="bar-vertical-fill" style="height: ${heightPercent}%"></div>
+                <div class="bar-vertical-fill" style="height: ${heightPx}px"></div>
                 <span class="bar-vertical-label">${h.hour}</span>
             </div>
         `;
@@ -179,12 +180,13 @@ function renderDailyChart(dailyData) {
         if (value > maxValue) maxValue = value;
     }
 
+    const maxHeight = 80; // pixels
     container.innerHTML = days.map(d => {
-        const heightPercent = maxValue > 0 ? (d.value / maxValue) * 100 : 0;
+        const heightPx = maxValue > 0 ? Math.max(3, (d.value / maxValue) * maxHeight) : 3;
         return `
             <div class="weekday-bar">
                 <div class="weekday-bar-container">
-                    <div class="weekday-bar-fill" style="height: ${heightPercent}%"></div>
+                    <div class="weekday-bar-fill" style="height: ${heightPx}px"></div>
                 </div>
                 <span class="weekday-label">${d.name}</span>
                 <span class="weekday-value">${formatNumber(d.value)}</span>

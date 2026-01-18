@@ -631,37 +631,32 @@ footer {
 .bar-chart-vertical {
     display: flex;
     align-items: flex-end;
-    justify-content: space-between;
-    height: 180px;
+    justify-content: space-around;
+    height: 200px;
     gap: 2px;
     background: var(--bg-light);
     border-radius: 8px;
-    padding: 1rem 0.5rem 2rem;
+    padding: 1rem 0.5rem 1.5rem;
 }
 
 .bar-vertical {
-    flex: 1;
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: flex-end;
-    height: 120px;
-    max-width: 40px;
-    position: relative;
+    width: 100%;
+    max-width: 30px;
 }
 
 .bar-vertical-fill {
-    width: 80%;
+    width: 100%;
     background: linear-gradient(0deg, var(--primary), var(--primary-light));
     border-radius: 3px 3px 0 0;
-    transition: height 0.3s ease;
-    min-height: 2px;
+    min-height: 3px;
 }
 
 .bar-vertical-label {
-    position: absolute;
-    bottom: -20px;
-    font-size: 0.65rem;
+    margin-top: 4px;
+    font-size: 0.6rem;
     color: var(--text-muted);
     text-align: center;
 }
