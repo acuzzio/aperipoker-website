@@ -1,0 +1,120 @@
+{
+  "anno": 2024,
+  "settimana": 10,
+  "startDate": "2024-03-04",
+  "endDate": "2024-03-10",
+  "stats": {
+    "totalMessages": 94,
+    "activeMembers": 6,
+    "avgPerMember": 15.7
+  },
+  "riassunto": "Settimana epica dominata dall'organizzazione per andare a vedere Dune 2 al cinema. Tra ripensamenti sul giorno (giovedi vs venerdi), problemi logistici di Cosimo coi suoceri e l'immancabile senso pratico di Fausto che prenota i biglietti, il gruppo riesce finalmente a vedersi. L'esperienza in prima fila al cinema provoca labirintiti, tossi da subwoofer e sedie scorreggianti. Nel frattempo Alessio V. annuncia euforico il suo viaggio a Memphis per l'eclissi solare.",
+  "bestQuotes": [
+    {
+      "quote": "Poi c'era il subwoofer che faceva tossire cocco",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "La cronaca surreale della serata cinema in prima fila"
+    },
+    {
+      "quote": "Il sedile di alessio che scorreggiava",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Sequel della cronaca cinematografica"
+    },
+    {
+      "quote": "Io mi so infradiciato a pranzo e m'e' risalita la botta. Ora sto in coma.",
+      "author": "Cosimo Nenciòni",
+      "context": "L'hangover post-Dune di Cosimo"
+    },
+    {
+      "quote": "Tocca rivedello. Possibilmente sul cellulare",
+      "author": "Cosimo Nenciòni",
+      "context": "Sarcasmo puro dopo 3 ore di IMAX in prima fila"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Fausto Petrini",
+      "voto": 8.5,
+      "giudizio": "Il trascinatore ha colpito ancora. Ha organizzato la serata Dune con la precisione di un generale e la flessibilita di un giunco: giovedi, no venerdi, no torna giovedi. Ha preso i biglietti just in time (restavano solo 4 posti!), ha offerto ospitalita ad Adriano, e poi ha scritto la recensione del film come un critico di Cahiers du Cinema sotto acido.",
+      "messaggi": 21,
+      "mediaGiornaliera": 4.2,
+      "highlights": [
+        "Organizzazione impeccabile della serata Dune nonostante i cambi di programma",
+        "Ha preso i biglietti all'ultimo momento salvando la serata",
+        "Recensione cinematografica epica: 'era cosi coinvolgente che era stancante'"
+      ],
+      "citazioneTop": "Esperienza cinematografica totale, forse pure troppo"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 8.0,
+      "giudizio": "Il re della chat ha fornito il miglior live-tweeting post-cinema della storia del gruppo. Tra labirintiti, subwoofer che fanno tossire e sedie scorreggianti, ha trasformato una semplice uscita al cinema in materiale da stand-up comedy. Bonus per il traffico sul raccordo descritto con poesia.",
+      "messaggi": 21,
+      "mediaGiornaliera": 5.25,
+      "highlights": [
+        "Cronaca esilarante della serata cinema in prima fila",
+        "Ha accettato di dormire da Fausto come se nulla fosse: 'Come se avessi accettato!'",
+        "Trollaggio a Giacomo sul film Caracas: 'un chi cazzo se ne frega ce lo aggiungi?'"
+      ],
+      "citazioneTop": "No il collo andava bene. E' l'attacco di labirintite che mi infastidiva"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 7.0,
+      "giudizio": "Il saggio zen ha partecipato con la sua solita calma olimpica, smistando proposte di orari e posti con efficienza svizzera. Ha indovinato l'eclissi solare di Alessio V. dimostrando doti divinatorie o un uso smodato di Google.",
+      "messaggi": 17,
+      "mediaGiornaliera": 3.4,
+      "highlights": [
+        "Ha coordinato l'appuntamento al Dream Cafe con precisione chirurgica",
+        "Indovinato il motivo del viaggio a Memphis (eclissi solare)",
+        "Sempre presente e reattivo nelle discussioni organizzative"
+      ],
+      "citazioneTop": "Eclissi di sole?"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 7.5,
+      "giudizio": "Il giramondo ha portato un po' di entusiasmo tropicale nel gruppo con l'annuncio del viaggio a Memphis per l'eclissi. 'Sono ecccccitatisssssimo' riassume perfettamente la sua energia. Bonus per il 'W PASQUALE' sparato a caso che nessuno ha capito ma tutti hanno apprezzato.",
+      "messaggi": 13,
+      "mediaGiornaliera": 2.6,
+      "highlights": [
+        "Annuncio entusiastico del viaggio a Memphis per l'eclissi solare",
+        "Ha mandato gli auguri di buona visione per Dune",
+        "Il misterioso 'W PASQUALE' che ha confuso tutti"
+      ],
+      "citazioneTop": "sono ecccccitatisssssimo"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 7.5,
+      "giudizio": "Il provocatore ha iniziato lui la discussione su Dune e poi ha dovuto fare i conti con la realta dei suoceri. La sua spiegazione del perche preferiva giovedi e' stata un capolavoro di onesta e organizzazione familiare. Post-cinema, ha sfornato battute perfette sull'esperienza in prima fila.",
+      "messaggi": 12,
+      "mediaGiornaliera": 4.0,
+      "highlights": [
+        "Ha lanciato la proposta cinema per giovedi",
+        "Gestione diplomatica del conflitto suoceri/amici",
+        "Battute perfette post-cinema: rivedere Dune sul cellulare"
+      ],
+      "citazioneTop": "Tocca rivedello. Possibilmente sul cellulare"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 6.0,
+      "giudizio": "Il fondatore ha partecipato da osservatore interessato, chiedendo com'era andato il film a cui non era andato. Ha provato a raccontare di Caracas ma Adriano l'ha stoppato subito. Almeno ha fornito insider info sul subwoofer del cinema.",
+      "messaggi": 10,
+      "mediaGiornaliera": 2.5,
+      "highlights": [
+        "Ha chiesto ripetutamente com'era andato Dune (con un po' di invidia?)",
+        "Ha tentato di parlare di Caracas (tentativo fallito)",
+        "Ha spiegato il mistero del subwoofer che fa tossire"
+      ],
+      "citazioneTop": "Il subwoofer lo fa. Non e' il primo che me lo dice"
+    }
+  ],
+  "awards": {
+    "mvp": "Fausto Petrini - L'organizzatore che ha reso possibile la serata Dune",
+    "comico": "Adriano Sergio Lorenzo Facchini - Cronaca post-cinema da antologia",
+    "cuore": "Cosimo Nenciòni - Ha messo il gruppo davanti ai suoceri (quasi)",
+    "fantasma": null
+  }
+}

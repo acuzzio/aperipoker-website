@@ -1,0 +1,118 @@
+{
+  "anno": 2024,
+  "settimana": 29,
+  "startDate": "2024-07-15",
+  "endDate": "2024-07-21",
+  "stats": {
+    "totalMessages": 82,
+    "activeMembers": 6,
+    "avgPerMember": 13.7
+  },
+  "riassunto": "Settimana dominata da eventi epocali: si parte con l'attentato a Trump e i paragoni con Berlusconi ('questo e' quello che puoi fare quando invece di avere una statuetta del duomo ti danno un fucile'), si passa al famoso down informatico globale di Microsoft/CrowdStrike che ha paralizzato mezzo mondo, e si chiude con il ritiro di Biden dalla corsa presidenziale. Nel mezzo, una serata da Cosimo che non si concretizza mai e una lezione magistrale di Alessio V sul perche' 'La follia della donna' si chiama 'parte 1'. Settimana filosofica tra apocalissi informatiche e misteri musicali.",
+  "bestQuotes": [
+    {
+      "quote": "questo e' quello che puoi fare quando invece di avere una statuetta del duomo ti danno un fucile",
+      "author": "Alessio Valentini",
+      "context": "Paragone fulminante tra l'attentato a Trump e quello a Berlusconi"
+    },
+    {
+      "quote": "Io penso alla conversione quando ritrovo la sigaretta elettronica quando credo di averla persa",
+      "author": "Cosimo Nencioni",
+      "context": "Sulla fortuna di Trump di essere sopravvissuto all'attentato"
+    },
+    {
+      "quote": "Le nostre vite possono essere immobilizzate per sempre con un click",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Riflessione apocalittica sul down informatico globale"
+    },
+    {
+      "quote": "In un altra vita saremo dei trombatori senz'altro vizio",
+      "author": "Cosimo Nencioni",
+      "context": "Filosofia esistenziale del martedi mattina"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Alessio Valentini",
+      "voto": 8.5,
+      "giudizio": "Il professore della settimana. Non contento di aver sganciato la battuta migliore sull'attentato a Trump, si e' lanciato in una dissertazione musicologica su 'La follia della donna parte 1' e i Pink Floyd che avrebbe fatto invidia a un critico di Rolling Stone. Dal Messico con furore intellettuale.",
+      "messaggi": 26,
+      "mediaGiornaliera": 3.7,
+      "highlights": [
+        "La battuta sulla statuetta del duomo vs il fucile",
+        "La lezione sui Pink Floyd e le canzoni che finiscono con l'inizio di un'altra"
+      ],
+      "citazioneTop": "questo e' quello che puoi fare quando invece di avere una statuetta del duomo ti danno un fucile"
+    },
+    {
+      "name": "Cosimo Nencioni",
+      "voto": 8.0,
+      "giudizio": "Con 'Io penso alla conversione quando ritrovo la sigaretta elettronica' ha dimostrato che non serve sparare proiettili per colpire nel segno. Ha provato a organizzare una serata a casa sua ('pasta e rizzati') ma nessuno lo ha cagato. Il solito destino dell'anfitrione incompreso.",
+      "messaggi": 16,
+      "mediaGiornaliera": 2.3,
+      "highlights": [
+        "La metafora della sigaretta elettronica perduta",
+        "Il tentativo di organizzare serata a casa sua",
+        "La discussione musicale con Alessio V"
+      ],
+      "citazioneTop": "Io penso alla conversione quando ritrovo la sigaretta elettronica quando credo di averla persa"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 7.0,
+      "giudizio": "Il Re della Chat ha avuto una settimana da filosofo apocalittico: dal commento sul down informatico ('Le nostre vite possono essere immobilizzate per sempre con un click') alla fiorentina al Grillo Moro. Ha anche proposto un weekend senza Fausto, confermandosi 'solito bullo'. Presente ma non dominante.",
+      "messaggi": 16,
+      "mediaGiornaliera": 2.3,
+      "highlights": [
+        "Prima segnalazione del down Microsoft alle 7:44",
+        "Link notturno alle 3:04 sulle teorie complottiste",
+        "La proposta di weekend senza Fausto"
+      ],
+      "citazioneTop": "Le nostre vite possono essere immobilizzate per sempre con un click"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 6.5,
+      "giudizio": "Il Trascinatore questa settimana ha trascinato poco. Ha condiviso link informativi sul down, ha risposto 'Plebiscitario' a qualcosa che non sappiamo, e ha proposto martedi per vedersi. Gli hanno risposto 'piu no che si'. La solita routine dell'organizzatore frustrato.",
+      "messaggi": 13,
+      "mediaGiornaliera": 1.9,
+      "highlights": [
+        "Link informativi sul guasto CrowdStrike",
+        "Ha collegato 'La follia della donna' ai Pink Floyd",
+        "Proposta serata martedi (esito: vedremo)"
+      ],
+      "citazioneTop": "Va beh, e' l'america"
+    },
+    {
+      "name": "Alessio Macaluso",
+      "voto": 6.0,
+      "giudizio": "Lo Zen Master ha parlato poco ma ha dato la notizia del giorno: 'Alla fine Biden s'e' ritirato'. Ha anche risposto 'Piu no che si ti fo sapere' alla proposta di Fausto, con la consueta diplomazia laconicamente devastante. Presenza equilibrata, come sempre.",
+      "messaggi": 6,
+      "mediaGiornaliera": 0.9,
+      "highlights": [
+        "Ha dato la breaking news su Biden",
+        "Il 'Tutto verissimo' perfettamente piazzato",
+        "Il diplomatico 'Piu no che si ti fo sapere'"
+      ],
+      "citazioneTop": "Alla fine Biden s'e' ritirato"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 5.5,
+      "giudizio": "Il Fondatore ha fatto capolino solo il 16 luglio, a casa da solo con Luia. Ha declinato la serata ('stasera io, purtroppo, non ce la faccio') e poi e' sparito per il resto della settimana. La domanda di Adriano 'Ma nell'onda trombi?' e' rimasta senza risposta soddisfacente.",
+      "messaggi": 5,
+      "mediaGiornaliera": 0.7,
+      "highlights": [
+        "A casa da solo con Luia",
+        "La risposta sibillina 'per ora no'"
+      ],
+      "citazioneTop": "Luia non e' male"
+    }
+  ],
+  "awards": {
+    "mvp": "Alessio Valentini - Per la battuta sull'attentato e la lezione sui Pink Floyd",
+    "comico": "Cosimo Nencioni - La metafora della sigaretta elettronica e la conversione",
+    "cuore": "Alessio Valentini - Ha condiviso una scoperta musicale con genuino entusiasmo",
+    "fantasma": "Giacomo Dolfi - 5 messaggi in un solo giorno, poi silenzio"
+  }
+}

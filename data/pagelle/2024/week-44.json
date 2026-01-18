@@ -1,0 +1,123 @@
+{
+  "anno": 2024,
+  "settimana": 44,
+  "startDate": "2024-10-28",
+  "endDate": "2024-11-03",
+  "stats": {
+    "totalMessages": 24,
+    "activeMembers": 6,
+    "avgPerMember": 4.0
+  },
+  "riassunto": "Settimana tranquilla segnata dalla vittoria della Meloni in Liguria e dal compleanno di Alessio Mac (che Adriano sbaglia di un giorno). Giacomo apre le danze con un commento politico sarcastico, si organizza la cena del 9 novembre con famiglie al seguito. Il gruppo dibatte su location e logistica mentre Cosimo valuta se portare Luna. La settimana si chiude con gli auguri in ritardo e il classico 'troppe canne' di Adriano che ammette l'errore.",
+  "bestQuotes": [
+    {
+      "quote": "Se la Meloni e' riuscita a vincere anche in Liguria credo che avremo la fortuna di godercela per davvero tanto tempo!",
+      "author": "Giacomo Dolfi",
+      "context": "Il Lider apre la settimana con un commento politico che trasuda ironia amara"
+    },
+    {
+      "quote": "Ordine e disciplina. A me mi sta quasi convincendo",
+      "author": "Fausto Petrini",
+      "context": "Fausto risponde con sarcasmo alla notizia politica"
+    },
+    {
+      "quote": "Scusi lei e' genovese?",
+      "author": "Alessio Macalùso",
+      "context": "Battuta zen che chiude la discussione politica con classe"
+    },
+    {
+      "quote": "Oh cazzo... Convinto oggi fosse il 2... Troppe canne",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Adriano si giustifica per aver sbagliato il giorno del compleanno di Alessio"
+    },
+    {
+      "quote": "Manfatti",
+      "author": "Cosimo Nenciòni",
+      "context": "Cosimo conferma laconicamente le troppe canne di Adriano"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 6.5,
+      "giudizio": "Ha fatto gli auguri ad Alessio con un giorno di ritardo alle 5 del mattino, poi si e' giustificato con 'troppe canne'. Almeno ha ammesso l'errore con onesta' disarmante. Elena a New York lo lascia solo per la cena del 9, ma lui c'e' sempre.",
+      "messaggi": 8,
+      "mediaGiornaliera": 1.1,
+      "highlights": [
+        "Auguri entusiasti ma in ritardo di un giorno",
+        "Auto-critica onesta: 'Convinto oggi fosse il 2'",
+        "Presente alla cena anche da solo"
+      ],
+      "citazioneTop": "Oh cazzo... Convinto oggi fosse il 2... Troppe canne"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 8.0,
+      "giudizio": "Il festeggiato della settimana prende in mano l'organizzazione della cena del 9 come un vero leader. Propone location, chiede conferme, gestisce la logistica con la calma zen che lo contraddistingue. La sua battuta 'Scusi lei e' genovese?' ha chiuso la discussione politica con classe.",
+      "messaggi": 5,
+      "mediaGiornaliera": 0.7,
+      "highlights": [
+        "Ha organizzato la cena del 9 novembre con famiglie",
+        "Battuta perfetta sulla Liguria",
+        "Accetta gli auguri in ritardo con grazia"
+      ],
+      "citazioneTop": "Scusi lei e' genovese?"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 7.0,
+      "giudizio": "Il trascinatore questa volta si fa trascinare: conferma presenza alla cena con famiglia e risponde con sarcasmo tagliente alla notizia politica. Il suo 'Ordine e disciplina. A me mi sta quasi convincendo' e' una perla di ironia che meritava piu' applausi.",
+      "messaggi": 4,
+      "mediaGiornaliera": 0.6,
+      "highlights": [
+        "Sarcasmo politico di alto livello",
+        "Conferma immediata per la cena con famiglia",
+        "Corregge Adriano sul compleanno"
+      ],
+      "citazioneTop": "Ordine e disciplina. A me mi sta quasi convincendo"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 7.5,
+      "giudizio": "Efficienza svizzera anche questa settimana. Con pochi messaggi mirati gestisce la sua presenza alla cena, spiega la situazione Diego/Luna, e conferma le canne di Adriano con un lapidario 'Manfatti'. Sintetico ma sempre sul pezzo.",
+      "messaggi": 4,
+      "mediaGiornaliera": 0.6,
+      "highlights": [
+        "Ha valutato di portare Luna alla cena",
+        "Il suo 'Manfatti' vale piu' di mille parole",
+        "Ha chiarito subito la questione famiglia/cena"
+      ],
+      "citazioneTop": "Manfatti"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 5.0,
+      "giudizio": "Il giramondo questa settimana e' in modalita' risparmio energetico. Due messaggi, entrambi il 3 novembre, uno per salutare e uno per chiedere se gli auguri erano anche nell'altro gruppo. Presenza minima ma almeno si e' fatto vivo.",
+      "messaggi": 2,
+      "mediaGiornaliera": 0.3,
+      "highlights": [
+        "Buongiorno domenicale al gruppo",
+        "Ha controllato se gli auguri erano duplicati"
+      ],
+      "citazioneTop": "buongiorno a tutti"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 6.0,
+      "giudizio": "Il Lider ha aperto la settimana con un commento politico che ha scatenato le risposte, poi e' sparito. Un solo messaggio ma di qualita': ironico, pungente, e perfettamente nel suo stile. Peccato per l'assenza nei giorni successivi.",
+      "messaggi": 1,
+      "mediaGiornaliera": 0.1,
+      "highlights": [
+        "Ha aperto la discussione politica della settimana",
+        "Ironia tagliente sulla vittoria in Liguria"
+      ],
+      "citazioneTop": "Se la Meloni e' riuscita a vincere anche in Liguria credo che avremo la fortuna di godercela per davvero tanto tempo!"
+    }
+  ],
+  "awards": {
+    "mvp": "Alessio Macalùso - Il festeggiato che organizza la propria cena con zen e ironia",
+    "comico": "Adriano Sergio Lorenzo Facchini - Auguri sbagliati di un giorno e 'troppe canne' come scusa",
+    "cuore": "Cosimo Nenciòni - Valuta di portare Luna per far compagnia a Giulio nonostante le difficolta'",
+    "fantasma": "Giacomo Dolfi - Un messaggio e via, ma almeno era di qualita'"
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "anno": 2024,
+  "settimana": 52,
+  "startDate": "2024-12-23",
+  "endDate": "2024-12-29",
+  "stats": {
+    "totalMessages": 104,
+    "activeMembers": 6,
+    "avgPerMember": 17.3
+  },
+  "riassunto": "Settimana natalizia all'insegna della convivialita e degli auguri. Il 23 dicembre si organizza una cena da Adriano con carbonara romana di Elena, mentre si dibatte su cosa portare (tutto tranne dolci!). Il giorno di Natale esplode lo scambio di auguri, foto delle tavolate familiari e battute sui regali. Il 27-28 si chiude con consigli gastronomici per Cosimo che cerca un ristorante in zona Chiusi-Montepulciano, tra ricordi di Villa Nottola e le 'nane surgelate ungheresi'.",
+  "bestQuotes": [
+    {
+      "quote": "Tutto tranne che fottuti dolci del cazzo",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Adriano esprime con passione il suo parere sul cosa portare alla cena"
+    },
+    {
+      "quote": "Sommergetelo di ricciarelli",
+      "author": "Cosimo Nenciòni",
+      "context": "La risposta sarcastica perfetta al divieto sui dolci"
+    },
+    {
+      "quote": "Le nane surgelate ungheresi non le fanno piu",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Commento nostalgico sul cambio gestione di Villa Nottola"
+    },
+    {
+      "quote": "Buon Natale Fausto a te e a tutti voialtri stronzi",
+      "author": "Cosimo Nenciòni",
+      "context": "Auguri natalizi in perfetto stile Aperipoker"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 8.5,
+      "giudizio": "Ospite della settimana e padrone di casa della cena del 23. Ha gestito la logistica, dato indicazioni precise ('Tutto tranne che fottuti dolci del cazzo') e poi si e trasformato in guida gastronomica della Val di Chiana per Cosimo. Il ricordo delle 'nane surgelate ungheresi' di Villa Nottola e poesia pura.",
+      "messaggi": 37,
+      "mediaGiornaliera": 7.4,
+      "highlights": [
+        "Ha organizzato la cena natalizia con carbonara romana",
+        "Guida turistica e gastronomica per Cosimo",
+        "Citazione memorabile sulle nane di Villa Nottola"
+      ],
+      "citazioneTop": "Tutto tranne che fottuti dolci del cazzo"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 8.0,
+      "giudizio": "Il Provocatore Raffinato colpisce ancora: 'Sommergetelo di ricciarelli' come risposta al divieto sui dolci e 'voialtri stronzi' come formula di auguri natalizi. Ha chiuso la settimana cercando ristoranti in zona Chiusi per poi finire 'ammare'. Efficienza massima, sbatti zero.",
+      "messaggi": 23,
+      "mediaGiornaliera": 4.6,
+      "highlights": [
+        "Auguri natalizi in stile inconfondibile",
+        "Battuta sui ricciarelli perfettamente tempistica",
+        "Ha animato la discussione sui ristoranti"
+      ],
+      "citazioneTop": "Buon Natale Fausto a te e a tutti voialtri stronzi"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 7.0,
+      "giudizio": "Il Trascinatore ha portato 'le maiale' alla cena, condiviso orgogliosamente il montaggio LEGO di 2 giorni con Giulio, e dato consigli utili sul Pulcino di Montepulciano. Ha anche scovato l'articolo sui radicali e la cannabis. Partecipazione costante ma senza guizzi eccezionali.",
+      "messaggi": 16,
+      "mediaGiornaliera": 3.2,
+      "highlights": [
+        "Orgoglio paterno per il montaggio LEGO con Giulio",
+        "Consiglio gastronomico su Il Pulcino",
+        "Ha condiviso articoli interessanti"
+      ],
+      "citazioneTop": "2 giorni di lavoro pieni... Sono molto orgoglioso"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 7.0,
+      "giudizio": "Il Giramondo ha fatto la spesa ('ho preso a caso'), portato salumi, formaggio e grissini, e partecipato attivamente alla cena del 23. Il giorno di Natale ha condiviso foto e battute. Presenza solida ma concentrata soprattutto a inizio settimana.",
+      "messaggi": 15,
+      "mediaGiornaliera": 3.0,
+      "highlights": [
+        "Ha provveduto ai rifornimenti per la cena",
+        "Presente alla cena natalizia con Elisa",
+        "Partecipazione agli scambi di auguri"
+      ],
+      "citazioneTop": "nel peggiore dei casi mangio tutto io"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 6.5,
+      "giudizio": "Lo Zen Master ha fatto capolino con il suo stile inconfondibile: 'Io non portero dolci ma spero di mangiarne dei tuoi'. Il giorno di Natale si e animato commentando le foto delle tavolate e i giocattoli. Il commento 'Come mai l'hai fatto incazzare?' su Alessio V. e gli scacchi e filosofia pura.",
+      "messaggi": 9,
+      "mediaGiornaliera": 1.8,
+      "highlights": [
+        "Presente alla cena del 23",
+        "Ha animato la discussione natalizia",
+        "Commenti sagaci sulle foto condivise"
+      ],
+      "citazioneTop": "Io non portero dolci ma spero di mangiarne dei tuoi"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 5.5,
+      "giudizio": "Il Fondatore ha dovuto saltare la cena del 23 ('Noi torniamo da Roma stasera, purtroppo devo saltare') ma si e rifatto con gli auguri di Natale e la proposta di condividere foto dei pranzi. Presenza minima ma significativa, come si conviene a un patriarca.",
+      "messaggi": 4,
+      "mediaGiornaliera": 0.8,
+      "highlights": [
+        "Ha lanciato l'idea delle foto dei pranzi natalizi",
+        "Auguri sentiti al gruppo"
+      ],
+      "citazioneTop": "Oggi foto del pranzo!"
+    }
+  ],
+  "awards": {
+    "mvp": "Adriano Sergio Lorenzo Facchini",
+    "comico": "Cosimo Nenciòni",
+    "cuore": "Fausto Petrini",
+    "fantasma": "Giacomo Dolfi"
+  }
+}

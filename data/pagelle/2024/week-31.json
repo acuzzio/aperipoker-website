@@ -1,0 +1,106 @@
+{
+  "anno": 2024,
+  "settimana": 31,
+  "startDate": "2024-07-29",
+  "endDate": "2024-08-04",
+  "stats": {
+    "totalMessages": 35,
+    "activeMembers": 5,
+    "avgPerMember": 7.0
+  },
+  "riassunto": "Settimana estiva sonnolenta, dominata dal caldo opprimente che fiaccava anche il loquace Adriano. Si e' discusso di spam telefonico con posizioni contrapposte, si e' rievocata una mitica invettiva del passato sulla newsgroup (ormai perduta), e si e' dibattuto sulla colazione ideale: cereali mangime per cavalli vs rigoli toscani. Cosimo ha condiviso Zerocalcare, Fausto ha fatto il nutrizionista, e Giacomo e' sparito nel nulla.",
+  "bestQuotes": [
+    {
+      "quote": "Mangime per cavalli",
+      "author": "Cosimo Nencioni",
+      "context": "Commento lapidario sulla colazione a base di cereali di Adriano"
+    },
+    {
+      "quote": "Della cellulite non mi interessa ma grazie del consiglio",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Risposta sarcastica a Fausto sulla ritenzione idrica"
+    },
+    {
+      "quote": "Meglio dei rigoli non c'e' niente ovvio",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Verita' assoluta sulla superiorita' del biscotto toscano"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 6.5,
+      "giudizio": "Il caldo delle ultime tre settimane ha fiaccato anche il Re della Chat. Ha provato a rianimare il gruppo con foto della colazione ma si e' beccato critiche nutrizionali da Fausto e insulti alimentari da Cosimo. Almeno ha difeso l'onore dei rigoli toscani.",
+      "messaggi": 10,
+      "mediaGiornaliera": 1.4,
+      "highlights": [
+        "Ha condiviso la colazione scatenando un dibattito gastronomico",
+        "Risposta sarcastica sulla cellulite degna di nota"
+      ],
+      "citazioneTop": "Meglio dei rigoli non c'e' niente ovvio"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 6.5,
+      "giudizio": "Settimana da nutrizionista improvvisato: picchi glicemici, ritenzione idrica, idratazione. Ha cercato di recuperare una mitica invettiva del passato dalla newsgroup, missione fallita. Ha chiuso da curatore condividendo articoli sul pugilato per Cosimo.",
+      "messaggi": 11,
+      "mediaGiornaliera": 1.6,
+      "highlights": [
+        "Tentativo archeologico di recuperare post storici",
+        "Consigli nutrizionali non richiesti ad Adriano"
+      ],
+      "citazioneTop": "Occhio ai picchi glicemici"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 6.0,
+      "giudizio": "Ha partecipato alla discussione sullo spam telefonico da esperto del blocco immediato, poi e' sparito. Sette messaggi concentrati in due giorni, poi il silenzio del giramondo. Almeno ha ricordato della newsgroup, anche se 'l'aveva rimossa'.",
+      "messaggi": 7,
+      "mediaGiornaliera": 1.0,
+      "highlights": [
+        "Consigli anti-spam da esperto",
+        "Memoria storica sulla newsgroup"
+      ],
+      "citazioneTop": "in realta' e' meglio non rispondere o scoprono che sei attivo. Blocca e basta"
+    },
+    {
+      "name": "Cosimo Nencioni",
+      "voto": 7.0,
+      "giudizio": "Quattro messaggi, quattro perle. 'Mangime per cavalli' sulla colazione di Adriano vale da solo il voto. Ha condiviso Zerocalcare e ha commentato con il suo classico stile: secco, letale, definitivo.",
+      "messaggi": 4,
+      "mediaGiornaliera": 0.6,
+      "highlights": [
+        "Stroncatura epica della colazione a cereali",
+        "Condivisione Zerocalcare apprezzata"
+      ],
+      "citazioneTop": "Mangime per cavalli"
+    },
+    {
+      "name": "Alessio Macaluso",
+      "voto": 5.5,
+      "giudizio": "Tre messaggi zen in tutta la settimana. 'Io sto con Adriano' e 'Ottimo' sulla colazione. Ha condiviso un link Facebook senza aggiungere contesto. Il laconico ha fatto il minimo sindacale.",
+      "messaggi": 3,
+      "mediaGiornaliera": 0.4,
+      "highlights": [
+        "Schieramento diplomatico con Adriano",
+        "Approvazione colazione"
+      ],
+      "citazioneTop": "Io sto con Adriano"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 3.0,
+      "giudizio": "Fantasma della settimana. Il Fondatore ha deciso che a fine luglio il gruppo poteva cavarsela da solo. Zero messaggi, zero presenza, zero scuse. Forse era in vacanza, forse meditava su Poggibonsi.",
+      "messaggi": 0,
+      "mediaGiornaliera": 0.0,
+      "highlights": [],
+      "citazioneTop": null
+    }
+  ],
+  "awards": {
+    "mvp": "Fausto Petrini",
+    "comico": "Cosimo Nencioni",
+    "cuore": "Alessio Valentini",
+    "fantasma": "Giacomo Dolfi"
+  }
+}

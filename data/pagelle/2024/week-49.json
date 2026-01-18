@@ -1,0 +1,108 @@
+{
+  "anno": 2024,
+  "settimana": 49,
+  "startDate": "2024-12-02",
+  "endDate": "2024-12-08",
+  "stats": {
+    "totalMessages": 42,
+    "activeMembers": 5,
+    "avgPerMember": 8.4
+  },
+  "riassunto": "Settimana aperta con Fausto che all'una di notte racconta un sogno inquietante in cui commette un omicidio con un misterioso 'Tofani' a Castelnuovo. Il resto della settimana gira intorno all'organizzazione della cena Aperipoker: prima l'8 dicembre, poi rimandata, con la solita disorganizzazione cronica del gruppo. Alla fine Alessio M. taglia la testa al toro fissando la cena per il 15 dicembre. Cosimo sopravvive a un weekend con suoceri e nipoti, rifiutandosi categoricamente di parlare di cibo fino a domenica sera.",
+  "bestQuotes": [
+    {
+      "quote": "Stanotte ho sognato che uccidevo una persona mentre ero con lui, eravamo complici, poi c'era tutta la parte del processo e delle indagini in cui cercavamo di farla franca",
+      "author": "Fausto Petrini",
+      "context": "L'opening del lunedi' alle 1:03 di notte. Fausto condivide un sogno che farebbe preoccupare qualsiasi psicologo."
+    },
+    {
+      "quote": "C'è una profondo disorganizzazione in tutto questo",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Adriano fotografa perfettamente lo stato del gruppo quando si tratta di organizzare qualsiasi cosa."
+    },
+    {
+      "quote": "L'unica cosa non mi considerate perché non ne voglio sentire parlare di cibo fino a domani sera",
+      "author": "Cosimo Nenciòni",
+      "context": "Il grido di dolore di chi ha appena sopravvissuto a 3 giorni con suoceri e nipoti."
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Fausto Petrini",
+      "voto": 8.0,
+      "giudizio": "Il trascinatore della settimana, nonostante apra le danze con un sogno da true crime che avrebbe messo in allarme l'FBI. Tiene viva la chat da solo con 22 messaggi, propone date, organizza, si offre di accompagnare Alessio V. a Siena. Il solito entusiasta che cerca disperatamente di far succedere qualcosa.",
+      "messaggi": 22,
+      "mediaGiornaliera": 5.5,
+      "highlights": [
+        "Ha condiviso un sogno da serial killer alle 1 di notte che ha rotto il ghiaccio della settimana",
+        "Ha proposto almeno 3 date diverse per vedersi",
+        "Si e' offerto volontariamente per fare il taxista ad Alessio V."
+      ],
+      "citazioneTop": "Uccidevamo una donnina che era stata testimone di un nostro misfatto, non so quale, con un cacciavite in pancia"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 7.5,
+      "giudizio": "Lo zen master questa settimana si sveglia e prende in mano la situazione. Mentre gli altri filosofeggiano sulla disorganizzazione, lui fissa la cena per il 15 dicembre con un messaggio secco che non ammette repliche. Presenza equilibrata e propositiva, da vero host.",
+      "messaggi": 7,
+      "mediaGiornaliera": 1.75,
+      "highlights": [
+        "Ha risolto l'impasse organizzativa fissando la cena Aperipoker",
+        "Si e' proposto per andare a trovare Fausto e Alessio V. a Firenze",
+        "Domande concrete e risposte sintetiche: efficienza massima"
+      ],
+      "citazioneTop": "Cena aperipoker 15 dicembre"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 6.0,
+      "giudizio": "Il re della chat questa settimana abdica parzialmente. Solo 6 messaggi, un record al ribasso. Pero' quando parla, colpisce: la sua osservazione sulla 'profondo disorganizzazione' e' la fotografia perfetta del gruppo. Presente ma non dominante, forse in modalita' risparmio energetico.",
+      "messaggi": 6,
+      "mediaGiornaliera": 1.5,
+      "highlights": [
+        "Ha sintetizzato lo spirito del gruppo in una frase sola",
+        "Conferma disponibilita' nonostante impegni ad Arezzo"
+      ],
+      "citazioneTop": "C'è una profondo disorganizzazione in tutto questo"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 6.5,
+      "giudizio": "Quattro messaggi ma tutti memorabili. Il suo 'Mica male' in risposta al sogno omicida di Fausto e' il commento perfetto. La descrizione della sua settimana con suoceri e nipoti e' poesia: si capisce il trauma solo dalla lunghezza dell'elenco degli ospiti. Sopravvissuto con onore.",
+      "messaggi": 4,
+      "mediaGiornaliera": 1.0,
+      "highlights": [
+        "Ha descritto con precisione chirurgica l'invasione familiare che stava subendo",
+        "Nonostante il trauma, si rende disponibile per una birra post-cena"
+      ],
+      "citazioneTop": "L'unica cosa non mi considerate perché non ne voglio sentire parlare di cibo fino a domani sera"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 5.5,
+      "giudizio": "Il giramondo questa settimana e' in Italia ma scrive pochissimo. Tre messaggi, di cui uno per confermare che conosce dei Tofani a Castelnuovo (informazione cruciale per il sogno di Fausto). Un 'fantastico' entusiasta quando Fausto si offre di accompagnarlo, poi silenzio. Modalita' lurking attivata.",
+      "messaggi": 3,
+      "mediaGiornaliera": 0.75,
+      "highlights": [
+        "Ha contribuito a risolvere il mistero del Tofani",
+        "Apprezzamento genuino per il passaggio offerto da Fausto"
+      ],
+      "citazioneTop": "conosco diversi tofani"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 3.0,
+      "giudizio": "Il fondatore questa settimana e' un fantasma totale. Zero messaggi, zero interazioni, zero tracce di vita. Che sia stato rapito dal Tofani del sogno di Fausto? Poggibonsi tace, il gruppo si preoccupa. Assenza ingiustificata.",
+      "messaggi": 0,
+      "mediaGiornaliera": 0,
+      "highlights": [],
+      "citazioneTop": null
+    }
+  ],
+  "awards": {
+    "mvp": "Fausto Petrini - Ha tenuto in vita il gruppo da solo, tra sogni da thriller e organizzazione di cene",
+    "comico": "Fausto Petrini - Il racconto del sogno omicida con il Tofani e' da antologia",
+    "cuore": "Alessio Macalùso - Si e' fatto avanti per risolvere l'impasse organizzativa e visitare gli amici",
+    "fantasma": "Giacomo Dolfi - Zero messaggi, scomparso nel nulla"
+  }
+}

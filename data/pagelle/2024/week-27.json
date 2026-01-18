@@ -1,0 +1,120 @@
+{
+  "anno": 2024,
+  "settimana": 27,
+  "startDate": "2024-07-01",
+  "endDate": "2024-07-07",
+  "stats": {
+    "totalMessages": 73,
+    "activeMembers": 6,
+    "avgPerMember": 12.2
+  },
+  "riassunto": "Settimana del Palio di Luglio! L'Onda trionfa e il gruppo si scatena tra congratulazioni ironiche e organizzazione della cena da Cosimo. Adriano filosofeggia sulla fauna umana balneare mentre Fausto cerca invano di convertire tutti al Tour de France. Discussione accesa sulla decadenza della Nazionale italiana: 'Solo tatuaggi e niente sostanza'. La settimana si chiude con piani per martedi da Cosimo.",
+  "bestQuotes": [
+    {
+      "quote": "Siamo sicuri che non siamo discendenti diretti dei bovini?",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Riflessione filosofica dal mare sui bagnanti del weekend"
+    },
+    {
+      "quote": "L'onda è una contrada di merda e te hai moglie e figli, praticamente è inutile che tu ci vada",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Risposta 'moderata' a Giacomo sulla cena da Cosimo"
+    },
+    {
+      "quote": "Se vai al mare di sabato e domenica a luglio facile che trovi i bovini. Fattene una ragione.",
+      "author": "Cosimo Nenciòni",
+      "context": "Replica sarcastica ad Adriano sulla calca balneare"
+    },
+    {
+      "quote": "Ti s'è portato culo noi",
+      "author": "Cosimo Nenciòni",
+      "context": "Congratulazioni 'sentite' per la vittoria dell'Onda"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 8.0,
+      "giudizio": "Il re della settimana paliesca. Dalla Lupa al mare, passando per attacchi frontali all'Onda ('contrada di merda') e riflessioni antropologiche sui bagnanti-bovini. Ha dato il meglio di se con il classico 'severo ma giusto' dopo essere stato accusato di scarsa moderazione. In piu organizza tornei di tennis con Ceccuzzi.",
+      "messaggi": 18,
+      "mediaGiornaliera": 2.6,
+      "highlights": [
+        "La filosofia balneare sui discendenti dei bovini",
+        "L'attacco frontale all'Onda nonostante abbia vinto",
+        "Organizzazione tennis con Federico Ceccuzzi"
+      ],
+      "citazioneTop": "Siamo sicuri che non siamo discendenti diretti dei bovini?"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 8.5,
+      "giudizio": "MVP della settimana. Ha organizzato la cena a casa sua ('sono solo'), ha risposto con precisione chirurgica ad Adriano sui bovini, e ha gestito la logistica con la sua solita efficienza svizzera. Il 'ti s'e portato culo noi' per l'Onda e un capolavoro di sportivita toscana.",
+      "messaggi": 16,
+      "mediaGiornaliera": 2.3,
+      "highlights": [
+        "Ha organizzato la cena da solo senza lamentarsi",
+        "Replica perfetta sulla questione bovini",
+        "Congratulazioni 'sentite' all'Onda"
+      ],
+      "citazioneTop": "Ti s'è portato culo noi"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 7.0,
+      "giudizio": "L'organizzatore frustrato colpisce ancora: propone il Tour de France ('valeva molto di piu la pena'), condivide newsletter sugli USA, e cambia idea tre volte sui giorni della cena. Il classico Fausto: entusiasta, propositivo, e sistematicamente ignorato.",
+      "messaggi": 14,
+      "mediaGiornaliera": 2.0,
+      "highlights": [
+        "Ha tentato di evangelizzare il gruppo al Tour de France",
+        "Ha condiviso contenuti interessanti (blog USA)",
+        "Ha cambiato preferenze martedi/giovedi due volte"
+      ],
+      "citazioneTop": "Ragazzi, guardate il tour che oggi valeva molto di più la pena"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 6.5,
+      "giudizio": "Lo zen master e stato presente ma con il freno a mano tirato. Ha aperto lui la discussione sul Palio ('Qualcuno guarda in piazza?'), ha sfornato una perla sulla Nazionale ('Da Pirlo in poi sono giocatori mediocri'), ma poi si e defilato. Il suo 'Io male' sulla cena da Cosimo riassume la settimana.",
+      "messaggi": 12,
+      "mediaGiornaliera": 1.7,
+      "highlights": [
+        "Ha aperto la discussione sul Palio",
+        "Analisi lucida sulla Nazionale italiana",
+        "Ha fatto sapere che puo fare 'solo una comparsata'"
+      ],
+      "citazioneTop": "Da che ho ricordo fino a Pirlo è stata una nazionale di campioni da manicomio"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 6.0,
+      "giudizio": "Il giramondo ha partecipato a distanza con i suoi classici orari sfasati. Ha chiesto spiegazioni su tutto ('che e successo?', 'questa non l'ho capita'), ma ha piazzato un invito esotico: 'vieni qua dove sono io, poi lo vedi'. Internet di merda o meno, c'era.",
+      "messaggi": 8,
+      "mediaGiornaliera": 1.1,
+      "highlights": [
+        "Ha seguito il Palio da remoto chiedendo aggiornamenti",
+        "Ha invitato Adriano nella sua location esotica",
+        "Discussione sulla Svizzera e i campi da calcio"
+      ],
+      "citazioneTop": "vieni qua dove sono io, poi lo vedi"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 5.5,
+      "giudizio": "Il Fondatore ha fatto capolino per confermare l'orario del Palio ('Si si 19'), condividere foto di Pietro, e far sapere che 'dura' per la cena. Il patriarca benevolo questa settimana ha vegliato da lontano, forse troppo lontano.",
+      "messaggi": 5,
+      "mediaGiornaliera": 0.7,
+      "highlights": [
+        "Ha condiviso foto/video di Pietro",
+        "Ha confermato orari del Palio",
+        "Presenza minima ma puntuale"
+      ],
+      "citazioneTop": "Per me dura, lo so nei prossimi giorni"
+    }
+  ],
+  "awards": {
+    "mvp": "Cosimo Nenciòni",
+    "comico": "Adriano Sergio Lorenzo Facchini",
+    "cuore": "Cosimo Nenciòni",
+    "fantasma": "Giacomo Dolfi"
+  }
+}

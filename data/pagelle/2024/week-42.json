@@ -1,0 +1,114 @@
+{
+  "anno": 2024,
+  "settimana": 42,
+  "startDate": "2024-10-14",
+  "endDate": "2024-10-20",
+  "stats": {
+    "totalMessages": 51,
+    "activeMembers": 6,
+    "avgPerMember": 8.5
+  },
+  "riassunto": "Settimana all'insegna dell'organizzazione di una cena di gruppo per sabato sera. Giacomo lancia la proposta pizza con famiglie al seguito, ma Adriano e Elena sono gia' impegnati (e se ne rammarica). Grande dibattito sul luogo: il campeggio viene bocciato da Alessio M. per una traumatica esperienza con una 'pizza glory smoky hole' piena di cenere. Nel frattempo, Alessio V. manda cartoline dalla Carolina Beach, dove fa un caldo bestia nonostante sia fine ottobre, circondato da pick-up grossi come tank.",
+  "bestQuotes": [
+    {
+      "quote": "Pizza con buco nel mezzo e piena di cenere",
+      "author": "Alessio Macaluso",
+      "context": "Il trauma culinario che ha segnato per sempre il suo rapporto col campeggio"
+    },
+    {
+      "quote": "Era la pizza glory smoky hole!",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Battuta perfetta che ribattezza la pizza incriminata con un nome da locale a luci rosse"
+    },
+    {
+      "quote": "Io ho giurato che non ci torno piu'",
+      "author": "Alessio Macaluso",
+      "context": "Dichiarazione solenne di guerra al campeggio"
+    },
+    {
+      "quote": "Pickup grossi come tank",
+      "author": "Cosimo Nencioni",
+      "context": "Sintesi perfetta dell'America profonda in quattro parole"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 7.5,
+      "giudizio": "Il Re della Chat non abdica neanche quando e' impegnato altrove. Lancia l'idea della cena, poi scopre di non poterci andare, poi si rammarica per tre messaggi consecutivi. La battuta sulla 'pizza glory smoky hole' vale da sola mezzo punto in piu'. Peccato per l'assenza alla serata - ma almeno ha letto dove andavano gli altri.",
+      "messaggi": 16,
+      "mediaGiornaliera": 2.3,
+      "highlights": [
+        "Ha ribattezzato la pizza traumatica con un nome memorabile",
+        "Ha cercato di partecipare anche da lontano seguendo la chat"
+      ],
+      "citazioneTop": "Era la pizza glory smoky hole!"
+    },
+    {
+      "name": "Alessio Macaluso",
+      "voto": 8.0,
+      "giudizio": "Lo zen master si scatena quando si parla di cibo. Il suo trauma della pizza col buco ha tenuto banco per meta' conversazione. 'Io ho giurato che non ci torno piu'' detto con quella calma olimpica che lo contraddistingue e' pura poesia. Poi cede con un 'Ma si pole andare uguale' - la saggezza toscana in una frase.",
+      "messaggi": 13,
+      "mediaGiornaliera": 1.9,
+      "highlights": [
+        "Ha raccontato il trauma della pizza al campeggio",
+        "Ha votato Veranda con la sicurezza di chi sa quello che vuole"
+      ],
+      "citazioneTop": "Pizza con buco nel mezzo e piena di cenere"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 7.5,
+      "giudizio": "Il Fondatore fa quello che sa fare meglio: lancia idee e osserva il caos che ne deriva. 'Si va a mangiare una pizza sabato con mogli, figlioli, animali domestici e varie ed eventuali?' - la proposta perfetta che include letteralmente tutto. Poi quando Alessio M. boccia il campeggio, saggiamente propone di pensare a un'alternativa. Leadership morbida ma efficace.",
+      "messaggi": 7,
+      "mediaGiornaliera": 1.0,
+      "highlights": [
+        "Ha lanciato la proposta della cena di gruppo",
+        "Ha incluso anche gli animali domestici nell'invito"
+      ],
+      "citazioneTop": "Si va a mangiare una pizza sabato con mogli, figlioli, animali domestici e varie ed eventuali?"
+    },
+    {
+      "name": "Cosimo Nencioni",
+      "voto": 7.0,
+      "giudizio": "Il Provocatore Raffinato questa settimana e' in modalita' osservatore curioso. Un 'Eh certo' da manuale, poi si interessa alle strade chiuse dai genitori di qualcuno, e infine chiude la settimana con considerazioni sui pick-up americani grossi come tank. Poche parole, ma quelle giuste.",
+      "messaggi": 6,
+      "mediaGiornaliera": 0.9,
+      "highlights": [
+        "Sintesi perfetta dell'America con 'Pickup grossi come tank'",
+        "Ha chiesto ad Alessio V. dove fosse con genuino interesse"
+      ],
+      "citazioneTop": "Pickup grossi come tank"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 7.0,
+      "giudizio": "Il Trascinatore fa il suo lavoro: conferma la presenza con un 'Yes', boccia il campeggio ('Cmq campeggio no dai'), e soprattutto propone la lista delle alternative. Pomodorino, Veranda, Gabellieri, Fontebecci - tutto organizzato, tutto pronto. Il solito Fausto che tiene in piedi le uscite del gruppo.",
+      "messaggi": 5,
+      "mediaGiornaliera": 0.7,
+      "highlights": [
+        "Ha proposto una lista completa di alternative per la cena",
+        "Richiesta specifica per locale con giardino"
+      ],
+      "citazioneTop": "Alternative: pomodorino Veranda Gabellieri Fontebecci Ci fosse qualcosa con giardino meglio"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 6.5,
+      "giudizio": "Il Giramondo questa settimana scrive dalla Carolina Beach, tra pick-up giganti e spiagge deserte. Quattro messaggi ma dal valore esotico: condivide la location, spiega che fa un caldo bestia nonostante sia fine ottobre, e conferma che la spiaggia e' vuota 'entrambe' - sia per stagione che per natura. Presente a modo suo, dal fuso orario sbagliato.",
+      "messaggi": 4,
+      "mediaGiornaliera": 0.6,
+      "highlights": [
+        "Ha condiviso la posizione dalla Carolina Beach",
+        "Ha descritto il caldo anomalo di fine ottobre"
+      ],
+      "citazioneTop": "ma e' un caldo bestia anche se e' fine ottobre"
+    }
+  ],
+  "awards": {
+    "mvp": "Alessio Macaluso - Il suo trauma culinario ha generato la discussione piu' divertente della settimana",
+    "comico": "Adriano Sergio Lorenzo Facchini - 'Pizza glory smoky hole' e' da incorniciare",
+    "cuore": "Giacomo Dolfi - Ha incluso anche gli animali domestici nell'invito alla cena",
+    "fantasma": "Nessuno - Settimana con partecipazione diffusa, anche se non abbondante"
+  }
+}

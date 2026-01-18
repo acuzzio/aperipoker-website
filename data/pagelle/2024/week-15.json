@@ -1,0 +1,115 @@
+{
+  "anno": 2024,
+  "settimana": 15,
+  "startDate": "2024-04-08",
+  "endDate": "2024-04-14",
+  "stats": {
+    "totalMessages": 84,
+    "activeMembers": 6,
+    "avgPerMember": 14.0
+  },
+  "riassunto": "Settimana dominata dall'eclisse solare totale dell'8 aprile. Alessio Valentini, in diretta dagli USA (Poplar Bluff, Missouri), ha regalato al gruppo un reportage emotivo e appassionato che ha coinvolto tutti. Ha pianto, ha tirato il cellulare per terra, ha pestato gli occhiali - insomma, un'esperienza mistica. A chiudere la settimana, Fausto ha condiviso il suo traguardo fitness: 13kg persi in 8 mesi, accolto con entusiasmo unanime dal gruppo.",
+  "bestQuotes": [
+    {
+      "quote": "la corona solare è di una bellezza indescrivibile. Come la prima donna nuda in ovosodo.",
+      "author": "Alessio Valentini",
+      "context": "Paragone poetico-cinematografico per descrivere l'indescrivibile"
+    },
+    {
+      "quote": "io non avevo mai, MAI provato niente del genere. Non me lo aspettavo minimamente. Contrazioni da adrenalina. Fiato corto, iperventilazione, ho pestato gli occhiali, non capivo quello che mi diceva Elisa.",
+      "author": "Alessio Valentini",
+      "context": "La descrizione fisica dell'emozione provata durante la totalità"
+    },
+    {
+      "quote": "ad un certo punto mi sono messo a fare foto col cellulare e siccome non funzionava l'ho letteralmente tirato in terra",
+      "author": "Alessio Valentini",
+      "context": "Quando la tecnologia non sta al passo con l'esperienza mistica"
+    },
+    {
+      "quote": "13 kg in 8 mesi nientissimo male",
+      "author": "Cosimo Nenciòni",
+      "context": "Riconoscimento sintetico ma sentito del traguardo di Fausto"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Alessio Valentini",
+      "voto": 10.0,
+      "giudizio": "Ha trasformato una chat WhatsApp in un documentario di National Geographic, con l'emotività di un film di Virzì. Ha pianto per un'eclisse, ha tirato il telefono, ha pestato gli occhiali, e ci ha fatto venire voglia di prenotare un volo per il 2027. Il paragone con la prima donna nuda in Ovosodo resterà negli annali.",
+      "messaggi": 38,
+      "mediaGiornaliera": 5.4,
+      "highlights": [
+        "Reportage in diretta dall'eclisse solare totale negli USA",
+        "Descrizione emotiva e fisica dell'esperienza che ha coinvolto tutto il gruppo",
+        "Spiegazione scientifica del fenomeno delle ombre a mezzaluna"
+      ],
+      "citazioneTop": "la corona solare è di una bellezza indescrivibile. Come la prima donna nuda in ovosodo."
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 7.5,
+      "giudizio": "L'uomo che con 'Glandi! Manna foto sole nero' ha espresso più entusiasmo di quanto faccia normalmente in un mese. Ha seguito l'eclisse dal parchetto ('The same'), ha fatto le domande giuste sulle bestie e le ombre, e ha celebrato Fausto con la giusta sintesi: '13 kg in 8 mesi nientissimo male'.",
+      "messaggi": 14,
+      "mediaGiornaliera": 2.0,
+      "highlights": [
+        "Ha partecipato attivamente al reportage dell'eclisse con domande pertinenti",
+        "Primo a celebrare il traguardo fitness di Fausto con riconoscimento numerico"
+      ],
+      "citazioneTop": "Glandi! Manna foto sole nero"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 6.5,
+      "giudizio": "Lo zen master della settimana. Ha aperto le danze lunedì mattina con un criptico 'Manda nel gruppo frienz così le manda anche Jacopo' e ha chiuso venerdì con un pragmatico 'Si andrà' sul film di Sorrentino. Nel mezzo, un 'Ottimo' e un 'Bravo grande cosa' per Fausto. Economia delle parole, massima efficacia.",
+      "messaggi": 10,
+      "mediaGiornaliera": 1.4,
+      "highlights": [
+        "Ha coordinato la condivisione delle foto nel gruppo Frienz",
+        "Supporto costante ma misurato ai compagni"
+      ],
+      "citazioneTop": "Non puoi dirlo"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 6.0,
+      "giudizio": "Sottotono rispetto agli standard. Ha commentato 'Mechico' con l'accento giusto, ha dato dei 'Brutti lardosi' agli americani, e ha fatto il tifo per Fausto. Ma dov'è finito il fiume in piena? Settimana di riposo o strategia per tornare più forte?",
+      "messaggi": 9,
+      "mediaGiornaliera": 1.3,
+      "highlights": [
+        "Commento ironico sulla pronuncia di Messico",
+        "Supporto a Fausto per il traguardo fitness"
+      ],
+      "citazioneTop": "Così impara quella puttana"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 6.5,
+      "giudizio": "Il patriarca benevolo ha vegliato dall'alto di Poggibonsi. 'Spettacolo vero!' per l'eclisse, 'Grande Faustino! Buona pedalata' per il fitness del compare. Pochi messaggi ma tutti al posto giusto, come un arbitro che fischia solo quando serve.",
+      "messaggi": 7,
+      "mediaGiornaliera": 1.0,
+      "highlights": [
+        "Ha chiesto ad Alessio V. se era riuscito a fare foto dell'eclisse",
+        "Incoraggiamento affettuoso a Fausto"
+      ],
+      "citazioneTop": "Ci credo, ma sei riuscito a fare un po' di foto?"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 7.0,
+      "giudizio": "Ha scritto poco ma ha fatto parlare di sé. Il weekend ha condiviso il suo traguardo: 13kg persi in 8 mesi, e il gruppo lo ha celebrato come meritava. Ha anche proposto di andare a vedere il nuovo Sorrentino, confermando il ruolo di organizzatore. W il bollore, W la costanza.",
+      "messaggi": 6,
+      "mediaGiornaliera": 0.9,
+      "highlights": [
+        "Condivisione del traguardo fitness (13kg in 8 mesi)",
+        "Proposta di andare a vedere il sequel di 'È stata la mano di Dio'"
+      ],
+      "citazioneTop": "Un apice della vita"
+    }
+  ],
+  "awards": {
+    "mvp": "Alessio Valentini - Ha trasformato un fenomeno astronomico in poesia",
+    "comico": "Alessio Valentini - Il paragone con Ovosodo è da antologia",
+    "cuore": "Fausto Petrini - Ha condiviso un traguardo personale importante con il gruppo",
+    "fantasma": null
+  }
+}

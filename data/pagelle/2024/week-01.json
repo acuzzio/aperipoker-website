@@ -1,0 +1,125 @@
+{
+  "anno": 2024,
+  "settimana": 1,
+  "startDate": "2024-01-01",
+  "endDate": "2024-01-07",
+  "stats": {
+    "totalMessages": 158,
+    "activeMembers": 6,
+    "avgPerMember": 26.3
+  },
+  "riassunto": "Capodanno 2024 all'insegna dell'influenza devastante. Adriano contagia mezza Toscana (Alessio Mac, Giacomo, la famiglia di Cosimo) mentre cerca disperatamente di organizzare un aperipoker prima della partenza di Alessio Vale. Tra febbri, cenoni saltati e vaccini messi in discussione, il gruppo riesce comunque a vedersi il 4 gennaio a Colle Val d'Elsa, da Chicco. Cosimo torna dalla Romania con storie da raccontare su Ion Tiriac, il miliardario sportivo piu' ricco del mondo. La settimana si chiude con Alessio Mac che 'torna dal mondo degli inferi' e propone nuove date per vedersi.",
+  "bestQuotes": [
+    {
+      "quote": "Bello festeggiare il primo dell'anno con una bella influenza del cazzo dopo aver preso il covid",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "L'incipit perfetto del 2024: lamentela epica alle 6:24 del mattino del primo gennaio"
+    },
+    {
+      "quote": "Lider puniscimi..",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Adriano si autoaccusa di aver contagiato tutti con la sua influenza"
+    },
+    {
+      "quote": "Sono indeciso se docciarmi o venire sudicio",
+      "author": "Giacomo Dolfi",
+      "context": "Il dilemma esistenziale pre-cena che ha unito il gruppo: nessuno si e' docciato"
+    },
+    {
+      "quote": "Buonasera ragazzi sono tornato dal mondo degli inferi",
+      "author": "Alessio Macalùso",
+      "context": "Il drammatico ritorno di Alessio Mac dopo giorni di febbre"
+    },
+    {
+      "quote": "Si, mi ha detto che ha visto una stella cadente e ha espresso il desiderio che tu moia",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Risposta a Giacomo che chiedeva se aveva chiamato Federico"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 8.0,
+      "giudizio": "Il paziente zero del 2024 ha contagiato mezza Toscana ma ha anche tenuto vivo il gruppo con i suoi bollettini medici delle 6 del mattino. Ha organizzato la cena a Colle, ha pensato a Federico, e ha regalato battute memorabili ('Lider puniscimi', la stella cadente). La colpa e' sua, ma almeno se la prende.",
+      "messaggi": 36,
+      "mediaGiornaliera": 5.1,
+      "highlights": [
+        "Ha aperto il 2024 alle 6:23 con auguri e lamentele simultanee",
+        "Si e' autoaccusato pubblicamente di essere l'untore del gruppo",
+        "Ha organizzato la cena a Colle e pensato di includere Federico"
+      ],
+      "citazioneTop": "Si, mi ha detto che ha visto una stella cadente e ha espresso il desiderio che tu moia"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 8.5,
+      "giudizio": "Il misterioso Cosimo torna dalla Romania con storie su miliardari e case di lusso ('Poi vi raccontero'...'). Con famiglia malata a casa, ha comunque fatto 200 km per la cena del gruppo. L'unico che si e' docciato ('Avevo il muschio in capo'). Sintetico ma essenziale, come sempre.",
+      "messaggi": 26,
+      "mediaGiornaliera": 3.7,
+      "highlights": [
+        "Ha visitato la casa di Ion Tiriac, lo sportivo piu' ricco del mondo",
+        "Ha spostato l'intera famiglia pur di partecipare alla cena",
+        "L'unico del gruppo ad essersi docciato prima della cena"
+      ],
+      "citazioneTop": "Oggi so stato a casa di questo tizio"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 7.5,
+      "giudizio": "Il trascinatore frustrato colpisce ancora: ha proposto date, prenotato ristoranti, fatto il punto della situazione con precisione svizzera. Unico immune all'influenza ('Forse perche' fatto vaccino'), si e' guadagnato il diritto di dire 'Ve l'avevo detto'. Ha dovuto pure negoziare con Eleonora per uscire.",
+      "messaggi": 26,
+      "mediaGiornaliera": 3.7,
+      "highlights": [
+        "Unico membro immune all'influenza grazie al vaccino",
+        "Ha prenotato il ristorante a Colle e coordinato la logistica",
+        "Ha fatto il punto della situazione con rigore quasi militare"
+      ],
+      "citazioneTop": "Ragazzi, bisogna rendersi conto che se non si risponde tutti rispetto alle proprie intenzioni e' molto difficile per gli altri regolarsi"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 7.0,
+      "giudizio": "Vittima numero uno dell'untore Adriano, ha passato meta' settimana a letto con la febbre. Nonostante tutto, ha cercato di organizzare aperipoker alternativi e ha chiuso con filosofia: 'Vabbè ragazzi non e' mica un dramma se non si fa'. Il suo 'Nooooragazzi' del primo gennaio era un presagio.",
+      "messaggi": 25,
+      "mediaGiornaliera": 3.6,
+      "highlights": [
+        "Ha nominato Adriano potenziale Lider per il contagio ricevuto",
+        "E' 'tornato dal mondo degli inferi' con un sondaggio per nuove date",
+        "Ha mostrato zen da maestro nell'accettare che l'aperipoker saltasse"
+      ],
+      "citazioneTop": "Buonasera ragazzi sono tornato dal mondo degli inferi"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 7.0,
+      "giudizio": "Il Lider ha vissuto una settimana altalenante: febbre il 2 gennaio, ripresa il 3, cena il 4. Il suo dilemma 'docciarmi o venire sudicio' ha creato un momento di unione: tutti sudici insieme. Ha prenotato da Chicco e cancellato il Casato con efficienza da statista.",
+      "messaggi": 25,
+      "mediaGiornaliera": 3.6,
+      "highlights": [
+        "Ha creato il momento 'no doccia' che ha unito il gruppo",
+        "Ha gestito le prenotazioni con pragmatismo",
+        "Ha resistito alla febbre per partecipare alla cena"
+      ],
+      "citazioneTop": "Sono indeciso se docciarmi o venire sudicio"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 6.5,
+      "giudizio": "Il giramondo si e' toccato le palle per 10 giorni ('c'ho ancora 10 gg') ed e' rimasto immune all'influenza. Presenza costante ma defilata, ha partecipato alla cena a Colle partendo da Castelfiorentino. Ha condiviso la storia assurda degli autogol e ha ammesso di essere 'briaco' la sera dell'Epifania.",
+      "messaggi": 20,
+      "mediaGiornaliera": 2.9,
+      "highlights": [
+        "Unico insieme a Fausto a non ammalarsi",
+        "Ha condiviso la storia incredibile della partita con 149 autogol",
+        "Ha ammesso candidamente di essere ubriaco il 6 gennaio"
+      ],
+      "citazioneTop": "ragazzi io mi tocco le palle eh, c'ho ancora 10 gg"
+    }
+  ],
+  "awards": {
+    "mvp": "Cosimo Nenciòni - Ha fatto 200 km con famiglia malata, ha storie da miliardario, ed era l'unico pulito",
+    "comico": "Adriano Sergio Lorenzo Facchini - La stella cadente di Federico e l'auto-accusa da untore",
+    "cuore": "Alessio Macalùso - Malato ma sempre presente, zen nell'accettare che l'aperipoker saltasse",
+    "fantasma": "Federico Ceccuzzi - Citato ma non pervenuto (anche se non e' colpa sua: 'viene sempre lasciato fuori')"
+  }
+}

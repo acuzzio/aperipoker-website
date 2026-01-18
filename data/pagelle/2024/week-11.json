@@ -1,0 +1,116 @@
+{
+  "anno": 2024,
+  "settimana": 11,
+  "startDate": "2024-03-11",
+  "endDate": "2024-03-17",
+  "stats": {
+    "totalMessages": 61,
+    "activeMembers": 6,
+    "avgPerMember": 10.2
+  },
+  "riassunto": "Settimana iniziata con Fausto che propone qualcosa e tutti che declinano con varie scuse. Il clima primaverile porta le discussioni su temi caldi: le americane in giro per le citta', il desiderio collettivo di una lesbica nel gruppo di amici (ma solo quella dei film porno, come puntualizza Alessio M.), e una carbonara memorabile di Fausto. Il weekend si chiude con la notizia del maratoneta Rutto che vince a Roma, scatenando battute di dubbio gusto. Giacomo si distingue per una volta per il bon ton.",
+  "bestQuotes": [
+    {
+      "quote": "E' un piacere risponderti di no",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "La sintesi perfetta dello spirito del gruppo quando Fausto propone qualcosa"
+    },
+    {
+      "quote": "Quelle dei film porno praticamente. Non quelle vere",
+      "author": "Alessio Macalùso",
+      "context": "La lucida analisi sulla lesbica ideale per il gruppo"
+    },
+    {
+      "quote": "Un plauso a Giacomo. Che ha fatto battuta sul rutto e non sul fatto che e' nero",
+      "author": "Alessio Macalùso",
+      "context": "Riconoscimento al Fondatore per il suo insperato bon ton"
+    },
+    {
+      "quote": "Io sono pessimo nel dire cazzate, ma te sei l'unico peggio",
+      "author": "Fausto Petrini",
+      "context": "Fausto che riconosce i propri limiti ma ne trova uno peggiore"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Fausto Petrini",
+      "voto": 8.0,
+      "giudizio": "Il trascinatore indefesso. Propone, condivide link culturali su Basaglia, parla di carbonare memorabili e inventa storie strappalacrime su maratoneti perseguitati. Anche se nessuno accetta i suoi inviti, non si arrende mai. L'hashtag #ruttolibero restera' nella storia.",
+      "messaggi": 25,
+      "mediaGiornaliera": 3.6,
+      "highlights": [
+        "Ha condiviso un articolo su Basaglia per elevare culturalmente il gruppo",
+        "Ha documentato la carbonara della sua vita",
+        "Ha inventato una storia commovente sul maratoneta Rutto perseguitato politico"
+      ],
+      "citazioneTop": "Io sono pessimo nel dire cazzate, ma te sei l'unico peggio"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 7.0,
+      "giudizio": "Il Re della Chat e' partito in quarta alle 3 di notte per dire di no a Fausto, poi ha brillato nella discussione sulle lesbiche con proposte concrete come 'una sega in amicizia'. Il leggerone lo stronca ma non gli impedisce di sparare cazzate. Solido.",
+      "messaggi": 16,
+      "mediaGiornaliera": 2.3,
+      "highlights": [
+        "Risposta notturna a Fausto con elegante rifiuto",
+        "Ha proposto l'idea della lesbica nel gruppo",
+        "Ha condiviso la notizia del maratoneta Rutto"
+      ],
+      "citazioneTop": "E' un piacere risponderti di no"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 6.5,
+      "giudizio": "Il Giramondo partecipa dalle Americhe confermando che le americane ce l'ha dappertutto, quindi l'effetto novita' per lui e' nullo. Contributi puntuali ma non memorabili, a parte il dolore di accompagnare Elisa all'universita' piena di tentazioni.",
+      "messaggi": 8,
+      "mediaGiornaliera": 1.1,
+      "highlights": [
+        "Ha condiviso il dramma quotidiano dell'universita' piena di americane",
+        "Risate genuine sulla battuta del Rutto"
+      ],
+      "citazioneTop": "pensa che io le americane ce l'ho dappertutto"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 7.5,
+      "giudizio": "Lo Zen Master colpisce ancora. Pochi messaggi ma tutti chirurgici: smonta la fantasia della lesbica con 'Quelle dei film porno praticamente. Non quelle vere' e chiude la settimana con il plauso a Giacomo per il suo inaspettato bon ton. Efficienza massima.",
+      "messaggi": 6,
+      "mediaGiornaliera": 0.9,
+      "highlights": [
+        "La distinzione tra lesbiche dei porno e quelle vere",
+        "Il plauso a Giacomo per non aver fatto battute razziste"
+      ],
+      "citazioneTop": "Quelle dei film porno praticamente. Non quelle vere"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 7.0,
+      "giudizio": "Il Fondatore si e' fatto notare per la domanda sugli alloggi popolari (sempre curioso delle dinamiche sociali) e soprattutto per la battuta sul cognome Rutto, evitando quella sul colore della pelle. Un gesto di insperata eleganza che gli e' valso il plauso del gruppo.",
+      "messaggi": 5,
+      "mediaGiornaliera": 0.7,
+      "highlights": [
+        "La curiosita' sugli alloggi popolari",
+        "La battuta sul Rutto senza sfociare nel razzismo",
+        "Ha ammesso di essere peggio di Fausto nel dire cazzate"
+      ],
+      "citazioneTop": "Primo rutto"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 4.5,
+      "giudizio": "Un solo messaggio testuale ('Fausto manco io. Impossibile') e poi silenzio, interrotto solo da media omessi. Il Provocatore Raffinato questa settimana ha preferito provocare con l'assenza. Efficiente nel dire no, assente nel resto.",
+      "messaggi": 1,
+      "mediaGiornaliera": 0.1,
+      "highlights": [
+        "Ha risposto a Fausto con un no secco ed efficiente"
+      ],
+      "citazioneTop": "Fausto manco io. Impossibile"
+    }
+  ],
+  "awards": {
+    "mvp": "Fausto Petrini - Ha tenuto vivo il gruppo da solo con proposte, carbonare e storytelling creativo",
+    "comico": "Alessio Macalùso - Poche parole ma devastanti, la distinzione porno/realta' e' da antologia",
+    "cuore": "Fausto Petrini - Ha persino inventato una storia commovente per un maratoneta sconosciuto",
+    "fantasma": "Cosimo Nenciòni - Un messaggio in sette giorni, il resto sono media omessi"
+  }
+}

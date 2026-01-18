@@ -1,0 +1,110 @@
+{
+  "anno": 2024,
+  "settimana": 26,
+  "startDate": "2024-06-24",
+  "endDate": "2024-06-30",
+  "stats": {
+    "totalMessages": 30,
+    "activeMembers": 6,
+    "avgPerMember": 5.0
+  },
+  "riassunto": "Settimana pigra di fine giugno, con il gruppo che commenta pigramente Italia-Croazia agli Europei e concorda unanimemente sullo stato pietoso della Nazionale. Cosimo propone di vedere insieme le prossime partite a casa sua nuova, ma profeticamente ammette 'è facile che usciamo alla prossima'. Spunta un misterioso pellegrino che cammina da 9 anni e mezzo, e il weekend si chiude con discussioni su matrimoni e commenti criptici su qualcuno 'bello grasso'.",
+  "bestQuotes": [
+    {
+      "quote": "Ma mi rendo conto che e6facile che usciamo alla prossima",
+      "author": "Cosimo Nenciòni",
+      "context": "Profezia sportiva autoavverante: l'Italia uscirà effettivamente alla partita successiva"
+    },
+    {
+      "quote": "Ieri mi stavo addormentando in almeno 4/5 occasione",
+      "author": "Giacomo Dolfi",
+      "context": "Review brutalmente onesta della partita Italia-Croazia"
+    },
+    {
+      "quote": "È uno che vuole fare solo questo nella vita",
+      "author": "Alessio Macalùso",
+      "context": "Filosofia zen sul pellegrino che cammina da quasi 10 anni"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 7.5,
+      "giudizio": "Il Provocatore Raffinato si dimostra insolitamente loquace questa settimana. Tra complimenti ambigui ('Sembrate più giovani di quello che siete'), analisi sportive lucide e l'invito a vedere la partita a casa sua, Cosimo tiene in piedi il gruppo con la sua consueta miscela di sarcasmo e ospitalità.",
+      "messaggi": 12,
+      "mediaGiornaliera": 1.7,
+      "highlights": [
+        "Propone di ospitare il gruppo per vedere le partite",
+        "Profezia sull'eliminazione dell'Italia che si avvererà",
+        "Analisi sportiva: 'Siamo forti nell atletica e nel tennis. E nel rugby'"
+      ],
+      "citazioneTop": "Sta."
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 7.0,
+      "giudizio": "La Voce della Ragione porta nel gruppo la storia affascinante del pellegrino che cammina da 9 anni e mezzo. Con il suo stile zen, risponde alle domande di Cosimo senza giudicare. Il suo 'Ahahah' del sabato vale più di mille parole.",
+      "messaggi": 6,
+      "mediaGiornaliera": 0.9,
+      "highlights": [
+        "Introduce la storia del pellegrino errante",
+        "Apprezza la 'foto con le ruspe'",
+        "Concorda con tutti senza prendere posizioni nette (classico)"
+      ],
+      "citazioneTop": "È uno che vuole fare solo questo nella vita"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 6.0,
+      "giudizio": "Il Re della Chat questa settimana abdica temporaneamente. Con soli 4 messaggi, Adriano si limita a commentare la disfatta calcistica e a notare qualcuno 'bello grasso'. Settimana sottotono per i suoi standard, ma almeno guarda l'Italia (per 10 minuti).",
+      "messaggi": 4,
+      "mediaGiornaliera": 0.6,
+      "highlights": [
+        "Apre il dibattito sulla Nazionale: 'La nostra squadra fa ridere o sembra a me?'",
+        "Commento misterioso 'Bello grasso' che scatena domande"
+      ],
+      "citazioneTop": "Un mondo alla rovescia"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 5.5,
+      "giudizio": "Il Trascinatore questa settimana sembra più trascinato che trascinatore. Tre messaggi, di cui uno con typo epico ('AsolutMwnte'). Curioso di sapere dove fosse qualcuno ('Ma do eri?'), ma per il resto... silenzio. Nessuna proposta di struscio. Preoccupante.",
+      "messaggi": 3,
+      "mediaGiornaliera": 0.4,
+      "highlights": [
+        "Il typo 'AsolutMwnte' diventa involontariamente comico",
+        "Curiosità geografica: 'Ma do eri?'"
+      ],
+      "citazioneTop": "Così mai"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 5.5,
+      "giudizio": "Il Giramondo si fa vivo con il suo classico 'aaaao' e commenta il caldo italiano dalla sua postazione esotica. Due risate ('ahhaha') e poco altro. Internet di merda? Fuso orario improbabile? O semplicemente settimana tranquilla sotto le palme.",
+      "messaggi": 3,
+      "mediaGiornaliera": 0.4,
+      "highlights": [
+        "Saluto caratteristico 'aaaao'",
+        "Commento climatico nostalgico 'chissà che calduccio'"
+      ],
+      "citazioneTop": "aaaao"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 5.0,
+      "giudizio": "Il Fondatore interviene con parsimonia ma con classe. Applaude qualcosa con 'Che spettacolo! Bravi!' e confessa di essersi quasi addormentato guardando l'Italia. Due messaggi, ma entrambi onesti. Il patriarca veglia in silenzio.",
+      "messaggi": 2,
+      "mediaGiornaliera": 0.3,
+      "highlights": [
+        "Ammette candidamente di essersi quasi addormentato 4/5 volte durante la partita"
+      ],
+      "citazioneTop": "Ieri mi stavo addormentando in almeno 4/5 occasione"
+    }
+  ],
+  "awards": {
+    "mvp": "Cosimo Nenciòni",
+    "comico": "Cosimo Nenciòni",
+    "cuore": "Alessio Macalùso",
+    "fantasma": "Giacomo Dolfi"
+  }
+}

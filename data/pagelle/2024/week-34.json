@@ -1,0 +1,117 @@
+{
+  "anno": 2024,
+  "settimana": 34,
+  "startDate": "2024-08-19",
+  "endDate": "2024-08-25",
+  "stats": {
+    "totalMessages": 49,
+    "activeMembers": 6,
+    "avgPerMember": 8.2
+  },
+  "riassunto": "Settimana ferragostana con il gruppo disperso tra mare, montagna e Siena. Cosimo apre parlando di culi estivi e costumini, Adriano risponde con metafore da trapano professionale. Il caso Sinner-doping divide (ma non troppo): Adriano sentenzia come da copione. Fausto conquista la Val di Funes col figlio a piedi - 12.5 km senza lamentele (del figlio). Il corteo della vittoria della Lupa chiude la settimana tra cartucciere messicane cercate e amiche ritrovate.",
+  "bestQuotes": [
+    {
+      "quote": "Devi mannare...  Cmq tanti culi quest'estate ammare. Vanno i costumini zeppati dentro tutti scosciati . Una bella cosa.",
+      "author": "Cosimo Nenciòni",
+      "context": "Apertura poetica della settimana sulle tendenze balneari"
+    },
+    {
+      "quote": "Mangio altro, là marmellata è da perdenti del cazzo",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Risposta sprezzante a provocazione culinaria"
+    },
+    {
+      "quote": "Sinner si dopa come tutti i professionisti. Fine.",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Chiude il dibattito sportivo con la delicatezza di un rullo compressore"
+    },
+    {
+      "quote": "Primo giorno, 50 min di cammino, crisi di pianto perché non volevamo prenderlo in collo, una volta superata, camminato a dritto, ieri 12.5 km a piedi da solo, ero morto io.",
+      "author": "Fausto Petrini",
+      "context": "Resoconto epico della conquista della Val di Funes col figlio"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 7.5,
+      "giudizio": "Il Re della Chat mantiene il trono anche in settimana pigra. Apre con metafore da cantiere edile (Hilti Professional), chiude il dibattito Sinner con la grazia di una sentenza della Cassazione. Cerca cartucciere messicane per il corteo come se fosse normale. Solido, senza picchi memorabili ma sempre presente.",
+      "messaggi": 16,
+      "mediaGiornaliera": 2.3,
+      "highlights": [
+        "Il paragone Hilti Professional per descrivere la vita notturna senese",
+        "Sentenza definitiva sul caso Sinner in due righe secche",
+        "Ricerca disperata di accessori da cowboy per il corteo"
+      ],
+      "citazioneTop": "Sinner si dopa come tutti i professionisti. Fine."
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 7.0,
+      "giudizio": "Il Giramondo si fa vivo dalla sua timezone imprecisata per googolare Hilti Professional sperando in contenuti piccanti. Delusione cocente: sono davvero trapani. A fine settimana fa da intermediario tra Eli e Adriano sulle amicizie senesi. Partecipazione a spot ma efficace.",
+      "messaggi": 8,
+      "mediaGiornaliera": 1.1,
+      "highlights": [
+        "La delusione per Hilti Professional che non è quello che sperava",
+        "Ammette di essere più dell'Istrice che della sua ragazza lupaiola"
+      ],
+      "citazioneTop": "ho googolato Hilti prof sperando di trovare una heather harmon, invece sono davvero gente che trapana..."
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 7.5,
+      "giudizio": "Il Provocatore Raffinato apre la settimana con un'ode ai costumini estivi che è poesia. Lancia la bomba Sinner-doping e poi si gode lo spettacolo. Chiude con un link sulle cicale che fanno pipì a 3 metri al secondo. Contenuti di qualità, sintesi impeccabile.",
+      "messaggi": 7,
+      "mediaGiornaliera": 1.0,
+      "highlights": [
+        "Osservazione sociologica sui trend balneari 2024",
+        "Provocazione strategica sul doping tennistico",
+        "Link educativo sulla minzione delle cicale"
+      ],
+      "citazioneTop": "Cmq tanti culi quest'estate ammare. Vanno i costumini zeppati dentro tutti scosciati. Una bella cosa."
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 8.0,
+      "giudizio": "MVP della settimana. Conquista la Val di Funes col figlio di 2-3 anni che cammina 12.5 km - più di molti adulti. Il racconto della crisi di pianto superata e poi maratona è epico. Offre pure la cartucciera del babbo. Unico a condividere contenuto emotivo vero questa settimana.",
+      "messaggi": 7,
+      "mediaGiornaliera": 1.0,
+      "highlights": [
+        "Resoconto epico del trekking col figlio piccolo",
+        "Disponibilità immediata a cercare la cartucciera per Adriano",
+        "Nota un paio di fiche alla parata (sempre vigile)"
+      ],
+      "citazioneTop": "Primo giorno, 50 min di cammino, crisi di pianto perché non volevamo prenderlo in collo, una volta superata, camminato a dritto, ieri 12.5 km a piedi da solo, ero morto io."
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 6.0,
+      "giudizio": "Il Fondatore si affaccia ogni tanto per approvare (Bellissima, Top number one) e lamentarsi (Ma che palle comunque). Presenza minimalista ma costante. Sente anche Lucia per la cartucciera ma 'è dura'. Settimana in modalità risparmio energetico.",
+      "messaggi": 5,
+      "mediaGiornaliera": 0.7,
+      "highlights": [
+        "Apprezza le battute altrui con tempismo",
+        "Si lamenta del doping sportivo con eleganza"
+      ],
+      "citazioneTop": "Ma che palle comunque"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 6.5,
+      "giudizio": "La Voce della Ragione interviene con la solita parsimonia zen. Un 'Non credo' che chiude la questione cartucciera. Un 'Bellissimo e foto da incorniciare' per Fausto. Un 'Foto corteo?' che è sia domanda che pretesa. Quattro messaggi, zero parole sprecate.",
+      "messaggi": 4,
+      "mediaGiornaliera": 0.6,
+      "highlights": [
+        "Apprezzamento sincero per le foto di Fausto",
+        "Richiesta corteo che dimostra partecipazione emotiva alla Lupa"
+      ],
+      "citazioneTop": "Non credo"
+    }
+  ],
+  "awards": {
+    "mvp": "Fausto Petrini - Per il racconto epico della Val di Funes e la condivisione di momenti familiari veri",
+    "comico": "Cosimo Nenciòni - Per l'apertura sui costumini e il finale sulle cicale urinatrici",
+    "cuore": "Fausto Petrini - Per aver condiviso l'impresa col figlio piccolo che conquista le Dolomiti",
+    "fantasma": null
+  }
+}

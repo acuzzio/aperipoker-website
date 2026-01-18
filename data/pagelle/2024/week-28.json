@@ -1,0 +1,115 @@
+{
+  "anno": 2024,
+  "settimana": 28,
+  "startDate": "2024-07-08",
+  "endDate": "2024-07-14",
+  "stats": {
+    "totalMessages": 97,
+    "activeMembers": 6,
+    "avgPerMember": 16.2
+  },
+  "riassunto": "Settimana dominata dalla visita a casa nuova di Cosimo a Firenze, con il gruppo che si ritrova sul Lungarno Colombo tra discussioni sul caldo mortale e il menù per Adriano col mal di stomaco. La politica irrompe con il DDL Nordio e soprattutto con l'attentato a Trump che scuote la domenica. Finale Euro 2024: tutti compatti contro l'Inghilterra, si tifa Spagna.",
+  "bestQuotes": [
+    {
+      "quote": "Che volete mangiare? Cucino o si va a mangiare troiai giù ai chioschetti sull'Arno? ( Chioschetti chioschetti chioschetti!!!)",
+      "author": "Cosimo Nenciòni",
+      "context": "L'entusiasmo incontenibile per i chioschetti sull'Arno"
+    },
+    {
+      "quote": "4 anni di Trump me li volevo evitare dio can, ma stanno facendo DI TUTTO per rimettercelo",
+      "author": "Alessio Valentini",
+      "context": "Lo sfogo sulla politica americana prima dell'attentato"
+    },
+    {
+      "quote": "Inglesi tutti appesi",
+      "author": "Cosimo Nenciòni",
+      "context": "Il verdetto definitivo sulla finale degli Europei"
+    },
+    {
+      "quote": "Menù bimbi: in ogni ristorante",
+      "author": "Fausto Petrini",
+      "context": "Risposta alla richiesta di Adriano per pasta all'olio e petto di pollo"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 7.5,
+      "giudizio": "Il Re della Chat si presenta malconcio, col mal di stomaco e le richieste da degente ospedaliero (pasta all'olio, petto di pollo, insalata), ma non si tira indietro. Arriva prima degli altri da Cocco e commenta l'attentato a Trump con l'occhio del cronista navigato.",
+      "messaggi": 30,
+      "mediaGiornaliera": 4.3,
+      "highlights": [
+        "Organizzatore della propria dieta con precisione chirurgica",
+        "Primo a commentare l'attentato a Trump nella notte"
+      ],
+      "citazioneTop": "Rimango sulla viabilità veloce.. non entro in centro a firenze nemmeno pagato"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 8.5,
+      "giudizio": "Settimana trionfale per il Provocatore Raffinato: apre le porte della casa nuova, cucina per gli amici (anche la pasta al burro per il malato), propone i chioschetti con entusiasmo incontenibile e sentenzia contro gli inglesi. Host perfetto e sarcastico quanto basta.",
+      "messaggi": 25,
+      "mediaGiornaliera": 3.6,
+      "highlights": [
+        "Ha ospitato il gruppo nella nuova casa sul Lungarno",
+        "Ha cucinato per Adriano nonostante le richieste da ricoverato",
+        "Sentenza definitiva sugli inglesi: 'tutti appesi'"
+      ],
+      "citazioneTop": "Chioschetti chioschetti chioschetti!!!"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 7.0,
+      "giudizio": "Il Trascinatore c'e, si organizza tra sedute e impegni, offre passaggi ad Adriano e propone locali. La battuta sul menu bimbi e perfida al punto giusto. Tifo Inghilterra per spirito di contraddizione? No, alla fine cede alla Spagna.",
+      "messaggi": 15,
+      "mediaGiornaliera": 2.1,
+      "highlights": [
+        "Ha coordinato gli spostamenti per l'evento da Cosimo",
+        "Ha proposto il chiosco della pizza dietro l'amburgheria"
+      ],
+      "citazioneTop": "Menù bimbi: in ogni ristorante"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 7.5,
+      "giudizio": "Il Giramondo non c'e fisicamente, ma si fa sentire eccome. Lo sfogo sulla politica americana e sincero e appassionato, l'attentato a Trump lo lascia senza parole. Dalla sua postazione esotica tifa Spagna con gli italiani che incontra.",
+      "messaggi": 12,
+      "mediaGiornaliera": 1.7,
+      "highlights": [
+        "Analisi lucida e disperata sulla situazione Biden-Trump",
+        "Solidale col gruppo sul tifo anti-inglese"
+      ],
+      "citazioneTop": "4 anni di Trump me li volevo evitare dio can, ma stanno facendo DI TUTTO per rimettercelo"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 6.5,
+      "giudizio": "La Voce della Ragione mantiene il suo stile zen: poche parole ma presenti. Arriva presto da Cosimo nonostante faccia notte, e sulla finale esprime la filosofia del gruppo: 'Noi tifiamo per il bel calcio'. Elegante come sempre.",
+      "messaggi": 8,
+      "mediaGiornaliera": 1.1,
+      "highlights": [
+        "Ha partecipato alla serata da Cosimo nonostante il turno di notte",
+        "Filosofia calcistica di alto livello"
+      ],
+      "citazioneTop": "Noi tifiamo per il bel calcio"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 6.5,
+      "giudizio": "Il Fondatore non ce la fa a venire da Cosimo, ma compensa con l'analisi giuridica del DDL Nordio: 'meglio ma peggio', sintesi perfetta da avvocato. Sul calcio nessun dubbio: 'Inghilterra mai!' Patriarca coerente.",
+      "messaggi": 7,
+      "mediaGiornaliera": 1.0,
+      "highlights": [
+        "Spiegazione chiara del DDL Nordio su richiesta di Cosimo",
+        "Fermo sul tifo anti-inglese"
+      ],
+      "citazioneTop": "meglio perchè teoricamente ci sono meno rompimenti di palle"
+    }
+  ],
+  "awards": {
+    "mvp": "Cosimo Nenciòni - Ha aperto casa sua, cucinato, e dominato le discussioni con classe",
+    "comico": "Fausto Petrini - 'Menu bimbi' ad Adriano e stato spietato",
+    "cuore": "Cosimo Nenciòni - Ha preparato la pasta all'olio per il malato senza battere ciglio",
+    "fantasma": "Nessuno - Tutti presenti, anche chi non poteva esserci fisicamente"
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "anno": 2024,
+  "settimana": 33,
+  "startDate": "2024-08-12",
+  "endDate": "2024-08-18",
+  "stats": {
+    "totalMessages": 92,
+    "activeMembers": 6,
+    "avgPerMember": 15.3
+  },
+  "riassunto": "Settimana memorabile dominata dal Palio dell'Assunta. Si apre con il compleanno di Adriano (42 anni, 'anche un bel numero' come nota Alessio V.) tra auguri affettuosi e battute sul fumo. Nel mezzo, Fausto regala un momento di pura poesia etilica con i suoi messaggi da 'gasa 3m' e 'Voia mm .anahaha'. Il climax arriva sabato col Palio: Fausto in ansia esistenziale per il possibile divorzio se vince la Chiocciola (contrada della moglie), Adriano che gufa e poi si purga, e alla fine VINCE L'ONDA! Matrimonio salvo, Istrice purgato, Adriano in gloria. Una settimana che aveva tutto: alcol, tensione coniugale, e la gioia del drappellone.",
+  "bestQuotes": [
+    {
+      "quote": "Sono in gasa 3m",
+      "author": "Fausto Petrini",
+      "context": "Messaggio del 15 agosto che ha generato dibattito interpretativo: 3 metri di gasa? 3 mach? Nessuno lo sa, neanche Fausto"
+    },
+    {
+      "quote": "Sono partito, con oggettivo rischio divorzio se vince la chiocciola. E sono serio",
+      "author": "Fausto Petrini",
+      "context": "La tensione del Palio vissuta su due fronti: quello sportivo e quello matrimoniale"
+    },
+    {
+      "quote": "Matrimonio salvato e istrice purgato. C'ho sformato per me, ma insomma va bene",
+      "author": "Fausto Petrini",
+      "context": "Il sollievo post-Palio riassunto in una frase perfetta"
+    },
+    {
+      "quote": "42 è anche un bel numero",
+      "author": "Alessio Valentini",
+      "context": "Auguri di compleanno con citazione hitchhikeriana: 42 è la risposta alla domanda fondamentale sulla vita, l'universo e tutto quanto"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Fausto Petrini",
+      "voto": 9.0,
+      "giudizio": "Settimana da incorniciare per il Trascinatore. Ha aperto con auguri imperiali ad Adriano, regalato momenti di poesia etilica da antologia ('Sono in gasa 3m', 'Voia mm'), e vissuto il Palio come una telenovela messicana col rischio divorzio in diretta. Quando ha scritto 'Matrimonio salvato e istrice purgato' abbiamo tutti tirato un sospiro di sollievo.",
+      "messaggi": 24,
+      "mediaGiornaliera": 3.4,
+      "highlights": [
+        "Auguri epici ad Adriano con 'che la gioia sia sempre con te'",
+        "La saga della sbronza del 15 agosto",
+        "Il dramma coniugale del Palio raccontato in tempo reale"
+      ],
+      "citazioneTop": "Vivo con angoscia questa contraddizione incredibile"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 8.0,
+      "giudizio": "Il Giramondo ha portato il suo solito mix di affetto e sarcasmo. La battuta su Adriano che 'ce l'ha sicuro ma lo fuma lui, e fa benisssssimo' apre la settimana col botto. Ottimo il fraintendimento sulla situazione di Fausto ('pensavo fossi a Siena e Elena sola a Firenze'). La citazione hitchhikeriana per i 42 anni di Adriano è stata la chicca da nerd.",
+      "messaggi": 19,
+      "mediaGiornaliera": 2.7,
+      "highlights": [
+        "Battuta sul fumo di Adriano perfettamente calibrata",
+        "Citazione su 42 come 'bel numero'",
+        "Fraintendimento comico sulla situazione di Fausto"
+      ],
+      "citazioneTop": "madonna che gufata, ottimo Adri"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 8.5,
+      "giudizio": "Il festeggiato della settimana! 42 anni portati con la solita ironia e una sbronza di compleanno degna di nota. Ma il vero highlight e stato il Palio: la gufata 'Tranquillo non vince' seguita dal panico e dalla purga preventiva e stata puro Adriano. Alla fine l'Onda ha vinto e lui si e meritato tutti i festeggiamenti. 'Bisogna fare l'aperitivo dei vittoriosi' e gia leggenda.",
+      "messaggi": 17,
+      "mediaGiornaliera": 2.4,
+      "highlights": [
+        "Ha compiuto 42 anni in direzione ostinata e contraria",
+        "La gufata involontaria sul Palio e successiva purga",
+        "L'Onda ha vinto: gloria eterna"
+      ],
+      "citazioneTop": "Mi purgo io maremma cane"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 7.0,
+      "giudizio": "Il laconico ha partecipato con la sua solita efficienza zen. 'Il fradicio' per descrivere Fausto e stato perfetto. Presente nei momenti chiave, ha commentato il Palio con la giusta intensita. Il suo 'Quando smettera il palio non sara piu la stessa cosa' e filosofia contradaiola pura.",
+      "messaggi": 13,
+      "mediaGiornaliera": 1.9,
+      "highlights": [
+        "'Il fradicio' - sintesi perfetta dello stato di Fausto",
+        "Commenti puntuali sul Palio",
+        "Sempre presente nei momenti chiave"
+      ],
+      "citazioneTop": "Quando smetterà il palio non sarà più la stessa cosa"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 7.5,
+      "giudizio": "Il Fondatore ha brillato con interventi di qualita. Gli auguri notturni ad Adriano, 'Il pelio' (refuso o battuta? Non importa, fa ridere), e soprattutto la statistica delle vittorie degli ultimi 25 pali mostrano la sua anima da archivista del gruppo. Il cuoricino finale per Adri e stato il tocco di classe.",
+      "messaggi": 10,
+      "mediaGiornaliera": 1.4,
+      "highlights": [
+        "Auguri alle 2 di notte",
+        "'Il pelio' - momento comico involontario",
+        "Statistica storica delle vittorie al Palio"
+      ],
+      "citazioneTop": "Grande palio! Contento per te Adri!"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 6.5,
+      "giudizio": "Il Provocatore ha dosato i suoi interventi con la solita precisione chirurgica. Il 'Dicci dicci' per sapere della sbronza di Adriano, il '3 mach' come interpretazione del messaggio di Fausto, e il 'Cristo' di fronte alla foto del giorno dopo sono stati perfetti. 'Mi fate un sunto che non ho facebook?' e la domanda dell'anno.",
+      "messaggi": 9,
+      "mediaGiornaliera": 1.3,
+      "highlights": [
+        "'3 mach' - interpretazione creativa",
+        "'Cristo. Che finaccia' - sintesi brutale",
+        "Richiesta di sunto per chi non ha Facebook"
+      ],
+      "citazioneTop": "Ma poi come... Da gran sburre'"
+    }
+  ],
+  "awards": {
+    "mvp": "Fausto Petrini - Ha tenuto il gruppo col fiato sospeso tra sbronze e crisi matrimoniali",
+    "comico": "Fausto Petrini - 'Sono in gasa 3m' e tutto cio che ne e seguito",
+    "cuore": "Adriano Sergio Lorenzo Facchini - Il festeggiato che ha condiviso gioia e ansia col gruppo",
+    "fantasma": null
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "anno": 2024,
+  "settimana": 37,
+  "startDate": "2024-09-09",
+  "endDate": "2024-09-15",
+  "stats": {
+    "totalMessages": 50,
+    "activeMembers": 6,
+    "avgPerMember": 8.3
+  },
+  "riassunto": "Settimana rilassata di meta' settembre dominata da tre temi: Cosimo che sfoggia il suo look da 'biondone' e viene celebrato come 'bel canottone', la polemica sugli stipendi degli insegnanti italiani (con Adriano che nomina prof mediocri del passato), e l'eterna discussione su quando organizzare una cena di gruppo. Fausto lancia l'appello 'Ma questa serata senese ci sara' mai?' e tutti rispondono con le loro impossibilita'. Highlight: la prima uscita in bici 'al completo' della famiglia Nencioni e il dibattito sulle e-bike cinesi che 'se ci scendi un marciapiede si spezza in due'.",
+  "bestQuotes": [
+    {
+      "quote": "Vuole insidiare il mio ruolo di maschio alfa",
+      "author": "Cosimo Nenciòni",
+      "context": "Cosimo commenta ironicamente la sua foto da biondone appena condivisa"
+    },
+    {
+      "quote": "Sei proprio un bel canottone!!",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Il complimento piu' dolce-sarcastico della settimana rivolto a Cosimo"
+    },
+    {
+      "quote": "Per gente come il medaglini, Faleri, prestigi, Satta, Parrini, pure troppi.",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Commento caustico sugli stipendi degli insegnanti italiani, citando vecchi prof poco amati"
+    },
+    {
+      "quote": "Se ci scendi un marciapiede si spezza in due secondo me",
+      "author": "Cosimo Nenciòni",
+      "context": "Recensione onesta della sua e-bike cinese: economica ma fragile"
+    },
+    {
+      "quote": "Male, dovevano essere nuove entrambe allora",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Adriano pretende bici nuove per tutta la famiglia Nencioni"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 8.5,
+      "giudizio": "Il maschio alfa biondo della settimana. Ha condiviso le foto della prima uscita in bici con tutta la famiglia ('Viva!'), ha proposto di organizzare la cena ('Meglio a ottobre ma posso provare'), e ha regalato la miglior recensione prodotto di sempre sulla sua e-bike cinese. 'Insidiare il suo ruolo di maschio alfa' rimane il momento top.",
+      "messaggi": 13,
+      "mediaGiornaliera": 1.9,
+      "highlights": [
+        "Ha sfoggiato il look da 'biondone' scatenando i complimenti del gruppo",
+        "Prima uscita in bici al completo con la famiglia",
+        "Recensione brutalmente onesta della e-bike cinese"
+      ],
+      "citazioneTop": "Vuole insidiare il mio ruolo di maschio alfa"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 8.0,
+      "giudizio": "Il chiacchierone ha colpito su piu' fronti: complimenti sarcastici a Cosimo ('bel canottone'), rant sugli stipendi dei prof con nomi e cognomi dei peggiori, e disponibilita' totale per incontri infrasettimanali (tranne impegni tennistici). Ha chiuso pretendendo bici nuove per tutti. Classico Adriano.",
+      "messaggi": 12,
+      "mediaGiornaliera": 1.7,
+      "highlights": [
+        "Ha coniato il termine 'bel canottone' per Cosimo",
+        "Ha nominato 5 prof mediocri in un singolo messaggio",
+        "Disponibile per il weekend 18-19 ottobre e infrasettimanali"
+      ],
+      "citazioneTop": "Sei proprio un bel canottone!!"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 7.5,
+      "giudizio": "Il giramondo ha apprezzato il biondone ('madonna che biondone, bella roba'), ha contribuito alla discussione sui prof ('ce l'avevano nella D'), e si e' dichiarato fan delle e-bike ('e' spettacolare mi piace assai'). Purtroppo impegnato fino a novembre, ma almeno partecipa da remoto con entusiasmo.",
+      "messaggi": 11,
+      "mediaGiornaliera": 1.6,
+      "highlights": [
+        "Entusiasta delle e-bike ('spettacolare mi piace assai')",
+        "Ha chiarito il mistero del prof Satta",
+        "Ha ammesso di essere impegnato fino a novembre"
+      ],
+      "citazioneTop": "cmq l'e-bike e' spettacolare mi piace assai"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 7.0,
+      "giudizio": "Il trascinatore frustrato non molla: 'Ma questa serata senese ci sara' mai?' e' il grido di dolore della settimana. Ha condiviso l'articolo sui gatti mangiati in Ohio, ha battezzato Cosimo 'Er canotta', e ha difeso le e-bike ('Se un si' rompre'). La voglia di vedersi c'e', la coordinazione meno.",
+      "messaggi": 7,
+      "mediaGiornaliera": 1.0,
+      "highlights": [
+        "Ha lanciato l'appello per la serata senese",
+        "Ha condiviso l'articolo sui cani e gatti in Ohio (Trump vs immigrati)",
+        "Ha coniato 'Er canotta' per Cosimo"
+      ],
+      "citazioneTop": "Ma questa serata senese ci sara' mai?"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 6.5,
+      "giudizio": "Lo zen master ha parlato poco ma con precisione chirurgica. Tre interventi chiave: emoji di spalle, 'Vero quando ci si trova?', e 'Per me si' + 'Fissiamo'. L'essenzialita' fatta persona. Quando dice 'Fissiamo' sai che parla sul serio.",
+      "messaggi": 5,
+      "mediaGiornaliera": 0.7,
+      "highlights": [
+        "Ha appoggiato la proposta di incontro con un secco 'Fissiamo'",
+        "Ha celebrato l'uscita in bici di Cosimo con emoji",
+        "Minimalista ma presente"
+      ],
+      "citazioneTop": "Fissiamo"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 5.5,
+      "giudizio": "Il Lider ha fatto due apparizioni: una per difendere il prof Prestigi ('cosa c'entra???') e una per dire che settembre e' un casino. Presenza minima ma almeno ha manifestato 'Ho voglia di vedervi'. Il fondatore veglia da lontano, ma molto lontano.",
+      "messaggi": 2,
+      "mediaGiornaliera": 0.3,
+      "highlights": [
+        "Ha difeso l'onore del prof Prestigi",
+        "Ha ammesso di avere voglia di vedere il gruppo"
+      ],
+      "citazioneTop": "Il prestigi cosa c'entra???"
+    }
+  ],
+  "awards": {
+    "mvp": "Cosimo Nenciòni - Maschio alfa biondo, ciclista familiare, e recensore di e-bike",
+    "comico": "Adriano Sergio Lorenzo Facchini - 'Bel canottone' e la lista dei prof mediocri",
+    "cuore": "Fausto Petrini - Non smette mai di provarci con la serata senese",
+    "fantasma": "Federico Ceccuzzi - Non ancora nel gruppo nel 2024"
+  }
+}

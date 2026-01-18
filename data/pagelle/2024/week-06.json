@@ -1,0 +1,110 @@
+{
+  "anno": 2024,
+  "settimana": 6,
+  "startDate": "2024-02-05",
+  "endDate": "2024-02-11",
+  "stats": {
+    "totalMessages": 48,
+    "activeMembers": 5,
+    "avgPerMember": 9.6
+  },
+  "riassunto": "Settimana dominata da due temi: la tecnologia dei papiri di Ercolano decifrati con il machine learning, portata con entusiasmo da Alessio V. che collega il tutto al suo lavoro, e l'immancabile Sanremo con la performance imbarazzante di John Travolta. Il mood e' quello tipico del gruppo: si parte dalla scienza antica e si finisce a commentare il trash televisivo. Giacomo latitante, Federico assente.",
+  "bestQuotes": [
+    {
+      "quote": "Classico esempio di vita in cui ci preoccupiamo inutilmente di cose che probabilmente non accadranno. Avrebbe avuto piu' senso pensare una cosa del tipo 'ma abitare sotto ad un vulcano attivo sara' pericoloso???'",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Commento filosofico sui papiri di Ercolano che parlavano di scarsita' di cibo invece di preoccuparsi del Vesuvio"
+    },
+    {
+      "quote": "Travolta al festival e' stata una delle cose piu' imbarazzanti della TV italiana di sempre. Volevo cambiare dall'imbarazzo",
+      "author": "Fausto Petrini",
+      "context": "Sintesi perfetta del sentimento nazionale post-Sanremo"
+    },
+    {
+      "quote": "Speravo ci fosse scritto qualcosa di piu' fantascientifico",
+      "author": "Cosimo Nenciòni",
+      "context": "Reazione delusa al contenuto filosofico dei papiri antichi"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Alessio Valentini",
+      "voto": 8.0,
+      "giudizio": "Il professore della settimana. Ha portato un argomento affascinante (i papiri di Ercolano) e lo ha spiegato con la passione di chi ci lavora davvero. 'Le tecniche che uso anche io, incredibilmente' - modesto come sempre. Ha acceso la discussione e poi ha risposto anche a Sanremo-gate. MVP indiscusso.",
+      "messaggi": 15,
+      "mediaGiornaliera": 2.1,
+      "highlights": [
+        "Ha introdotto il tema dei papiri di Ercolano con spiegazione tecnica coinvolgente",
+        "Ha collegato machine learning e archeologia al suo lavoro quotidiano",
+        "Partecipazione attiva su piu' giorni"
+      ],
+      "citazioneTop": "mostruoso"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 7.5,
+      "giudizio": "Il grillo parlante della settimana. Poche parole ma sempre al punto: la domanda 'E che c'e' scritto?' ha tenuto viva la discussione, e la delusione per il contenuto non-fantascientifico e' stata perfetta. Ha anche tirato fuori Baldacci/Baccini per 'pochi eletti'. Notturno come sempre.",
+      "messaggi": 13,
+      "mediaGiornaliera": 1.9,
+      "highlights": [
+        "Domande secche che alimentano la discussione",
+        "Link notturno di Baccini su Baldacci - citazione colta",
+        "Commenti su Orsini e Travolta con il giusto distacco"
+      ],
+      "citazioneTop": "Speravo ci fosse scritto qualcosa di piu' fantascientifico"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 7.0,
+      "giudizio": "Il filosofo involontario. La sua riflessione sul vulcano vs cibo e' stata la perla della settimana. Poi ha scoperto Sanremo dopo 25 anni e ne e' rimasto traumatizzato. 'Non ci sono cantanti' - benvenuto nel 2024, Adriano. Il link su Russell Crowe che prende in giro Travolta e' stato il colpo di grazia perfetto.",
+      "messaggi": 9,
+      "mediaGiornaliera": 1.3,
+      "highlights": [
+        "Battuta filosofica sui papiri che temevano la fame sotto un vulcano",
+        "Riscoperta traumatica di Sanremo dopo 25 anni",
+        "Ha trovato il video di Crowe vs Travolta"
+      ],
+      "citazioneTop": "Avrebbe avuto piu' senso pensare una cosa del tipo 'ma abitare sotto ad un vulcano attivo sara' pericoloso???'"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 6.5,
+      "giudizio": "Presente ma in modalita' osservatore. Ha rilanciato i papiri con Il Post (sempre sul pezzo, lui e il Post), ha commentato Sangiorgi 'rococo'' e ha espresso tutto l'imbarazzo nazionale per Travolta. Sveglio alle 5:28 per condividere articoli - il bollore non dorme mai.",
+      "messaggi": 8,
+      "mediaGiornaliera": 1.1,
+      "highlights": [
+        "Link de Il Post sui papiri - content curation di qualita'",
+        "'Sangiorgi e' veramente rococo'' - critica musicale sintetica",
+        "Espressione dell'imbarazzo collettivo per Travolta"
+      ],
+      "citazioneTop": "Travolta al festival e' stata una delle cose piu' imbarazzanti della TV italiana di sempre"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 5.5,
+      "giudizio": "Il monaco zen della settimana. Tre messaggi, tutti il lunedi', tutti essenziali: 'Geniale', 'Col senno di poi', 'Giusto invece pensare al cibo'. Ha detto tutto quello che c'era da dire e poi e' tornato a meditare. O forse aveva la connessione che andava e veniva.",
+      "messaggi": 3,
+      "mediaGiornaliera": 0.4,
+      "highlights": [
+        "'Geniale' - approvazione lapidaria dei papiri",
+        "Difesa del filosofo antico sul tema cibo"
+      ],
+      "citazioneTop": "Giusto invece pensare al cibo"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 3.0,
+      "giudizio": "Fantasma della settimana. Il Fondatore ha deciso che questa settimana il gruppo poteva cavarsela da solo. Nessun messaggio, nessuna domanda apparentemente innocua che scatena guerre civili. Ci manchi, Lider.",
+      "messaggi": 0,
+      "mediaGiornaliera": 0.0,
+      "highlights": [],
+      "citazioneTop": null
+    }
+  ],
+  "awards": {
+    "mvp": "Alessio Valentini",
+    "comico": "Adriano Sergio Lorenzo Facchini",
+    "cuore": "Cosimo Nenciòni",
+    "fantasma": "Giacomo Dolfi"
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "anno": 2024,
+  "settimana": 45,
+  "startDate": "2024-11-04",
+  "endDate": "2024-11-10",
+  "stats": {
+    "totalMessages": 69,
+    "activeMembers": 6,
+    "avgPerMember": 11.5
+  },
+  "riassunto": "Settimana dominata da due eventi: l'organizzazione della cena del 9 novembre (La Speranza chiusa per ferie, ripiego sul Casato) e le elezioni americane con Trump vincitore. Alessio V. ha vissuto la notte elettorale in diretta dal North Carolina, mentre il resto del gruppo si coordinava per la cena del sabato. Finale goliardico con filtri baby face che trasformano tutti in pargoli.",
+  "bestQuotes": [
+    {
+      "quote": "io sto per piangere",
+      "author": "Alessio Valentini",
+      "context": "Reazione live alla vittoria di Trump, seguita dalla trincea del North Carolina"
+    },
+    {
+      "quote": "Mongoli",
+      "author": "Cosimo Nenciòni",
+      "context": "Commento secco e definitivo sull'elettorato americano"
+    },
+    {
+      "quote": "L'unico che rimane uguale è jack. E questo dovrebbe far riflettere",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Osservazione filosofica sui filtri baby face applicati al gruppo"
+    },
+    {
+      "quote": "Ma che cazzo e'!!",
+      "author": "Fausto Petrini",
+      "context": "Reazione genuina alle foto con filtri"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Alessio Valentini",
+      "voto": 8.5,
+      "giudizio": "Corrispondente di guerra dalla trincea del North Carolina. Ha vissuto la notte elettorale in diretta con noi, tra analisi lucide e disperazione crescente. Il suo 'io sto per piangere' vale piu' di mille editoriali. Poi si e' ripreso mandando foto con filtri baby face.",
+      "messaggi": 17,
+      "mediaGiornaliera": 2.4,
+      "highlights": [
+        "Cronaca live delle elezioni USA dal campo",
+        "Coinvolgimento emotivo autentico",
+        "Analisi politica da insider (governatore NC)"
+      ],
+      "citazioneTop": "siamo rossi come il PCI"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 7.5,
+      "giudizio": "Il solito Adriano: presente su tutti i fronti, dai suggerimenti gastronomici alla filosofia spicciola. Ha proposto l'aperitivo pre-cena con la costanza di chi sa che verra' ignorato. Chiude la settimana con una perla esistenziale su Jack e i filtri.",
+      "messaggi": 18,
+      "mediaGiornaliera": 2.6,
+      "highlights": [
+        "Suggerimenti sui ristoranti (Montechiarino, Casato)",
+        "Coordinamento aperitivo pre-cena",
+        "Battuta finale memorabile su Jack"
+      ],
+      "citazioneTop": "L'unico che rimane uguale e' jack. E questo dovrebbe far riflettere"
+    },
+    {
+      "name": "Alessio Macaluso",
+      "voto": 7.0,
+      "giudizio": "Il Maca organizzatore: ha gestito la crisi della Speranza chiusa per ferie con stoicismo zen, ha prenotato al Casato, ha contato teste. Meno brillante del solito ma fondamentale per la logistica. Trasformato in bimbo dai filtri con risultati inquietanti.",
+      "messaggi": 14,
+      "mediaGiornaliera": 2.0,
+      "highlights": [
+        "Gestione prenotazione dopo chiusura Speranza",
+        "Coordinamento dei 16 partecipanti",
+        "Disponibilita' come punto di riferimento"
+      ],
+      "citazioneTop": "Se viene in mente qualcosa di meglio sprenoto"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 8.0,
+      "giudizio": "Otto messaggi, zero sprechi. Il suo 'Mongoli' sulle elezioni e' poesia ermetica. Ha condiviso la foto del cotechino biondo (il figlio), ha proposto la fiesta, ha mandato le cose per Fausto. Efficienza svizzera con cuore toscano.",
+      "messaggi": 8,
+      "mediaGiornaliera": 1.1,
+      "highlights": [
+        "Commento definitivo sulle elezioni USA",
+        "Condivisione foto del figlio",
+        "Variabili esistenziali su chi portare alla cena"
+      ],
+      "citazioneTop": "Mongoli"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 6.5,
+      "giudizio": "Il Lider apre la settimana con la domanda fatidica sul 9 novembre e poi si defila. Conferma la presenza senza bambini, fa la battuta sul vestito da regalare a Pietro che mangia. Presenza minima ma di qualita'.",
+      "messaggi": 6,
+      "mediaGiornaliera": 0.9,
+      "highlights": [
+        "Avvio della discussione organizzativa",
+        "Battuta sul regalo-vestito per Pietro"
+      ],
+      "citazioneTop": "la prossima volta gli regalo un vestito"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 5.5,
+      "giudizio": "Settimana sottotono per il Trascinatore. Poche domande logistiche, nessuna proposta di seratone, zero bollore. Si riscatta parzialmente con il 'Ma che cazzo e'!!' sulle foto filtrate. Le cose che Cosimo gli manda rimangono un mistero.",
+      "messaggi": 6,
+      "mediaGiornaliera": 0.9,
+      "highlights": [
+        "Domande sulla composizione del gruppo",
+        "Reazione genuina alle foto con filtri"
+      ],
+      "citazioneTop": "Ma che cazzo e'!!"
+    }
+  ],
+  "awards": {
+    "mvp": "Alessio Valentini - Per la cronaca elettorale dalla trincea americana",
+    "comico": "Cosimo Nenciòni - 'Mongoli' e' poesia",
+    "cuore": "Alessio Macaluso - Ha organizzato tutto senza lamentarsi",
+    "fantasma": "Fausto Petrini - Dov'e' finito il bollore?"
+  }
+}

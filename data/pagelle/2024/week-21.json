@@ -1,0 +1,110 @@
+{
+  "anno": 2024,
+  "settimana": 21,
+  "startDate": "2024-05-20",
+  "endDate": "2024-05-26",
+  "stats": {
+    "totalMessages": 46,
+    "activeMembers": 6,
+    "avgPerMember": 7.7
+  },
+  "riassunto": "Settimana dominata dalla notizia bomba: Giacomo è stato nominato presidente di seggio per le elezioni comunali. Il gruppo si è diviso tra chi lo prende in giro (Cosimo: 'Per cagargli nel segreto dell'urna'), chi vuole sapere quanto paga (Fausto, ovviamente), e chi ringrazia lo Stato (Alessio M.). Si è parlato anche del caso Chico Forti, con Adriano netto nel definirlo 'un assassino'. La settimana si chiude con una foto di Alessio V. con una camicia strepitosa, probabilmente a un matrimonio.",
+  "bestQuotes": [
+    {
+      "quote": "Per cagargli nel segreto dell'urna.",
+      "author": "Cosimo Nenciòni",
+      "context": "Risposta alla domanda di Adriano su cosa fare per votare nel seggio di Giacomo. Battuta perfetta."
+    },
+    {
+      "quote": "fausto mi stai facendo perdere tutto il bello di una disponibilità ad un servizio pubblico",
+      "author": "Giacomo Dolfi",
+      "context": "Giacomo esasperato dalle domande sul compenso del presidente di seggio"
+    },
+    {
+      "quote": "comunque non è rotondo ma cubico",
+      "author": "Giacomo Dolfi",
+      "context": "Risposta sibillina quando Adriano dice 'Che culo che hai' - gioco di parole raffinato"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 8.5,
+      "giudizio": "Il Lider ha illuminato la settimana con la notizia del suo servizio civico. Ha resistito stoicamente alle provocazioni di Fausto sul compenso, mantenendo la dignità di un servo dello Stato. La battuta sul culo cubico è da antologia.",
+      "messaggi": 13,
+      "mediaGiornaliera": 1.9,
+      "highlights": [
+        "Protagonista assoluto con la nomina a presidente di seggio",
+        "Ha già scelto la segretaria (Valentina De Rubertis) - efficienza da leader",
+        "Ha lanciato la discussione su Chico Forti"
+      ],
+      "citazioneTop": "comunque non è rotondo ma cubico"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 7.0,
+      "giudizio": "Sempre sul pezzo, ha animato la discussione con la sua solita verve. Voleva cambiare residenza per votare nel seggio di Giacomo - dedizione commovente. Netto e diretto su Chico Forti: 'Un assassino'. Zero giri di parole, come sempre.",
+      "messaggi": 11,
+      "mediaGiornaliera": 1.6,
+      "highlights": [
+        "Entusiasta supporter del presidente Giacomo",
+        "Ha notato la camicia strepitosa di Alessio V."
+      ],
+      "citazioneTop": "Voglio votare nel tuo seggio"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 6.5,
+      "giudizio": "Ossessionato dal compenso del presidente di seggio. 'Si ma insomma?' ripetuto all'infinito ha fatto perdere la pazienza pure al paziente Giacomo. Almeno ha apprezzato la camicia di Alessio V. alla fine. Il suo W il bollore latita questa settimana.",
+      "messaggi": 9,
+      "mediaGiornaliera": 1.3,
+      "highlights": [
+        "Ha chiesto tre volte quanto paga fare il presidente di seggio",
+        "Ha proposto di girare l'obolo al partito come ai vecchi tempi"
+      ],
+      "citazioneTop": "Pagano? Quanto?"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 8.0,
+      "giudizio": "Con soli 6 messaggi ha piazzato la battuta della settimana. 'Per cagargli nel segreto dell'urna' è poesia pura. Efficienza svizzera nel sarcasmo. Ha anche condiviso qualcosa di 'delizioso' nel weekend - mistero.",
+      "messaggi": 6,
+      "mediaGiornaliera": 0.9,
+      "highlights": [
+        "Battuta dell'urna da incorniciare",
+        "Ha chiesto un sunto su Chico Forti perché 'un po' fuori dal giro'"
+      ],
+      "citazioneTop": "Per cagargli nel segreto dell'urna."
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 6.5,
+      "giudizio": "Lo zen master ha brillato con il suo 'Grazie di servire lo stato' - sincero o ironico? Nessuno lo saprà mai. Ha fornito informazioni precise sul compenso del seggio (195 euro più ferie), dimostrando di essere il vero esperto del gruppo.",
+      "messaggi": 5,
+      "mediaGiornaliera": 0.7,
+      "highlights": [
+        "Unico a ringraziare Giacomo per il servizio pubblico",
+        "Ha suggerito di guardare Le Iene per Chico Forti"
+      ],
+      "citazioneTop": "Grazie di servire lo stato"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 5.5,
+      "giudizio": "Il Giramondo è stato più fantasma che presenza questa settimana. Due messaggi, di cui uno 'si pleeese' per chiedere info su Chico Forti. Però la foto con la camicia eccezionale al matrimonio ha compensato. Forse era troppo impegnato a fare bella figura.",
+      "messaggi": 2,
+      "mediaGiornaliera": 0.3,
+      "highlights": [
+        "Ha condiviso una foto con camicia strepitosa (probabilmente matrimonio)",
+        "Ha approvato il contenuto di Cosimo con 'strepitoso'"
+      ],
+      "citazioneTop": "si pleeese"
+    }
+  ],
+  "awards": {
+    "mvp": "Giacomo Dolfi - Presidente della settimana (e del seggio)",
+    "comico": "Cosimo Nenciòni - La battuta dell'urna resterà negli annali",
+    "cuore": "Alessio Macalùso - L'unico a ringraziare per il servizio pubblico",
+    "fantasma": "Alessio Valentini - Solo 2 messaggi, ma che camicia"
+  }
+}

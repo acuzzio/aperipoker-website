@@ -1,0 +1,122 @@
+{
+  "anno": 2024,
+  "settimana": 18,
+  "startDate": "2024-04-29",
+  "endDate": "2024-05-05",
+  "stats": {
+    "totalMessages": 51,
+    "activeMembers": 6,
+    "avgPerMember": 8.5
+  },
+  "riassunto": "La settimana e' dominata dal viaggio di Fausto in Danimarca: prima Legoland con la famiglia, poi Copenhagen con le sue bionde. Il gruppo commenta, prende in giro, e si lascia andare a ricordi di Christiania e battute sulle universitarie senesi. Giacomo apre con il caso Depardieu, Cosimo chiude con battute chirurgiche. Una settimana tranquilla ma con momenti di goliardia pura.",
+  "bestQuotes": [
+    {
+      "quote": "Personaggio lassativo",
+      "author": "Cosimo Nenciòni",
+      "context": "Definizione perfetta di Gerard Depardieu in due parole"
+    },
+    {
+      "quote": "Sei a Legoland. La figa non va a Legoland.",
+      "author": "Cosimo Nenciòni",
+      "context": "Risposta a Fausto che mostrava le foto dal parco"
+    },
+    {
+      "quote": "perche' rischio, per guardare la POTTA A FRATTE che c'e', di ammazzare qualcuno",
+      "author": "Alessio Valentini",
+      "context": "Sul pericolo di accompagnare Elisa all'universita'"
+    },
+    {
+      "quote": "Incredibile errore di valutazione: copenhagen pieno di fica. Bionda. Tocca dare ragione a cocco",
+      "author": "Fausto Petrini",
+      "context": "La scoperta delle bionde danesi dopo due giorni a Legoland"
+    },
+    {
+      "quote": "Ho ancora un portacanna in uso comprato a christiania",
+      "author": "Cosimo Nenciòni",
+      "context": "Ricordo del suo viaggio a Copenhagen"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Fausto Petrini",
+      "voto": 8.5,
+      "giudizio": "Ha portato il gruppo in Danimarca senza far spendere un euro a nessuno. Due giorni a Legoland con moglie e figli, poi la folgorazione delle bionde di Copenhagen. Il viaggio come forma d'arte e di reportage per gli amici rimasti a casa. 'Sfiniti di lego' e' il mantra del padre moderno.",
+      "messaggi": 14,
+      "mediaGiornaliera": 2.0,
+      "highlights": [
+        "Reportage completo da Legoland e Legohouse",
+        "La scoperta delle bionde danesi che ribalta ogni pregiudizio",
+        "Ha fatto sognare il gruppo con foto e racconti"
+      ],
+      "citazioneTop": "Incredibile errore di valutazione: copenhagen pieno di fica. Bionda. Tocca dare ragione a cocco"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 8.0,
+      "giudizio": "Con 11 messaggi ha fatto piu' danni di un bombardamento. 'Personaggio lassativo' su Depardieu vale da solo il voto. La frase su Legoland e la figa e' da incorniciare. Il portacanna di Christiania e' il tocco finale di un uomo che ha vissuto.",
+      "messaggi": 11,
+      "mediaGiornaliera": 1.6,
+      "highlights": [
+        "Definizione immortale di Depardieu in due parole",
+        "La verita' su Legoland e la figa",
+        "Il portacanna di Christiania ancora in uso"
+      ],
+      "citazioneTop": "Sei a Legoland. La figa non va a Legoland."
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 7.0,
+      "giudizio": "Il giramondo questa settimana e' rimasto a Siena, ma non si e' fatto mancare nulla. La POTTA A FRATTE dell'universita' e' un classico intramontabile. Partecipa con entusiasmo alle discussioni nordiche pur rimanendo ancorato alle sue radici toscane.",
+      "messaggi": 9,
+      "mediaGiornaliera": 1.3,
+      "highlights": [
+        "Il pericolo mortale di guidare vicino all'universita'",
+        "Commenti puntuali sul viaggio di Fausto"
+      ],
+      "citazioneTop": "perche' rischio, per guardare la POTTA A FRATTE che c'e', di ammazzare qualcuno"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 6.5,
+      "giudizio": "Lo zen master ha parlato: 'Bello', 'Davvero', 'Obg'. Ma quando si e' sbloccato ha tirato fuori la domanda su Christiania e la riflessione sui Lego che resistono al tempo. Il saggio che osserva e interviene solo quando serve.",
+      "messaggi": 8,
+      "mediaGiornaliera": 1.1,
+      "highlights": [
+        "La domanda su Christiania che ha risvegliato i ricordi di tutti",
+        "Riflessione filosofica sulla resilienza della Lego",
+        "I meme che fanno piegare"
+      ],
+      "citazioneTop": "E Christiania esiste sempre?"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 6.0,
+      "giudizio": "Settimana sottotono per il Re della Chat. Solo 6 messaggi, ma 'Maledetto viagra' e' un titolo da Oscar. Ha commentato piu' che animato, ma quando hai scritto 7000 messaggi puoi permetterti una pausa ogni tanto.",
+      "messaggi": 6,
+      "mediaGiornaliera": 0.9,
+      "highlights": [
+        "Il commento sul viagra che chiude una discussione",
+        "La battuta su tornare a Legoland per non trovare la figa"
+      ],
+      "citazioneTop": "Maledetto viagra"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 5.5,
+      "giudizio": "Il Fondatore ha aperto la settimana con il caso Depardieu e poi e' sparito. Tre messaggi in sette giorni: la domanda sui pezzi Lego persi e' simpatica, ma da un patriarca ci si aspetta di piu'. Settimana da osservatore.",
+      "messaggi": 3,
+      "mediaGiornaliera": 0.4,
+      "highlights": [
+        "Ha aperto la discussione su Depardieu",
+        "La domanda sui pezzi Lego persi"
+      ],
+      "citazioneTop": "Gerard Depardieu e' nei casini"
+    }
+  ],
+  "awards": {
+    "mvp": "Fausto Petrini - Ha portato la Danimarca nel gruppo con reportage, foto e scoperte femminili",
+    "comico": "Cosimo Nenciòni - 'Personaggio lassativo' e 'La figa non va a Legoland' sono da antologia",
+    "cuore": "Alessio Macalùso - Ha risvegliato i ricordi di Christiania in tutto il gruppo",
+    "fantasma": "Giacomo Dolfi - Solo 3 messaggi in tutta la settimana"
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "anno": 2024,
+  "settimana": 46,
+  "startDate": "2024-11-11",
+  "endDate": "2024-11-17",
+  "stats": {
+    "totalMessages": 58,
+    "activeMembers": 6,
+    "avgPerMember": 9.7
+  },
+  "riassunto": "Settimana tranquilla dominata da tre eventi: il video virale di Hasbulla che sconvolge Cosimo ('Ma non e' un bambino?'), il tentativo di organizzare una serata cinema per l'Eastwood che finisce in un Sinner-watching da Alessio Mac, e la trasferta di Alessio Vale a Washington per il Global Entry. La settimana si chiude con un articolo inquietante su Gemini che dice cose brutte agli studenti, lasciando tutti un po' perplessi sul futuro dell'intelligenza artificiale.",
+  "bestQuotes": [
+    {
+      "quote": "Ma non e' un bambino?",
+      "author": "Cosimo Nenciòni",
+      "context": "Cosimo scopre Hasbulla nel 2024, confondendolo con suo figlio"
+    },
+    {
+      "quote": "mi hanno chiesto se sono mai stato arrestato... se ho mai portato merda negli USA",
+      "author": "Alessio Valentini",
+      "context": "Resoconto dell'intervista per il Global Entry, con traduzione letterale di 'shit'"
+    },
+    {
+      "quote": "Gemini ha pienamente ragione, almeno in questa fase evolutiva",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Commento dark sull'articolo di un chatbot che dice cose brutte agli studenti"
+    },
+    {
+      "quote": "Io so a cena da altri disperati come me",
+      "author": "Cosimo Nenciòni",
+      "context": "Cosimo declina l'invito al cinema con la solita autoironia"
+    },
+    {
+      "quote": "direi piu' Gesu' bambino",
+      "author": "Alessio Valentini",
+      "context": "Battuta su Hasbulla che somiglia al figlio di Cosimo, gioco di parole con il nome Sinner"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Alessio Macalùso",
+      "voto": 8.0,
+      "giudizio": "Il maestro zen ha dominato la settimana con la scoperta di Hasbulla. Ha spiegato pazientemente a Cosimo chi fosse il personaggio ('E' un personaggio di Internet avra' 20anni'), ha proposto il cinema Eastwood, e poi con pragmatismo ha ripiegato sul Sinner a casa sua. Leader silenzioso della settimana.",
+      "messaggi": 14,
+      "mediaGiornaliera": 2.0,
+      "highlights": [
+        "Ha portato Hasbulla nel gruppo con un video che ha scatenato discussioni",
+        "Ha proposto il cinema Eastwood al multisala di Campi Bisenzio",
+        "Ha offerto casa sua per vedere Sinner quando il cinema e' saltato"
+      ],
+      "citazioneTop": "Mi fa ridere che lo tratta come un bambino a un certo punto gli da' anche i bacini"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 8.5,
+      "giudizio": "Il giramondo ha scritto da Washington con il suo solito stile: essenziale ma pieno di perle. 'Il peccatore' su Sinner, 'Gesu' bambino' su Hasbulla, e il resoconto del Global Entry ('mi hanno chiesto se ho mai portato merda negli USA'). Pochi messaggi, massimo impatto. Biden sta bene.",
+      "messaggi": 13,
+      "mediaGiornaliera": 1.9,
+      "highlights": [
+        "Ha fatto l'intervista per il Global Entry a Washington",
+        "Ha piazzato la battuta 'direi piu' Gesu' bambino' su Hasbulla/Sinner",
+        "Ha chiuso la settimana con un 'e' bellissima' su Washington"
+      ],
+      "citazioneTop": "mi hanno chiesto se sono mai stato arrestato... se ho mai portato merda negli USA"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 7.5,
+      "giudizio": "Il Re della Chat ha tentato di organizzare una serata sabato con l'entusiasmo di sempre: cinema, cena, aperitivo, tutto insieme. Ha proposto il multisala figo di Campi Bisenzio ('E ci potrebbe anche stare') e ha scoperto il ristorante Milleluci a Colle. Il commento dark su Gemini vale mezzo punto in piu'.",
+      "messaggi": 13,
+      "mediaGiornaliera": 1.9,
+      "highlights": [
+        "Ha lanciato l'iniziativa cinema/cena del sabato",
+        "Ha offerto la macchina per andare a Campi Bisenzio",
+        "Ha trovato il ristorante Milleluci per future uscite"
+      ],
+      "citazioneTop": "Gemini ha pienamente ragione, almeno in questa fase evolutiva"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 8.0,
+      "giudizio": "Con soli 10 messaggi ha regalato i momenti piu' memorabili della settimana. La scoperta di Hasbulla ('Ma non e' un bambino?'), il 'Cristo' di stupore, 'Assomiglia al mi figliolo', e l'autodefinizione di 'disperato' che cena con altri disperati. Efficienza comica al massimo.",
+      "messaggi": 10,
+      "mediaGiornaliera": 1.4,
+      "highlights": [
+        "Ha scoperto Hasbulla e pensava fosse un bambino",
+        "Il paragone con suo figlio ha creato il setup perfetto per la battuta di Alessio V.",
+        "Si e' auto-definito 'disperato' con disarmante onesta'"
+      ],
+      "citazioneTop": "Assomiglia al mi figliolo"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 6.5,
+      "giudizio": "Settimana sottotono per il Trascinatore. Ha offerto casa sua ('ci sono io con Giulio') e ha condiviso l'articolo inquietante su Gemini, ma per il resto e' rimasto in disparte. Quattro messaggi sono pochi per uno che di solito organizza tutto. Forse il bollore era basso.",
+      "messaggi": 4,
+      "mediaGiornaliera": 0.6,
+      "highlights": [
+        "Ha offerto casa sua per la serata",
+        "Ha portato l'articolo su Gemini che ha fatto riflettere tutti"
+      ],
+      "citazioneTop": "Se volete casa mia e' libera, cioe', ci sono io con Giulio"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 6.0,
+      "giudizio": "Il Lider ha risposto in ritardo e con poche parole. Ha declinato la serata ('stasera non ce la faccio'), ha cercato di vedere Sinner senza riuscirci, e ha commentato l'articolo su Gemini con un prudente 'ci puo' stare per quanto inquietante'. Presenza minima ma almeno ha fatto sapere.",
+      "messaggi": 4,
+      "mediaGiornaliera": 0.6,
+      "highlights": [
+        "Ha confermato la notizia su Gemini con altre fonti",
+        "Ha incoraggiato gli altri ad andare al cinema anche senza di lui"
+      ],
+      "citazioneTop": "Ce la fate anche ad andare al cinema"
+    }
+  ],
+  "awards": {
+    "mvp": "Alessio Valentini - Da Washington con amore: poche parole, battute perfette, e il racconto del Global Entry",
+    "comico": "Cosimo Nenciòni - La scoperta di Hasbulla e il paragone con suo figlio valgono l'award",
+    "cuore": "Alessio Macalùso - Ha offerto casa sua per Sinner quando il cinema e' saltato, come sempre disponibile",
+    "fantasma": "Fausto Petrini e Giacomo Dolfi - Pari merito con 4 messaggi a testa, settimana da rivedere"
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "anno": 2024,
+  "settimana": 17,
+  "startDate": "2024-04-22",
+  "endDate": "2024-04-28",
+  "stats": {
+    "totalMessages": 143,
+    "activeMembers": 6,
+    "avgPerMember": 23.8
+  },
+  "riassunto": "Settimana dominata dalla Liberazione e dall'organizzazione di una cena sushi. Il 25 aprile ha portato sia riflessioni politiche che il classico tentativo di organizzare qualcosa tutti insieme. Alla fine il gruppo (Adriano, Fausto, Giacomo, Alessio M.) si e' ritrovato al sushi di Porta Siena per un all-you-can-eat memorabile, con Adriano che si spara una pizzetta prima della cena e ordini totalmente random al ristorante. Cosimo e' rimasto a Pitigliano 'con la neve' mentre Alessio V. e' apparso brevemente per consigliare Baby Reindeer e urlare contro i fascisti.",
+  "bestQuotes": [
+    {
+      "quote": "Tanto il sushi sembre merda e' uno vale l'altro",
+      "author": "Alessio Macaluso",
+      "context": "Filosofia culinaria applicata alla scelta del ristorante - pragmatismo allo stato puro"
+    },
+    {
+      "quote": "Liberazione funzionata a meta'.",
+      "author": "Cosimo Nencioni",
+      "context": "Commento caustico sulla Festa della Liberazione con riferimento alla situazione politica"
+    },
+    {
+      "quote": "Adriano si e' sparato una pizzetta, prima dell'all you can eat",
+      "author": "Fausto Petrini",
+      "context": "Cronaca in diretta della fame incontenibile di Adriano"
+    },
+    {
+      "quote": "La scelta del sushi e' stata totalmente random. Nessuno ha mai capito veramente i propri ordini",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Ammissione post-cena sul caos organizzativo del gruppo"
+    },
+    {
+      "quote": "Non li faccio ma lo leggo nel mio destino",
+      "author": "Cosimo Nencioni",
+      "context": "Su padel e arrampicata - veggente della propria pigrizia futura"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 8.0,
+      "giudizio": "Il solito fiume in piena, ma questa settimana aveva una missione: organizzare la serata del 26. Tra l'affiancamento saltato col direttore vendite, la pizzetta pre-sushi e il golf del sabato mattina, ha vissuto una settimana piena. Il racconto degli ordini random al sushi e' poesia involontaria.",
+      "messaggi": 47,
+      "mediaGiornaliera": 9.4,
+      "highlights": [
+        "Ha tenuto viva la discussione sull'organizzazione della serata sushi",
+        "La storia dell'affiancamento saltato e' stata raccontata con pathos epico",
+        "Pizzetta pre-all-you-can-eat: momento leggendario"
+      ],
+      "citazioneTop": "La scelta del sushi e' stata totalmente random. Nessuno ha mai capito veramente i propri ordini"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 8.5,
+      "giudizio": "L'organizzatore supremo ha finalmente portato a casa una serata! Ha coordinato tutto: date, orari, proposte (sushi, giochi da tavolo, canne). Ha documentato ogni momento con foto e ha parcheggiato al centro commerciale nonostante le obiezioni di Alessio. MVP dell'organizzazione.",
+      "messaggi": 32,
+      "mediaGiornaliera": 6.4,
+      "highlights": [
+        "Ha proposto e organizzato la serata sushi del 26",
+        "Ha documentato fotograficamente l'evento inclusa la pizzetta di Adriano",
+        "Ha listato le proposte: Sushi, Giochi da tavolo, Padel, Canne, Poker"
+      ],
+      "citazioneTop": "Adriano si e' sparato una pizzetta, prima dell'all you can eat"
+    },
+    {
+      "name": "Alessio Macaluso",
+      "voto": 7.5,
+      "giudizio": "Il saggio zen della settimana. Con poche parole mirate ha risolto il dilemma del ristorante ('tanto il sushi sembre merda') e ha prenotato a nome Petrini senza fare storie. Pragmatico, presente alla serata, e ha mandato la foto definitiva del post-cena.",
+      "messaggi": 30,
+      "mediaGiornaliera": 6.0,
+      "highlights": [
+        "Ha prenotato il ristorante con efficienza svizzera",
+        "Ha partecipato alla serata sushi",
+        "Filosofia culinaria memorabile sul sushi"
+      ],
+      "citazioneTop": "Tanto il sushi sembre merda e' uno vale l'altro"
+    },
+    {
+      "name": "Cosimo Nencioni",
+      "voto": 7.0,
+      "giudizio": "A Pitigliano 'probabilmente con la neve', Cosimo ha dispensato saggezza a distanza. La battuta sulla Liberazione funzionata a meta' vale da sola il prezzo del biglietto. Sul finale ha lanciato la profezia su padel e arrampicata nel suo destino.",
+      "messaggi": 18,
+      "mediaGiornaliera": 3.6,
+      "highlights": [
+        "Commento tagliente sulla Festa della Liberazione",
+        "Ironia su Adriano e il golf ('Manfatti e' bene che ci giochi te')",
+        "La profezia sugli sport da finocchi"
+      ],
+      "citazioneTop": "Non li faccio ma lo leggo nel mio destino"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 7.0,
+      "giudizio": "Il Fondatore ha lanciato la proposta iniziale ('Il 25 siete tutti al mare?') e poi ha partecipato alla serata finale. Presente e propositivo, anche se ha ammesso di non mangiare sushi 'da secoli'. L'arrivo al centro commerciale con 10 minuti di anticipo dimostra la sua affidabilita'.",
+      "messaggi": 12,
+      "mediaGiornaliera": 2.4,
+      "highlights": [
+        "Ha dato il via alle proposte per il 25 aprile",
+        "Ha partecipato alla cena sushi",
+        "Ha trollato Adriano sugli ordini ('Abbiamo capito solo i tuoi')"
+      ],
+      "citazioneTop": "quindi domani vai col vestito sudicio"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 5.5,
+      "giudizio": "Il Giramondo questa settimana e' stato piu' fantasma che nomade. Quattro messaggi in tutto: consiglia Baby Reindeer, urla contro i fascisti, e poi sparisce. Probabilmente aveva internet di merda o era impegnato a dormire fino alle 15.",
+      "messaggi": 4,
+      "mediaGiornaliera": 0.8,
+      "highlights": [
+        "Ha consigliato Baby Reindeer su Netflix",
+        "Il grido 'Buona liberazione e fascisti al rogo' rimane memorabile"
+      ],
+      "citazioneTop": "Buona liberazione e fascisti al rogo"
+    }
+  ],
+  "awards": {
+    "mvp": "Fausto Petrini - Ha organizzato e portato a termine una serata vera con sushi e compagnia",
+    "comico": "Cosimo Nencioni - Tra la Liberazione a meta' e gli sport da finocchi nel suo destino",
+    "cuore": "Alessio Macaluso - Ha prenotato senza lamentarsi e ha scritto la filosofia del sushi",
+    "fantasma": "Alessio Valentini - 4 messaggi in tutta la settimana, sparito dopo il 25 aprile"
+  }
+}

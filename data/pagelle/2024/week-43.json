@@ -1,0 +1,108 @@
+{
+  "anno": 2024,
+  "settimana": 43,
+  "startDate": "2024-10-21",
+  "endDate": "2024-10-27",
+  "stats": {
+    "totalMessages": 26,
+    "activeMembers": 6,
+    "avgPerMember": 4.3
+  },
+  "riassunto": "Settimana tranquilla dominata dai racconti di viaggio di Adriano: prima Marrakech, poi la programmazione del weekend ad Amsterdam con Elena per il museo Van Gogh (e non solo, a giudicare dalle ricerche sui coffee shop). Il gruppo ha tributato un misterioso applauso ad Alessio M., mentre Fausto ha lanciato l'idea di Bratislava. Il mood generale e' stato rilassato, con pochi messaggi ma buone vibes.",
+  "bestQuotes": [
+    {
+      "quote": "Non danno una sega",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Risposta enigmatica a Cosimo che chiedeva 'Danno?', trasformando la domanda in una battuta"
+    },
+    {
+      "quote": "Quando uno c'ha il pensiero c'ha il pensiero.",
+      "author": "Cosimo Nenciòni",
+      "context": "Affettuoso apprezzamento per Alessio M. che evidentemente aveva fatto qualcosa di carino"
+    },
+    {
+      "quote": "non si rifiuta mai",
+      "author": "Alessio Valentini",
+      "context": "Risposta zen a Fausto che aveva proposto Bratislava - apertura totale a qualsiasi avventura"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 7.5,
+      "giudizio": "Il Re della Chat non abdica mai: Marrakech, Amsterdam, ricerche sui coffee shop e video mandati per sbaglio. Ha tenuto viva la conversazione praticamente da solo, con la consueta energia. Peccato per quel video che 'non voleva mandare'... ora siamo tutti curiosi.",
+      "messaggi": 12,
+      "mediaGiornaliera": 1.7,
+      "highlights": [
+        "Ha condiviso i suoi piani di viaggio Amsterdam-Van Gogh (e 'altro')",
+        "Ha chiesto consiglio sui coffee shop con la naturalezza di chi chiede dove mangiare",
+        "Momento imbarazzo con il video mandato per sbaglio"
+      ],
+      "citazioneTop": "Non danno una sega"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 7.0,
+      "giudizio": "Pochi messaggi ma calibrati al millimetro. Ha aperto con il classico sarcasmo ('Le fortune tutte a te') e chiuso con riferimenti nerd a Il Signore degli Anelli. Il suo applauso ad Alessio M. dimostra che sotto la scorza c'e' un cuore. Forse.",
+      "messaggi": 5,
+      "mediaGiornaliera": 0.7,
+      "highlights": [
+        "Sarcastico ma affettuoso con il gruppo",
+        "Riferimento colto ad Annatar (chi ha capito ha capito)"
+      ],
+      "citazioneTop": "Quando uno c'ha il pensiero c'ha il pensiero."
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 6.5,
+      "giudizio": "L'eterno organizzatore ha provato a lanciare Bratislava come meta, con l'entusiasmo di sempre. Ha anche fatto il saggio consigliando ad Adriano di non esagerare ad Amsterdam. Il Trascinatore che prova a trascinare, anche quando nessuno lo segue.",
+      "messaggi": 4,
+      "mediaGiornaliera": 0.6,
+      "highlights": [
+        "Ha proposto Bratislava (vedremo se si concretizza...)",
+        "Ha dato consigli saggi sull'hashish: 'Attento a sentirti male'"
+      ],
+      "citazioneTop": "Bravo Mac! Viva il lider!!!"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 6.0,
+      "giudizio": "Un solo messaggio ma evidentemente ha fatto qualcosa di importante fuori dalla chat, visto gli applausi ricevuti. Il classico Alessio M.: agisce nel mondo reale mentre gli altri chiacchierano. Zen master della settimana con il suo laconico 'Bravi'.",
+      "messaggi": 1,
+      "mediaGiornaliera": 0.1,
+      "highlights": [
+        "Ha ricevuto applausi dal gruppo per qualcosa di misterioso",
+        "Il suo 'Bravi' racchiude mondi interi"
+      ],
+      "citazioneTop": "Bravi"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 5.5,
+      "giudizio": "Un solo messaggio in tutta la settimana, ma che messaggio. 'Non si rifiuta mai' in risposta a Bratislava e' la filosofia di vita condensata in quattro parole. Probabilmente era in qualche posto esotico con internet di merda, come al solito.",
+      "messaggi": 1,
+      "mediaGiornaliera": 0.1,
+      "highlights": [
+        "Filosofia spicciola: 'non si rifiuta mai'"
+      ],
+      "citazioneTop": "non si rifiuta mai"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 5.0,
+      "giudizio": "Il Fondatore ha fatto capolino all'alba del 23 ottobre con un affettuoso 'buon sisgno Adri...' (forse un typo, forse un messaggio cifrato). Un messaggio solo, ma alle 4:24 del mattino - il patriarca veglia sul gruppo anche di notte.",
+      "messaggi": 1,
+      "mediaGiornaliera": 0.1,
+      "highlights": [
+        "Messaggio notturno/mattutino ad Adriano"
+      ],
+      "citazioneTop": "buon sisgno Adri..."
+    }
+  ],
+  "awards": {
+    "mvp": "Adriano Sergio Lorenzo Facchini - Ha portato contenuti, storie di viaggio e momenti imbarazzanti",
+    "comico": "Adriano Sergio Lorenzo Facchini - 'Non danno una sega' e il video mandato per sbaglio",
+    "cuore": "Cosimo Nenciòni - L'applauso affettuoso ad Alessio M.",
+    "fantasma": "Alessio Valentini e Giacomo Dolfi - Un messaggio a testa, presenze quasi eteree"
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "anno": 2024,
+  "settimana": 2,
+  "startDate": "2024-01-08",
+  "endDate": "2024-01-14",
+  "stats": {
+    "totalMessages": 129,
+    "activeMembers": 6,
+    "avgPerMember": 21.5
+  },
+  "riassunto": "Settimana all'insegna della solidarietà maschile: Cosimo si sente male con la pressione alta e il gruppo si trasforma in un'improvvisata équipe medica via WhatsApp. Nel frattempo Fausto scopre una collezione di vinili vintage della nonna (De André originali degli anni '70!) scatenando entusiasmi collettivi, Alessio V. fa due ore di fila per il passaporto e visita un negozio di mobili 'gigantesco', mentre la discussione sull'AI e il calendario della Chiocciola dimostra che l'umanità non è pronta a gestire questa tecnologia, ma nemmeno a mettersi d'accordo su un divano.",
+  "bestQuotes": [
+    {
+      "quote": "Però sto in clinica quindi se mi prende un colpo sono nel posto giusto",
+      "author": "Cosimo Nenciòni",
+      "context": "Cosimo mantiene l'umorismo nero anche con la pressione a 150. Classe."
+    },
+    {
+      "quote": "Van gogh ha sempre fatto come cazzo li pare",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Commento illuminato sull'AI che sposta la Torre del Mangia"
+    },
+    {
+      "quote": "è già qui, e l'umanità non è pronta a gestire una cosa così grande",
+      "author": "Fausto Petrini",
+      "context": "Riflessione filosofica spontanea sul calendario AI della Chiocciola"
+    },
+    {
+      "quote": "Non è bello ciò che è bello",
+      "author": "Alessio Macalùso",
+      "context": "Zen master al lavoro sul divano messicano"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 8.5,
+      "giudizio": "Il Re della Chat non delude mai: 37 messaggi e non uno di filler. Ha fatto il medico premuroso con Cosimo ('Dacci il bollettino cocco'), il critico d'arte sull'AI ('Van gogh ha sempre fatto come cazzo li pare'), e pure il detective sui vinili di Fausto. Ciliegina: beccare che Fausto stava cagando mentre scriveva. Occhio clinico.",
+      "messaggi": 37,
+      "mediaGiornaliera": 5.3,
+      "highlights": [
+        "Ha tenuto monitorato Cosimo come un'infermiera premurosa",
+        "Ha indovinato che Fausto stava al bagno mentre scriveva",
+        "Riflessioni profonde sull'AI che valgono più di un TED talk"
+      ],
+      "citazioneTop": "Van gogh ha sempre fatto come cazzo li pare"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 8.0,
+      "giudizio": "Ha trasformato un malore in un reality show sanitario, tenendo tutti col fiato sospeso per giorni. 'Sono sopravvissuto alla notte' detto con il timing di un comico consumato. Nonostante la pressione a 150, ha trovato la forza di commentare sul calendario AI e sui vinili. Un eroe moderno che smadonn di notte ma tiene alto il morale di giorno.",
+      "messaggi": 26,
+      "mediaGiornaliera": 3.7,
+      "highlights": [
+        "Ha comunicato il suo stato di salute con humor nero encomiabile",
+        "Ha scoperto che i glandi pittori sono una cosa",
+        "Ha sottoscritto il suggerimento di Adriano con la solennità di un notaio"
+      ],
+      "citazioneTop": "Però sto in clinica quindi se mi prende un colpo sono nel posto giusto"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 7.5,
+      "giudizio": "Il Trascinatore ha proposto la solita cena di gruppo che non si farà mai, ma si è riscattato con la scoperta del tesoro: i vinili della nonna. De André originali, Sanremo '68, roba che vale più del suo stipendio. Ha pure filosofeggiato sull'AI con la profondità di un pensatore rinascimentale. W il bollore e W la nonna.",
+      "messaggi": 17,
+      "mediaGiornaliera": 2.4,
+      "highlights": [
+        "Ha lanciato il dibattito filosofico sull'AI più interessante della settimana",
+        "Ha scoperto una collezione di vinili vintage da far invidia",
+        "Ha proposto allenamento insieme dopo che Adriano ha detto 'basta cene'"
+      ],
+      "citazioneTop": "è già qui, e l'umanità non è pronta a gestire una cosa così grande"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 7.0,
+      "giudizio": "Il Giramondo è atterrato, ha fatto due ore di fila per il passaporto ('allucinante è dire poco'), e ha visitato un negozio di mobili 'gigantesco'. Tre volte gigantesco, per la precisione. La sua expertise sui vinili ('NON regalarli che CERTAMENTE valgono') dimostra che i nomadi digitali sanno anche di cose analogiche. Solido ma non brillante.",
+      "messaggi": 17,
+      "mediaGiornaliera": 2.4,
+      "highlights": [
+        "Ha documentato il suo jet lag con la precisione di un cronista",
+        "Ha dato un consiglio prezioso sui vinili originali",
+        "Ha scoperto che Van Gogh sposta le torri a piacimento"
+      ],
+      "citazioneTop": "se è la seconda NON regalarli che CERTAMENTE valgono più del normale"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 6.5,
+      "giudizio": "La Voce della Ragione ha fatto il suo lavoro zen: poche parole, massima saggezza. 'Tutto è bene ciò che finisce bene' sul passaporto, 'Non è bello ciò che è bello' sul divano messicano. Ha pure diagnosticato Cosimo con 'Ti posso dire che episodi così capitano a tutti'. Medico mancato, filosofo involontario, amico presente.",
+      "messaggi": 15,
+      "mediaGiornaliera": 2.1,
+      "highlights": [
+        "Ha dispensato saggezza medica a Cosimo con calma zen",
+        "Ha chiesto 'Cosa compri?' con genuina curiosità",
+        "Il suo 'Speciale' su Cosimo valeva mille parole"
+      ],
+      "citazioneTop": "Non è bello ciò che è bello"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 5.5,
+      "giudizio": "Il Fondatore si è affacciato brevemente per chiedere a Cosimo come stava, indovinare Newcastle da una foto, e dire 'Daje'. Sette messaggi in tutta la settimana, ma almeno erano messaggi di sostanza. Il patriarca benevolo veglia da Poggibonsi, ma questa settimana dormiva un po' di più.",
+      "messaggi": 7,
+      "mediaGiornaliera": 1.0,
+      "highlights": [
+        "Ha mostrato genuina preoccupazione per Cosimo",
+        "Ha indovinato Newcastle dalla foto - occhio da falco",
+        "Il suo 'Bello! Non sembra proprio comodo' sul divano era onesto"
+      ],
+      "citazioneTop": "Bello! Non sembra proprio comodo, ma bello"
+    }
+  ],
+  "awards": {
+    "mvp": "Adriano Sergio Lorenzo Facchini - Ha orchestrato le discussioni, supportato Cosimo, e commentato tutto con sagacia",
+    "comico": "Cosimo Nenciòni - Ha trasformato un malore in stand-up comedy sanitaria",
+    "cuore": "Adriano Sergio Lorenzo Facchini - 'Dacci il bollettino cocco' è amore fraterno puro",
+    "fantasma": "Giacomo Dolfi - Sette messaggi in una settimana, il patriarca sonnecchia"
+  }
+}

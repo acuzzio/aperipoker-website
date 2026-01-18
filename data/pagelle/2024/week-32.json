@@ -1,0 +1,117 @@
+{
+  "anno": 2024,
+  "settimana": 32,
+  "startDate": "2024-08-05",
+  "endDate": "2024-08-11",
+  "stats": {
+    "totalMessages": 64,
+    "activeMembers": 4,
+    "avgPerMember": 16.0
+  },
+  "riassunto": "Settimana olimpica con il gruppo che commenta le imprese di Duplantis nel salto con l'asta. Alessio V. fa notare che entrare in gara a 5.95 (misura dell'argento) toglie un po' di magia al record del mondo. Nel frattempo, sia Alessio che Fausto si godono la casa da soli: il primo con la scusa delle telefonate inesistenti alla fidanzata, il secondo in modalita' 'satisgaction'. La settimana culmina in un epico battibecco Adriano-Fausto a base di 'pigro', 'suca' e 'melo', con annesse confessioni onanistiche. La storia dei gabbiani e pepperoni fa il giro del gruppo.",
+  "bestQuotes": [
+    {
+      "quote": "Mi immagino solo quanti flutti di semen hanno parato.",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Commento surreale che ha aperto la discussione della domenica olimpica"
+    },
+    {
+      "quote": "quindi Elisa ieri ha fatto finta di chiamarmi ed e' andata a riposarsi in albergo... io so a casa che mi gratto le palle con una soddisfazione unica",
+      "author": "Alessio Valentini",
+      "context": "La suocera allucinata che lui e Elisa non si chiamino ore ogni giorno - soluzione creativa"
+    },
+    {
+      "quote": "Ti diro' semplicemente suca. S u c a. Su-ca",
+      "author": "Fausto Petrini",
+      "context": "Risposta al 'P-I-G-R-O' di Adriano, in quello che diventa un duello di spelling"
+    },
+    {
+      "quote": "Fatte due ieri. Parastatalone.",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "La chiusa perfetta al battibecco sulle seghe con Fausto"
+    },
+    {
+      "quote": "Ma poi la fidanzata e' una fregna mitologica",
+      "author": "Cosimo Nenciòni",
+      "context": "Cosimo sintetico ma incisivo, come sempre"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Alessio Valentini",
+      "voto": 8.0,
+      "giudizio": "Il giramondo si sveglia a orari improbabili ma quando c'e', c'e'. Ha dominato la discussione olimpica con analisi lucide ('c'e' qualcosa di meno ganzo nel fare il record del mondo cosi'') e ha regalato la storia della settimana: fingere telefonate con la fidanzata per grattarsi le palle in pace. Un eroe.",
+      "messaggi": 23,
+      "mediaGiornaliera": 3.3,
+      "highlights": [
+        "Analisi intelligente sulle Olimpiadi e sul record di Duplantis",
+        "La storia della suocera e delle finte telefonate con Elisa",
+        "Momento 'casa da solo' condiviso con Fausto"
+      ],
+      "citazioneTop": "io so a casa che mi gratto le palle con una soddisfazione unica"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 7.5,
+      "giudizio": "Il trascinatore si gode 5 giorni di casa solo con 'satisgaction'. Ha condiviso link interessanti (gabbiani, podcast Rocco Siffredi) e ha regalato un duello epico con Adriano. Il suo 'Mi faro' grandi seghe pensando a te che lavori' e' poesia pura da libero professionista.",
+      "messaggi": 21,
+      "mediaGiornaliera": 3.0,
+      "highlights": [
+        "Ha condiviso la bellissima storia dei gabbiani e pepperoni",
+        "Battibecco memorabile con Adriano: da 'pigro' a 'suca' a filosofia onanistica",
+        "Ha scoperto che continuera' a gasarsi per il quartetto di inseguimento"
+      ],
+      "citazioneTop": "Mi faro' grandi seghe pensando a te che lavori guarda"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 7.0,
+      "giudizio": "Il re della chat ha abdicato per una settimana, limitandosi a 16 messaggi. Ma quali 16 messaggi: ha aperto con i 'flutti di semen', ha battibeccato con Fausto in modo epico (P-I-G-R-O vs S-U-C-A vs M-E-L-O) e ha chiuso con 'Fatte due ieri, parastatalone'. Qualita' sulla quantita'.",
+      "messaggi": 16,
+      "mediaGiornaliera": 2.3,
+      "highlights": [
+        "Apertura surreale sui 'flutti di semen' olimpici",
+        "Duello di spelling con Fausto che ha fatto ridere tutti",
+        "Consiglio alla suocera di Alessio: 'lei e' liberissima di chiamarla tutte le volte che crede'"
+      ],
+      "citazioneTop": "Fatte due ieri. Parastatalone."
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 6.0,
+      "giudizio": "Con 4 messaggi ha toccato piu' argomenti di un TG regionale: fregne mitologiche, gabbiani bellissimi, commenti tecnici sul salto con l'asta e un 'Sei una brutta persona' ad Adriano che valeva da solo il prezzo del biglietto. Efficienza svizzera, come sempre.",
+      "messaggi": 4,
+      "mediaGiornaliera": 0.6,
+      "highlights": [
+        "Ha notato la 'fregna mitologica' con l'occhio dell'esperto",
+        "Unico commento tecnico serio sul salto con l'asta (entrato in gara a 5.95)",
+        "Ha apprezzato la storia dei gabbiani"
+      ],
+      "citazioneTop": "Beh.. piega non fa.. cmq cazzo.. e' entrato in gara a 5.95. la misura della medaglia d'argento. assurdo."
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 3.0,
+      "giudizio": "Il Lider era in vacanza? In ritiro spirituale? In crisi mistica? Non pervenuto per tutta la settimana. Nemmeno un 'mah' o un pollice su. Fantasma totale.",
+      "messaggi": 0,
+      "mediaGiornaliera": 0,
+      "highlights": [],
+      "citazioneTop": null
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 3.0,
+      "giudizio": "Lo zen master ha portato il silenzio a livelli filosofici. Zero messaggi nella settimana olimpica. Forse meditava sul significato del salto con l'asta, forse dormiva. Noi non lo sapremo mai.",
+      "messaggi": 0,
+      "mediaGiornaliera": 0,
+      "highlights": [],
+      "citazioneTop": null
+    }
+  ],
+  "awards": {
+    "mvp": "Alessio Valentini - Ha dominato le discussioni con intelligenza e ci ha regalato la storia delle finte telefonate",
+    "comico": "Adriano Sergio Lorenzo Facchini - I flutti di semen e il duello P-I-G-R-O con Fausto sono da antologia",
+    "cuore": "Fausto Petrini - Ha condiviso la gioia della casa da solo e link interessanti per tutti",
+    "fantasma": "Giacomo Dolfi e Alessio Macaluso - Spariti entrambi senza lasciare traccia"
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "anno": 2024,
+  "settimana": 51,
+  "startDate": "2024-12-16",
+  "endDate": "2024-12-22",
+  "stats": {
+    "totalMessages": 49,
+    "activeMembers": 6,
+    "avgPerMember": 8.2
+  },
+  "riassunto": "Settimana pre-natalizia dominata da bonifici misteriosi con causale 'poker' (Cosimo ride pensando all'antiriciclaggio), organizzazione della serata del 23 dicembre da Adriano, e cene sociali con centinaia di persone. Alessio V. opera a orari impossibili come sempre, Fausto condivide video eccezionali, e si discute di fentanyl e del film Pain Hustlers. La settimana si chiude con Alessio V. che annuncia il suo arrivo a Siena e cerca di convincere anche Elisa.",
+  "bestQuotes": [
+    {
+      "quote": "Mettere la parola poker in un bonifico sil conto di in consulente non ha prezzo ai fini compliance antiriciclaggio",
+      "author": "Cosimo Nencioni",
+      "context": "Battuta geniale sulla situazione surreale dei bonifici del gruppo"
+    },
+    {
+      "quote": "Spero facciano un lock down quando sei ancora li.",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Risposta affettuosamente crudele a Giacomo che chiedeva rispetto per la cena con 100 bambini"
+    },
+    {
+      "quote": "Io pure sono a cena con 200 persone. Ma almeno sta la sorca",
+      "author": "Cosimo Nencioni",
+      "context": "Cosimo rilancia su Giacomo con il doppio delle persone e un vantaggio strategico"
+    },
+    {
+      "quote": "Tutto tranne che fottuti dolci del cazzo",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Adriano chiarisce cosa portare alla serata del 23 con la delicatezza che lo contraddistingue (messaggio del 23, ma contesto della settimana)"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Alessio Valentini",
+      "voto": 7.5,
+      "giudizio": "Il Giramondo colpisce ancora con i suoi orari alieni: messaggi alle 5 del mattino mentre sistema bonifici e chiede email. Ha celebrato Fausto con un entusiastico 'VIVA FAUSTO' e ha chiuso la settimana annunciando il suo arrivo a Siena. Sta persino convincendo Elisa - miracolo natalizio.",
+      "messaggi": 16,
+      "mediaGiornaliera": 2.3,
+      "highlights": [
+        "Operativo alle 5 del mattino per i bonifici",
+        "Ha lanciato la discussione sul fentanyl con leggerezza preoccupante",
+        "Si e' fatto vivo per la serata del 23 dicembre"
+      ],
+      "citazioneTop": "BRAVISSIMO FAUSTO DETTO L'INVESTITORE"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 7.0,
+      "giudizio": "Il Re della Chat si conferma host ufficiale del gruppo con la serata del 23 dicembre. Ha augurato un lockdown a Giacomo con la cena dei bambini - cattiveria natalizia pura. Confuso sui giorni della settimana (27 invece di 23), ma l'importante e' che apra casa sua.",
+      "messaggi": 9,
+      "mediaGiornaliera": 1.3,
+      "highlights": [
+        "Ha organizzato la serata del 23 dicembre",
+        "Battuta crudele sul lockdown per Giacomo",
+        "Ha messo subito in chiaro: 19.30 da lui"
+      ],
+      "citazioneTop": "Spero facciano un lock down quando sei ancora li."
+    },
+    {
+      "name": "Cosimo Nencioni",
+      "voto": 8.0,
+      "giudizio": "Con la sua solita efficienza svizzera, Cosimo ha dominato la settimana con la battuta sull'antiriciclaggio che vale da sola il podio. Ha annunciato che aprira' un conto ad hoc per 'la nostra speculazione' - il consulente finanziario del gruppo e' operativo. Bonus: cena con 200 persone ma 'almeno sta la sorca'.",
+      "messaggi": 9,
+      "mediaGiornaliera": 1.3,
+      "highlights": [
+        "Battuta memorabile sulla compliance antiriciclaggio",
+        "Ha condiviso la sua strategia finanziaria per il gruppo",
+        "Ha rilanciato su Giacomo con il doppio delle persone a cena"
+      ],
+      "citazioneTop": "Mettere la parola poker in un bonifico sil conto di in consulente non ha prezzo ai fini compliance antiriciclaggio"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 6.5,
+      "giudizio": "Il Fondatore ha cercato rispetto e supporto per la sua cena alla Societa Asta con 100 bambini. Ha ricevuto invece l'augurio di un lockdown da Adriano. Ha corretto Fausto sul giorno (23, non 27) dimostrando di essere l'unico con un calendario funzionante.",
+      "messaggi": 7,
+      "mediaGiornaliera": 1.0,
+      "highlights": [
+        "Ha fatto il bonifico per primo (alle 2 di notte!)",
+        "Ha chiesto rispetto per la cena con 100 bambini",
+        "Ha corretto gli errori calendari degli altri"
+      ],
+      "citazioneTop": "Sarebbe bello se riuscite a dimostrarmi tutto il vostro rispetto"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 6.0,
+      "giudizio": "Il Trascinatore ha condiviso un video 'eccezionale' ma per il resto e' stato sottotono. Si e' confuso sui giorni (venerdi 23? Ma e' lunedi!) e ha ammesso candidamente 'Mongolo io'. Almeno si e' auto-invitato da Adriano con famiglia - W il bollore natalizio.",
+      "messaggi": 5,
+      "mediaGiornaliera": 0.7,
+      "highlights": [
+        "Ha condiviso contenuti video definiti 'eccezionali'",
+        "Si e' invitato da Adriano con tutta la famiglia",
+        "Ha ammesso i propri errori con onesta' disarmante"
+      ],
+      "citazioneTop": "Si. Mongolo io"
+    },
+    {
+      "name": "Alessio Macaluso",
+      "voto": 5.5,
+      "giudizio": "Lo Zen Master ha raggiunto vette di laconicita' impressionanti anche per i suoi standard. Un 'Sta' misterioso, una domanda sul film del fentanyl, e un link Wikipedia. Tre messaggi che pero' hanno contribuito alla discussione cinematografica. Il suo silenzio parla piu' di mille parole.",
+      "messaggi": 3,
+      "mediaGiornaliera": 0.4,
+      "highlights": [
+        "Ha consigliato Pain Hustlers sul fentanyl",
+        "Ha risposto con un enigmatico 'Sta' che nessuno ha capito",
+        "Ha portato cultura cinematografica nel gruppo"
+      ],
+      "citazioneTop": "Hai visto il film sul fentanyl?"
+    }
+  ],
+  "awards": {
+    "mvp": "Cosimo Nencioni - La battuta sull'antiriciclaggio e' poesia finanziaria",
+    "comico": "Adriano Sergio Lorenzo Facchini - L'augurio del lockdown a Giacomo e' cattiveria pura",
+    "cuore": "Alessio Valentini - Ha annunciato il suo arrivo e sta convincendo anche Elisa",
+    "fantasma": "Alessio Macaluso - Tre messaggi in una settimana, nuovo record personale di silenzio"
+  }
+}

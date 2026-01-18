@@ -1,0 +1,120 @@
+{
+  "anno": 2024,
+  "settimana": 16,
+  "startDate": "2024-04-15",
+  "endDate": "2024-04-21",
+  "stats": {
+    "totalMessages": 65,
+    "activeMembers": 6,
+    "avgPerMember": 10.8
+  },
+  "riassunto": "Settimana di fuoco geopolitico e battibecchi politici nel gruppo. Si parte con articoli sull'Europa indifesa e si finisce a darsi del renziano e del berlusconiano. Il 19 aprile e' il compleanno di Alessio V., festeggiato tra auguri e lamentele sullo zucchero. Cosimo sintetizza il mood generale con un laconico 'Bisognerebbe bestemmiare' sui documenti illeggibili del Ponte sullo Stretto. Alessio M. fa capolino con una raccomandazione Netflix che nessuno seguira'.",
+  "bestQuotes": [
+    {
+      "quote": "Se io sono renziano te sei berlusconiano. Pace all'anima di Silvio",
+      "author": "Giacomo Dolfi",
+      "context": "Risposta epica dopo essere stato etichettato come renziano da Fausto"
+    },
+    {
+      "quote": "Bisognerebbe bestemmiare",
+      "author": "Cosimo Nenciòni",
+      "context": "Reazione ai documenti illeggibili del Ponte sullo Stretto"
+    },
+    {
+      "quote": "La pace delle fiamme dell'inferno",
+      "author": "Alessio Valentini",
+      "context": "Commento su Berlusconi che poi si trasforma in 'quel maiale che alla fine ci sta simpatico a tutti'"
+    },
+    {
+      "quote": "Almeno il ponte si poteva far fare a lui con quanto ci sentiva",
+      "author": "Alessio Macalùso",
+      "context": "Battuta su Berlusconi e il ponte sullo Stretto"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 7.5,
+      "giudizio": "Il solito fiume in piena, stavolta con venature geopolitiche e salutiste. Tra articoli su missili iraniani, propositi di smettere con lo zucchero e lamentele sul lavandaggio a Siena, non si e' fatto mancare nulla. L'outfit per l'affiancamento saltato resta un mistero.",
+      "messaggi": 27,
+      "mediaGiornaliera": 3.9,
+      "highlights": [
+        "Ha condiviso articoli e stimolato il dibattito geopolitico",
+        "Auguri di compleanno ad Alessio V. con tanto di reminder",
+        "Racconto epico dell'affiancamento rimandato"
+      ],
+      "citazioneTop": "Ma dieci e lode per l'idea ed il coraggio"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 8.0,
+      "giudizio": "Il Fondatore ha parlato, e stavolta non si e' tirato indietro. La risposta 'Se io sono renziano te sei berlusconiano' entra di diritto nella hall of fame del gruppo. Analisi geopolitica lucida e pungente, con quel pizzico di polemica che tiene viva la chat.",
+      "messaggi": 10,
+      "mediaGiornaliera": 1.4,
+      "highlights": [
+        "Difesa memorabile contro le accuse di renzismo",
+        "Analisi seria sulla mancanza di autonomia militare europea",
+        "Battuta finale sul vestito sudicio di Adriano"
+      ],
+      "citazioneTop": "Se io sono renziano te sei berlusconiano. Pace all'anima di Silvio"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 7.0,
+      "giudizio": "Il Trascinatore questa settimana ha trascinato soprattutto polemiche. Ha dato del renziano a Giacomo, condiviso articoli sul ponte impossibile e fatto gli auguri al festeggiato. L'entusiasmo c'e' sempre, le uscite organizzate un po' meno.",
+      "messaggi": 10,
+      "mediaGiornaliera": 1.4,
+      "highlights": [
+        "Primo a fare gli auguri ad Alessio V.",
+        "Condivisione articolo sul disastro documenti ponte",
+        "Provocazione politica a Giacomo"
+      ],
+      "citazioneTop": "Direi in primo luogo di fare gli auguri a te, nostro caro e beneamato amico Alessio ammericano"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 7.5,
+      "giudizio": "Il festeggiato della settimana! Ha compiuto gli anni il 19 e si e' fatto vivo tra battute su Berlusconi e lamentele sullo zucchero. La combo 'quel maiale che alla fine ci sta simpatico a tutti' e' poesia cruda ma sincera.",
+      "messaggi": 9,
+      "mediaGiornaliera": 1.3,
+      "highlights": [
+        "Compleanno festeggiato dal gruppo",
+        "Commento memorabile su Berlusconi",
+        "Solidarieta' sulla questione zucchero"
+      ],
+      "citazioneTop": "La pace delle fiamme dell'inferno"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 7.5,
+      "giudizio": "Efficienza svizzera come sempre. Con soli 5 messaggi ha piazzato due perle: 'Bisognerebbe bestemmiare' e 'Stastronza'. Il rapporto qualita'/quantita' resta imbattibile. Maestro dell'understatement e del tempismo comico.",
+      "messaggi": 5,
+      "mediaGiornaliera": 0.7,
+      "highlights": [
+        "Sintesi perfetta del mood nazionale sul ponte",
+        "Solidarieta' ad Adriano con singola parola",
+        "Battuta sul probabile errore di Adriano"
+      ],
+      "citazioneTop": "Bisognerebbe bestemmiare"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 6.5,
+      "giudizio": "Lo Zen master ha meditato a lungo prima di intervenire, ma quando l'ha fatto ha colpito. La battuta sul ponte e Berlusconi e' da applausi, cosi' come il consiglio su Baby Reindeer. Quattro messaggi, tutti centrati.",
+      "messaggi": 4,
+      "mediaGiornaliera": 0.6,
+      "highlights": [
+        "Battuta geniale sul ponte e Berlusconi",
+        "Raccomandazione Netflix Baby Reindeer",
+        "Auguri ad Alessio V."
+      ],
+      "citazioneTop": "Almeno il ponte si poteva far fare a lui con quanto ci sentiva"
+    }
+  ],
+  "awards": {
+    "mvp": "Giacomo Dolfi",
+    "comico": "Cosimo Nenciòni",
+    "cuore": "Fausto Petrini",
+    "fantasma": null
+  }
+}

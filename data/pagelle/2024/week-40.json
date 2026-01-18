@@ -1,0 +1,125 @@
+{
+  "anno": 2024,
+  "settimana": 40,
+  "startDate": "2024-09-30",
+  "endDate": "2024-10-06",
+  "stats": {
+    "totalMessages": 72,
+    "activeMembers": 6,
+    "avgPerMember": 12.0
+  },
+  "riassunto": "Settimana dominata dall'organizzazione della cena del 9 ottobre e dalla febbre dei funghi porcini. Adriano apre le danze lunedi alle 7 del mattino proponendo la cena, che piano piano raccoglie adesioni: Giacomo, Fausto, Cosimo (but not before 8 pm). Nel frattempo Cosimo sfoggia foto di cappelle di porcini che fanno invidia a tutti, provocando una discussione sulla cena dei funghi. Alessio Mac emerge come fungaiolo vero ('L'ultimo della mia razza') e offre di portare i porcini, ma il battibecco con Adriano sulla sua assenza dalla cena crea tensione momentanea. Tutto si risolve con le scuse di Adriano 'al semaforo'. La settimana si chiude pacificamente con link a video e risate.",
+  "bestQuotes": [
+    {
+      "quote": "So solo i gambi avanzati. Le cappelle le ho sterminate causandomi un ricovero sicuro nel pomeriggio",
+      "author": "Cosimo Nenciòni",
+      "context": "Cosimo spiega cosa ha fatto dei suoi porcini con drammaticita' culinaria"
+    },
+    {
+      "quote": "Ma madonna puttana, perche' non hai aderito a questa cena?",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "L'esclamazione colorita di Adriano che scatena il battibecco con Alessio Mac"
+    },
+    {
+      "quote": "E comunque sei un maleducato",
+      "author": "Alessio Macalùso",
+      "context": "La risposta piccata di Alessio Mac, che poi accetta le scuse"
+    },
+    {
+      "quote": "Sennò siete solo chiacchiere",
+      "author": "Alessio Macalùso",
+      "context": "Alessio Mac sfida il gruppo a organizzare davvero la cena dei funghi"
+    },
+    {
+      "quote": "Sotto le sequoie.. sai che cappellone cazzo...",
+      "author": "Cosimo Nenciòni",
+      "context": "Cosimo fa sognare Alessio Vale con porcini giganti californiani immaginari"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 7.5,
+      "giudizio": "Il solito fiume in piena alle 7 del mattino apre la settimana con la proposta della cena. Organizza, coordina, spamma la lista partecipanti, ma poi si fa prendere la mano e manda Alessio Mac su tutte le furie con un 'madonna puttana' fuori luogo. Almeno ha la decenza di scusarsi, anche se 'al semaforo'.",
+      "messaggi": 26,
+      "mediaGiornaliera": 3.7,
+      "highlights": [
+        "Ha organizzato la cena del 9 ottobre con tenacia",
+        "Ha chiesto del ristorante Donnini con urgenza assoluta",
+        "Si e' scusato immediatamente dopo aver esagerato con Alessio Mac"
+      ],
+      "citazioneTop": "Questa cena si fara', anche se ha le spalle strette.."
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 8.5,
+      "giudizio": "MVP indiscusso della settimana. Aderisce alla cena 'not before 8 pm' come un vero signore, poi sfoggia foto di porcini che mandano tutti in estasi. Le sue cappelle sterminate resteranno nella storia. Offre pure la casa per la cena dei funghi. Sintetico ma letale come sempre.",
+      "messaggi": 13,
+      "mediaGiornaliera": 1.9,
+      "highlights": [
+        "Ha portato la discussione sui porcini a livelli epici",
+        "Ha offerto la sua casa per la cena dei funghi",
+        "Ha fatto cacare addosso i bolognesi con i suoi funghi"
+      ],
+      "citazioneTop": "So solo i gambi avanzati. Le cappelle le ho sterminate causandomi un ricovero sicuro nel pomeriggio"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 8.0,
+      "giudizio": "Il fungaiolo zen della settimana. Emerge dal nulla con 'Io li ho' e foto di porcini, poi sfida il gruppo con 'Sennò siete solo chiacchiere'. Si arrabbia giustamente con Adriano ma perdona subito. Si autodefinisce 'L'ultimo della mia razza' - e non ha tutti i torti.",
+      "messaggi": 8,
+      "mediaGiornaliera": 1.1,
+      "highlights": [
+        "Ha mostrato i suoi porcini silenziando gli scettici",
+        "Ha messo in riga il gruppo con 'Sennò siete solo chiacchiere'",
+        "Ha risposto con dignita' alla maleducazione di Adriano"
+      ],
+      "citazioneTop": "L'ultimo della mia razza"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 6.5,
+      "giudizio": "Partecipazione onesta ma non brillante. Conferma la cena, condivide un articolo su Pogacar, e lancia il memorabile 'Vai in culo' a Cosimo per invidia fungaiola. Il link a 'Che bella la cappella' di Immanuel Casto dimostra che ha ancora il senso dell'umorismo.",
+      "messaggi": 8,
+      "mediaGiornaliera": 1.1,
+      "highlights": [
+        "Ha condiviso l'articolo su Pogacar 'nuovo supereroe'",
+        "Ha linkato 'Che bella la cappella' con tempismo perfetto",
+        "Ha cercato di organizzare la cena dei funghi"
+      ],
+      "citazioneTop": "Il nuovo supereroe, ampiamente sopra sagan"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 6.0,
+      "giudizio": "Il Lider questa settimana ha preferito osservare. Quattro messaggi in tutto, ma uno e' un gioiello: 'Adri ma invece di pensare ai cazzi tuoi, trovato il posto giusto per il 9?' Pungente e preciso. Per il resto, si aggiunge alla lista cena e dice 'Bella zi'. Essenziale.",
+      "messaggi": 4,
+      "mediaGiornaliera": 0.6,
+      "highlights": [
+        "Ha pungolato Adriano con ironia chirurgica",
+        "Si e' aggiunto alla cena senza fronzoli",
+        "Ha detto 'Bella zi' a Cosimo alle 2 di notte"
+      ],
+      "citazioneTop": "Adri ma invece di pensare ai cazzi tuoi, trovato il posto giusto per il 9?"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 5.5,
+      "giudizio": "Il giramondo dagli States si fa vivo con tre messaggi in tutta la settimana. Spiega che i porcini esistono in America ma 'la cultura anglosassone non e' molto di funghi'. Un piccolo contributo, ma almeno non e' scomparso del tutto. Si chiude con un 'ahaha chi e?' misterioso.",
+      "messaggi": 3,
+      "mediaGiornaliera": 0.4,
+      "highlights": [
+        "Ha spiegato la situazione funghi negli USA",
+        "Ha ammesso di non sapere come cercare i porcini",
+        "Ha chiesto chi fosse qualcuno in un video"
+      ],
+      "citazioneTop": "stanno, ma la cultura anglosassone non e' molto di funghi"
+    }
+  ],
+  "awards": {
+    "mvp": "Cosimo Nenciòni - Le sue cappelle sterminate hanno dominato la settimana",
+    "comico": "Cosimo Nenciòni - 'ricovero sicuro nel pomeriggio' per overdose di porcini",
+    "cuore": "Alessio Macalùso - Ha offerto i suoi funghi e ha perdonato Adriano",
+    "fantasma": "Alessio Valentini - Tre messaggi dagli States, cultura anglosassone non pervenuta"
+  }
+}

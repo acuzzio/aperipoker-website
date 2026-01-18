@@ -1,0 +1,116 @@
+{
+  "anno": 2024,
+  "settimana": 14,
+  "startDate": "2024-04-01",
+  "endDate": "2024-04-07",
+  "stats": {
+    "totalMessages": 46,
+    "activeMembers": 6,
+    "avgPerMember": 7.7
+  },
+  "riassunto": "Settimana all'insegna del mutuo supporto e della celebrazione. Fausto condivide orgogliosamente il video del suo convegno e riceve una standing ovation virtuale dal gruppo. Adriano combatte con TicketOne per dei biglietti sbagliati, mentre Cosimo viene immortalato con una camicia decorata da suo figlio in modo... organico. Giacomo dispensa saggezza con un aforisma memorabile sul rapporto tra vomito e cacca.",
+  "bestQuotes": [
+    {
+      "quote": "Meglio cacca sulla camicia che vomito in testa",
+      "author": "Giacomo Dolfi",
+      "context": "Filosofia spicciola per consolare Cosimo dopo l'incidente con il figlio"
+    },
+    {
+      "quote": "wow, sei un naturale. Ma le slide chi te le ha fatte? E' un CANE",
+      "author": "Alessio Valentini",
+      "context": "Complimento-insulto perfettamente bilanciato per Fausto"
+    },
+    {
+      "quote": "Mi ha fatto un favore insomma a cagarmi addosso",
+      "author": "Cosimo Nenciòni",
+      "context": "Autoironia di alto livello dopo l'incidente con la camicia"
+    },
+    {
+      "quote": "Mi attacco al Dick",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "La rassegnazione di chi ha sbagliato data su TicketOne"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Fausto Petrini",
+      "voto": 8.5,
+      "giudizio": "La star della settimana. Ha condiviso il video del suo convegno con un 'Scusate faccio un po' il figo' che era pura verita. Ha ricevuto complimenti da tutti e se li e' meritati. Per una volta, il trascinatore e' stato trascinato... verso l'alto.",
+      "messaggi": 14,
+      "mediaGiornaliera": 2.0,
+      "highlights": [
+        "Protagonista assoluto con il video del convegno",
+        "Ha gestito con classe i complimenti ricevuti",
+        "Ha tenuto alta l'attenzione del gruppo per due giorni"
+      ],
+      "citazioneTop": "Scusate faccio un po' il figo ma oggi avevo questo in programma"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 8.0,
+      "giudizio": "Il critico cinematografico del gruppo. Ha guardato tutto il video di Fausto, ha dato feedback dettagliato e costruttivo, e ha chiuso con un 'Bravo. Fai bene a fare il figo' che scalda il cuore. Supporto emotivo di altissimo livello.",
+      "messaggi": 8,
+      "mediaGiornaliera": 1.1,
+      "highlights": [
+        "Ha dedicato tempo a guardare e commentare il video di Fausto",
+        "Feedback tecnico e umano perfetto",
+        "Presente quando contava"
+      ],
+      "citazioneTop": "e visto che le slide NON le hai fatte te, il mio voto e' parecchio alto. Bravo. Fai bene a fare il figo."
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 6.5,
+      "giudizio": "Ha aperto la settimana con il dramma dei biglietti sbagliati su TicketOne, regalandoci il poetico 'Mi attacco al Dick'. Per il resto, presente ma non protagonista. Ha promesso di vedere il video di Fausto con un 'Ed io..' che non sappiamo se sia stato mantenuto.",
+      "messaggi": 12,
+      "mediaGiornaliera": 1.7,
+      "highlights": [
+        "Il dramma dei biglietti sbagliati ha intrattenuto",
+        "Ha commentato la camicia cacata di Cosimo con esperienza paterna"
+      ],
+      "citazioneTop": "Mi attacco al Dick"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 6.0,
+      "giudizio": "Zen master della settimana. Il suo 'No grazie' iniziale era un capolavoro di sintesi. Ha poi dispensato 'Bravo', 'Ahahah' e 'Yeah' con la parsimonia di un monaco tibetano. Poche parole, zero stress, massima efficienza comunicativa.",
+      "messaggi": 6,
+      "mediaGiornaliera": 0.9,
+      "highlights": [
+        "Consiglio pratico ad Adriano: 'Chiama che te lo cambiano mica siete alla scala!'",
+        "Presente nei momenti giusti con le parole giuste"
+      ],
+      "citazioneTop": "Chiama che te lo cambiano mica siete alla scala!"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 7.5,
+      "giudizio": "Con soli 3 messaggi ha lasciato il segno. Il suo 'Meglio cacca sulla camicia che vomito in testa' e' destinato a diventare proverbio del gruppo. Il Fondatore parla poco, ma quando parla, fa centro.",
+      "messaggi": 3,
+      "mediaGiornaliera": 0.4,
+      "highlights": [
+        "Aforisma della settimana sulla cacca vs vomito",
+        "Il 'Grande Faustino!' al momento giusto"
+      ],
+      "citazioneTop": "Meglio cacca sulla camicia che vomito in testa"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 7.0,
+      "giudizio": "Ha condiviso la foto della camicia cacata con la naturalezza di chi ha accettato il proprio destino genitoriale. L'autoironia con 'Mi ha fatto un favore insomma a cagarmi addosso' e' stata perfetta. In chiusura, complimento sincero a Fausto. Settimana breve ma intensa.",
+      "messaggi": 3,
+      "mediaGiornaliera": 0.4,
+      "highlights": [
+        "L'incidente della camicia ha regalato contenuto top",
+        "Complimento genuino a Fausto: 'Sei stato ganzo'"
+      ],
+      "citazioneTop": "Mi ha fatto un favore insomma a cagarmi addosso"
+    }
+  ],
+  "awards": {
+    "mvp": "Fausto Petrini - Il convegno e' stato l'evento della settimana",
+    "comico": "Giacomo Dolfi - L'aforisma cacca/vomito restera' negli annali",
+    "cuore": "Alessio Valentini - Ha guardato tutto il video e dato feedback sincero",
+    "fantasma": null
+  }
+}

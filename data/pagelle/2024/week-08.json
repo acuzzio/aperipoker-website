@@ -1,0 +1,114 @@
+{
+  "anno": 2024,
+  "settimana": 8,
+  "startDate": "2024-02-19",
+  "endDate": "2024-02-25",
+  "stats": {
+    "totalMessages": 65,
+    "activeMembers": 6,
+    "avgPerMember": 10.8
+  },
+  "riassunto": "Settimana dominata dalla gastronomia e dall'immobiliare. Alessio V. ha intrattenuto tutti con la sua epopea dei tortellini fatti a mano (6 ore di lavoro!), mentre Cosimo ha sganciato la bomba: casa venduta in UN GIORNO con 18 visite. Nel frattempo, tra una discussione sulla cannabis tedesca e le scazzottate regolamentari dell'hockey, il gruppo ha scoperto l'esistenza dello scacchipugilato.",
+  "bestQuotes": [
+    {
+      "quote": "Abbiamo messo la casa in vendita. Ieri. Primo giorno di agenzia, ci sono state 18 visite. Stamattina era già venduta.",
+      "author": "Cosimo Nenciòni",
+      "context": "La notizia bomba della settimana, raccontata con il tipico understatement di Cosimo"
+    },
+    {
+      "quote": "sono sinceramente eccezionali, e piu' che altro, col CAZZO che trovi roba del genere qua da comprare.",
+      "author": "Alessio Valentini",
+      "context": "La passione di un italiano all'estero per la pasta fatta in casa"
+    },
+    {
+      "quote": "Però si, stavo cagando. Se no non leggerei fanpage",
+      "author": "Fausto Petrini",
+      "context": "Onestà brutale sui propri momenti di lettura digitale"
+    },
+    {
+      "quote": "E' grande ma non come il duomo di milano",
+      "author": "Cosimo Nenciòni",
+      "context": "Risposta perfetta alla battuta di Adriano sulla nuova casa"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Alessio Valentini",
+      "voto": 8.5,
+      "giudizio": "Il masterchef della settimana. Ha tenuto banco con l'epopea dei tortellini fatti a mano, raccontando ogni dettaglio con la passione di un artigiano e la stanchezza di un muratore. Sei ore di lavoro per poi odiare Elisa che se li mangiava: un classico.",
+      "messaggi": 24,
+      "mediaGiornaliera": 3.4,
+      "highlights": [
+        "L'epopea dei tortellini ha intrattenuto il gruppo per ore",
+        "Sempre pronto a commentare con ironia (la marcia con le scazzottate!)"
+      ],
+      "citazioneTop": "col CAZZO che trovi roba del genere qua da comprare"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 8.0,
+      "giudizio": "Ha sganciato la notizia bomba della settimana con il suo solito understatement: casa venduta in un giorno, 18 visite, mercato folle. Tre frasi per raccontare quello che altri avrebbero trasformato in un podcast. Efficienza svizzera, tempismo perfetto.",
+      "messaggi": 16,
+      "mediaGiornaliera": 2.3,
+      "highlights": [
+        "La notizia della vendita casa ha catalizzato l'attenzione di tutti",
+        "Battuta perfetta sul Duomo di Milano"
+      ],
+      "citazioneTop": "E' grande ma non come il duomo di milano"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 7.0,
+      "giudizio": "Il curatore di contenuti del gruppo. Tra cannabis tedesca e scazzottate nell'hockey, ha alimentato le discussioni con link interessanti. La confessione sulla lettura di Fanpage in bagno vale da sola mezzo punto in piu'.",
+      "messaggi": 12,
+      "mediaGiornaliera": 1.7,
+      "highlights": [
+        "Ha scoperto l'esistenza della boxe scacchi (sentito in radio!)",
+        "Sincero sulle proprie abitudini di lettura digitale"
+      ],
+      "citazioneTop": "Però si, stavo cagando. Se no non leggerei fanpage"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 6.0,
+      "giudizio": "Settimana sottotono per il Re della Chat. Presente ma non dominante, si e' limitato a esclamazioni di stupore ('Miiiinchia!', 'Stupendi') senza i suoi soliti monologhi. Forse stava riposando la voce per settimane future.",
+      "messaggi": 6,
+      "mediaGiornaliera": 0.9,
+      "highlights": [
+        "Reazioni genuine alla notizia di Cosimo",
+        "Battuta sul Duomo di Milano che ha dato assist a Cosimo"
+      ],
+      "citazioneTop": "Anche nel biliardo"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 6.5,
+      "giudizio": "Il guru zen della settimana. Interventi misurati ma pertinenti, dalle domande sui tortellini alla scoperta dello scacchipugilato. Ha linkato Wikipedia prima che Fausto finisse di parlare: tempismo da sniper.",
+      "messaggi": 7,
+      "mediaGiornaliera": 1.0,
+      "highlights": [
+        "Ha linkato lo scacchipugilato con timing perfetto",
+        "Domande genuine sulla nuova casa di Cosimo"
+      ],
+      "citazioneTop": "Firenze è controcorrente"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 5.5,
+      "giudizio": "Il Fondatore ha fatto capolino giusto per benedire la vendita della casa di Cosimo con un paterno 'Comunque bravi ragazzi!'. Presenza minima ma calorosa, come un nonno che passa a salutare e poi sparisce.",
+      "messaggi": 3,
+      "mediaGiornaliera": 0.4,
+      "highlights": [
+        "Supporto emotivo a Cosimo per la casa",
+        "Empatia sui tortellini di Alessio V."
+      ],
+      "citazioneTop": "Comunque bravi ragazzi! Decisi e avanti!"
+    }
+  ],
+  "awards": {
+    "mvp": "Alessio Valentini - Per aver trasformato la pasta fatta in casa in un evento epico",
+    "comico": "Fausto Petrini - Per la confessione sulla lettura di Fanpage",
+    "cuore": "Giacomo Dolfi - Per il supporto paterno a Cosimo",
+    "fantasma": "Nessuno - Settimana con buona partecipazione generale"
+  }
+}

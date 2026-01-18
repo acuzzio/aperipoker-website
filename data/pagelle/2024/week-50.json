@@ -1,0 +1,120 @@
+{
+  "anno": 2024,
+  "settimana": 50,
+  "startDate": "2024-12-09",
+  "endDate": "2024-12-15",
+  "stats": {
+    "totalMessages": 71,
+    "activeMembers": 6,
+    "avgPerMember": 11.8
+  },
+  "riassunto": "Settimana dedicata all'organizzazione della cena d'addio per Pasquale, con il Maca che prenota all'Osteria de Giusti per Fiorentina e il gruppo che si coordina per il ritrovo alla Lilla. Momento cult: Cosimo celebra la dimmerabilità della sua nuova lampada e Alessio V. fa generare una canzone epica a ChatGPT. Domenica si chiude con la cena e un misterioso bonifico di Cosimo che fa ridere tutti.",
+  "bestQuotes": [
+    {
+      "quote": "Dimmerabile è la tua casa, un'armonia che accende e plasma. Un soffio di luce, un tocco divino, l'ambiente splende, diventa vicino.",
+      "author": "Alessio Valentini (via ChatGPT)",
+      "context": "La canzone sulla dimmerabilità generata su richiesta di Cosimo"
+    },
+    {
+      "quote": "PASQUALE IL NUMERO UNO",
+      "author": "Alessio Valentini",
+      "context": "L'entusiasmo per la cena d'addio"
+    },
+    {
+      "quote": "Solo per il numero legale: 6 su 6",
+      "author": "Giacomo Dolfi",
+      "context": "Conferma partecipazione con stile istituzionale"
+    },
+    {
+      "quote": "man cries while money rains from the sky",
+      "author": "Alessio Valentini",
+      "context": "Spiegazione del prompt per l'icona del gruppo dopo il bonifico di Cosimo"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Alessio Valentini",
+      "voto": 8.5,
+      "giudizio": "Il Giramondo questa settimana ha dato spettacolo: dalla canzone sulla dimmerabilità alla celebrazione di Pasquale con caps lock urlanti. Disponibile, entusiasta, e sempre pronto a cavalcare il momento con ironia. Il prompt 'man cries while money rains from the sky' dopo il bonifico di Cosimo vale da solo mezzo punto in più.",
+      "messaggi": 19,
+      "mediaGiornaliera": 2.7,
+      "highlights": [
+        "Ha fatto generare a ChatGPT la canzone epica sulla dimmerabilità",
+        "Entusiasmo contagioso per la cena di Pasquale",
+        "Flessibilità totale sull'organizzazione logistica"
+      ],
+      "citazioneTop": "Dimmerabile è la tua casa, un'armonia che accende e plasma"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 8.0,
+      "giudizio": "Il Maca in versione organizzatore supremo: prenota, decide la Fiorentina dopo lunga indecisione, coordina i punti di ritrovo come un generale. Poche parole ma tutte essenziali. La sua laconicità questa settimana era puro servizio al gruppo.",
+      "messaggi": 16,
+      "mediaGiornaliera": 2.3,
+      "highlights": [
+        "Ha prenotato all'Osteria de Giusti per la cena di Pasquale",
+        "Coordinamento logistico impeccabile (Lilla, colonna del grillo)",
+        "La scelta Fiorentina vs pesce risolta con saggezza"
+      ],
+      "citazioneTop": "W pasquale"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 7.0,
+      "giudizio": "Meno prolisso del solito ma sempre sul pezzo. Si sveglia alle 6:40 di domenica per coordinare l'uscita, propone aperitivini Smart e ricorda che Federico va invitato. Il Re della Chat in versione supporto tecnico.",
+      "messaggi": 11,
+      "mediaGiornaliera": 1.6,
+      "highlights": [
+        "Proposta aperitivo pre-cena (bocciata ma apprezzata)",
+        "Si ricorda di Federico come special guest",
+        "Presenza costante nel coordinamento"
+      ],
+      "citazioneTop": "Tutti alla lilla!"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 7.0,
+      "giudizio": "Il Trascinatore questa settimana si gode il flusso invece di trascinare. Apprezza la dimmerabilità, condivide saggezza sulle lampade Flos, e conferma 'Noi si arriva alle 8'. Rilassato ma presente, come un fuoco che cova sotto la cenere.",
+      "messaggi": 10,
+      "mediaGiornaliera": 1.4,
+      "highlights": [
+        "Conoscenza tecnica sulle lampade Parentesi di Flos",
+        "Entusiasmo genuino per la canzone della dimmerabilità",
+        "Conferma presenza alla cena"
+      ],
+      "citazioneTop": "Il tema dimmerabilità, è stato sviscerato, discusso e analizzato di già...."
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 7.5,
+      "giudizio": "Il Provocatore Raffinato scatena il caso dimmerabilità della settimana con una foto e tre parole. 'Aussi moi' per confermare, 'Adoro' per la canzone, e poi il colpo finale: l'IBAN in chat che fa esplodere tutti. Economia di parole, massimo impatto.",
+      "messaggi": 9,
+      "mediaGiornaliera": 1.3,
+      "highlights": [
+        "Ispirazione per la canzone sulla dimmerabilità",
+        "Condivisione video su Marinelli/M il figlio del secolo",
+        "Il plot twist finale dell'IBAN che genera il prompt iconico"
+      ],
+      "citazioneTop": "La dimmerabilita' non ha prezzo"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 6.5,
+      "giudizio": "Il Fondatore interviene con la precisione di un orologio svizzero: già letto e confermato, numero legale 6 su 6, 'vi aspetto a casetta'. Poche apparizioni ma sempre nel momento giusto. Lo stile istituzionale che tiene insieme il gruppo.",
+      "messaggi": 6,
+      "mediaGiornaliera": 0.9,
+      "highlights": [
+        "Conferma rapida ed efficiente",
+        "La battuta sul numero legale",
+        "Host che aspetta alla casetta"
+      ],
+      "citazioneTop": "Solo per il numero legale: 6 su 6"
+    }
+  ],
+  "awards": {
+    "mvp": "Alessio Valentini - Per la canzone sulla dimmerabilità e l'entusiasmo contagioso",
+    "comico": "Alessio Valentini - 'man cries while money rains from the sky'",
+    "cuore": "Alessio Macalùso - Organizzatore silenzioso della cena d'addio per Pasquale",
+    "fantasma": null
+  }
+}

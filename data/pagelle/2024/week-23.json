@@ -1,0 +1,110 @@
+{
+  "anno": 2024,
+  "settimana": 23,
+  "startDate": "2024-06-03",
+  "endDate": "2024-06-09",
+  "stats": {
+    "totalMessages": 29,
+    "activeMembers": 5,
+    "avgPerMember": 5.8
+  },
+  "riassunto": "Settimana storica per il tennis italiano: Djokovic vince una partita epica al Roland Garros giocando con una gamba sola, e martedì Sinner diventa numero 1 del mondo ATP. Il gruppo esplode in discussioni tennistiche con Adriano a fare da commentatore tecnico, tra 'fasci tibiali' e riflessioni sulle preferenze extra-sportive del Rosso di San Candido. Partecipazione concentrata nei primi giorni della settimana, poi silenzio quasi totale.",
+  "bestQuotes": [
+    {
+      "quote": "L'unica cosa che lo rende diverso da Alex è questa passione sfrenata per la fica che il nostro amico Sinner ha.",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Analisi comparativa tra Del Piero e Sinner che nessuno aveva chiesto ma tutti avevamo bisogno di leggere"
+    },
+    {
+      "quote": "La figa gli piace esattamente come gli slam",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Proseguimento dell'analisi precedente, con lo stesso rigore scientifico"
+    },
+    {
+      "quote": "Che cazzo di fasci tibiali perdio",
+      "author": "Cosimo Nenciòni",
+      "context": "Reazione alla lezione di anatomia non richiesta di Adriano"
+    },
+    {
+      "quote": "E' diventato n.1 del mondo. Il sogno di Adriano",
+      "author": "Cosimo Nenciòni",
+      "context": "Frecciatina perfetta a Adriano che aveva detto che Sinner non ce l'avrebbe fatta presto"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 8.5,
+      "giudizio": "Il maestro del tennis da tastiera. Ha trasformato il Roland Garros in un TED Talk sui fasci tibiali e le preferenze amorose di Sinner. Quattordici messaggi di pura goldminiera goliardica. La sua teoria su Sinner e le donne merita un posto nella storia del gruppo.",
+      "messaggi": 14,
+      "mediaGiornaliera": 2.0,
+      "highlights": [
+        "Ha visto la partita epica di Djokovic e l'ha raccontata come un telecronista ubriaco",
+        "Analisi sociologica su Sinner e Del Piero che nessuno dimentichera",
+        "Lezione di anatomia sui 'fasci tibiali' che ha confuso tutti"
+      ],
+      "citazioneTop": "La figa gli piace esattamente come gli slam"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 7.5,
+      "giudizio": "Ha aperto la settimana con la domanda giusta su Djokovic e l'ha chiusa con la stoccata perfetta sul 'sogno di Adriano'. Sette messaggi chirurgici, incluso un 'Che cazzo di fasci tibiali perdio' che ha espresso il pensiero di tutti noi.",
+      "messaggi": 7,
+      "mediaGiornaliera": 1.0,
+      "highlights": [
+        "Ha iniziato la discussione su Djokovic con tempismo perfetto",
+        "Stoccata sarcastica sul fatto che Sinner sia diventato n.1 nonostante i dubbi di Adriano"
+      ],
+      "citazioneTop": "Che cazzo di fasci tibiali perdio"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 5.5,
+      "giudizio": "Il Trascinatore questa settimana ha preferito farsi trascinare. Quattro messaggi, principalmente domande per capire cosa stesse succedendo. 'Chi ha vinto?' e 'Ch e ha fatto?' riassumono la sua partecipazione: presente ma sempre un passo indietro.",
+      "messaggi": 4,
+      "mediaGiornaliera": 0.6,
+      "highlights": [
+        "Ha chiesto chi avesse vinto la partita di Djokovic (almeno era curioso)",
+        "Messaggio criptico 'In ginocchio?' di venerdi mattina alle 5:32 che resta un mistero"
+      ],
+      "citazioneTop": "In ginocchio?"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 4.0,
+      "giudizio": "Un solo messaggio in tutta la settimana, peraltro una domanda. Il giramondo deve essere stato in qualche buco del mondo senza internet. O forse stava dormendo fino alle 15 come suo solito, ma poi si e dimenticato di svegliarsi del tutto.",
+      "messaggi": 1,
+      "mediaGiornaliera": 0.1,
+      "highlights": [
+        "Ha chiesto se il tizio del video fosse l'avversario di Djokovic (almeno seguiva la discussione)"
+      ],
+      "citazioneTop": "e l'avversario di ieri di Djokovic?"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 4.0,
+      "giudizio": "Il Fondatore ha parlato una sola volta, ma l'ha fatto per celebrare Sinner numero 1 con un laconico 'Mito vero'. Due parole che valgono piu di mille silenzi. Ma comunque, un po' pochino per chi ha creato il gruppo.",
+      "messaggi": 1,
+      "mediaGiornaliera": 0.1,
+      "highlights": [
+        "Ha riconosciuto la grandezza di Sinner con un essenziale 'Mito vero'"
+      ],
+      "citazioneTop": "Mito vero"
+    },
+    {
+      "name": "Alessio Macaluso",
+      "voto": 3.0,
+      "giudizio": "Fantasma della settimana. Zero messaggi, zero presenza, zero tutto. Neanche un 'Credo' o un 'Boh'. Lo Zen master ha portato il suo silenzio a livelli monastici. Forse stava meditando sulla vacuita del tennis.",
+      "messaggi": 0,
+      "mediaGiornaliera": 0.0,
+      "highlights": [],
+      "citazioneTop": null
+    }
+  ],
+  "awards": {
+    "mvp": "Adriano Sergio Lorenzo Facchini",
+    "comico": "Adriano Sergio Lorenzo Facchini",
+    "cuore": "Cosimo Nenciòni",
+    "fantasma": "Alessio Macaluso"
+  }
+}

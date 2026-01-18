@@ -1,0 +1,119 @@
+{
+  "anno": 2024,
+  "settimana": 9,
+  "startDate": "2024-02-26",
+  "endDate": "2024-03-03",
+  "stats": {
+    "totalMessages": 76,
+    "activeMembers": 6,
+    "avgPerMember": 12.7
+  },
+  "riassunto": "Settimana segnata dalla scoperta dello scacchipugilato e dall'organizzazione del pranzo per il compleanno di Giacomo a Palazzetti. Si parte con Fausto febbricitante alle 3 di notte che legge Fanpage sul cesso, condividendo un articolo sulle risse nell'hockey che genera una discussione esilarante su quali sport dovrebbero permettere le scazzottate. Alessio V. dal Messico si dispera per il pranzo ai Palazzetti senza di lui. Chiusura con auguri al Giec per i suoi 42 anni, con Adriano che gli ricorda quanto li porta male.",
+  "bestQuotes": [
+    {
+      "quote": "nella marcia sarebbe ganzo secondo me",
+      "author": "Alessio Valentini",
+      "context": "Sulla proposta di estendere le risse regolamentari ad altri sport. Immagine mentale imbattibile."
+    },
+    {
+      "quote": "Poteva essere il mio sport. Se solo avessi saputo che esiste",
+      "author": "Alessio Macalùso",
+      "context": "Scoprendo lo scacchipugilato. La carriera agonistica perduta di Mac."
+    },
+    {
+      "quote": "Stai cagando?",
+      "author": "Cosimo Nenciòni",
+      "context": "A Fausto che posta alle 3 di notte. Indovinato."
+    },
+    {
+      "quote": "42 anni e portarli veramente di merda. Bravo. Volevo dire bene",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Auguri di compleanno a Giacomo. L'affetto si esprime con insulti."
+    },
+    {
+      "quote": "Noi arriveremo coperti di vomito as usual",
+      "author": "Cosimo Nenciòni",
+      "context": "Sulla trasferta per il pranzo. Tradizioni."
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 7.5,
+      "giudizio": "Il Re della Chat mantiene il trono con presenza costante e battute efficaci. Il trittico 'biliardo - scacchi - auguri di merda' dimostra che la forma c'e'. La correzione 'volevo dire bene' dopo aver insultato Giacomo e' poesia involontaria.",
+      "messaggi": 19,
+      "mediaGiornaliera": 2.7,
+      "highlights": [
+        "Sequenza sport improbabili per le risse (biliardo, scacchi)",
+        "Auguri al Giec con insulto incorporato"
+      ],
+      "citazioneTop": "42 anni e portarli veramente di merda. Bravo. Volevo dire bene"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 7.5,
+      "giudizio": "L'organizzatore instancabile inizia la settimana alle 3 di notte, febbricitante, sul cesso, a leggere Fanpage. L'onesta' nel confermarlo quando Cosimo indovina e' ammirevole. Ha portato contenuti di qualita' e contribuito all'organizzazione del pranzo.",
+      "messaggi": 19,
+      "mediaGiornaliera": 2.7,
+      "highlights": [
+        "Ha scoperto lo scacchipugilato prima di Mac (ma Mac ha linkato per primo)",
+        "Nota l'energumeno che applaude nel video delle risse - occhio clinico"
+      ],
+      "citazioneTop": "Pero' si, stavo cagando. Se no non leggerei fanpage"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 7.0,
+      "giudizio": "Il Fondatore compie 42 anni e organizza il proprio pranzo di compleanno con la precisione di sempre. Istruzioni chiare su luogo, orario e strade alternative per evitare la Strade Bianche. La battuta sui 'piedini morbidi' rimane un mistero che preferiamo non indagare.",
+      "messaggi": 13,
+      "mediaGiornaliera": 1.9,
+      "highlights": [
+        "Organizzazione impeccabile del pranzo a Palazzetti",
+        "Risposta enigmatica 'Chissa' che bei piedini morbidi aveva...'"
+      ],
+      "citazioneTop": "I residenti Italia sono tutti presenti"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 8.0,
+      "giudizio": "Con 12 messaggi ha centrato piu' bersagli di altri con 50. L'apertura 'Stai cagando?' e' da manuale del cecchino verbale. Il 'coperti di vomito as usual' dipinge tradizioni di gruppo che non vogliamo approfondire. Efficienza svizzera, risultati toscani.",
+      "messaggi": 12,
+      "mediaGiornaliera": 1.7,
+      "highlights": [
+        "Indovina che Fausto sta cagando alle 3 di notte",
+        "Commento sarcastico sulle elezioni sarde ('Non e' che ce stanno a cojona'?')"
+      ],
+      "citazioneTop": "Stai cagando?"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 7.0,
+      "giudizio": "Lo Zen Master della settimana trova lo scacchipugilato su Wikipedia un secondo prima di Fausto e rimpiange una carriera agonistica mai nata. Presente all'organizzazione del pranzo, conferma la sua partecipazione con la consueta economia di parole. L'ultimo 'Ok!' vale come un monologo.",
+      "messaggi": 9,
+      "mediaGiornaliera": 1.3,
+      "highlights": [
+        "Ha linkato Wikipedia dello scacchipugilato prima di Fausto",
+        "Rimpianto sincero per la carriera mancata"
+      ],
+      "citazioneTop": "Poteva essere il mio sport. Se solo avessi saputo che esiste"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 7.5,
+      "giudizio": "Quattro messaggi che valgono come quaranta. La proposta delle risse nella marcia e' genio comico puro. Il 'dio cane' di disappunto per il pranzo ai Palazzetti senza di lui dimostra che anche dal Messico il cuore e' a Castelnuovo. Qualita' over quantita'.",
+      "messaggi": 4,
+      "mediaGiornaliera": 0.6,
+      "highlights": [
+        "Battuta sulle risse nella marcia - momento comico della settimana",
+        "Genuina disperazione per perdersi i Palazzetti"
+      ],
+      "citazioneTop": "nella marcia sarebbe ganzo secondo me"
+    }
+  ],
+  "awards": {
+    "mvp": "Cosimo Nenciòni - Precisione chirurgica in ogni intervento",
+    "comico": "Alessio Valentini - Le risse nella marcia sono un'immagine indelebile",
+    "cuore": "Giacomo Dolfi - Organizza il pranzo del proprio compleanno per stare con gli amici",
+    "fantasma": "Federico Ceccuzzi - Non pervenuto (ma nel 2024 non era ancora nel gruppo)"
+  }
+}

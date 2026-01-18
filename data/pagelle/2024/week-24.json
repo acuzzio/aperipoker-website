@@ -1,0 +1,118 @@
+{
+  "anno": 2024,
+  "settimana": 24,
+  "startDate": "2024-06-10",
+  "endDate": "2024-06-16",
+  "stats": {
+    "totalMessages": 22,
+    "activeMembers": 5,
+    "avgPerMember": 4.4
+  },
+  "riassunto": "Settimana tranquilla ma memorabile, concentrata tutta nel lunedi post-elezioni europee. Si parte parlando di politica - Cosimo e Fausto hanno votato Verdi, Alessio Mac PD ('Borghesotto'), e Adriano apre ironicamente sul 'viraggio a destra'. Ma il vero evento della settimana e' l'annuncio epocale di Cosimo: la prima cagata nella casa nuova. Il gruppo reagisce con entusiasmo, battute e richieste di selfie. Alessio Vale regala la perla della settimana collegando la 'nebbia in val padana' al fumo della storica defecazione.",
+  "bestQuotes": [
+    {
+      "quote": "Sto cagando a casa nuova",
+      "author": "Cosimo Nenciòni",
+      "context": "L'annuncio che ha fatto la storia: Cosimo inaugura la casa nuova nel modo piu' naturale possibile"
+    },
+    {
+      "quote": "First shit",
+      "author": "Cosimo Nenciòni",
+      "context": "La sintesi perfetta del momento storico, in stile Cosimo"
+    },
+    {
+      "quote": "e' il fumo della prima merda",
+      "author": "Alessio Valentini",
+      "context": "Risposta geniale alla 'nebbia in val padana' di Cosimo - timing comico perfetto"
+    },
+    {
+      "quote": "L'emozione della prima cagata non si scorda mai",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Adriano poetico che eleva l'evento a momento esistenziale"
+    },
+    {
+      "quote": "Voi radical chic",
+      "author": "Alessio Macalùso",
+      "context": "Alessio Mac provoca i votanti Verdi autodefinendosi 'borghesotto' votante PD"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 9.0,
+      "giudizio": "Il protagonista assoluto della settimana. Ha trasformato un atto fisiologico quotidiano in un evento da celebrare con tutto il gruppo. 'Sto cagando a casa nuova' e 'First shit' sono gia' nella hall of fame del gruppo. Il tutto condito da criptici riferimenti a 'nebbia in val padana' e un elegante 'Esattamentesly'. Casa nuova, stesso Cosimo.",
+      "messaggi": 9,
+      "mediaGiornaliera": 9.0,
+      "highlights": [
+        "Ha inaugurato la casa nuova nel modo piu' memorabile possibile",
+        "Ha creato il momento comico piu' quotato della settimana",
+        "Ha condiviso anche le sue preferenze elettorali (Verdi) con filosofia: 'Tuttavia ho perso come sempre'"
+      ],
+      "citazioneTop": "First shit"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 8.5,
+      "giudizio": "Con soli tre messaggi ha piazzato la battuta della settimana. Quando Cosimo ha detto 'Nebbia in val padana', Alessio ha risposto 'e' il fumo della prima merda'. Tempismo da comico navigato. Ha anche festeggiato la casa nuova con una pioggia di emoji da capodanno. Qualita' over quantita'.",
+      "messaggi": 3,
+      "mediaGiornaliera": 3.0,
+      "highlights": [
+        "Battuta perfetta sul 'fumo della prima merda'",
+        "Ha celebrato la casa nuova con entusiasmo genuino"
+      ],
+      "citazioneTop": "e' il fumo della prima merda"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 7.5,
+      "giudizio": "Il borghesotto del gruppo ha ammesso candidamente di aver votato PD, prendendo in giro i votanti Verdi ('Voi radical chic'). Ha chiesto un selfie a Cosimo dal bagno e ha partecipato attivamente al momento goliardico. Cinque messaggi di pura qualita' interattiva.",
+      "messaggi": 5,
+      "mediaGiornaliera": 5.0,
+      "highlights": [
+        "Ha ammesso con orgoglio il voto 'borghese' al PD",
+        "Ha chiesto il selfie dal bagno a Cosimo",
+        "Ha interagito su ogni fronte: politica e cagata"
+      ],
+      "citazioneTop": "Manda selfie allora"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 7.0,
+      "giudizio": "Ha aperto la settimana alle 4:35 del mattino con commento politico ironico sul viraggio a destra dell'Europa. Poi ha elevato la cagata di Cosimo a momento poetico ('L'emozione della prima cagata non si scorda mai') e ha chiesto un video della casa. Tre messaggi, tutti significativi.",
+      "messaggi": 3,
+      "mediaGiornaliera": 3.0,
+      "highlights": [
+        "Ha aperto le danze alle 4:35 del mattino",
+        "Ha trasformato l'evento in momento poetico"
+      ],
+      "citazioneTop": "L'emozione della prima cagata non si scorda mai"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 6.0,
+      "giudizio": "Presenza minima ma utile: ha condiviso il link del Post sui risultati elettorali e ha confermato di aver votato Verdi anche lui. Due messaggi di servizio, senza guizzi creativi. Settimana da comprimario silenzioso.",
+      "messaggi": 2,
+      "mediaGiornaliera": 2.0,
+      "highlights": [
+        "Ha condiviso il link per seguire i risultati elettorali",
+        "Solidarieta' coi Verdi insieme a Cosimo"
+      ],
+      "citazioneTop": "Per le europee anche io verdi"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 3.0,
+      "giudizio": "Il Lider si e' eclissato durante la settimana post-elettorale. Zero messaggi, zero partecipazione alla storica inaugurazione della casa di Cosimo. Forse troppo impegnato a digerire i risultati delle europee. Fantasma della settimana.",
+      "messaggi": 0,
+      "mediaGiornaliera": 0.0,
+      "highlights": [],
+      "citazioneTop": null
+    }
+  ],
+  "awards": {
+    "mvp": "Cosimo Nenciòni - Ha reso memorabile una settimana tranquilla con l'epica 'First shit' nella casa nuova",
+    "comico": "Alessio Valentini - 'E' il fumo della prima merda' e' la battuta dell'anno",
+    "cuore": "Alessio Macalùso - Ha interagito con tutti e chiesto il selfie a Cosimo, creando connessione",
+    "fantasma": "Giacomo Dolfi - Il Lider in letargo post-elettorale"
+  }
+}

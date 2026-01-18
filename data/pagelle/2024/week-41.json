@@ -1,0 +1,118 @@
+{
+  "anno": 2024,
+  "settimana": 41,
+  "startDate": "2024-10-07",
+  "endDate": "2024-10-13",
+  "stats": {
+    "totalMessages": 112,
+    "activeMembers": 5,
+    "avgPerMember": 22.4
+  },
+  "riassunto": "Settimana dominata dall'organizzazione della cena sushi a Poggibonsi. Il gruppo si scatena tra le 4 di notte con discussioni su all-you-can-eat vs ristoranti raffinati, prenotazioni last minute e la solita ricerca disperata di THC pre-evento. La serata si conclude con Cosimo in fase 'all I can shit' e Adriano che promette di cacare un salmone vivo. Bonus: avvistamento aurora boreale condiviso da Alessio M. a fine settimana.",
+  "bestQuotes": [
+    {
+      "quote": "Oggi cacheró un salmone vivo. Che nemmeno Sampei..",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Il giorno dopo la cena all-you-can-eat, Adriano descrive poeticamente le conseguenze digestive"
+    },
+    {
+      "quote": "Sono in fase all I can shit.",
+      "author": "Cosimo Nenciòni",
+      "context": "Cosimo sintetizza l'esperienza post-sushi con la sua solita eleganza"
+    },
+    {
+      "quote": "Le cacatoie io non le conosco",
+      "author": "Cosimo Nenciòni",
+      "context": "Il suo snobismo verso i ristoranti all-you-can-eat, prima di cedere"
+    },
+    {
+      "quote": "Ci vengo. Con disgusto. Ma ci vengo.",
+      "author": "Cosimo Nenciòni",
+      "context": "L'accettazione riluttante di Cosimo verso il sushi low-cost"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 8.5,
+      "giudizio": "Il Re della Chat ha fatto il Re dell'organizzazione. Ha prenotato il tavolo tondo per condividere, ha proposto aperitivi con bollicine 'come le persone ganze che fanno i mondani', e ha concluso in bellezza promettendo di defecare un salmone vivo. Poeta della digestione.",
+      "messaggi": 42,
+      "mediaGiornaliera": 6.0,
+      "highlights": [
+        "Ha organizzato la cena sushi trovando il compromesso perfetto tra Giacomo che voleva all-you-can-eat e Cosimo che voleva qualità",
+        "La descrizione del post-cena con il salmone e Sampei è da antologia",
+        "Attivo alle 4 di notte per pianificare la serata"
+      ],
+      "citazioneTop": "Oggi cacheró un salmone vivo. Che nemmeno Sampei.."
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 8.0,
+      "giudizio": "Il Lider ha lanciato l'idea del sushi e poi ha preteso l'all-you-can-eat con la determinazione di un sindacalista. Sveglio alle 4 di notte per parlare di cibo, ha dato la colpa a Fausto per aver mangiato troppo. Leadership impeccabile.",
+      "messaggi": 32,
+      "mediaGiornaliera": 4.6,
+      "highlights": [
+        "Ha aperto le danze alle 4 di mattina chiedendo del sushi",
+        "Ha difeso strenuamente il suo diritto all'all-you-can-eat",
+        "Ha condiviso la foto della serata e la notizia dall'Australia per Adriano"
+      ],
+      "citazioneTop": "Colpa di Fausto comunque. Se non gli levavi quel tablet era sempre lì"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 8.0,
+      "giudizio": "Il Provocatore Raffinato ha dato il meglio di sé: ha proposto ristoranti mentre guidava sotto il diluvio, ha snobbato le 'cacatoie' all-you-can-eat, ma poi ci è andato 'con disgusto'. Il suo 'all I can shit' post-cena vale da solo mezzo punto.",
+      "messaggi": 19,
+      "mediaGiornaliera": 2.7,
+      "highlights": [
+        "Ha proposto due alternative sushi in 2 minuti sotto il diluvio",
+        "Il suo 'Mampiccati' a Giacomo è stato perfettamente calibrato",
+        "Ha coniato 'all you can shit' - futuro tormentone del gruppo"
+      ],
+      "citazioneTop": "Sono in fase all I can shit."
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 6.5,
+      "giudizio": "Il Trascinatore questa settimana si è fatto trascinare. Ha partecipato senza organizzare (per una volta), ha cercato THC senza successo, ed è stato accusato di far mangiare troppo gli altri. Il suo commento sul Brunello col sushi mostra però che il gusto c'è.",
+      "messaggi": 11,
+      "mediaGiornaliera": 1.6,
+      "highlights": [
+        "Ha notato che 'bollicina' era già desueto nell'estate 2023",
+        "Ha cercato di rassicurare il gruppo sulla qualità del ristorante",
+        "È stato incolpato per le abbuffate altrui"
+      ],
+      "citazioneTop": "Bollicina era nuovo nell'estate 23, ora è già desueto"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 6.0,
+      "giudizio": "Lo Zen Master ha scelto la via dell'astinenza: niente cena sushi, niente shit per lui. Ha contribuito con ricordi del 2014 (Big Eyes al cinema!) e ha chiuso la settimana con l'aurora boreale. Presente ma distaccato, come sempre.",
+      "messaggi": 8,
+      "mediaGiornaliera": 1.1,
+      "highlights": [
+        "Ha ricordato la cena del 2014 quando videro Big Eyes",
+        "Ha condiviso la notizia dell'aurora boreale",
+        "Il suo 'Niente shit for me' è stato profetico"
+      ],
+      "citazioneTop": "Ragazzi io sono in attesa"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 3.0,
+      "giudizio": "Il Giramondo questa settimana era evidentemente in un fuso orario incompatibile con Poggibonsi. Zero messaggi, zero partecipazione, probabilmente stava dormendo fino alle 15 in qualche spiaggia esotica. Fantasma totale.",
+      "messaggi": 0,
+      "mediaGiornaliera": 0,
+      "highlights": [
+        "Assente ingiustificato - forse internet di merda, forse jetlag esistenziale"
+      ],
+      "citazioneTop": null
+    }
+  ],
+  "awards": {
+    "mvp": "Adriano Sergio Lorenzo Facchini - Ha organizzato tutto e ha regalato poesia scatologica",
+    "comico": "Cosimo Nenciòni - 'All I can shit' entrerà nella storia",
+    "cuore": "Giacomo Dolfi - Ha coinvolto anche Fede e ringraziato chi ha prenotato",
+    "fantasma": "Alessio Valentini - Zero messaggi, zero presenze"
+  }
+}

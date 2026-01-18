@@ -1,0 +1,121 @@
+{
+  "anno": 2024,
+  "settimana": 35,
+  "startDate": "2024-08-26",
+  "endDate": "2024-09-01",
+  "stats": {
+    "totalMessages": 88,
+    "activeMembers": 6,
+    "avgPerMember": 14.7
+  },
+  "riassunto": "Settimana di fine agosto con Cosimo in vacanza negli Abruzzi a Rocca Calascio, che condivide foto epiche da Gondor in ciabatte con la figlia sulla schiena. Il 28 agosto si festeggia il suo compleanno con auguri corali. Alessio V. racconta l'acquisto dello scooter elettrico per Elisa e poi si sottopone all'estrazione di 3 denti del giudizio, scatenando una discussione odontoiatrica con tanto di confronto tra esperienze traumatiche. Chiude la settimana con i Cavalieri dello Zodiaco: Luna ha scelto Pegasus per il compleanno, ma Cosimo avrebbe preferito Phoenix.",
+  "bestQuotes": [
+    {
+      "quote": "Il dente da', il dente toglie.",
+      "author": "Cosimo Nenciòni",
+      "context": "Massima filosofica dopo la discussione sui denti del giudizio - puro zen cosimiano"
+    },
+    {
+      "quote": "questo non mi espone piu' alla MAREA di fica che c'e' nel campus",
+      "author": "Alessio Valentini",
+      "context": "Spiegando perche' ha comprato lo scooter elettrico per Elisa - autoironia a livelli altissimi"
+    },
+    {
+      "quote": "Per togliere i miei manca poco faceva leva col piede Dio santo",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Racconto horror dell'estrazione dei denti del giudizio"
+    },
+    {
+      "quote": "In ciabatte. Pure la figlia. Rischio morte",
+      "author": "Cosimo Nenciòni",
+      "context": "Avventura a Rocca Calascio con dress code discutibile"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Alessio Valentini",
+      "voto": 8.5,
+      "giudizio": "MVP della settimana: tra scooter elettrici, estrazione dei denti e video di mongoli a Barcellona, ha tenuto la chat viva praticamente da solo. La sua cronaca live dall'odontoiatra ('una vera macchina da guerra') merita un premio per il giornalismo embedded. L'autoironia sulla 'MAREA di fica nel campus' vale mezzo punto in piu'.",
+      "messaggi": 25,
+      "mediaGiornaliera": 3.6,
+      "highlights": [
+        "Acquisto dello scooter elettrico per liberarsi dalla 'marea di fica' del campus",
+        "Cronaca in diretta dell'estrazione di 3 denti del giudizio",
+        "Condivisione di video spagnolo sui 'mongoli a Barcellona'"
+      ],
+      "citazioneTop": "questo non mi espone piu' alla MAREA di fica che c'e' nel campus"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 8.0,
+      "giudizio": "Il festeggiato della settimana, che pero' si e' meritato gli auguri sul campo. Foto epiche da Rocca Calascio in ciabatte, con figlia sulle spalle e rischio morte. La massima 'Il dente da', il dente toglie' entra di diritto nella Bibbia del gruppo. Voleva Phoenix ma ha ceduto a Luna: padre esemplare.",
+      "messaggi": 14,
+      "mediaGiornaliera": 2.0,
+      "highlights": [
+        "Vacanza negli Abruzzi con foto da 'Gondor' e 'Ladyhawke'",
+        "Compleanno festeggiato dal gruppo il 28 agosto",
+        "Filosofia dentistica di alto livello",
+        "Racconto della scelta del cavaliere dello zodiaco per Luna"
+      ],
+      "citazioneTop": "Il dente da', il dente toglie."
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 7.5,
+      "giudizio": "Solido come sempre: condivide link, reagisce con emoji, fa gli auguri a Cosimo con il classico entusiasmo da trascinatore. 'W il bollore' e' implicito in ogni suo messaggio. La sua 'Dove finiremo signora mia' sullo scooter elettrico e' il commento della zia che non manca mai.",
+      "messaggi": 16,
+      "mediaGiornaliera": 2.3,
+      "highlights": [
+        "Link su Venditti e Sinner prontamente condivisi",
+        "Auguri epici a Cosimo: 'AUGURI AL GIOVANE COCCO PADRE TRASCINAFIGLI SULLE SPALLE!!'",
+        "Curiosita' genuina su Rocca Calascio"
+      ],
+      "citazioneTop": "Dove finiremo signora mia"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 7.0,
+      "giudizio": "Presente e partecipe ma senza i soliti picchi di verbosita'. Il racconto traumatico del dentista che 'faceva leva col piede' e' il contributo horror della settimana. Confessa di non conoscere i Cavalieri dello Zodiaco per colpa del tempo pieno: la prima vera nota dolente della sua infanzia.",
+      "messaggi": 15,
+      "mediaGiornaliera": 2.1,
+      "highlights": [
+        "Racconto horror dell'estrazione dei denti del giudizio",
+        "Supporto ad Alessio V. sul tema denti",
+        "Confessione sul tempo pieno e i Cavalieri dello Zodiaco"
+      ],
+      "citazioneTop": "Per togliere i miei manca poco faceva leva col piede Dio santo"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 7.0,
+      "giudizio": "Il saggio laconico ha aperto la settimana con un 'Che fai?' che ha scatenato tutto. Partecipa con moderazione zen alle discussioni sui denti e sui Cavalieri. 'Dovevi prendere Cristal il cigno' e' il consiglio stilistico che nessuno aveva chiesto ma tutti avevano bisogno.",
+      "messaggi": 10,
+      "mediaGiornaliera": 1.4,
+      "highlights": [
+        "Domanda iniziale che ha aperto lo scooter-gate",
+        "Auguri al festeggiato Cosimo",
+        "Consiglio non richiesto su Cristal il cigno"
+      ],
+      "citazioneTop": "Dovevi prendere Cristal il cigno molto più elegante nelle mosse"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 6.5,
+      "giudizio": "Il fondatore interviene con saggezza sui temi caldi: dubbi su Sinner, odio per i dentisti, e opinioni sui Cavalieri dello Zodiaco. La rivelazione sul dentista col 'parrucchino che scopa la segretaria' e' il gossip della settimana. Phoenix gli sarebbe piaciuto di piu' ma non giudica.",
+      "messaggi": 8,
+      "mediaGiornaliera": 1.1,
+      "highlights": [
+        "Riflessione seria su Sinner e doping",
+        "Odio dichiarato per i dentisti",
+        "Gossip sul dentista col parrucchino"
+      ],
+      "citazioneTop": "Il mio c'ha anche il parrucchino e scopa la segretaria/aiutante"
+    }
+  ],
+  "awards": {
+    "mvp": "Alessio Valentini - Ha dominato la settimana con scooter, denti e video spagnoli",
+    "comico": "Cosimo Nenciòni - 'Il dente da', il dente toglie' e le ciabatte a Rocca Calascio",
+    "cuore": "Fausto Petrini - Auguri calorosi a Cosimo e interesse genuino per tutti",
+    "fantasma": null
+  }
+}

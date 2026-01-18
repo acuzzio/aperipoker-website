@@ -1,0 +1,119 @@
+{
+  "anno": 2024,
+  "settimana": 38,
+  "startDate": "2024-09-16",
+  "endDate": "2024-09-22",
+  "stats": {
+    "totalMessages": 128,
+    "activeMembers": 6,
+    "avgPerMember": 21.3
+  },
+  "riassunto": "Una settimana emotivamente intensa: dalla morte di Schillaci che ha commosso tutti, all'organizzazione riuscita di una pizza a Colle che ha visto ben 4 presenti (record!). Adriano ha vissuto una giornata infernale tra Firenze e Porto Ercole, sfogandosi con invettive memorabili contro turisti, ristoranti gourmet e ausiliari del traffico. Nel frattempo, Alessio M. ha lanciato il sondaggio per la cena di compleanno, con l'immancabile opzione 'Mai (per Alessio)' che ha raccolto un voto anonimo.",
+  "bestQuotes": [
+    {
+      "quote": "La margherita a meta' dopo il pesce e' da maiali coi sensi di colpa",
+      "author": "Cosimo Nencioni",
+      "context": "Commento perfetto sulla combo pesce + pizza di Giacomo e Fausto"
+    },
+    {
+      "quote": "Lo ammetto non sono fatto per certi ambienti. Mi mettono di cattivo umore. Ristoranti gourmet con gente di merda. Sorrisi incredibili nel lasciare mancie e fare complimenti. Poi magari porco dio al muratore lesinano un euro in piu'. Morite tutti brutti bastardi.",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Lo sfogo epico dopo la giornata a Porto Ercole"
+    },
+    {
+      "quote": "quando poi li mangi si scatena qualcosa tipo scoppio di cerca persone",
+      "author": "Giacomo Dolfi",
+      "context": "Geniale parallelo tra i legumi e l'attacco hacker del momento"
+    },
+    {
+      "quote": "Ti sei fatto la frusta per il culo tuo",
+      "author": "Cosimo Nencioni",
+      "context": "Risposta a Adriano che si lamenta del centro di Firenze"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 8.5,
+      "giudizio": "Il Re della Chat ha regnato supremo anche questa settimana. Ha organizzato la pizza, provocato Giacomo fino a farlo venire, e poi ci ha regalato lo sfogo epico su Porto Ercole che restera' negli annali. 'Morite tutti brutti bastardi' e' gia' candidata a frase dell'anno.",
+      "messaggi": 51,
+      "mediaGiornaliera": 7.3,
+      "highlights": [
+        "Ha fatto vincere l'amicizia sul 'recente attaccamento contradaiolo' di Giacomo",
+        "Lo sfogo su Firenze e Porto Ercole: un capolavoro di misantropia poetica",
+        "Ha condiviso per primo la notizia dell'attacco hacker ai cercapersone"
+      ],
+      "citazioneTop": "Morite tutti brutti bastardi. Che il signore vi richiami veloce a se."
+    },
+    {
+      "name": "Alessio Macaluso",
+      "voto": 7.5,
+      "giudizio": "Lo zen master ha preso permesso dal lavoro per la pizza: questo si chiama impegno. Ha lanciato il sondaggio per il compleanno con l'opzione 'Mai (per Alessio)' che dimostra autoironia di alto livello. Il giorno dopo ha raccontato la serata con entusiasmo genuino.",
+      "messaggi": 19,
+      "mediaGiornaliera": 2.7,
+      "highlights": [
+        "Ha preso permesso dal lavoro per la serata pizza",
+        "Ha creato il sondaggio per il compleanno con l'opzione autoironica",
+        "Ha indovinato che Adriano era ad Alberese (quasi)"
+      ],
+      "citazioneTop": "Siamo stati parecchio bene. Cosi' bene che niente foto."
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 7.5,
+      "giudizio": "Il Trascinatore ha proposto la serata e questa volta e' andata in porto! Ha dato la triste notizia di Schillaci e poi si e' fatto il traffico di Firenze bestemmiando. Post-cena ha cercato di sdrammatizzare le lamentele di Adriano con consigli saggi: 'Guarda qualche fica'.",
+      "messaggi": 18,
+      "mediaGiornaliera": 2.6,
+      "highlights": [
+        "Ha proposto e organizzato la pizza di mercoledi'",
+        "Ha comunicato per primo la morte di Schillaci",
+        "Ha sfidato il 'traffico infinito di sta citta' di merda' per la serata"
+      ],
+      "citazioneTop": "Guarda qualche fica"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 8.0,
+      "giudizio": "Il Fondatore si e' fatto convincere da Adriano a venire nonostante fosse 'nell'ondone'. Ha sfornato la battuta della settimana sui legumi e i cercapersone. Pero' s'e' lamentato che 's'e' speso troppo' dopo aver preso grigliata E pizza. Contradaiolo redento.",
+      "messaggi": 17,
+      "mediaGiornaliera": 2.4,
+      "highlights": [
+        "Ha vinto la pigrizia ed e' venuto alla pizza",
+        "Battuta geniale: legumi che esplodono 'tipo scoppio di cerca persone'",
+        "Ha ammesso di aver bisogno di piu' legumi nella dieta"
+      ],
+      "citazioneTop": "quando poi li mangi si scatena qualcosa tipo scoppio di cerca persone"
+    },
+    {
+      "name": "Cosimo Nencioni",
+      "voto": 8.0,
+      "giudizio": "Il Provocatore Raffinato ha colpito ancora: assente alla pizza ma presente con commenti al vetriolo. 'La margherita dopo il pesce e' da maiali coi sensi di colpa' e' stata una fucilata chirurgica. Ha chiuso la settimana con il laconico 'Non ci dovevi andare' ad Adriano.",
+      "messaggi": 18,
+      "mediaGiornaliera": 2.6,
+      "highlights": [
+        "Battuta perfetta sui 'maiali coi sensi di colpa'",
+        "Ha condiviso il video di Schillaci cult in Irlanda",
+        "Chiusura zen: 'Non ci dovevi andare'"
+      ],
+      "citazioneTop": "La margherita a meta' dopo il pesce e' da maiali coi sensi di colpa"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 5.0,
+      "giudizio": "Il Giramondo questa settimana era evidentemente in una zona con internet di merda. Cinque messaggi in tutto, tra cui 'ao', 'grazie', 'ah' e 'notevole'. L'unico contributo memorabile: 'me la ricordavo diversa la Madonna' su una foto non meglio identificata.",
+      "messaggi": 5,
+      "mediaGiornaliera": 0.7,
+      "highlights": [
+        "Ha commentato misteriosamente sulla Madonna",
+        "Ha scritto 'ao' e 'ah' contribuendo al minimalismo estremo"
+      ],
+      "citazioneTop": "me la ricordavo diversa la Madonna"
+    }
+  ],
+  "awards": {
+    "mvp": "Adriano Sergio Lorenzo Facchini - Per aver organizzato la pizza, provocato tutti, e regalato lo sfogo epico su Porto Ercole",
+    "comico": "Giacomo Dolfi - Per la battuta sui legumi che esplodono come i cercapersone",
+    "cuore": "Alessio Macaluso - Ha preso permesso per stare con gli amici e ha organizzato il compleanno",
+    "fantasma": "Alessio Valentini - 5 messaggi in 7 giorni, di cui meta' monosillabi"
+  }
+}

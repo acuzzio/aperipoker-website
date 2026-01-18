@@ -1,0 +1,110 @@
+{
+  "anno": 2024,
+  "settimana": 25,
+  "startDate": "2024-06-17",
+  "endDate": "2024-06-23",
+  "stats": {
+    "totalMessages": 39,
+    "activeMembers": 6,
+    "avgPerMember": 6.5
+  },
+  "riassunto": "Settimana rilassata dominata dai viaggi e dalle novità abitative. Cosimo si gode la vacanza dalla casa nuova, mentre Alessio V. manda foto spettacolari dal North Carolina, inclusa una casa sull'albero che ha fatto sognare tutti. Fausto ha scoperto Skibidi Toilet e ne è rimasto traumatizzato. Alessio M. ha pranzato con un pellegrino che ha camminato da Santiago a Gerusalemme. Settimana tranquilla ma con contenuti di qualità.",
+  "bestQuotes": [
+    {
+      "quote": "In verità in verità ti dico che siamo in vacanza",
+      "author": "Cosimo Nenciòni",
+      "context": "Risposta biblica alla domanda di Giacomo sulla casa nuova"
+    },
+    {
+      "quote": "Inutile dire che la casa sull albero è un livello di figaggine inarrivabile",
+      "author": "Cosimo Nenciòni",
+      "context": "L'invidia del gruppo per le avventure americane di Alessio V."
+    },
+    {
+      "quote": "Questa roba è completamente folle, disturbante, e il mondo mi fa paura",
+      "author": "Fausto Petrini",
+      "context": "La scoperta traumatica di Skibidi Toilet"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 7.0,
+      "giudizio": "Presente e reattivo, ha fatto da spalla perfetta alle foto di Alessio V. con esclamazioni di meraviglia sincere. Il suo 'Che goduria' per la bioedilizia è stato genuino.",
+      "messaggi": 9,
+      "mediaGiornaliera": 1.3,
+      "highlights": [
+        "Ha chiesto la foto della casa sull'albero",
+        "Ha apprezzato con entusiasmo i posti del North Carolina"
+      ],
+      "citazioneTop": "Ahhh.. bioedilizia"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 8.0,
+      "giudizio": "Settimana da protagonista nonostante la vacanza. Ha aperto con una risposta biblica memorabile, ha mostrato genuina invidia per la casa sull'albero, e alle 3 di notte era ancora a commentare i posti incredibili di Alessio V. Il suo 'Pensavo fosse Dulbecco' è stato il tocco di classe.",
+      "messaggi": 9,
+      "mediaGiornaliera": 1.3,
+      "highlights": [
+        "La risposta biblica sulla vacanza",
+        "L'apprezzamento sincero per i posti di Alessio V.",
+        "La battuta su Dulbecco"
+      ],
+      "citazioneTop": "In verità in verità ti dico che siamo in vacanza"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 8.5,
+      "giudizio": "MVP della settimana per i contenuti. Dal North Carolina ha condiviso foto della casa sull'albero, paesaggi mozzafiato, e pure una lezione di chimica su Roald Hoffmann. Ha fatto viaggiare il gruppo con lui, anche se solo virtualmente.",
+      "messaggi": 7,
+      "mediaGiornaliera": 1.0,
+      "highlights": [
+        "Le foto dal Chimney Rock State Park",
+        "La lezione sulle regole di Woodward-Hoffmann",
+        "Ha fatto sognare tutti con i colori autunnali"
+      ],
+      "citazioneTop": "dice che d'autunno questi posti diventino tutti gialli e rossi e sia MOSTRUOSO"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 6.5,
+      "giudizio": "Ha scoperto Skibidi Toilet e ne è uscito visibilmente scosso. Per il resto settimana tranquilla, ma il suo trauma esistenziale per i contenuti della Gen Z ci ha fatto tutti sorridere.",
+      "messaggi": 5,
+      "mediaGiornaliera": 0.7,
+      "highlights": [
+        "La scoperta traumatica di Skibidi Toilet",
+        "Ha spiegato qualcosa 'come a un bambino'"
+      ],
+      "citazioneTop": "Questa roba è completamente folle, disturbante, e il mondo mi fa paura"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 7.5,
+      "giudizio": "Lo zen master ha sorpreso tutti con un pranzo misterioso con un pellegrino Santiago-Gerusalemme. Ha commentato con la sua solita parsimonia ma sempre al punto. Il suo 'Baggio TVB' è stato il momento più emotivo della settimana.",
+      "messaggi": 7,
+      "mediaGiornaliera": 1.0,
+      "highlights": [
+        "Il pranzo con il pellegrino Bruno e Salam",
+        "La dichiarazione d'amore per Baggio"
+      ],
+      "citazioneTop": "Baggio TVB"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 5.5,
+      "giudizio": "Il Fondatore ha aperto la settimana con interesse sincero per la casa nuova di Cosimo, poi è sparito nel nulla. Due messaggi in tutta la settimana, da patriarca benevolo a fantasma occasionale.",
+      "messaggi": 2,
+      "mediaGiornaliera": 0.3,
+      "highlights": [
+        "Ha avviato la discussione sulla casa nuova di Cosimo"
+      ],
+      "citazioneTop": "Cocco come vanno i primi giorni in casa nuova?"
+    }
+  ],
+  "awards": {
+    "mvp": "Alessio Valentini",
+    "comico": "Cosimo Nenciòni",
+    "cuore": "Alessio Macalùso",
+    "fantasma": "Giacomo Dolfi"
+  }
+}

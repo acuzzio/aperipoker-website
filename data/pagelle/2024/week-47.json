@@ -1,0 +1,125 @@
+{
+  "anno": 2024,
+  "settimana": 47,
+  "startDate": "2024-11-18",
+  "endDate": "2024-11-24",
+  "stats": {
+    "totalMessages": 78,
+    "activeMembers": 6,
+    "avgPerMember": 13.0
+  },
+  "riassunto": "Settimana dominata da due temi: la disintossicazione dal caffe' e l'organizzazione della cena di gruppo dell'8 dicembre. Fausto apre il lunedi' annunciando il suo quinto giorno senza caffe', scatenando un simpatico botta e risposta di auto-aiuto. La seconda meta' della settimana si accende con la proposta della cena ufficiale, complicata dal rientro di Alessio V. dal Messico. Domenica esplode il latinorum: tutti si sfidano a colpi di proverbi latini, con Fausto che cita a sproposito e Alessio V. che traduce in latino perfetto. Chicca finale: Cosimo condivide foto a cavallo dopo 3 anni, e Giacomo sogna di risalire in sella 'con una scala'.",
+  "bestQuotes": [
+    {
+      "quote": "Ciao sono Fausto e sono un caffeinomane. Volevo dire a tutti che con oggi sono 5 giorni che non bevo caffè. Lo so, è un piccolo traguardo, ma sento che la fiducia cresce e che c'è la posso fare 24 ore alla volta. Grazie",
+      "author": "Fausto Petrini",
+      "context": "Apertura epica in stile Alcolisti Anonimi"
+    },
+    {
+      "quote": "Certe non est satis ius habere: oportet etiam aliquem qui tibi illud tribuat.",
+      "author": "Alessio Valentini",
+      "context": "Traduzione latina impeccabile di un aforisma di Fausto - livello nerd massimo"
+    },
+    {
+      "quote": "Asinus in cathedra",
+      "author": "Cosimo Nenciòni",
+      "context": "Risposta perfetta alla pioggia di citazioni latine altrui"
+    },
+    {
+      "quote": "Con una scala, ovviamente",
+      "author": "Giacomo Dolfi",
+      "context": "Autoironia suprema sul sogno di risalire a cavallo"
+    },
+    {
+      "quote": "Parli come quelli di casapound",
+      "author": "Alessio Macalùso",
+      "context": "Stoccata chirurgica a Fausto dopo l'ennesima citazione latina"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Fausto Petrini",
+      "voto": 8.5,
+      "giudizio": "MVP indiscusso della settimana. Apre lunedi' con un monologo da gruppo di auto-aiuto che fa scuola, poi si trasforma in Cicerone improvvisato sparando latinismi a caso. 'Nemo propheta in patria' usato completamente a sproposito e' arte pura. Instancabile anche alle 2:40 di notte per ricordare che il Ceccuzzi e' ancora fuori dal gruppo.",
+      "messaggi": 18,
+      "mediaGiornaliera": 2.6,
+      "highlights": [
+        "Il monologo del caffeinomane anonimo",
+        "La pioggia di citazioni latine (alcune sensate, altre no)",
+        "Proposta del nome 'Scatizzolamerda' per il cavallo di Cosimo"
+      ],
+      "citazioneTop": "Ciao sono Fausto e sono un caffeinomane"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 7.5,
+      "giudizio": "Maestro della sintesi come sempre. Entra nelle discussioni con domande secche ('Di che?', 'Novembre?') che smontano qualsiasi entusiasmo altrui, poi chiude la domenica con 'Asinus in cathedra' che vale piu' di cento messaggi. Le foto a cavallo dopo 3 anni sono un momento di gloria inaspettato.",
+      "messaggi": 13,
+      "mediaGiornaliera": 1.9,
+      "highlights": [
+        "Il fatidico 'Arcazzo' alla scoperta che la cena e' a dicembre",
+        "Ritorno a cavallo dopo 3 anni con relative foto bucoliche",
+        "'Asinus in cathedra' come risposta definitiva al latinorum"
+      ],
+      "citazioneTop": "Asinus in cathedra"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 7.5,
+      "giudizio": "Il giramondo colpisce ancora: tra jet lag, aerei persi a Parigi e 17 ore di viaggio, riesce comunque a partecipare attivamente. Momento di gloria assoluta quando traduce in latino perfetto l'aforisma di Fausto, dimostrando che il liceo classico serve a qualcosa. L'entusiasmo per le salsicce di Cosimo e' genuino e contagioso.",
+      "messaggi": 12,
+      "mediaGiornaliera": 1.7,
+      "highlights": [
+        "La traduzione latina impeccabile che zittisce tutti",
+        "Il racconto delle peripezie aeree Messico-Firenze",
+        "'PASQUALE E' IL MIGLIORE' sparato a caso nel mezzo della discussione"
+      ],
+      "citazioneTop": "Certe non est satis ius habere: oportet etiam aliquem qui tibi illud tribuat"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 7.0,
+      "giudizio": "Si prende il ruolo di organizzatore della cena con la calma zen che lo contraddistingue. Tenta di mettere d'accordo tutti sull'8 dicembre, poi si arrende con un filosofico 'Vabbè si fa quando va bene a tutti'. La stoccata 'Parli come quelli di casapound' a Fausto e' perfettamente calibrata. Unica sbavatura: la correzione sbagliata del latino ('*Orae') immediatamente ritirata.",
+      "messaggi": 11,
+      "mediaGiornaliera": 1.6,
+      "highlights": [
+        "L'organizzazione diplomatica della cena impossibile",
+        "La stoccata su Casapound che ha fatto ridere tutti",
+        "'Ormai zio sei pronto per il palio' a Cosimo cavaliere"
+      ],
+      "citazioneTop": "Parli come quelli di casapound"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 6.5,
+      "giudizio": "Sorprendentemente contenuto per i suoi standard, ma incisivo quando interviene. Risponde al monologo di Fausto con un elegante 'Ciao sono Adriano, e non bevo caffe' da maggio del 2024' che stabilisce la gerarchia. Chiude la domenica con commenti sulle foto e un link sulla gaffe di Matano che nessuno aveva chiesto ma tutti hanno apprezzato.",
+      "messaggi": 12,
+      "mediaGiornaliera": 1.7,
+      "highlights": [
+        "La risposta competitiva al monologo del caffe'",
+        "Il link random su Matano e il lupo",
+        "'Ho riconosciuto il parco delle cascine' - ovviamente scherzava"
+      ],
+      "citazioneTop": "Ciao sono Adriano, e non bevo caffè da maggio del 2024"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 7.0,
+      "giudizio": "Il Fondatore veglia sul gruppo con interventi mirati e spesso esilaranti. Apre con 'Adriano batte Fausto 2 a 1' fraintendendo completamente lo spirito dell'auto-aiuto, poi si riscatta con 'Mala tempora currunt' nel momento giusto. Il sogno di risalire a cavallo 'con una scala' e' pura poesia autoironica.",
+      "messaggi": 12,
+      "mediaGiornaliera": 1.7,
+      "highlights": [
+        "Il punteggio caffe' che manda Fausto in crisi",
+        "'Mala tempora currunt' perfettamente piazzato",
+        "L'autoironia sulla scala per salire a cavallo"
+      ],
+      "citazioneTop": "Con una scala, ovviamente"
+    }
+  ],
+  "awards": {
+    "mvp": "Fausto Petrini - Ha dato il tono alla settimana con il monologo del caffeinomane e l'ha chiusa da Cicerone de noantri",
+    "comico": "Giacomo Dolfi - 'Con una scala, ovviamente' e' la battuta della settimana",
+    "cuore": "Alessio Macalùso - Ha provato a organizzare la cena impossibile con pazienza buddista",
+    "fantasma": "Federico Ceccuzzi - Citato da Fausto come 'quello che non ha passato le prove', ma ancora fuori dal gruppo nel 2024"
+  }
+}

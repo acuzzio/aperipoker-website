@@ -1,0 +1,124 @@
+{
+  "anno": 2024,
+  "settimana": 48,
+  "startDate": "2024-11-25",
+  "endDate": "2024-12-01",
+  "stats": {
+    "totalMessages": 69,
+    "activeMembers": 6,
+    "avgPerMember": 11.5
+  },
+  "riassunto": "Settimana tranquilla ma ricca di spunti. Fausto confessa la sua ricaduta nella dipendenza da caffe ('Troppo difficile, casco in terra dal sonno') e lancia una discussione apocalittica sull'AI-Gesu che viene liquidata in due parole da Alessio Mac ('No') e Cosimo ('Me pare un'idiozia'). Alessio Vale manda foto dalla spiaggia delle Bahamas e viene preso in giro per il suo pallore abbagliante. Adriano e' in Sicilia per il compleanno della suocera e scopre un bar aperto h24 - vera meraviglia. Cosimo esulta per la prima vittoria stagionale del figlio ('Festeggiamenti che nemmeno dopo la finale di coppa del mondo'). La settimana si chiude con Alessio Mac che lancia il sondaggio per la cena Aperipoker di dicembre.",
+  "bestQuotes": [
+    {
+      "quote": "Male. Ho avuto una ricaduta. Ma mi sto contenendo a uno max due al giorno",
+      "author": "Fausto Petrini",
+      "context": "Fausto confessa la sua dipendenza da caffe come fosse una tossicodipendenza vera"
+    },
+    {
+      "quote": "Sei di una bellezza abbagliante. Oltre ad essere abbagliante",
+      "author": "Cosimo Nenciòni",
+      "context": "Complimento sarcastico ad Alessio Vale bianchissimo sulla spiaggia tropicale"
+    },
+    {
+      "quote": "Il mondo brucia e noi danzeremo sulle sue ceneri",
+      "author": "Fausto Petrini",
+      "context": "Commento apocalittico sull'articolo del Gesu-AI, ignorato da tutti"
+    },
+    {
+      "quote": "Di qualcosa bisogna pure eccitarsi, caro mac",
+      "author": "Fausto Petrini",
+      "context": "Risposta filosofica ad Alessio Mac che lo accusava di essere troppo eccitato per il Gesu-AI"
+    },
+    {
+      "quote": "Prima vittoria dell'anno. A dicembre. Festeggiamenti che nemmeno dopo la finale di coppa del mondo",
+      "author": "Cosimo Nenciòni",
+      "context": "Cosimo celebra ironicamente la prima vittoria della squadra del figlio"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 8.5,
+      "giudizio": "Il maestro del sarcasmo ha dominato la settimana con interventi chirurgici e battute taglienti. Ha liquidato il delirio AI-Gesu di Fausto con 'Me pare un'idiozia', ha preso in giro Alessio Vale per il pallore caraibico ('Sei di una bellezza abbagliante'), e ha chiuso con l'autoironia sulla prima vittoria stagionale del figlio. Sveglio alle 2 di notte a ridere dei video di Alessio: presenza costante e sempre sul pezzo.",
+      "messaggi": 20,
+      "mediaGiornaliera": 2.9,
+      "highlights": [
+        "Ha smontato la teoria apocalittica di Fausto in tre parole",
+        "Battute perfette sul pallore di Alessio Vale alle Bahamas",
+        "Autoironia sulla prima vittoria stagionale del figlio a dicembre"
+      ],
+      "citazioneTop": "Sei di una bellezza abbagliante. Oltre ad essere abbagliante"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 7.5,
+      "giudizio": "Il trascinatore questa settimana ha oscillato tra confessioni da tossicodipendente del caffe e visioni apocalittiche sull'AI-Gesu. Ha condiviso link, meme, recensioni di ristoranti (Osteria Libera Tutti al Braccio, promossa!) e ha provato a stimolare discussioni filosofiche che nessuno ha raccolto. Il 'Di qualcosa bisogna pure eccitarsi, caro mac' e' un manifesto esistenziale.",
+      "messaggi": 17,
+      "mediaGiornaliera": 2.4,
+      "highlights": [
+        "Ha ammesso la ricaduta nella dipendenza da caffe come fosse l'alcolismo",
+        "Ha lanciato dibattito sull'AI-Gesu ignorato da tutti",
+        "Ha recensito positivamente l'Osteria Libera Tutti"
+      ],
+      "citazioneTop": "Il mondo brucia e noi danzeremo sulle sue ceneri"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 7.0,
+      "giudizio": "Il re della chat questa settimana era in trasferta siciliana per il compleanno della suocera. Ha scoperto un bar h24 ('Non ci potevo credere') e ha tenuto informato il gruppo sui suoi spostamenti. Contributi puntuali ma meno dominanti del solito - l'aria sicula lo ha rilassato. Il commento sul 'comodissimo porta oggetti acquatico' di Alessio vale era perfetto.",
+      "messaggi": 17,
+      "mediaGiornaliera": 2.4,
+      "highlights": [
+        "Ha scoperto un bar ristorante aperto h24 in Sicilia",
+        "Ha commentato con precisione chirurgica la foto di Alessio Vale",
+        "Si e' goduto la vacanza siciliana con la famiglia allargata"
+      ],
+      "citazioneTop": "Anche se sembra palesemente una fica, mi vorrei soffermare sul comodissimo porta oggetti acquatico che hai al collo"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 7.0,
+      "giudizio": "Il giramondo dalle Bahamas ha mandato foto da sogno (location: atollo nel nulla) facendosi prendere in giro per il pallore nordico sulla sabbia tropicale. 'Mmm mo ce penso' sulla battuta di pesca ai Marlin blu - la vita del nomade digitale in una frase. Pochi messaggi ma di qualita', come la sua abbronzatura.",
+      "messaggi": 7,
+      "mediaGiornaliera": 1.0,
+      "highlights": [
+        "Ha condiviso location esotica delle Bahamas",
+        "Ha scatenato una serie di battute sul suo pallore",
+        "Ha promesso di fare pesca ai Marlin (probabilmente no)"
+      ],
+      "citazioneTop": "io ne ho cosi tante oggi che non so da dove cominciare"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 6.5,
+      "giudizio": "Lo zen master ha colpito con precisione millimetrica: il suo 'No' alla domanda di Fausto sull'AI-Gesu vale piu' di mille parole. Ha accusato Fausto di essere 'parecchio eccitato' e ha lanciato il sondaggio per la cena Aperipoker. Economia delle parole portata all'estremo, ma ogni messaggio conta.",
+      "messaggi": 7,
+      "mediaGiornaliera": 1.0,
+      "highlights": [
+        "Ha liquidato il delirio AI di Fausto con un secco 'No'",
+        "Ha lanciato il sondaggio per la cena Aperipoker di dicembre",
+        "Ha riconosciuto le 'zone sue' vedendo le foto del Braccio"
+      ],
+      "citazioneTop": "Mi sembri parecchio eccitato di questa cosa"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 5.0,
+      "giudizio": "Il Lider questa settimana era in modalita' fantasma. Un solo messaggio per commentare la partita del figlio di Cosimo ('ti posso garantire che fanno bene a festeggiare'), ma almeno era un contributo utile e ironico. Settimana di letargo per il fondatore, ma quando parla sa sempre cosa dire.",
+      "messaggi": 1,
+      "mediaGiornaliera": 0.1,
+      "highlights": [
+        "Unico messaggio ma perfettamente calibrato",
+        "Ha confermato che la squadra del figlio di Cosimo fa bene a festeggiare"
+      ],
+      "citazioneTop": "ti posso garantire che fanno bene a festeggiare"
+    }
+  ],
+  "awards": {
+    "mvp": "Cosimo Nenciòni - Interventi chirurgici, sarcasmo perfetto, e autoironia sulla prima vittoria del figlio",
+    "comico": "Cosimo Nenciòni - 'Sei di una bellezza abbagliante. Oltre ad essere abbagliante' e' poesia",
+    "cuore": "Fausto Petrini - Ha condiviso la sua lotta con la dipendenza da caffe come fosse una confessione",
+    "fantasma": "Giacomo Dolfi - Un messaggio in tutta la settimana, ma almeno era buono"
+  }
+}

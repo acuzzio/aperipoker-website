@@ -1,0 +1,119 @@
+{
+  "anno": 2024,
+  "settimana": 19,
+  "startDate": "2024-05-06",
+  "endDate": "2024-05-12",
+  "stats": {
+    "totalMessages": 91,
+    "activeMembers": 6,
+    "avgPerMember": 15.2
+  },
+  "riassunto": "Settimana storica per il gruppo: Alessio V. ha finalmente ottenuto la Green Card americana, scatenando congratulazioni e battute sulla sua nuova cittadinanza. Si parte con l'arresto di Toti e le invettive politiche di Adriano, si passa per il fallito tentativo di Fausto di organizzare una serata (casa Petrini rimane vuota), e si chiude con la celebrazione del giramondo che ora puo' entrare e uscire dagli USA a piacimento. Nel mezzo, memorabili battute sul 'Ducato' Chiara Madioni e la domanda filosofica di Cosimo: 'Stai cagando?'",
+  "bestQuotes": [
+    {
+      "quote": "Mi e' appena passata a fianco Chiara Madioni. Ho provato la stessa sensazione di quando ti passa accanto sui i binari un freccia rossa che passa senza fermarsi. Praticamente e' diventata un Ducato.",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Avvistamento mattutino con paragone automobilistico memorabile"
+    },
+    {
+      "quote": "Da oggi non potro' piu' dire con leggerezza che gli americani sono tutti scemi. Lo diro' lo stesso, ma con meno leggerezza",
+      "author": "Fausto Petrini",
+      "context": "Congratulazioni per la Green Card di Alessio V."
+    },
+    {
+      "quote": "Stai cagando?",
+      "author": "Cosimo Nenciòni",
+      "context": "Risposta alle 5 di mattina a Fausto che condivide un articolo del Post"
+    },
+    {
+      "quote": "Avrai dovuto dare il culo ma alla fine l'hai spuntata",
+      "author": "Cosimo Nenciòni",
+      "context": "Complimenti a modo suo per la Green Card"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Alessio Valentini",
+      "voto": 9.0,
+      "giudizio": "Protagonista assoluto della settimana con l'annuncio della Green Card. Ha condiviso con il gruppo un momento importante della sua vita americana, rispondendo alle domande con la solita schiettezza ('lunga storia, per un'altra volta'). Tra 'buongiorno a Pasquale', ricordi affettuosi sulla Madioni e racconti sulle minacce del boss, ha tenuto banco con stile.",
+      "messaggi": 21,
+      "mediaGiornaliera": 3.0,
+      "highlights": [
+        "GREEN CARD ottenuta - momento storico",
+        "Racconto delle vicissitudini con il visto e il boss minaccioso",
+        "Affetto per Chiara Madioni nonostante il 'Ducato'"
+      ],
+      "citazioneTop": "e soprattutto il mio boss, chiunque sia, non puo' minacciarmi di buttarmi fuori dagli states"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 7.5,
+      "giudizio": "Il fiume in piena ha aperto la settimana con l'arresto di Toti ('Finalmente... Qualche faccia di merda che viene arrestato') e l'ha ravvivata con il leggendario paragone Madioni-Ducato. Quando non invoca l'estinzione degli americani, regala perle di saggezza automobilistica.",
+      "messaggi": 20,
+      "mediaGiornaliera": 2.9,
+      "highlights": [
+        "Breaking news su Toti con commento colorito",
+        "Paragone Chiara Madioni = Ducato (instant classic)",
+        "Auguri di estinzione agli americani (eccetto Alessio V.)"
+      ],
+      "citazioneTop": "Mi e' appena passata a fianco Chiara Madioni. Ho provato la stessa sensazione di quando ti passa accanto sui i binari un freccia rossa che passa senza fermarsi. Praticamente e' diventata un Ducato."
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 7.0,
+      "giudizio": "L'organizzatore frustrato ha provato a mettere in piedi una serata sabato ('casa Petrini e' aperta con tutti i confort'), ma tra mancanza di macchina e treni da prendere si e' rimangiato tutto. Ha condiviso un articolo alle 5 di mattina (pausa cacca consigliata) e ha congratulato Alessio V. con la battuta della settimana sugli americani.",
+      "messaggi": 18,
+      "mediaGiornaliera": 2.6,
+      "highlights": [
+        "Tentativo fallito di organizzare serata sabato",
+        "Condivisione articolo del Post alle 5 di mattina",
+        "Battuta memorabile sugli americani per la Green Card"
+      ],
+      "citazioneTop": "Da oggi non potro' piu' dire con leggerezza che gli americani sono tutti scemi. Lo diro' lo stesso, ma con meno leggerezza"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 8.0,
+      "giudizio": "Il maestro del tempismo colpisce ancora. 'Stai cagando?' alle 5 di mattina a Fausto che condivide articoli e' da incorniciare. Ha poi dominato la discussione Ducato/Ducati con precisione chirurgica, e i complimenti per la Green Card ('Avrai dovuto dare il culo') sono stati un capolavoro di affetto e sarcasmo.",
+      "messaggi": 14,
+      "mediaGiornaliera": 2.0,
+      "highlights": [
+        "Battuta 'Stai cagando?' perfetta",
+        "Distinzione Ducato/Ducati da vero intenditore",
+        "Complimenti Green Card memorabili"
+      ],
+      "citazioneTop": "Avrai dovuto dare il culo ma alla fine l'hai spuntata"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 7.0,
+      "giudizio": "Lo zen master ha fatto la sua parte con interventi mirati. Ha invitato Fausto a cena a Siena (rifiutato), ha echeggiato 'La Troia' in perfetta sincronia con Cosimo, e ha posto domande esistenziali ('Che avevi fatto di male?', 'Il solito qualunquismo'). Pesca inclusa nel weekend.",
+      "messaggi": 14,
+      "mediaGiornaliera": 2.0,
+      "highlights": [
+        "Invito a cena a Siena (non accettato)",
+        "Reazione in coro con Cosimo su 'La Troia'",
+        "Weekend a pesca con amici"
+      ],
+      "citazioneTop": "Il solito qualunquismo"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 5.5,
+      "giudizio": "Il fondatore ha presidiato la chat con parsimonia. Un 'Ecco chi legge Repubblica' perfido ad Adriano, le scuse a Fausto per Milano, e un 'Grandi!!!!' sentito per la Green Card. Poche parole ma al momento giusto. Il giretto in bici prima del Giro d'Italia e' molto da Lider.",
+      "messaggi": 4,
+      "mediaGiornaliera": 0.6,
+      "highlights": [
+        "Frecciata a Repubblica/Adriano",
+        "Supporto per la Green Card"
+      ],
+      "citazioneTop": "Ecco chi legge Repubblica"
+    }
+  ],
+  "awards": {
+    "mvp": "Alessio Valentini - Green Card conquistata, settimana sua",
+    "comico": "Cosimo Nenciòni - 'Stai cagando?' e 'Avrai dovuto dare il culo' sono arte",
+    "cuore": "Fausto Petrini - Ha provato a organizzare e ha fatto i complimenti piu' belli",
+    "fantasma": "Giacomo Dolfi - Solo 4 messaggi, ma almeno erano centrati"
+  }
+}

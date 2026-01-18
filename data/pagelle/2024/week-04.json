@@ -1,0 +1,111 @@
+{
+  "anno": 2024,
+  "settimana": 4,
+  "startDate": "2024-01-22",
+  "endDate": "2024-01-28",
+  "stats": {
+    "totalMessages": 36,
+    "activeMembers": 6,
+    "avgPerMember": 6.0
+  },
+  "riassunto": "Settimana dominata dall'annuncio bomba di Alessio M.: ha comprato un Maggiolino nero del 2017. Il gruppo si e' scatenato con domande sul prezzo (12500 euro), sul tettuccio (no), e consigli stilistici (strisce tipo Herbie). Fausto aveva proposto una serata per il 23 ma alla fine e' rimasto solo - classico. Settimana corta ma intensa, con un unico grande topic che ha unito tutti.",
+  "bestQuotes": [
+    {
+      "quote": "Ho comprato la macchina",
+      "author": "Alessio Macalùso",
+      "context": "L'annuncio che ha acceso la settimana"
+    },
+    {
+      "quote": "Che vuoi sapere quanto l'ha pagata ?",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Adriano anticipa le curiosita' di tutti con la sua solita franchezza"
+    },
+    {
+      "quote": "Mi garba mucho",
+      "author": "Cosimo Nenciòni",
+      "context": "Approvazione in stile Cosimo: sintetica ma efficace"
+    },
+    {
+      "quote": "Va bene, sara' un tet a tet",
+      "author": "Fausto Petrini",
+      "context": "La rassegnazione di Fausto quando tutti danno buca"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Alessio Macalùso",
+      "voto": 8.5,
+      "giudizio": "Il Maggiolino Man della settimana. Ha monopolizzato la conversazione con il suo acquisto e ha risposto a tutte le domande con la sua tipica calma zen. Tre messaggi per annunciare ('Ho comprato la macchina', 'Maggiolino nero', 'Molto elegante') come fosse una rivelazione divina in tre atti. Poi ha dato buca a Fausto per la serata, ma ehi, aveva una macchina nuova da ammirare.",
+      "messaggi": 15,
+      "mediaGiornaliera": 2.1,
+      "highlights": [
+        "Protagonista assoluto con l'annuncio del Maggiolino",
+        "Ha condiviso dettagli tecnici ed economici con il gruppo"
+      ],
+      "citazioneTop": "Maggiolino nero. Molto elegante."
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 7.5,
+      "giudizio": "Il solito fiume in piena, ma questa volta incanalato su un unico argomento: la macchina di Alessio. Ha fatto le domande che tutti volevano fare (prezzo, foto, tettuccio) e ha dispensato consigli non richiesti sul tettuccio apribile. La sua frase 'Che vuoi sapere quanto l'ha pagata?' e' puro Adriano: diretto al punto senza giri di parole.",
+      "messaggi": 10,
+      "mediaGiornaliera": 1.4,
+      "highlights": [
+        "Curioso cronico: ha chiesto foto tre volte",
+        "Ha condiviso la sua esperienza sul tettuccio inutile"
+      ],
+      "citazioneTop": "Tanto non serve a nulla. Nella mia c'e' e mi da solo fastidio"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 7.0,
+      "giudizio": "Ha provato a organizzare una serata ed e' finito solo. Storia di sempre. Pero' si e' ripreso con un suggerimento geniale: 'Mettici le strisce tipo Erbie'. Il riferimento al Maggiolino tutto matto dimostra che il suo spirito propositivo non muore mai, nemmeno quando viene puntualmente ignorato dal gruppo.",
+      "messaggi": 6,
+      "mediaGiornaliera": 0.9,
+      "highlights": [
+        "Ha proposto l'idea delle strisce alla Herbie",
+        "Non si e' arreso nonostante l'ennesima buca collettiva"
+      ],
+      "citazioneTop": "Mettici le strisce tipo erbie"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 6.5,
+      "giudizio": "Il Fondatore ha parlato e ha fatto la domanda giusta: perche' tenere anche la macchina vecchia? Due messaggi, ma entrambi pertinenti. La sua presenza e' stata breve ma significativa, come quella di un saggio che interviene solo quando ha qualcosa di sensato da dire.",
+      "messaggi": 2,
+      "mediaGiornaliera": 0.3,
+      "highlights": [
+        "Domanda perspicace sulla doppia macchina"
+      ],
+      "citazioneTop": "Perche' pensi di tenere quella vecchia?"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 6.5,
+      "giudizio": "Efficienza svizzera: due messaggi per dire tutto quello che c'era da dire. 'Bella alecs' e 'Mi garba mucho'. Piu' di cosi' che vuoi? Ha espresso apprezzamento in modo conciso e bilingue. Settimana da minimalista, ma quando parli poco ogni parola conta doppio.",
+      "messaggi": 2,
+      "mediaGiornaliera": 0.3,
+      "highlights": [
+        "Complimenti bilingui: italiano-spagnolo"
+      ],
+      "citazioneTop": "Mi garba mucho"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 5.5,
+      "giudizio": "Un messaggio, ma che messaggio: 'congratulations!!!' con emoji festosi. Il giramondo ha fatto capolino dal suo angolo di mondo per celebrare l'amico e poi e' sparito di nuovo. Probabilmente aveva internet di merda. O dormiva. O entrambe le cose.",
+      "messaggi": 1,
+      "mediaGiornaliera": 0.1,
+      "highlights": [
+        "Congratulazioni festose dall'estero"
+      ],
+      "citazioneTop": "congratulations!!!"
+    }
+  ],
+  "awards": {
+    "mvp": "Alessio Macalùso - Il suo Maggiolino ha dato vita alla settimana",
+    "comico": "Fausto Petrini - L'idea delle strisce alla Herbie e' da applausi",
+    "cuore": "Adriano Sergio Lorenzo Facchini - Genuinamente interessato alla macchina dell'amico",
+    "fantasma": "Alessio Valentini - Un solo messaggio e poi silenzio cosmico"
+  }
+}
