@@ -12,7 +12,7 @@
         <ul class="nav-links">
             <li><a href="../index.html">Home</a></li>
             <li><a href="classifica.html">Classifica</a></li>
-            <li><a href="pagelle.html" class="active">Pagelle 2026</a></li>
+            <li><a href="pagelle.html" class="active">Pagelle</a></li>
             <li><a href="best-of.html">Best Of</a></li>
             <li><a href="membri.html">Membri</a></li>
             <li><a href="archivio.html">Archivio</a></li>
@@ -22,26 +22,86 @@
 
     <main class="container">
         <header class="page-header">
-            <h1>Pagelle Settimanali 2026</h1>
+            <h1>Pagelle Settimanali</h1>
             <p>Giudizi imparziali* sulla settimana appena trascorsa</p>
             <small>*imparzialità non garantita</small>
         </header>
 
+        <!-- Year selector -->
+        <section class="year-selector-section">
+            <label for="pagelle-year-select">Seleziona anno:</label>
+            <select id="pagelle-year-select" class="year-select">
+                <option value="2026">2026 (in corso)</option>
+                <option value="2025">2025</option>
+                <option value="2024">2024</option>
+                <option value="2023">2023</option>
+                <option value="2022">2022</option>
+                <option value="2021">2021</option>
+                <option value="2020">2020</option>
+                <option value="2019">2019</option>
+            </select>
+        </section>
+
+        <!-- Cumulative stats -->
+        <section class="cumulative-stats-section">
+            <h2>Classifica Annuale <span id="cumulative-year-label">2026</span></h2>
+            <p class="section-subtitle">Media voti cumulativa di tutte le settimane</p>
+            <div class="cumulative-grid" id="cumulative-grid">
+                <div class="loading">Caricamento statistiche...</div>
+            </div>
+        </section>
+
+        <!-- Week selector -->
         <section class="week-selector">
             <button id="prev-week" class="btn">&larr; Settimana precedente</button>
             <span id="current-week">Settimana corrente</span>
             <button id="next-week" class="btn">Settimana successiva &rarr;</button>
         </section>
 
+        <!-- Week stats mini -->
+        <section class="week-stats-mini" id="week-stats-mini">
+            <div class="stat-mini">
+                <span class="stat-mini-value" id="week-total-msgs">-</span>
+                <span class="stat-mini-label">Messaggi</span>
+            </div>
+            <div class="stat-mini">
+                <span class="stat-mini-value" id="week-active-members">-</span>
+                <span class="stat-mini-label">Membri attivi</span>
+            </div>
+            <div class="stat-mini">
+                <span class="stat-mini-value" id="week-avg-per-member">-</span>
+                <span class="stat-mini-label">Media/membro</span>
+            </div>
+        </section>
+
         <section class="pagelle-grid" id="pagelle-grid">
-            <!-- Popolato da JS con dati da data/pagelle.json -->
+            <!-- Popolato da JS con dati da data/pagelle/*.json -->
             <div class="loading">Caricamento pagelle...</div>
         </section>
 
         <section class="week-summary" id="week-summary">
             <h2>Riassunto della Settimana</h2>
             <div class="summary-content">
-                <!-- Generato dall'agente pagelle -->
+                <!-- Generato da JS -->
+            </div>
+        </section>
+
+        <!-- Year summary -->
+        <section class="year-summary-section" id="year-summary-section">
+            <h2>Statistiche Anno <span id="year-summary-label">2026</span></h2>
+            <div class="year-summary-grid">
+                <div class="year-summary-stat">
+                    <span class="year-summary-value" id="year-total-weeks">-</span>
+                    <span class="year-summary-label">Settimane</span>
+                </div>
+                <div class="year-summary-stat">
+                    <span class="year-summary-value" id="year-best-performer">-</span>
+                    <span class="year-summary-label">Miglior media</span>
+                </div>
+                <div class="year-summary-stat">
+                    <span class="year-summary-value" id="year-highest-voto">-</span>
+                    <span class="year-summary-label">Voto più alto</span>
+                </div>
             </div>
         </section>
     </main>

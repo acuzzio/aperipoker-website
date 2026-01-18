@@ -10,13 +10,14 @@ Output:
     - data/stats.json: Statistiche generali (da 2026)
     - data/classifica.json: Classifica per attività (da 2026)
     - data/anni/*.json: Statistiche per ogni anno (2019-2026)
+    - data/pagelle/*.json: Pagelle settimanali per ogni anno
     - data/raw_messages_*.json: Messaggi per anno
 """
 
 import re
 import json
 import sys
-from datetime import datetime
+from datetime import datetime, timedelta
 from collections import defaultdict
 from pathlib import Path
 import calendar
@@ -323,6 +324,164 @@ def generate_year_data(messages, year, all_years_stats):
     }
 
 
+def get_week_start(dt):
+    """Restituisce il lunedì della settimana per una data."""
+    return dt - timedelta(days=dt.weekday())
+
+
+def generate_pagelle_for_year(messages, year):
+    """Genera pagelle settimanali per un anno."""
+    year_messages = [m for m in messages if m['year'] == year]
+
+    if not year_messages:
+        return None
+
+    # Raggruppa messaggi per settimana
+    weeks = defaultdict(list)
+    for msg in year_messages:
+        dt = datetime.fromisoformat(msg['timestamp'])
+        week_start = get_week_start(dt)
+        week_key = week_start.strftime('%Y-%m-%d')
+        weeks[week_key].append(msg)
+
+    # Ordina settimane
+    sorted_weeks = sorted(weeks.keys())
+
+    # Genera pagelle per ogni settimana
+    pagelle_weeks = []
+    member_cumulative = defaultdict(lambda: {
+        'totalVoti': 0,
+        'votiCount': 0,
+        'totalMessaggi': 0,
+        'bestVoto': 0,
+        'worstVoto': 10,
+        'bestWeek': None,
+        'worstWeek': None,
+    })
+
+    for week_key in sorted_weeks:
+        week_msgs = weeks[week_key]
+        week_start = datetime.strptime(week_key, '%Y-%m-%d')
+        week_end = week_start + timedelta(days=6)
+
+        # Conta messaggi per membro questa settimana
+        member_counts = defaultdict(int)
+        for msg in week_msgs:
+            member_counts[msg['author']] += 1
+
+        if not member_counts:
+            continue
+
+        # Calcola statistiche settimana
+        total_week_msgs = sum(member_counts.values())
+        max_msgs = max(member_counts.values())
+        avg_msgs = total_week_msgs / len(member_counts) if member_counts else 0
+        days_in_week = min(7, (datetime.now() - week_start).days + 1) if year == datetime.now().year else 7
+
+        # Genera pagelle per ogni membro attivo
+        week_pagelle = []
+        for name, count in sorted(member_counts.items(), key=lambda x: -x[1]):
+            # Calcola voto basato su attività relativa
+            # Media = 6, sopra media = bonus, top = 8+
+            if max_msgs > 0:
+                relative_activity = count / max_msgs
+                if count == max_msgs:
+                    base_voto = 8.0 + (count / 50) * 0.5  # Bonus per volume
+                elif relative_activity > 0.5:
+                    base_voto = 7.0 + relative_activity
+                elif relative_activity > 0.2:
+                    base_voto = 6.0 + relative_activity * 2
+                else:
+                    base_voto = 5.0 + relative_activity * 5
+            else:
+                base_voto = 6.0
+
+            voto = round(min(10, max(4, base_voto)), 1)
+            media_giornaliera = round(count / days_in_week, 1)
+
+            # Giudizio automatico basato su stats
+            if voto >= 8:
+                giudizio = f"Settimana dominante con {count} messaggi. Protagonista assoluto."
+            elif voto >= 7:
+                giudizio = f"Buona presenza nel gruppo con {count} messaggi. Partecipazione attiva."
+            elif voto >= 6:
+                giudizio = f"Settimana nella media con {count} messaggi. Presente ma non protagonista."
+            elif voto >= 5:
+                giudizio = f"Settimana sottotono con solo {count} messaggi. Si può fare di più."
+            else:
+                giudizio = f"Quasi assente con {count} messaggi. In letargo?"
+
+            week_pagelle.append({
+                'name': name,
+                'voto': voto,
+                'giudizio': giudizio,
+                'messaggi': count,
+                'mediaGiornaliera': media_giornaliera,
+            })
+
+            # Aggiorna cumulativo
+            cum = member_cumulative[name]
+            cum['totalVoti'] += voto
+            cum['votiCount'] += 1
+            cum['totalMessaggi'] += count
+            if voto > cum['bestVoto']:
+                cum['bestVoto'] = voto
+                cum['bestWeek'] = week_key
+            if voto < cum['worstVoto']:
+                cum['worstVoto'] = voto
+                cum['worstWeek'] = week_key
+
+        # Ordina per voto
+        week_pagelle.sort(key=lambda x: -x['voto'])
+
+        # Awards settimanali
+        mvp = week_pagelle[0]['name'] if week_pagelle else None
+        fantasma = week_pagelle[-1]['name'] if week_pagelle else None
+
+        pagelle_weeks.append({
+            'startDate': week_key,
+            'endDate': week_end.strftime('%Y-%m-%d'),
+            'pagelle': week_pagelle,
+            'riassunto': f"Settimana con {total_week_msgs} messaggi totali. {len(member_counts)} membri attivi.",
+            'awards': {
+                'mvp': mvp,
+                'chiacchierone': mvp,
+                'fantasma': fantasma,
+            },
+            'stats': {
+                'totalMessages': total_week_msgs,
+                'activeMembers': len(member_counts),
+                'avgPerMember': round(avg_msgs, 1),
+            }
+        })
+
+    # Calcola statistiche cumulative
+    cumulative_stats = []
+    for name, cum in member_cumulative.items():
+        if cum['votiCount'] > 0:
+            cumulative_stats.append({
+                'name': name,
+                'mediaVoto': round(cum['totalVoti'] / cum['votiCount'], 2),
+                'totalMessaggi': cum['totalMessaggi'],
+                'settimaneAttive': cum['votiCount'],
+                'bestVoto': cum['bestVoto'],
+                'worstVoto': cum['worstVoto'],
+                'bestWeek': cum['bestWeek'],
+                'worstWeek': cum['worstWeek'],
+            })
+
+    # Ordina per media voto
+    cumulative_stats.sort(key=lambda x: -x['mediaVoto'])
+
+    return {
+        'year': year,
+        'weeks': pagelle_weeks,
+        'cumulative': cumulative_stats,
+        'totalWeeks': len(pagelle_weeks),
+        'generatedAt': datetime.now().isoformat(),
+    }
+
+
 def main():
     if len(sys.argv) < 2:
         print("Uso: python parse_whatsapp.py <path_to_chat.txt>")
@@ -387,6 +546,36 @@ def main():
             'generatedAt': datetime.now().isoformat(),
         }, f, indent=2, ensure_ascii=False)
     print(f"Salvato: anni-overview.json")
+
+    # Genera pagelle per ogni anno
+    print("\n--- Generazione pagelle settimanali ---")
+    pagelle_dir = data_dir / 'pagelle'
+    pagelle_dir.mkdir(exist_ok=True)
+
+    pagelle_overview = []
+    for year in years:
+        pagelle_data = generate_pagelle_for_year(messages, year)
+        if pagelle_data and pagelle_data['weeks']:
+            # Salva pagelle anno
+            with open(pagelle_dir / f'{year}.json', 'w', encoding='utf-8') as f:
+                json.dump(pagelle_data, f, indent=2, ensure_ascii=False)
+            print(f"  Salvato: pagelle/{year}.json ({pagelle_data['totalWeeks']} settimane)")
+
+            # Top 3 per media voto
+            top3 = pagelle_data['cumulative'][:3] if pagelle_data['cumulative'] else []
+            pagelle_overview.append({
+                'year': year,
+                'totalWeeks': pagelle_data['totalWeeks'],
+                'topPerformers': [{'name': p['name'], 'mediaVoto': p['mediaVoto']} for p in top3],
+            })
+
+    # Salva pagelle overview
+    with open(data_dir / 'pagelle-overview.json', 'w', encoding='utf-8') as f:
+        json.dump({
+            'years': pagelle_overview,
+            'generatedAt': datetime.now().isoformat(),
+        }, f, indent=2, ensure_ascii=False)
+    print(f"Salvato: pagelle-overview.json")
 
     # Separa per anno (2025 e 2026 per retrocompatibilità)
     messages_2025 = [m for m in messages if m['year'] == 2025]

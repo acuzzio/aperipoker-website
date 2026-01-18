@@ -1,0 +1,149 @@
+{
+  "years": [
+    {
+      "year": 2019,
+      "totalWeeks": 39,
+      "topPerformers": [
+        {
+          "name": "Cosimo Nenciòni",
+          "mediaVoto": 7.61
+        },
+        {
+          "name": "Adriano Sergio Lorenzo Facchini",
+          "mediaVoto": 7.5
+        },
+        {
+          "name": "Alessio Valentini",
+          "mediaVoto": 7.36
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "totalWeeks": 48,
+      "topPerformers": [
+        {
+          "name": "Adriano Sergio Lorenzo Facchini",
+          "mediaVoto": 7.8
+        },
+        {
+          "name": "Cosimo Nenciòni",
+          "mediaVoto": 7.66
+        },
+        {
+          "name": "Alessio Valentini",
+          "mediaVoto": 7.55
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "totalWeeks": 53,
+      "topPerformers": [
+        {
+          "name": "Adriano Sergio Lorenzo Facchini",
+          "mediaVoto": 7.82
+        },
+        {
+          "name": "Fausto Petrini",
+          "mediaVoto": 7.72
+        },
+        {
+          "name": "Cosimo Nenciòni",
+          "mediaVoto": 7.39
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "totalWeeks": 53,
+      "topPerformers": [
+        {
+          "name": "Adriano Sergio Lorenzo Facchini",
+          "mediaVoto": 7.66
+        },
+        {
+          "name": "Cosimo Nenciòni",
+          "mediaVoto": 7.47
+        },
+        {
+          "name": "Alessio Valentini",
+          "mediaVoto": 7.26
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "totalWeeks": 53,
+      "topPerformers": [
+        {
+          "name": "Adriano Sergio Lorenzo Facchini",
+          "mediaVoto": 7.74
+        },
+        {
+          "name": "Alessio Valentini",
+          "mediaVoto": 7.35
+        },
+        {
+          "name": "Cosimo Nenciòni",
+          "mediaVoto": 7.34
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "totalWeeks": 53,
+      "topPerformers": [
+        {
+          "name": "Adriano Sergio Lorenzo Facchini",
+          "mediaVoto": 7.73
+        },
+        {
+          "name": "Fausto Petrini",
+          "mediaVoto": 7.27
+        },
+        {
+          "name": "Cosimo Nenciòni",
+          "mediaVoto": 7.24
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "totalWeeks": 53,
+      "topPerformers": [
+        {
+          "name": "Adriano Sergio Lorenzo Facchini",
+          "mediaVoto": 7.88
+        },
+        {
+          "name": "Cosimo Nenciòni",
+          "mediaVoto": 7.58
+        },
+        {
+          "name": "Alessio Valentini",
+          "mediaVoto": 7.35
+        }
+      ]
+    },
+    {
+      "year": 2026,
+      "totalWeeks": 3,
+      "topPerformers": [
+        {
+          "name": "Adriano Sergio Lorenzo Facchini",
+          "mediaVoto": 8.37
+        },
+        {
+          "name": "Alessio Macalùso",
+          "mediaVoto": 7.73
+        },
+        {
+          "name": "Alessio Valentini",
+          "mediaVoto": 7.47
+        }
+      ]
+    }
+  ],
+  "generatedAt": "2026-01-18T12:17:43.240230"
+}

@@ -271,6 +271,195 @@ body {
     color: var(--text-muted);
 }
 
+/* Year Selector Section */
+.year-selector-section {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin-bottom: 2rem;
+    padding: 1rem;
+    background: var(--bg-card);
+    border-radius: 8px;
+}
+
+.year-selector-section label {
+    font-weight: bold;
+}
+
+.year-select {
+    background: var(--bg-light);
+    color: var(--text);
+    border: 2px solid var(--bg-light);
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+    font-size: 1rem;
+    cursor: pointer;
+}
+
+.year-select:hover {
+    border-color: var(--primary);
+}
+
+/* Cumulative Stats Section */
+.cumulative-stats-section {
+    margin-bottom: 2rem;
+}
+
+.section-subtitle {
+    color: var(--text-muted);
+    margin-bottom: 1rem;
+}
+
+.cumulative-grid {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+.cumulative-card {
+    display: grid;
+    grid-template-columns: 50px 1fr auto auto;
+    align-items: center;
+    gap: 1rem;
+    padding: 0.75rem 1rem;
+    background: var(--bg-card);
+    border-radius: 8px;
+    border-left: 4px solid var(--primary);
+}
+
+.cumulative-card.gold { border-left-color: #ffd700; background: linear-gradient(90deg, rgba(255, 215, 0, 0.1), transparent); }
+.cumulative-card.silver { border-left-color: #c0c0c0; background: linear-gradient(90deg, rgba(192, 192, 192, 0.1), transparent); }
+.cumulative-card.bronze { border-left-color: #cd7f32; background: linear-gradient(90deg, rgba(205, 127, 50, 0.1), transparent); }
+
+.cumulative-rank {
+    font-size: 1.5rem;
+    font-weight: bold;
+    text-align: center;
+}
+
+.cumulative-info {
+    display: flex;
+    flex-direction: column;
+}
+
+.cumulative-name {
+    font-weight: bold;
+    font-size: 1.1rem;
+}
+
+.cumulative-details {
+    font-size: 0.85rem;
+    color: var(--text-muted);
+}
+
+.cumulative-voto {
+    font-size: 1.3rem;
+    font-weight: bold;
+    padding: 0.3rem 0.6rem;
+    border-radius: 4px;
+    min-width: 50px;
+    text-align: center;
+}
+
+.cumulative-range {
+    display: flex;
+    flex-direction: column;
+    font-size: 0.8rem;
+    gap: 2px;
+}
+
+.voto-best { color: var(--success); }
+.voto-worst { color: var(--danger); }
+
+/* Week Stats Mini */
+.week-stats-mini {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    margin-bottom: 1.5rem;
+    padding: 1rem;
+    background: var(--bg-card);
+    border-radius: 8px;
+}
+
+.stat-mini {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.stat-mini-value {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: var(--primary-light);
+}
+
+.stat-mini-label {
+    font-size: 0.85rem;
+    color: var(--text-muted);
+}
+
+/* Year Summary Section */
+.year-summary-section {
+    margin-top: 2rem;
+    padding: 1.5rem;
+    background: var(--bg-card);
+    border-radius: 8px;
+}
+
+.year-summary-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1rem;
+    margin-top: 1rem;
+}
+
+.year-summary-stat {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.year-summary-value {
+    font-size: 1.3rem;
+    font-weight: bold;
+    color: var(--secondary);
+}
+
+.year-summary-label {
+    font-size: 0.85rem;
+    color: var(--text-muted);
+}
+
+/* Responsive Pagelle */
+@media (max-width: 600px) {
+    .cumulative-card {
+        grid-template-columns: 40px 1fr auto;
+    }
+
+    .cumulative-range {
+        display: none;
+    }
+
+    .week-stats-mini {
+        gap: 1rem;
+    }
+
+    .stat-mini-value {
+        font-size: 1.2rem;
+    }
+
+    .year-summary-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .year-selector-section {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+}
+
 /* Best Of List */
 .best-of-list {
     display: flex;
