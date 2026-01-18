@@ -84,6 +84,9 @@ function renderCumulativeStats(cumulative) {
 
         const votoClass = member.mediaVoto >= 7 ? 'voto-alto' : member.mediaVoto >= 6 ? 'voto-medio' : 'voto-basso';
         const firstName = member.name.split(' ')[0];
+        const signatureHtml = member.signature
+            ? `<span class="cumulative-signature">${member.signature}</span>`
+            : '';
 
         return `
             <div class="cumulative-card ${medalClass}">
@@ -93,6 +96,7 @@ function renderCumulativeStats(cumulative) {
                     <span class="cumulative-details">
                         ${member.settimaneAttive} settimane · ${formatNumber(member.totalMessaggi)} msg
                     </span>
+                    ${signatureHtml}
                 </div>
                 <div class="cumulative-voto ${votoClass}">${member.mediaVoto.toFixed(1)}</div>
                 <div class="cumulative-range">
@@ -161,6 +165,9 @@ function renderCurrentWeek() {
     // Render pagelle
     grid.innerHTML = week.pagelle.map(p => {
         const votoClass = p.voto >= 7 ? 'voto-alto' : p.voto >= 5 ? 'voto-medio' : 'voto-basso';
+        const highlightsHtml = p.highlights && p.highlights.length > 0
+            ? `<div class="pagella-highlights">${p.highlights.map(h => `<span class="highlight-tag">${h}</span>`).join('')}</div>`
+            : '';
 
         return `
             <div class="pagella-card">
@@ -170,6 +177,7 @@ function renderCurrentWeek() {
                 </div>
                 <div class="pagella-content">
                     <p class="pagella-giudizio">"${p.giudizio}"</p>
+                    ${highlightsHtml}
                     <p class="pagella-stats">
                         ${p.messaggi} messaggi | ${p.mediaGiornaliera} msg/giorno
                     </p>
@@ -178,10 +186,22 @@ function renderCurrentWeek() {
         `;
     }).join('');
 
-    // Render riassunto
-    if (week.riassunto) {
-        summary.querySelector('.summary-content').innerHTML = `<p>${week.riassunto}</p>`;
+    // Render riassunto con citazioni
+    let summaryHtml = `<p>${week.riassunto}</p>`;
+    if (week.bestQuotes && week.bestQuotes.length > 0) {
+        summaryHtml += `
+            <div class="week-quotes">
+                <h4>Citazioni della settimana</h4>
+                ${week.bestQuotes.map(q => `
+                    <blockquote class="week-quote">
+                        <p>"${q.quote}"</p>
+                        <cite>— ${q.author.split(' ')[0]}</cite>
+                    </blockquote>
+                `).join('')}
+            </div>
+        `;
     }
+    summary.querySelector('.summary-content').innerHTML = summaryHtml;
 
     // Aggiorna bottoni
     document.getElementById('prev-week').disabled = currentWeekIndex === 0;

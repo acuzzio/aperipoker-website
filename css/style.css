@@ -371,6 +371,63 @@ body {
 .voto-best { color: var(--success); }
 .voto-worst { color: var(--danger); }
 
+.cumulative-signature {
+    display: block;
+    font-size: 0.75rem;
+    color: var(--secondary);
+    font-style: italic;
+    margin-top: 0.25rem;
+}
+
+/* Pagella highlights */
+.pagella-highlights {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+    margin: 0.75rem 0;
+}
+
+.highlight-tag {
+    background: var(--bg-light);
+    color: var(--secondary);
+    padding: 0.2rem 0.5rem;
+    border-radius: 12px;
+    font-size: 0.75rem;
+    border: 1px solid var(--secondary);
+}
+
+/* Week quotes */
+.week-quotes {
+    margin-top: 1.5rem;
+    padding-top: 1rem;
+    border-top: 1px solid var(--bg-light);
+}
+
+.week-quotes h4 {
+    color: var(--secondary);
+    margin-bottom: 1rem;
+    font-size: 1rem;
+}
+
+.week-quote {
+    background: var(--bg-light);
+    padding: 1rem;
+    border-radius: 8px;
+    margin-bottom: 0.75rem;
+    border-left: 3px solid var(--secondary);
+}
+
+.week-quote p {
+    font-style: italic;
+    margin-bottom: 0.5rem;
+    color: var(--text);
+}
+
+.week-quote cite {
+    font-size: 0.85rem;
+    color: var(--primary-light);
+}
+
 /* Week Stats Mini */
 .week-stats-mini {
     display: flex;
