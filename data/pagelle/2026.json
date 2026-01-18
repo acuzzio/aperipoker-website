@@ -17,7 +17,7 @@
           ]
         },
         {
-          "name": "Adriano",
+          "name": "Adriano Facchini",
           "voto": 7.5,
           "giudizio": "Auguri dalle foreste casentinesi e subito cattiveria: 'Io farei un test di paternità' in risposta al figlio di Fausto. Il solito Adriano che non perdona.",
           "messaggi": 5,
@@ -28,7 +28,7 @@
           ]
         },
         {
-          "name": "Cosimo",
+          "name": "Cosimo Nenciòni",
           "voto": 7,
           "giudizio": "Con un laconico 'Tombino' in risposta a 'Prodigio', Cosimo conferma il suo stile secco e letale. Si preoccupa per il ritorno di Alessio Valentini. Affettuoso a modo suo.",
           "messaggi": 4,
@@ -50,7 +50,7 @@
           ]
         },
         {
-          "name": "Fausto",
+          "name": "Fausto Petrini",
           "voto": 6,
           "giudizio": "Deve chiarire che il figlio non è un prodigio, sono solo i bimbi che crescono. Pedanteria necessaria che viene comunque punita dal gruppo.",
           "messaggi": 2,
@@ -60,7 +60,7 @@
           ]
         },
         {
-          "name": "Giacomo",
+          "name": "Giacomo Dolfi",
           "voto": 5,
           "giudizio": "Il fondatore sonnecchia a inizio anno. In letargo post-festivo?",
           "messaggi": 0,
@@ -70,7 +70,7 @@
           ]
         },
         {
-          "name": "Federico",
+          "name": "Federico Ceccuzzi",
           "voto": 5,
           "giudizio": "Ancora in fase di recupero post-feste. La new entry si risparmia.",
           "messaggi": 0,
@@ -95,11 +95,11 @@
       "bestQuotes": [
         {
           "quote": "Tombino",
-          "author": "Cosimo"
+          "author": "Cosimo Nenciòni"
         },
         {
           "quote": "Io farei un test di paternità.",
-          "author": "Adriano"
+          "author": "Adriano Facchini"
         }
       ]
     },
@@ -108,7 +108,7 @@
       "endDate": "2026-01-11",
       "pagelle": [
         {
-          "name": "Adriano",
+          "name": "Adriano Facchini",
           "voto": 8.5,
           "giudizio": "Aggiusta l'autoclave con ChatGPT spendendo 10 euro. Poi si lamenta del freddo senza giacchetto, va al concerto PFM parcheggiando da Peregrini (una certezza), e propone la Tea Room 'come i vecchi quali siamo'. Multitasking esistenziale.",
           "messaggi": 32,
@@ -120,7 +120,7 @@
           ]
         },
         {
-          "name": "Federico",
+          "name": "Federico Ceccuzzi",
           "voto": 8,
           "giudizio": "Dentro le piramidi a 40 gradi dopo 20 metri di cunicolo piegato. 'Non entrate mai dentro' - consiglio di vita. Truppe cammellate e sofferenza da boomer. Testimonianza epica.",
           "messaggi": 22,
@@ -132,7 +132,7 @@
           ]
         },
         {
-          "name": "Fausto",
+          "name": "Fausto Petrini",
           "voto": 7.5,
           "giudizio": "Propone uscita lunedì (respinta), si compra giacchetto Decathlon 'brutto ma comodo', condivide video su Mosè ricostruito e si interessa alla neve. Fase propositiva.",
           "messaggi": 20,
@@ -155,7 +155,7 @@
           ]
         },
         {
-          "name": "Cosimo",
+          "name": "Cosimo Nenciòni",
           "voto": 7,
           "giudizio": "'Penniente' sulla neve, 'Ti casca l'uccello' sulle piramidi, 'C'è del trash' come sempre. Commenti minimal ma efficaci. Letture rilassanti post-mattone.",
           "messaggi": 14,
@@ -167,7 +167,7 @@
           ]
         },
         {
-          "name": "Giacomo",
+          "name": "Giacomo Dolfi",
           "voto": 7,
           "giudizio": "FINALMENTE nella casa sistemata! 'Siamo un po' accampati ma ci si può fare'. Il fondatore risorge con la sua casa nuova. Evento storico.",
           "messaggi": 8,
@@ -203,15 +203,15 @@
       "bestQuotes": [
         {
           "quote": "Soddisfazione massima per aver aggiustato l'autoclave con chat gpt. Totale spesa 10 euro.",
-          "author": "Adriano"
+          "author": "Adriano Facchini"
         },
         {
           "quote": "Dono di conoscenza che trasmetto è: non entrate mai dentro.",
-          "author": "Federico"
+          "author": "Federico Ceccuzzi"
         },
         {
           "quote": "Siamo un po' accampati ma ci si può fare",
-          "author": "Giacomo"
+          "author": "Giacomo Dolfi"
         }
       ]
     },
@@ -220,7 +220,7 @@
       "endDate": "2026-01-18",
       "pagelle": [
         {
-          "name": "Fausto",
+          "name": "Fausto Petrini",
           "voto": 9,
           "giudizio": "FAUSTO ON FIRE! Serata a San Frediano tra cocktail, musica live e 'vera fica'. Ordina il Cencios (vodka sambuco lime pompelmo), fotografa bariste fiche, proclama 'W il bollore'. Vuole seratona a Firenze con struscio. Il Fausto che volevamo.",
           "messaggi": 38,
@@ -233,7 +233,7 @@
           ]
         },
         {
-          "name": "Adriano",
+          "name": "Adriano Facchini",
           "voto": 8,
           "giudizio": "Scopre il paninaro del Meyer 'L'altro panino' - un samurai con fascia in testa che fa cose da stellato. Paccheri carciofi e bottarga nel parcheggio. Poi dichiara che l'accento fiorentino è diventato 'ostico, ridondante e autocelebrativo'. Filosofia culinaria e linguistica.",
           "messaggi": 42,
@@ -245,7 +245,7 @@
           ]
         },
         {
-          "name": "Cosimo",
+          "name": "Cosimo Nenciòni",
           "voto": 7.5,
           "giudizio": "RICOVERATO per colica renale! Stava per prendere il treno per Roma. Due giorni a Santa Maria Nuova a digiuno ('Ho tanta fame. Non è giusto'). Dimesso con referto 'Ficoso'. Filosofeggia: 'vorrei rinchiudermi in casa a farmi le canne, non fingere di socializzare'.",
           "messaggi": 28,
@@ -281,7 +281,7 @@
           ]
         },
         {
-          "name": "Federico",
+          "name": "Federico Ceccuzzi",
           "voto": 7,
           "giudizio": "Propone pedinamento per fregare il collega che usa le 104 come ferie. 'Referto: Ficoso' per Cosimo. Organizza pranzo con Fiorini post-gara podistica. Vuole periodo 'dirigista' da Lider.",
           "messaggi": 25,
@@ -293,7 +293,7 @@
           ]
         },
         {
-          "name": "Giacomo",
+          "name": "Giacomo Dolfi",
           "voto": 6.5,
           "giudizio": "Insalata ghiaccia senza amore. Spiega lo scandalo tedofori: 'la sorella del mio parrucchiere l'ha portata candidandosi a caso'. Il fondatore osserva e commenta.",
           "messaggi": 15,
@@ -320,26 +320,26 @@
       "bestQuotes": [
         {
           "quote": "W il bollore",
-          "author": "Fausto"
+          "author": "Fausto Petrini"
         },
         {
           "quote": "L'accento fiorentino è diventato per me insopportabile. Un tempo mi piaceva. Ora mi risulta ostico, ridondante e autocelebrativo.",
-          "author": "Adriano"
+          "author": "Adriano Facchini"
         },
         {
           "quote": "vorrei rinchiudermi in casa a farmi le canne con voialtri... se si tratta di uscire a cena fingendo di socializzare allora mi sa che non vengo",
-          "author": "Cosimo"
+          "author": "Cosimo Nenciòni"
         },
         {
           "quote": "Referto di dimissione: Ficoso",
-          "author": "Federico"
+          "author": "Federico Ceccuzzi"
         }
       ]
     }
   ],
   "cumulative": [
     {
-      "name": "Adriano",
+      "name": "Adriano Facchini",
       "mediaVoto": 8.0,
       "totalMessaggi": 79,
       "settimaneAttive": 3,
@@ -350,7 +350,7 @@
       "signature": "Autoclave + ChatGPT, accento fiorentino bocciato, samurai del panino"
     },
     {
-      "name": "Fausto",
+      "name": "Fausto Petrini",
       "mediaVoto": 7.5,
       "totalMessaggi": 60,
       "settimaneAttive": 3,
@@ -361,7 +361,7 @@
       "signature": "W il bollore, San Frediano, vera fica"
     },
     {
-      "name": "Federico",
+      "name": "Federico Ceccuzzi",
       "mediaVoto": 7.5,
       "totalMessaggi": 47,
       "settimaneAttive": 2,
@@ -383,7 +383,7 @@
       "signature": "Laguna di Bacalar, concerto punk, jet lag perpetuo"
     },
     {
-      "name": "Cosimo",
+      "name": "Cosimo Nenciòni",
       "mediaVoto": 7.2,
       "totalMessaggi": 46,
       "settimaneAttive": 3,
@@ -405,7 +405,7 @@
       "signature": "Cinghiali investiti, Bristol 6, host del 25"
     },
     {
-      "name": "Giacomo",
+      "name": "Giacomo Dolfi",
       "mediaVoto": 6.2,
       "totalMessaggi": 23,
       "settimaneAttive": 3,
