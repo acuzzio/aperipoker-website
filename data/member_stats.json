@@ -1,0 +1,180 @@
+{
+  "members": {
+    "Adriano Sergio Lorenzo Facchini": {
+      "messageCount": 13971,
+      "wordCount": 97709,
+      "avgWordsPerMessage": 7.0,
+      "firstMessage": "2014-01-11T17:19:00",
+      "lastMessage": "2026-12-01T13:49:00",
+      "peakYear": 2015,
+      "peakYearMessages": 2688,
+      "yearlyActivity": {
+        "2014": 330,
+        "2015": 2688,
+        "2016": 1468,
+        "2017": 1311,
+        "2018": 705,
+        "2019": 724,
+        "2020": 1497,
+        "2021": 1355,
+        "2022": 848,
+        "2023": 898,
+        "2024": 878,
+        "2025": 1154,
+        "2026": 115
+      },
+      "favoriteHour": 19
+    },
+    "Cosimo Nenciòni": {
+      "messageCount": 11814,
+      "wordCount": 82705,
+      "avgWordsPerMessage": 7.0,
+      "firstMessage": "2013-12-18T12:40:00",
+      "lastMessage": "2026-09-01T17:39:00",
+      "peakYear": 2015,
+      "peakYearMessages": 2141,
+      "yearlyActivity": {
+        "2013": 5,
+        "2014": 689,
+        "2015": 2141,
+        "2016": 1045,
+        "2017": 892,
+        "2018": 873,
+        "2019": 687,
+        "2020": 1343,
+        "2021": 1087,
+        "2022": 702,
+        "2023": 730,
+        "2024": 608,
+        "2025": 955,
+        "2026": 57
+      },
+      "favoriteHour": 19
+    },
+    "Alessio Valentini": {
+      "messageCount": 10676,
+      "wordCount": 85555,
+      "avgWordsPerMessage": 8.0,
+      "firstMessage": "2013-12-28T19:52:00",
+      "lastMessage": "2026-12-01T14:19:00",
+      "peakYear": 2015,
+      "peakYearMessages": 2057,
+      "yearlyActivity": {
+        "2013": 12,
+        "2014": 729,
+        "2015": 2057,
+        "2016": 1136,
+        "2017": 762,
+        "2018": 438,
+        "2019": 570,
+        "2020": 1176,
+        "2021": 987,
+        "2022": 630,
+        "2023": 738,
+        "2024": 601,
+        "2025": 726,
+        "2026": 114
+      },
+      "favoriteHour": 19
+    },
+    "Fausto Petrini": {
+      "messageCount": 10184,
+      "wordCount": 103799,
+      "avgWordsPerMessage": 10.2,
+      "firstMessage": "2013-12-29T12:52:00",
+      "lastMessage": "2026-12-01T21:40:00",
+      "peakYear": 2015,
+      "peakYearMessages": 1581,
+      "yearlyActivity": {
+        "2013": 4,
+        "2014": 387,
+        "2015": 1581,
+        "2016": 1291,
+        "2017": 738,
+        "2018": 654,
+        "2019": 507,
+        "2020": 1264,
+        "2021": 1238,
+        "2022": 603,
+        "2023": 583,
+        "2024": 636,
+        "2025": 620,
+        "2026": 78
+      },
+      "favoriteHour": 18
+    },
+    "Alessio Macalùso": {
+      "messageCount": 6896,
+      "wordCount": 44486,
+      "avgWordsPerMessage": 6.5,
+      "firstMessage": "2013-12-18T12:00:00",
+      "lastMessage": "2026-12-01T23:50:00",
+      "peakYear": 2015,
+      "peakYearMessages": 1360,
+      "yearlyActivity": {
+        "2013": 5,
+        "2014": 425,
+        "2015": 1360,
+        "2016": 576,
+        "2017": 430,
+        "2018": 373,
+        "2019": 338,
+        "2020": 695,
+        "2021": 733,
+        "2022": 384,
+        "2023": 529,
+        "2024": 443,
+        "2025": 525,
+        "2026": 80
+      },
+      "favoriteHour": 19
+    },
+    "Giacomo Dolfi": {
+      "messageCount": 7078,
+      "wordCount": 49516,
+      "avgWordsPerMessage": 7.0,
+      "firstMessage": "2013-12-18T12:00:00",
+      "lastMessage": "2026-10-01T19:00:00",
+      "peakYear": 2015,
+      "peakYearMessages": 1433,
+      "yearlyActivity": {
+        "2013": 7,
+        "2014": 404,
+        "2015": 1433,
+        "2016": 709,
+        "2017": 537,
+        "2018": 517,
+        "2019": 362,
+        "2020": 796,
+        "2021": 750,
+        "2022": 350,
+        "2023": 411,
+        "2024": 326,
+        "2025": 442,
+        "2026": 34
+      },
+      "favoriteHour": 22
+    },
+    "Federico Ceccuzzi": {
+      "messageCount": 391,
+      "wordCount": 3045,
+      "avgWordsPerMessage": 7.8,
+      "firstMessage": "2019-01-28T20:14:00",
+      "lastMessage": "2026-12-01T13:52:00",
+      "peakYear": 2025,
+      "peakYearMessages": 325,
+      "yearlyActivity": {
+        "2019": 16,
+        "2025": 325,
+        "2026": 50
+      },
+      "favoriteHour": 19
+    }
+  },
+  "generatedAt": "2026-01-19T17:24:19.224483",
+  "totalMessages": 61166,
+  "dateRange": {
+    "from": "2013-12-18T12:00:00",
+    "to": "2026-01-19T19:03:00"
+  }
+}

@@ -5,99 +5,113 @@
       "totalMessages": 33,
       "mvp": "Alessio Valentini",
       "trend": null,
-      "highlights": ""
+      "highlights": "Nasce il gruppo! Solo 33 messaggi a dicembre, ma inizia tutto qui.",
+      "lider": null
     },
     {
       "year": 2014,
       "totalMessages": 2964,
       "mvp": "Alessio Valentini",
       "trend": 8881.8,
-      "highlights": ""
+      "highlights": "Il gruppo decolla. Nasce la tradizione del Lider con Maca I. Alessio Valentini domina la chat.",
+      "lider": "Alessio Macalùso (Maca I)"
     },
     {
       "year": 2015,
       "totalMessages": 11260,
       "mvp": "Adriano Sergio Lorenzo Facchini",
       "trend": 279.9,
-      "highlights": ""
+      "highlights": "L'ANNO D'ORO! Record assoluto con 11.260 messaggi. Adriano prende lo scettro della verbosità.",
+      "lider": "Cosimo, Giacomo (Ottavio I), Fausto"
     },
     {
       "year": 2016,
       "totalMessages": 6225,
       "mvp": "Adriano Sergio Lorenzo Facchini",
       "trend": -44.7,
-      "highlights": ""
+      "highlights": "Inizia il lungo regno di Adriano 'Caravaggio'. Sistema di punizioni e premi settimanali.",
+      "lider": "Adriano (Caravaggio)"
     },
     {
       "year": 2017,
       "totalMessages": 4670,
       "mvp": "Adriano Sergio Lorenzo Facchini",
       "trend": -25.0,
-      "highlights": ""
+      "highlights": "Adriano continua il suo regno come 'Agnus Dei Michele Arcangelo'.",
+      "lider": "Adriano"
     },
     {
       "year": 2018,
       "totalMessages": 3716,
       "mvp": "Cosimo Nenciòni",
       "trend": -20.4,
-      "highlights": ""
+      "highlights": "Cosimo sorpassa tutti per numero di messaggi. Il gruppo si stabilizza.",
+      "lider": "Adriano"
     },
     {
       "year": 2019,
       "totalMessages": 3204,
       "mvp": "Cosimo Nenciòni",
       "trend": -13.8,
-      "highlights": "Nascita ufficiale del gruppo chat. Cosimo domina la scena."
+      "highlights": "Cosimo diventa Lider come 'Federico'. Compare per la prima volta il vero Federico Ceccuzzi.",
+      "lider": "Cosimo (Federico)"
     },
     {
       "year": 2020,
       "totalMessages": 6771,
       "mvp": "Adriano Sergio Lorenzo Facchini",
       "trend": 111.3,
-      "highlights": "Anno del COVID: il gruppo esplode con 6107 messaggi! Adriano prende lo scettro."
+      "highlights": "Anno del COVID: il gruppo esplode! +111% di messaggi. Tutti a casa a chattare.",
+      "lider": "Cosimo (Federico)"
     },
     {
       "year": 2021,
       "totalMessages": 6150,
       "mvp": "Adriano Sergio Lorenzo Facchini",
       "trend": -9.2,
-      "highlights": "Picco storico di attività: 6136 messaggi. Il gruppo è on fire."
+      "highlights": "Secondo anno COVID. Attività ancora altissima, il gruppo è on fire.",
+      "lider": "Cosimo (Federico)"
     },
     {
       "year": 2022,
       "totalMessages": 3517,
       "mvp": "Adriano Sergio Lorenzo Facchini",
       "trend": -42.8,
-      "highlights": "Si torna alla normalità post-COVID. Attività più moderata."
+      "highlights": "Si torna alla normalità post-COVID. Finalmente ci si rivede di persona.",
+      "lider": "Cosimo (Federico)"
     },
     {
       "year": 2023,
       "totalMessages": 3889,
       "mvp": "Adriano Sergio Lorenzo Facchini",
       "trend": 10.6,
-      "highlights": "Il gruppo trova un nuovo equilibrio. Discussioni di qualità."
+      "highlights": "Alessio Macalùso torna Lider come 'Pasquale'. Nuove avventure.",
+      "lider": "Alessio Macalùso (Pasquale)"
     },
     {
       "year": 2024,
       "totalMessages": 3492,
       "mvp": "Adriano Sergio Lorenzo Facchini",
       "trend": -10.2,
-      "highlights": "Anno di consolidamento. Le dinamiche sono ormai rodate."
+      "highlights": "Anno di consolidamento. Le dinamiche sono ormai rodate.",
+      "lider": "Alessio Macalùso (Pasquale)"
     },
     {
       "year": 2025,
       "totalMessages": 4747,
       "mvp": "Adriano Sergio Lorenzo Facchini",
       "trend": 35.9,
-      "highlights": "Arriva Federico! Aria fresca nel gruppo."
+      "highlights": "Federico Ceccuzzi diventa finalmente attivo! Giacomo torna Lider come 'Ottavio II'.",
+      "lider": "Giacomo Dolfi (Ottavio II)"
     },
     {
       "year": 2026,
       "totalMessages": 528,
       "mvp": "Adriano Sergio Lorenzo Facchini",
       "trend": -88.9,
-      "highlights": "Anno in corso. Nuove avventure all'orizzonte."
+      "highlights": "Anno in corso. Giacomo ancora Lider.",
+      "lider": "Giacomo Dolfi (Ottavio II)"
     }
   ],
-  "generatedAt": "2026-01-19T17:14:58.870593"
+  "generatedAt": "2026-01-19T12:00:00"
 }

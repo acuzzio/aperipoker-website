@@ -1,0 +1,97 @@
+{
+  "title": "La Storia dei Lider",
+  "description": "Il Lider è colui che organizza la prossima cena del gruppo e nomina il suo successore. Una tradizione sacra iniziata nel 2014.",
+  "rules": [
+    "Il Lider organizza la prossima cena/aperitivo del gruppo",
+    "Il Lider può assegnare compiti ai sudditi",
+    "Il Lider nomina il suo successore alla fine del mandato",
+    "Il Lider può adottare un alias durante il suo regno"
+  ],
+  "timeline": [
+    {
+      "name": "Alessio Macalùso",
+      "alias": "Maca I",
+      "period": "Dicembre 2014 - Inizio 2015",
+      "startDate": "2014-12-01",
+      "endDate": "2015-03-01",
+      "highlight": "Il primo Lider della storia. Ha instaurato la tradizione.",
+      "quote": "La leadership te la devi conquistare"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "alias": null,
+      "period": "Primavera 2015",
+      "startDate": "2015-03-01",
+      "endDate": "2015-06-01",
+      "highlight": "Lider pragmatico e sintetico.",
+      "quote": "Dato che sono il lider"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "alias": "Ottavio I",
+      "period": "Estate-Autunno 2015",
+      "startDate": "2015-06-01",
+      "endDate": "2015-12-01",
+      "highlight": "Il fondatore sale al trono. Regna con saggezza da Poggibonsi.",
+      "quote": "Il vostro lider è stato colpito da un terribile virus"
+    },
+    {
+      "name": "Fausto Petrini",
+      "alias": null,
+      "period": "Fine 2015 - Inizio 2016",
+      "startDate": "2015-12-01",
+      "endDate": "2016-03-01",
+      "highlight": "Il trascinatore finalmente al comando. W il bollore!",
+      "quote": "Il vostro lider è magnanimo e punta ad una gestione democratica"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "alias": "Caravaggio / Agnus Dei Michele Arcangelo",
+      "period": "2016 - 2019",
+      "startDate": "2016-03-01",
+      "endDate": "2019-03-01",
+      "highlight": "Il regno più lungo. Ha introdotto il sistema di punizioni e premi settimanali.",
+      "quote": "Il vostro lider Caravaggio, Maèstro d'Arte...e anche Mercante"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "alias": "Federico",
+      "period": "Marzo 2019 - 2023",
+      "startDate": "2019-03-15",
+      "endDate": "2023-06-01",
+      "highlight": "Secondo mandato con un nuovo alias misterioso. Ha introdotto lo ius soli e lo ius prime noctis.",
+      "quote": "Federico il vostro lider vi saluta"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "alias": "Pasquale",
+      "period": "2023 - 2025",
+      "startDate": "2023-06-01",
+      "endDate": "2025-05-01",
+      "highlight": "Ritorno del primo Lider con un nuovo alias. Il cerchio si chiude.",
+      "quote": "Il Pasquale, vostro lider sta per lasciare il posto ad uno di voi"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "alias": "Ottavio II",
+      "period": "Maggio 2025 - presente",
+      "startDate": "2025-05-01",
+      "endDate": null,
+      "highlight": "Il fondatore torna al trono. Lider in carica.",
+      "quote": "Il leader stasera é stanco e non so se avró voglia da qui alla fine del liderato..."
+    }
+  ],
+  "stats": {
+    "totalLiders": 6,
+    "longestReign": {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "years": 3
+    },
+    "mostReigns": {
+      "name": "Alessio Macalùso",
+      "count": 2
+    },
+    "currentLider": "Giacomo Dolfi"
+  },
+  "generatedAt": "2026-01-19T12:00:00"
+}

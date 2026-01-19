@@ -5,15 +5,20 @@
       "emoji": "👑",
       "photo": "adriano.png",
       "title": "Il Re della Chat",
-      "description": "Con oltre 7000 messaggi, Adriano domina il gruppo con la costanza di un maratoneta e la verbosità di un fiume in piena. Quando non scrive, probabilmente sta pensando a cosa scrivere.",
+      "description": "Con quasi 14.000 messaggi dal 2014, Adriano domina il gruppo con la costanza di un maratoneta e la verbosità di un fiume in piena. Il suo anno d'oro è stato il 2015 con 2688 messaggi. Quando non scrive, probabilmente sta pensando a cosa scrivere.",
       "traits": ["Prolisso", "Sempre presente", "Enciclopedico", "Nottambulo occasionale"],
       "catchphrase": "Fausto, se te ci vieni ci vengo pure io",
       "superpower": "Trasformare qualsiasi argomento in una discussione infinita",
       "weakness": "Non sa stare zitto (ma lo amiamo per questo)",
+      "liderAlias": "Caravaggio / Agnus Dei Michele Arcangelo",
       "stats": {
-        "messageCount": 7097,
-        "favoriteEmoji": "😂",
-        "avgWordsPerMessage": 7.3,
+        "messageCount": 13971,
+        "wordCount": 97709,
+        "avgWordsPerMessage": 7.0,
+        "memberSince": 2014,
+        "peakYear": 2015,
+        "peakYearMessages": 2688,
+        "favoriteHour": 19,
         "rank": 1
       }
     },
@@ -22,15 +27,20 @@
       "emoji": "🎭",
       "photo": "cosimo.png",
       "title": "Il Provocatore Raffinato",
-      "description": "Maestro dell'understatement e delle battute secche. I suoi messaggi sono brevi ma letali. Quando chiede 'Che ce metto in saccoccia?' sapete che sta per succedere qualcosa.",
+      "description": "Membro fondatore dal 2013, maestro dell'understatement e delle battute secche. I suoi messaggi sono brevi ma letali. Quando chiede 'Che ce metto in saccoccia?' sapete che sta per succedere qualcosa. Nel 2015 ha raggiunto il suo picco con 2141 messaggi.",
       "traits": ["Sarcastico", "Sintetico", "Esploratore", "Filosofo involontario"],
       "catchphrase": "Certamente. No sbatti",
       "superpower": "Smontare qualsiasi piano con una singola frase",
       "weakness": "La collaborazione degli altri (che non arriva mai)",
+      "liderAlias": "Federico",
       "stats": {
-        "messageCount": 5816,
-        "favoriteEmoji": "🤷",
-        "avgWordsPerMessage": 6.8,
+        "messageCount": 11814,
+        "wordCount": 82705,
+        "avgWordsPerMessage": 7.0,
+        "memberSince": 2013,
+        "peakYear": 2015,
+        "peakYearMessages": 2141,
+        "favoriteHour": 19,
         "rank": 2
       }
     },
@@ -39,15 +49,19 @@
       "emoji": "🌍",
       "photo": "alessio-v.png",
       "title": "Il Giramondo",
-      "description": "Da Bacalar ai concerti punk, Alessio è quello che sta sempre da qualche parte esotica con internet di merda. Si sveglia a orari improbabili e manda messaggi a tutte le ore.",
+      "description": "Membro fondatore dal 2013, da Bacalar ai concerti punk, Alessio è quello che sta sempre da qualche parte esotica con internet di merda. Si sveglia a orari improbabili. Il più verboso del gruppo con 8 parole per messaggio in media.",
       "traits": ["Nomade digitale", "Orari impossibili", "Affettuoso", "Crudo ma onesto"],
       "catchphrase": "c'ho internet di merda scusate",
       "superpower": "Dormire fino alle 3 del pomeriggio senza vergogna",
       "weakness": "Il caldo e la spiaggia all'italiana con ombrelloni",
       "stats": {
-        "messageCount": 5266,
-        "favoriteEmoji": "😅",
-        "avgWordsPerMessage": 7.1,
+        "messageCount": 10676,
+        "wordCount": 85555,
+        "avgWordsPerMessage": 8.0,
+        "memberSince": 2013,
+        "peakYear": 2015,
+        "peakYearMessages": 2057,
+        "favoriteHour": 19,
         "rank": 3
       }
     },
@@ -56,33 +70,20 @@
       "emoji": "🔥",
       "photo": "fausto.png",
       "title": "Il Trascinatore",
-      "description": "L'anima organizzativa del gruppo. Quando Fausto propone, il gruppo (forse) dispone. Vuole sempre fare 'seratone' e 'struscio', possibilmente a Firenze. W il bollore.",
+      "description": "L'anima organizzativa del gruppo dal 2013. Quando Fausto propone, il gruppo (forse) dispone. Vuole sempre fare 'seratone' e 'struscio', possibilmente a Firenze. Il più prolisso: 10.2 parole per messaggio! W il bollore.",
       "traits": ["Organizzatore", "Entusiasta", "On fire", "Amante dello struscio"],
       "catchphrase": "W il bollore",
       "superpower": "Proporre uscite a cui poi nessuno partecipa",
       "weakness": "L'accento fiorentino (che prima amava, ora no)",
       "stats": {
-        "messageCount": 5189,
-        "favoriteEmoji": "😄",
-        "avgWordsPerMessage": 8.7,
+        "messageCount": 10184,
+        "wordCount": 103799,
+        "avgWordsPerMessage": 10.2,
+        "memberSince": 2013,
+        "peakYear": 2015,
+        "peakYearMessages": 1581,
+        "favoriteHour": 18,
         "rank": 4
-      }
-    },
-    {
-      "name": "Alessio Macalùso",
-      "emoji": "🧘",
-      "photo": "alessio-m.jpg",
-      "title": "La Voce della Ragione",
-      "description": "L'equilibratore del gruppo. Risponde con calma zen a qualsiasi provocazione. Quando dice 'Credo' o 'Boh non so cosa si può dire', sta in realtà meditando sulla vacuità dell'esistenza.",
-      "traits": ["Pacato", "Laconico", "Saggio", "Host delle serate"],
-      "catchphrase": "Credo",
-      "superpower": "Non prendere mai posizioni nette ma avere sempre ragione",
-      "weakness": "La verbosità (usa le parole con parsimonia)",
-      "stats": {
-        "messageCount": 3556,
-        "favoriteEmoji": "🙋",
-        "avgWordsPerMessage": 5.5,
-        "rank": 5
       }
     },
     {
@@ -90,15 +91,42 @@
       "emoji": "🏛️",
       "photo": "giacomo.png",
       "title": "Il Fondatore",
-      "description": "Colui che nel settembre 2013 creò 'Aperipoker?' con quel punto interrogativo profetico. Da Poggibonsi veglia sul gruppo come un patriarca benevolo, intervenendo con saggezza e ironia.",
+      "description": "Colui che nel dicembre 2013 creò 'Aperipoker?' con quel punto interrogativo profetico. Da Poggibonsi veglia sul gruppo come un patriarca benevolo. L'unico nottambulo vero: il suo orario preferito sono le 22:00.",
       "traits": ["Fondatore", "Storico", "Curioso", "Amante del gossip politico"],
       "catchphrase": "Sentiti libero",
       "superpower": "Fare domande che sembrano innocue ma aprono dibattiti infiniti",
       "weakness": "Le trasmissioni con giornaliste insopportabili",
+      "liderAlias": "Ottavio",
       "stats": {
-        "messageCount": 3294,
-        "favoriteEmoji": "😂",
-        "avgWordsPerMessage": 7.3,
+        "messageCount": 7078,
+        "wordCount": 49516,
+        "avgWordsPerMessage": 7.0,
+        "memberSince": 2013,
+        "peakYear": 2015,
+        "peakYearMessages": 1433,
+        "favoriteHour": 22,
+        "rank": 5
+      }
+    },
+    {
+      "name": "Alessio Macalùso",
+      "emoji": "🧘",
+      "photo": "alessio-m.jpg",
+      "title": "La Voce della Ragione",
+      "description": "L'equilibratore del gruppo, membro fondatore. Risponde con calma zen a qualsiasi provocazione. Il più sintetico del gruppo con sole 6.5 parole per messaggio. Quando dice 'Credo' sta meditando sulla vacuità dell'esistenza.",
+      "traits": ["Pacato", "Laconico", "Saggio", "Host delle serate"],
+      "catchphrase": "Credo",
+      "superpower": "Non prendere mai posizioni nette ma avere sempre ragione",
+      "weakness": "La verbosità (usa le parole con parsimonia)",
+      "liderAlias": "Maca I / Pasquale",
+      "stats": {
+        "messageCount": 6896,
+        "wordCount": 44486,
+        "avgWordsPerMessage": 6.5,
+        "memberSince": 2013,
+        "peakYear": 2015,
+        "peakYearMessages": 1360,
+        "favoriteHour": 19,
         "rank": 6
       }
     },
@@ -107,22 +135,33 @@
       "emoji": "🆕",
       "photo": "federico.png",
       "title": "La New Entry",
-      "description": "Arrivato nel 2025, Federico ha portato aria fresca e nuove prospettive. Segue i social più degli altri e ha già capito le dinamiche del gruppo. La pizza del Piccolo Mondo non gli è piaciuta.",
+      "description": "Comparso per la prima volta nel 2019, è diventato membro attivo nel 2025 portando aria fresca e nuove prospettive. Segue i social più degli altri e ha già capito le dinamiche del gruppo. La pizza del Piccolo Mondo non gli è piaciuta.",
       "traits": ["Social media savvy", "Padre di Livia", "Critico gastronomico", "Integrato"],
       "catchphrase": "Seguite poco i social allora",
       "superpower": "Inserirsi nelle discussioni con tempismo perfetto",
       "weakness": "Le gare di Livia che lo portano lontano da Siena",
       "stats": {
-        "messageCount": 370,
-        "favoriteEmoji": "😊",
-        "avgWordsPerMessage": 7.6,
+        "messageCount": 391,
+        "wordCount": 3045,
+        "avgWordsPerMessage": 7.8,
+        "memberSince": 2019,
+        "peakYear": 2025,
+        "peakYearMessages": 325,
+        "favoriteHour": 19,
         "rank": 7
       }
     }
   ],
   "groupDynamics": {
     "description": "Un gruppo di amici toscani (con qualche infiltrato) che condivide la passione per l'aperitivo, il poker, e soprattutto per prendersi in giro. Le dinamiche sono quelle di vecchi amici: si organizzano uscite che poi saltano, si discute di tutto dal fantacalcio alla filosofia, e ci si lamenta di non vedersi mai abbastanza.",
+    "founded": "Dicembre 2013",
+    "totalMessages": 61166,
+    "peakYear": {
+      "year": 2015,
+      "messages": 11260,
+      "note": "L'anno d'oro del gruppo"
+    },
     "subgroups": ["I nottambuli (Adriano, Alessio V)", "Gli organizzatori frustrati (Fausto)", "I saggi silenziosi (Alessio M, Giacomo)"]
   },
-  "generatedAt": "2026-01-18T12:00:00"
+  "generatedAt": "2026-01-19T12:00:00"
 }
