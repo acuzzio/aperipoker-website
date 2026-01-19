@@ -4,105 +4,121 @@
   "startDate": "2023-03-27",
   "endDate": "2023-04-02",
   "stats": {
-    "totalMessages": 33,
-    "activeMembers": 6,
-    "avgPerMember": 5.5
+    "totalMessages": 34,
+    "activeMembers": 5,
+    "avgPerMember": 6.8
   },
-  "riassunto": "Settimana tranquilla di transizione. Compiti scolastici in Italia 'porca madonna'. La nipote di Cosimo al concerto di Max Pezzali: 'Standing ovation' e 'La Dura Legge del Gol' colonna sonora della felicita. Sinner 'è arrivato' secondo Cosimo. Cambio data cena: dal 19 aprile si cerca nuova data (26? 27? 24? 28?). Federer '4 figli, due coppie di gemelli, due doppi falli di fila'.",
+  "riassunto": "Settimana tranquilla ma densa di temi. Si apre con Adriano che condivide un articolo sui compiti a scuola in Italia, scatenando la solidarieta' di Giacomo ('Noi siamo gia in lotta con i compiti'). Cosimo deve fare 'change' sulla serata prevista per il 19 a causa di una riunione aziendale con cena, e si apre un negoziato diplomatico sulle nuove date tra 24, 26, 27 e 28 aprile. Nessuno e' d'accordo e la serata finisce nel limbo. Adriano dedica un tributo commovente a Max Pezzali dopo che Cosimo racconta della nipote al concerto, definendo 'La Dura Legge del Gol' colonna sonora di uno dei periodi piu' felici della sua vita. La settimana si chiude con Cosimo che lancia il colpo di Sinner contro Alcaraz ('Adri mi sa che e' arrivato il Sinner') e Adriano che risponde con una lectio magistralis su Federer e Nadal come modelli di campioni dentro e fuori dal campo.",
   "bestQuotes": [
+    {
+      "quote": "Naturalmente Max pezzali riesce a unire grandi e piccini, non lo dimentichiamo mai. Uno dei periodi piu' felici della mia vita ha avuto come colonna sonora l'album la Dura legge del gol. Immensi tutti",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Adriano si lascia andare a un momento di nostalgia pura dopo la notizia della nipote di Cosimo al concerto di Pezzali"
+    },
+    {
+      "quote": "Ho una cazzo di riunione con cena",
+      "author": "Cosimo Nenciòni",
+      "context": "Cosimo annuncia il motivo del change con la delicatezza che lo contraddistingue"
+    },
     {
       "quote": "Federer 4 figli (due coppie di gemelli, praticamente ha fatto due doppi falli di fila)",
       "author": "Adriano Sergio Lorenzo Facchini",
-      "context": "Sulla vita perfetta di Federer"
+      "context": "Battuta tennistica di Adriano sulla famiglia di Federer - quando il campionismo si mescola alle metafore sportive"
     },
     {
-      "quote": "Non lo dire a Pietro eh, mi raccomando. Noi siamo già in lotta con i compiti",
+      "quote": "Adri mi sa che e' arrivato il Sinner",
+      "author": "Cosimo Nenciòni",
+      "context": "Cosimo profetizza l'ascesa di Sinner dopo il rovescio contro Alcaraz a Miami"
+    },
+    {
+      "quote": "Non lo dire a Pietro eh, mi raccomando",
       "author": "Giacomo Dolfi",
-      "context": "Sull'articolo dei compiti in Italia"
-    },
-    {
-      "quote": "Una chiamata vocazionale nelle brigate della giornata mondiale della gioventù cattolica. 'Max, sono qui, seguirò il tuo credo'",
-      "author": "Fausto Petrini",
-      "context": "Sulla nipote di Cosimo al concerto di Pezzali"
+      "context": "Giacomo risponde ironicamente all'articolo sui troppi compiti, riferendosi probabilmente al figlio"
     }
   ],
   "pagelle": [
     {
-      "name": "Adriano Sergio Lorenzo Facchini",
+      "name": "Cosimo Nenciòni",
       "voto": 8.0,
-      "giudizio": "Articolo sui compiti in Italia: 'Lo dico da sempre porca madonna'. Standing ovation per Max Pezzali: 'La Dura Legge del Gol uno dei periodi più felici della mia vita'. Su Sinner: 'Però non si deve rovinare'. La battuta sui doppi falli di Federer è memorabile.",
-      "messaggi": 10,
-      "mediaGiornaliera": 1.4,
+      "giudizio": "Il provocatore raffinato questa settimana ha dominato con la sua consueta efficienza. Ha gestito il change della serata con la diplomazia di un ministro degli esteri ('Ho una cazzo di riunione con cena'), ha condiviso il momento familiare della nipote al concerto di Pezzali ('Semmai non ci sente') e ha profetizzato l'arrivo di Sinner con un link sul rovescio mortale contro Alcaraz. Tanti messaggi ma tutti centrati.",
+      "messaggi": 12,
+      "mediaGiornaliera": 1.7,
       "highlights": [
-        "Battuta doppi falli Federer",
-        "Elogio Max Pezzali"
+        "Ha lanciato e gestito la discussione sul change della serata",
+        "Momento zio affettuoso con la nipote al concerto di Pezzali",
+        "Profezia su Sinner che si rivela azzeccatissima col senno di poi"
       ],
-      "citazioneTop": "Praticamente ha fatto due doppi falli di fila"
+      "citazioneTop": "Adri mi sa che e' arrivato il Sinner"
     },
     {
-      "name": "Cosimo Nenciòni",
-      "voto": 7.5,
-      "giudizio": "'Adri mi sa che è arrivato il Sinner'. Nipote al concerto di Pezzali: 'Semmai non ci sente'. Deve cambiare data cena per riunione. 'Qualcuno sta guardando Propaganda?'. Link Eurosport di qualità. Regista del calendario.",
-      "messaggi": 10,
-      "mediaGiornaliera": 1.4,
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 8.0,
+      "giudizio": "Il re della chat ha dispensato perle di saggezza tutta la settimana. Dalla crociata sui compiti a scuola ('Lo dico da sempre...porca madonna') al tributo commosso a Max Pezzali che rasenta la poesia. Ha chiuso in bellezza con la battuta sui 'due doppi falli di fila' di Federer e una lezione di vita su come i veri campioni sono modelli anche fuori dal campo. Standing ovation meritata.",
+      "messaggi": 8,
+      "mediaGiornaliera": 1.1,
       "highlights": [
-        "Profezia su Sinner",
-        "Nipote al concerto Pezzali"
+        "Tributo emozionante a Max Pezzali e La Dura Legge del Gol",
+        "Battuta geniale sui gemelli di Federer come doppi falli",
+        "Ha sollevato il tema dei compiti a scuola scatenando il dibattito"
       ],
-      "citazioneTop": "Adri mi sa che è arrivato il Sinner"
+      "citazioneTop": "Federer 4 figli (due coppie di gemelli, praticamente ha fatto due doppi falli di fila)"
     },
     {
       "name": "Fausto Petrini",
-      "voto": 7.0,
-      "giudizio": "'26 si, 27 no'. '24 no, so in Spagna'. La battuta sulle brigate della gioventù cattolica per Max Pezzali. 'Non da buttare' sull'articolo dei compiti. Logistico e ironico.",
+      "voto": 6.5,
+      "giudizio": "Il trascinatore questa settimana era in modalita' logistica. Ha partecipato alla trattativa sulle date con la precisione di un project manager ('26 si, 27 no', 'Tutti e due sui ponti') e ha piazzato una battuta notturna sulla GMG e Max Pezzali come guida spirituale ('Max, sono qui, seguiro' il tuo credo'). Presente ma non esplosivo - settimana di ordinaria amministrazione.",
       "messaggi": 6,
       "mediaGiornaliera": 0.9,
       "highlights": [
-        "Battuta brigate cattoliche",
-        "Disponibilità date"
+        "Ha gestito il calendario con precisione svizzera",
+        "Battuta sulla chiamata vocazionale di Max Pezzali alle 2 di notte",
+        "Ha sollevato la questione del lago abbandonato da 10 anni"
       ],
-      "citazioneTop": "Una chiamata vocazionale nelle brigate della giornata mondiale della gioventù cattolica"
-    },
-    {
-      "name": "Alessio Macalùso",
-      "voto": 6.5,
-      "giudizio": "'Ok si fa change'. 'Né 26 né 27, rilancio con 24 o 28'. 'Vero' su Max Pezzali. Sempre disponibile ma con vincoli. Il mediatore pragmatico.",
-      "messaggi": 4,
-      "mediaGiornaliera": 0.6,
-      "highlights": [
-        "Proposta date alternative",
-        "Conferma Max Pezzali"
-      ],
-      "citazioneTop": "Rilancio con 24 o 28"
+      "citazioneTop": "Una chiamata vocazionale nelle brigate della giornata mondiale della gioventu' cattolica. 'Max, sono qui, seguiro' il tuo credo'"
     },
     {
       "name": "Giacomo Dolfi",
       "voto": 6.5,
-      "giudizio": "'Non lo dire a Pietro, siamo già in lotta con i compiti'. 'Io 24 e 28 non posso'. 'Roba forte' su Sinner. Il Fondatore tra compiti e tennis.",
-      "messaggi": 5,
-      "mediaGiornaliera": 0.7,
+      "giudizio": "Il Lider ha parlato poco ma bene. La battuta su Pietro e i compiti ('Non lo dire a Pietro eh, mi raccomando') e' perfetto humour genitoriale, mentre il laconico 'Roba forte' sul rovescio di Sinner condensa in due parole quello che Adriano direbbe in venti righe. Quattro messaggi, zero sprechi - economia delle parole da maestro zen.",
+      "messaggi": 4,
+      "mediaGiornaliera": 0.6,
       "highlights": [
-        "Lotta con i compiti",
-        "Apprezzamento Sinner"
+        "Battuta perfetta sui compiti e il figlio Pietro",
+        "Ha riconosciuto la grandezza del colpo di Sinner con due parole",
+        "Solidarieta' genitoriale sui compiti a scuola"
       ],
       "citazioneTop": "Non lo dire a Pietro eh, mi raccomando"
     },
     {
-      "name": "Alessio Valentini",
-      "voto": 5.5,
-      "giudizio": "Settimana silenziosa dal fronte americano. Pochi contributi ma seguace attento delle vicende del gruppo. Il fuso orario e la pressione pesano.",
-      "messaggi": 2,
-      "mediaGiornaliera": 0.3,
+      "name": "Alessio Macalùso",
+      "voto": 6.0,
+      "giudizio": "Lo zen master ha dispensato il suo consueto minimalismo. 'Ok si fa change' - tre parole, problema risolto. Ha difeso l'onore di Pezzali con un essenziale 'Vero' e ha rilanciato con date alternative (24 o 28) dimostrando spirito costruttivo. Pochi interventi ma sempre funzionali - quando Alessio Mac parla, il gruppo ascolta.",
+      "messaggi": 4,
+      "mediaGiornaliera": 0.6,
       "highlights": [
-        "Presenza silenziosa"
+        "Ha risolto il change con tre parole",
+        "Ha proposto date alternative in modo costruttivo",
+        "Solidarieta' silenziosa su Max Pezzali"
+      ],
+      "citazioneTop": "Rilancio con 24 o 28"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 3.0,
+      "giudizio": "Il giramondo era probabilmente perso in qualche fuso orario improbabile o alle prese con internet di merda da qualche parte esotica. Zero messaggi in tutta la settimana, nemmeno un segno di vita. Fantasma totale - speriamo fosse in spiaggia a godersi la vita, altrimenti non ci sono scuse.",
+      "messaggi": 0,
+      "mediaGiornaliera": 0,
+      "highlights": [
+        "Assente ingiustificato per tutta la settimana",
+        "Probabilmente in un posto senza wifi"
       ],
       "citazioneTop": null
     }
   ],
   "awards": {
-    "mvp": "Adriano Sergio Lorenzo Facchini",
-    "comico": "Fausto Petrini",
-    "cuore": "Cosimo Nenciòni",
-    "fantasma": "Alessio Valentini"
+    "mvp": "Cosimo Nenciòni - Ha guidato le discussioni, profetizzato Sinner e condiviso momenti familiari",
+    "comico": "Adriano Sergio Lorenzo Facchini - I 'due doppi falli di fila' di Federer sono da standing ovation",
+    "cuore": "Adriano Sergio Lorenzo Facchini - Il tributo a Max Pezzali e' pura nostalgia condivisa",
+    "fantasma": "Alessio Valentini - Zero messaggi, scomparso nel nulla"
   }
 }

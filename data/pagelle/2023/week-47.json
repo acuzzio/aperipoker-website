@@ -4,106 +4,122 @@
   "startDate": "2023-11-20",
   "endDate": "2023-11-26",
   "stats": {
-    "totalMessages": 148,
+    "totalMessages": 92,
     "activeMembers": 6,
-    "avgPerMember": 24.7
+    "avgPerMember": 15.3
   },
-  "riassunto": "SETTIMANA EPICA: pranzo Aperipoker, ChatGPT e COPPA DAVIS! Pranzo storico a Firenze con Adriano, Cocco, Fausto e Alessio V. Adriano scrive messaggio commovente: 'Quella sensazione che tutto sia sempre uguale, che il tempo non modifichi nulla. Anni che non ci vediamo e si ha la sensazione di essersi visto la sera prima'. Alessio V. usa ChatGPT per riscriverlo con Vasco Rossi, Valentino Rossi e il tennis! Mac scrive poesia per Adriano: 'Nel futuro come un faro luminoso, Adriano si erge, leader maestoso'. ADRIANO NUOVO LIDER! Poi ChatGPT war: Adriano scrive storie su Fausto invidioso, rancoroso. Fausto risponde: 'Te ricorda che quando hai bisogno io ci sono sempre'. Organizzazione cena 15 dicembre, zona Valdarno. Cocco: 'Noi dobbiamo spendere almeno 60 euro a testa, siamo upper class'. E poi COPPA DAVIS! Adriano a Malaga per la finale. Italia vs Serbia: 'Significa vedere Djokovic vs Sinner'. 'Sinner ribatte Djokovic'. Finale vs Australia: 'Se andiamo al doppio siamo fottuti'. ITALIA VINCE! Cocco: 'Godete ragazzi'. Adriano: 'Due alieni'. Biliardino americano: 'Da questo dettaglio si denota che siano un popolo di merda'.",
+  "riassunto": "Settimana memorabile che inizia con un pranzo tra amici (Adriano, Cosimo, Fausto e Alessio V.) e si conclude con la storica vittoria dell'Italia in Coppa Davis. Adriano apre martedi' con un messaggio commovente sull'amicizia che non conosce il tempo, scatenando l'ironia generale quando chiede a ChatGPT di riscriverlo meglio. Da li' parte la follia: Alessio V. fa riscrivere i messaggi di Adriano aggiungendo riferimenti al tennis, Alessio M. compone una poesia che incorona Adriano 'lider', e Adriano risponde con racconti morali su Fausto generati dall'IA, parlando di invidia, sconfitte e rancore. Nel frattempo si organizza la cena di dicembre con le solite dinamiche: Giacomo non puo', Cosimo 'in linea di max' ha altre 3 cene e sara' 'inculato da Renata'. Il culmine e' il weekend a Malaga dove Adriano ed Elena assistono alla finale di Coppa Davis: Sinner batte Djokovic, l'Italia vince contro l'Australia, e il gruppo vive la partita a distanza con aggiornamenti in tempo reale e invidia collettiva.",
   "bestQuotes": [
     {
-      "quote": "Quella sensazione che tutto sia sempre uguale, che il tempo non modifichi nulla. Anni che non ci vediamo e si ha la sensazione di essersi visto la sera prima",
+      "quote": "Quella sensazione che tutto sia sempre uguale, che il tempo non modifichi nulla. Anni, settimane e mesi che magari non ci vediamo e si ha la sensazione di essersi visto la sera prima.",
       "author": "Adriano Sergio Lorenzo Facchini",
-      "context": "Sul pranzo Aperipoker"
+      "context": "Messaggio poetico post-pranzo che ha commosso il gruppo"
     },
     {
-      "quote": "Nel futuro come un faro luminoso, Adriano si erge, leader maestoso",
-      "author": "Alessio Macalùso",
-      "context": "Investitura ChatGPT"
+      "quote": "Noi abbiamo Sinner e loro no.",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Analisi tecnica perfetta pre-finale Davis"
     },
     {
-      "quote": "Noi dobbiamo spendere almeno 60 euro a testa. Siamo upper class",
+      "quote": "Noi dobbiamo spendere almeno 60 euro a testa. Siamo upper class.",
       "author": "Cosimo Nenciòni",
-      "context": "Sulla cena Aperipoker"
+      "context": "Risposta alla proposta di cenare alla cena della squadra di calcio del figlio di Giacomo"
+    },
+    {
+      "quote": "Ho almeno altre 3 cene e saro' inculato da Renata ma cerco di esserci",
+      "author": "Cosimo Nenciòni",
+      "context": "La tipica disponibilita' condizionata di Cosimo"
+    },
+    {
+      "quote": "E forse per questo puoi ambire ad essere lider...",
+      "author": "Fausto Petrini",
+      "context": "Risposta al messaggio sentimentale di Adriano - profetica"
     }
   ],
   "pagelle": [
     {
       "name": "Adriano Sergio Lorenzo Facchini",
-      "voto": 9.5,
-      "giudizio": "IL NUOVO LIDER! Messaggio commovente sul pranzo. A Malaga per la Coppa Davis! 'Significa vedere Djokovic vs Sinner'. 'Sinner ribatte Djokovic. Due alieni. Indescrivibile'. ChatGPT war con storie su Fausto. 'Anche da questo dettaglio sui biliardini si denota che siano un popolo di merda'. 'Se andiamo al doppio siamo fottuti'. 'E ora Sinnerino'. Protagonista assoluto.",
-      "messaggi": 42,
-      "mediaGiornaliera": 6.0,
+      "voto": 9.0,
+      "giudizio": "Protagonista assoluto della settimana su tutti i fronti. Apre con un messaggio sull'amicizia che avrebbe fatto piangere Leopardi, poi ammette candidamente di volerlo far riscrivere da ChatGPT. Si vendica su Fausto con tre racconti moralistici generati dall'IA dove il povero Fausto viene descritto come invidioso, incapace di accettare le sconfitte, e pieno di rancore. Ciliegina sulla torta: e' a Malaga per la finale di Coppa Davis e commenta in tempo reale Italia-Serbia e la finale contro l'Australia. Invidiatissimo.",
+      "messaggi": 35,
+      "mediaGiornaliera": 5.8,
       "highlights": [
-        "Nuovo Lider",
-        "Coppa Davis Malaga"
+        "Il messaggio poetico sull'amicizia eterna",
+        "I tre racconti ChatGPT che demoliscono Fausto",
+        "Telecronaca live dalla finale di Coppa Davis"
       ],
-      "citazioneTop": "Quella sensazione che tutto sia sempre uguale, che il tempo non modifichi nulla"
+      "citazioneTop": "Noi abbiamo Sinner e loro no"
     },
     {
       "name": "Cosimo Nenciòni",
-      "voto": 8.5,
-      "giudizio": "'Ti si vole bene Adri'. 'La parte di Malaga mi fa taja'!'. 'Amo fatto late' su OpenAI. 'Noi dobbiamo spendere almeno 60 euro a testa, siamo upper class'. 'Salvo contrordini potrei non venire'. 'Mi piace il ruolo dell'anziano' su ChatGPT. Segue Davis: 'Siamo carichi? Gliela famo?'. 'Godete ragazzi'. Presente e entusiasta.",
-      "messaggi": 26,
-      "mediaGiornaliera": 3.7,
+      "voto": 8.0,
+      "giudizio": "Il Provocatore Raffinato colpisce ancora con la sua sintesi letale. 'Ti si vole bene adri' e' l'unica risposta possibile al pippone sentimentale. Quando Giacomo propone di unirsi alla cena della squadra di calcio del figlio, risponde con aristocratico distacco: 'Siamo upper class'. Segue la partita di tennis con trasporto emotivo, tra 'Diobonino' per i servizi sbagliati e 'Godete ragazzi' alla vittoria. La parte di Malaga lo fa 'taja'.",
+      "messaggi": 18,
+      "mediaGiornaliera": 3.0,
       "highlights": [
-        "Upper class",
-        "Tifo Davis"
+        "L'affettuoso 'Ti si vole bene adri'",
+        "La dichiarazione upper class sulla cena",
+        "'Che buconi siete' - l'invidia per chi e' a Malaga"
       ],
-      "citazioneTop": "Noi dobbiamo spendere almeno 60 euro a testa. Siamo upper class"
+      "citazioneTop": "Noi dobbiamo spendere almeno 60 euro a testa. Siamo upper class."
     },
     {
       "name": "Alessio Valentini",
-      "voto": 8.5,
-      "giudizio": "'Come lo vuoi? Piu' dolce?'. Usa ChatGPT per riscrivere con tennis, Roland Garros! 'Pasquale io non capisco perche' domandi, queste cose sono scandalose'. 'Tremendissimo' sulle storie di Fausto. 'Finalmente ChatGPT in una chat italiana'. 'Ma in America i biliardini che hanno 3 difensori?'. 'Sanno una sega cos'e' il calcio'. 'Io sono qua a vedere la partita con Renato'. Creativo e critico.",
-      "messaggi": 24,
-      "mediaGiornaliera": 3.4,
+      "voto": 7.5,
+      "giudizio": "Presente al pranzo dell'amicizia e attivo nel trollaggio di gruppo. E' lui a chiedere a ChatGPT di riscrivere il messaggio di Adriano aggiungendo riferimenti al tennis, creando un capolavoro di nonsense con 'balletto di cocaina' e 'Roland Garros'. Scopre che i biliardini americani hanno 3 difensori nella riga del portiere e ne trae conclusioni definitive sul popolo americano: 'sottosviluppati'. Guarda la finale Davis con Renato mentre il gruppo la vive a distanza.",
+      "messaggi": 15,
+      "mediaGiornaliera": 2.5,
       "highlights": [
-        "ChatGPT creativo",
-        "Biliardini americani"
+        "Il messaggio ChatGPT con riferimenti al tennis random",
+        "L'analisi antropologica sui biliardini americani",
+        "'Pasquale io non capisco perche' domandi' - sulla cena"
       ],
-      "citazioneTop": "Queste cose sono scandalose, come non puoi cena aperipoker?"
+      "citazioneTop": "Come lo vuoi? piu' dolce?"
     },
     {
       "name": "Alessio Macalùso",
-      "voto": 8.5,
-      "giudizio": "Il Lider che abdica con stile! Poesia ChatGPT per Adriano: 'Nel futuro come un faro luminoso, Adriano si erge, leader maestoso'. 'Sarebbe il caso di fissare sta cena'. '6 dicembre' poi '15'. 'Che e' successo? Avete litigato ragazzi?' sulle storie. 'Che poi essendo lider non e' ignoranza, e' piu' umilta''. Maestro cerimoniere fino all'ultimo.",
-      "messaggi": 16,
-      "mediaGiornaliera": 2.3,
+      "voto": 7.5,
+      "giudizio": "Si sveglia dal letargo con un 'Buongiorno ragazzi, scusate l'assenza' e subito propone di organizzare la cena in Valdarno. Compone una poesia epica su Adriano generata da ChatGPT che lo incorona 'lider maestoso' tra tennis, moto e restauro mobili. Quando Adriano e Fausto iniziano a scambiarsi racconti moralistici, chiede preoccupato 'Che e' successo? Avete litigato ragazzi?' con candore zen. Chiude con 'essendo lider non e' proprio ignoranza e' piu' umilta'' - momento di saggezza involontaria.",
+      "messaggi": 10,
+      "mediaGiornaliera": 1.7,
       "highlights": [
-        "Poesia Adriano",
-        "Organizza cena"
+        "La poesia epica su Adriano lider",
+        "'Che e' successo? Avete litigato?' - candore totale",
+        "Organizzazione della cena del 15 dicembre"
       ],
-      "citazioneTop": "Nel futuro come un faro luminoso, Adriano si erge, leader maestoso"
+      "citazioneTop": "Che poi essendo lider non e' proprio ignoranza e' piu' umilta'"
     },
     {
       "name": "Fausto Petrini",
-      "voto": 8.0,
-      "giudizio": "'E forse per questo puoi ambire ad essere lider...'. 'Scarichi la 3.5, ma poi puoi upgradeare'. Risposta nobile alle storie: 'Te ricorda sempre che quando hai bisogno io ci sono sempre. Fai pure affidamento su di me'. 'Bisogna vinca ora via'. 'Bravo Panatta eh, chiamatele...'. 'Preso a pallate'. Nobile e appassionato di tennis.",
-      "messaggi": 18,
-      "mediaGiornaliera": 2.6,
+      "voto": 7.0,
+      "giudizio": "Vittima designata dei racconti moralistici di Adriano, ma la prende con sportivita'. Dopo essere stato descritto come invidioso, incapace di accettare le sconfitte e pieno di rancore, risponde con eleganza: 'Te ricorda sempre, Adri, che quando hai bisogno io ci sono sempre'. E' il primo a rispondere OK alla proposta della cena. Durante la finale Davis propone battute su Panatta e mantiene vivo l'entusiasmo collettivo. L'investitura di Adriano come lider ('E forse per questo puoi ambire...') era profetica.",
+      "messaggi": 10,
+      "mediaGiornaliera": 1.7,
       "highlights": [
-        "Risposta nobile",
-        "Tifo Davis"
+        "La sportivita' dopo i racconti ChatGPT contro di lui",
+        "'Bisogna vinca ora via' - italiano creativo pre-finale",
+        "'Si veniva anche noi scusa' - sulla cena della squadra"
       ],
-      "citazioneTop": "Te ricorda sempre che quando hai bisogno io ci sono sempre"
+      "citazioneTop": "Te ricorda sempre, Adri, che quando hai bisogno io ci saro' sempre"
     },
     {
       "name": "Giacomo Dolfi",
-      "voto": 7.5,
-      "giudizio": "'Io il 6 non posso'. 'Eh...cena della squadra di Pietro Dolfi portiere'. Condivide menu cena calcio. 'Manca me'. 'Anche per me il 15 ok'. 'Venite!' alla cena. 'Verità assoluta'. 'Grande Adri! Godetevela!' sulla Davis. 'Immagino il godimento!'. Impegnato ma presente.",
-      "messaggi": 14,
-      "mediaGiornaliera": 2.0,
+      "voto": 6.5,
+      "giudizio": "Il Fondatore interviene principalmente per questioni logistiche: non puo' il 6, OK per il 15. Quando propone di unire le cene (quella Aperipoker con quella della squadra di calcio del figlio Pietro portiere), viene elegantemente respinto dal gruppo. Momenti di gloria durante la finale Davis con 'Super!', 'Manna foto' e 'Immagino il godimento a vedere questa partita!'. Chiude con un affettuoso 'Grande Adri! Godetevela!' che riassume l'invidia collettiva.",
+      "messaggi": 10,
+      "mediaGiornaliera": 1.7,
       "highlights": [
-        "Cena Pietro",
-        "Tifo Davis"
+        "La proposta di cena congiunta respinta",
+        "'Manna foto' - richiesta di contenuti da Malaga",
+        "L'entusiasmo per la finale Davis"
       ],
-      "citazioneTop": "Immagino il godimento a vedere questa partita!"
+      "citazioneTop": "Grande Adri! Godetevela!"
     }
   ],
   "awards": {
-    "mvp": "Adriano Sergio Lorenzo Facchini",
-    "comico": "Alessio Valentini",
-    "cuore": "Alessio Macalùso",
-    "fantasma": null
+    "mvp": "Adriano Sergio Lorenzo Facchini - Ha dominato la settimana tra messaggi poetici, vendette via ChatGPT e telecronaca live dalla finale Davis",
+    "comico": "Cosimo Nenciòni - 'Siamo upper class' e 'La parte di Malaga mi fa taja' sono momenti di comicita' pura",
+    "cuore": "Fausto Petrini - Ha incassato tre racconti moralistici devastanti con eleganza e ha risposto con affetto sincero",
+    "fantasma": "Federico Ceccuzzi - Nel 2023 non era ancora nel gruppo, quindi nessun vero fantasma questa settimana"
   }
 }

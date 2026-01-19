@@ -4,105 +4,125 @@
   "startDate": "2023-06-05",
   "endDate": "2023-06-11",
   "stats": {
-    "totalMessages": 84,
+    "totalMessages": 62,
     "activeMembers": 6,
-    "avgPerMember": 14.0
+    "avgPerMember": 10.3
   },
-  "riassunto": "Settimana dell'avvocato incompetente e della teoria del complotto! Alessio V. furioso: 'Il mio avvocato mi dice OGGI che NON HA APPLICATO PER IL MIO TRAVEL PERMIT... sono incazzato NERO'. Costa 6000 dollari per la Green Card, 15000 in coppia. Adriano: 'Io spero che una civiltà superiore stermini solo gli abitanti degli USA'. Discussione sulla profilazione: 'Non ho mai nominato Panerai negli ultimi mesi. L'ho solo pensato'. Fausto: 'Cmq ci ascoltano'. Cocco cita Danny De Vito in The Rainmaker. Mac: 'Quindi cena aperipoker a Natale?' Se Alessio V. torna a dicembre 'è grassa'.",
+  "riassunto": "Settimana elettrica dominata dal dramma burocratico americano di Alessio Valentini: il suo avvocato 'dimentica' di applicare per il travel permit della Green Card, scatenando una crisi esistenziale in diretta chat. Dopo ore di insulti e bestemmie collettive, colpo di scena: l'avvocato aveva ragione, era solo una serie di sfortunate coincidenze. Nel frattempo, Adriano apre un dibattito filosofico sulla profilazione pubblicitaria (gli appaiono pubblicita di orologi Panerai senza averli mai cercati - 'ci ascoltano'), Cosimo condivide la perla satirica su Spalletti e gli ultras, e la settimana si chiude con la finale di Champions Inter-Manchester City, con Alessio che confessa di non capire come ci si possa appassionare al calcio. Il gruppo dimostra solidarieta vera nei momenti di difficolta, alternando supporto emotivo a insulti coloriti all'avvocato americano.",
   "bestQuotes": [
     {
-      "quote": "Il mio avvocato mi dice OGGI che NON HA APPLICATO PER IL MIO TRAVEL PERMIT... sono incazzato NERO",
+      "quote": "Allora ragazzi il mio avvocato mi dice OGGI che NON HA APPLICATO PER IL MIO TRAVEL PERMIT",
       "author": "Alessio Valentini",
-      "context": "Sfogo sull'avvocato"
+      "context": "L'inizio del dramma americano, tutto in maiuscolo come si conviene"
     },
     {
-      "quote": "Io spero che una civiltà superiore venuta da lontano stermini solo gli abitanti degli USA",
-      "author": "Adriano Sergio Lorenzo Facchini",
-      "context": "Solidarietà con Alessio V."
+      "quote": "sono incazzato NERO",
+      "author": "Alessio Valentini",
+      "context": "Due parole che racchiudono tutta la frustrazione di un emigrato"
     },
     {
-      "quote": "Non ho mai nominato Panerai negli ultimi mesi. L'ho solo pensato",
+      "quote": "Ma gnomo via.... MA VIAAAAAAA. Mongolo di merda",
+      "author": "Fausto Petrini",
+      "context": "La reazione toscanissima e solidale alla notizia dell'avvocato incapace"
+    },
+    {
+      "quote": "Io spero che una civilta superiore venuta da lontano stermini solo gli abitanti degli usa",
       "author": "Adriano Sergio Lorenzo Facchini",
-      "context": "Sulla profilazione e le pubblicità"
+      "context": "Soluzione radicale al problema dell'immigrazione americana, con clausola di esclusione per gli amici"
+    },
+    {
+      "quote": "guarda che io mi sono sposato praticamente solo per questo",
+      "author": "Alessio Valentini",
+      "context": "Rivelazione matrimoniale che nessuno aveva chiesto ma tutti sospettavano"
+    },
+    {
+      "quote": "Come fa la gente a guardare e appassionarsi a questo sport",
+      "author": "Alessio Valentini",
+      "context": "L'americanizzazione e completa: non capisce piu il calcio"
     }
   ],
   "pagelle": [
     {
-      "name": "Adriano Sergio Lorenzo Facchini",
-      "voto": 8.5,
-      "giudizio": "Video che 'mi fa impazzire'. 'Non ho mai nominato Panerai, l'ho solo pensato' - teoria del complotto. 'Io spero che una civiltà superiore stermini solo gli abitanti degli USA'. '6 mila dollari per fare cosa nel dettaglio?!?!' Molto preciso il tuo avvocato'. Solidale e complottista.",
-      "messaggi": 28,
-      "mediaGiornaliera": 4.0,
+      "name": "Alessio Valentini",
+      "voto": 9.0,
+      "giudizio": "PROTAGONISTA ASSOLUTO della settimana. Il giramondo ci ha regalato un arco narrativo completo: dalla rabbia cieca verso l'avvocato ('sono incazzato NERO') alla rivelazione shock sul matrimonio di convenienza burocratica, fino alla redenzione quando scopre che l'avvocato aveva ragione. Ha tenuto il gruppo col fiato sospeso meglio di una serie Netflix. Bonus: la confessione sull'incomprensione del calcio durante la finale Champions dimostra che l'espatrio ha lasciato segni profondi.",
+      "messaggi": 19,
+      "mediaGiornaliera": 2.7,
       "highlights": [
-        "Teoria profilazione",
-        "Solidarietà con Alessio V."
+        "Ha trasformato una disavventura burocratica in un evento mediatico di gruppo",
+        "Ha rivelato che il matrimonio era anche per la Green Card (15000 dollari!)",
+        "Si e scusato con l'avvocato dopo averlo massacrato - raro momento di maturita"
       ],
-      "citazioneTop": "Io spero che una civiltà superiore venuta da lontano stermini solo gli abitanti degli USA"
+      "citazioneTop": "sono incazzato NERO"
     },
     {
-      "name": "Alessio Valentini",
+      "name": "Adriano Sergio Lorenzo Facchini",
       "voto": 8.0,
-      "giudizio": "Sfogo epico sull'avvocato: 'NON HA APPLICATO PER IL MIO TRAVEL PERMIT'. 'Sono così incazzato che ho preso giorno di ferie'. 'Era quello che costava meno, ovviamente. Solo 6 mila dollari'. 'Mi sono sposato praticamente solo per questo'. 'Se torno a Dicembre è grassa'. Momento difficile.",
-      "messaggi": 22,
-      "mediaGiornaliera": 3.1,
+      "giudizio": "Il Re della Chat ha fatto quello che gli riesce meglio: essere presente, sempre, ovunque. Ha aperto la settimana con un video 'che lo fa impazzire', ha condotto un processo sul marketing invasivo ('Non ho mai nominato Panerai, l'ho solo pensato'), e soprattutto ha supportato Alessio V con la giusta dose di indignazione. La proposta di sterminio alieno selettivo degli americani dimostra creativita nel problem-solving.",
+      "messaggi": 20,
+      "mediaGiornaliera": 2.9,
       "highlights": [
-        "Sfogo avvocato",
-        "Rivelazione matrimonio"
+        "Teoria del complotto pubblicitario: 'ci ascoltano'",
+        "Ha cercato su Google 'The Rainmaker' per capire la citazione di Cosimo",
+        "Proposta genocidio alieno come soluzione ai problemi di visto"
       ],
-      "citazioneTop": "Guarda che io mi sono sposato praticamente solo per questo"
+      "citazioneTop": "Io spero che una civilta superiore venuta da lontano stermini solo gli abitanti degli usa"
     },
     {
       "name": "Fausto Petrini",
       "voto": 7.5,
-      "giudizio": "Teoria sulla profilazione: 'Può essere che l'ha cercato il tuo amico e Google ha registrato'. 'Oppure ci ascoltano, ma dice sia fuorilegge'. 'Cmq ci ascoltano'. 'Ma gnomo via... MA VIAAAAAAA. Mongolo di merda' sull'avvocato. 'La mixmoglie me lo avrà fatto vedere 100 volte' su The Rainmaker. Complottista solidale.",
-      "messaggi": 14,
-      "mediaGiornaliera": 2.0,
-      "highlights": [
-        "Teoria profilazione",
-        "Solidarietà con Alessio V."
-      ],
-      "citazioneTop": "Cmq ci ascoltano"
-    },
-    {
-      "name": "Cosimo Nenciòni",
-      "voto": 7.0,
-      "giudizio": "'Un cocktail Martini per me'. Articolo su Spalletti: 'Fenomenali'. 'Mi fa pensare a Danny De Vito in The Rainmaker' sull'avvocato. 'Due giganti'. 'Vero. Cmq io ne ho viste di peggiori' sul calcio. Cinefilo e distaccato.",
+      "giudizio": "Il Trascinatore ha brillato nel ruolo di supporter emotivo con i suoi insulti coloriti all'avvocato americano. 'Ma gnomo via... MA VIAAAAAAA. Mongolo di merda' e pura poesia toscana della solidarieta. Ha anche dimostrato competenze insospettate sulla profilazione pubblicitaria e sui cookie. Nota: la 'mixmoglie' che gli ha fatto vedere The Rainmaker 100 volte resta un mistero.",
       "messaggi": 10,
       "mediaGiornaliera": 1.4,
       "highlights": [
-        "Citazione The Rainmaker",
-        "Commento calcio"
+        "Insulti all'avvocato che valgono oro",
+        "Esperto di privacy e geolocalizzazione",
+        "La 'mixmoglie' e le 100 visioni di The Rainmaker"
+      ],
+      "citazioneTop": "Ma gnomo via.... MA VIAAAAAAA"
+    },
+    {
+      "name": "Cosimo Nencioni",
+      "voto": 7.0,
+      "giudizio": "Il Provocatore Raffinato ha colpito pochi ma buoni. L'articolo di ChiamarsilBomber su Spalletti e gli ultras ('Fenomenali') e contenuto di qualita. La citazione di Danny De Vito in The Rainmaker per descrivere l'avvocato di Alessio e di un livello intellettuale superiore, tanto che Adriano ha dovuto googlare. Poche parole, tutte centrate.",
+      "messaggi": 6,
+      "mediaGiornaliera": 0.9,
+      "highlights": [
+        "Link satirico su Spalletti perfettamente centrato",
+        "Citazione cinefila di alto livello su The Rainmaker",
+        "Un cocktail martini per me - stile"
       ],
       "citazioneTop": "Mi fa pensare a Danny De Vito in The Rainmaker"
     },
     {
-      "name": "Alessio Macalùso",
-      "voto": 7.0,
-      "giudizio": "'Anche a me' sul video. 'Siete in una baita di montagna' sul bar. 'Yess' sulla Trattoria del Pesce. 'Forza Inter'. 'Quindi cena aperipoker a Natale?' - già organizza. Pratico e ottimista.",
+      "name": "Alessio Macaluso",
+      "voto": 6.0,
+      "giudizio": "Lo Zen Master ha mantenuto il suo profilo basso con interventi minimali ma significativi. 'Anche a me' in risposta al video di Adriano, un 'Yess' di conferma, un emoji di solidarieta per Alessio V, e poi il colpo di genio: 'Quindi cena aperipoker a natale?' - trasformando il dramma dell'espatrio in un'opportunita conviviale. Pratico, essenziale, zen.",
       "messaggi": 6,
       "mediaGiornaliera": 0.9,
       "highlights": [
-        "Proposta cena Natale",
-        "Supporto Inter"
+        "Ha trasformato il problema del travel permit in una cena di Natale",
+        "Supporto silenzioso ma presente con emoji al momento giusto",
+        "Forza Inter - anche se l'Inter ha perso"
       ],
-      "citazioneTop": "Quindi cena aperipoker a Natale?"
+      "citazioneTop": "Quindi cena aperipoker a natele?"
     },
     {
       "name": "Giacomo Dolfi",
-      "voto": 6.5,
-      "giudizio": "'C'è il panino al piccione?' Presente ma con pochi contributi questa settimana. Il Fondatore silenzioso.",
-      "messaggi": 4,
-      "mediaGiornaliera": 0.6,
+      "voto": 5.0,
+      "giudizio": "Il Fondatore e apparso fugacemente come un oracolo misterioso con l'unica domanda che conta: 'C'e il panino al piccione?' - riferimento a chissa quale locale o evento che gli altri sembravano capire. Un messaggio solo, ma denso di significato. Il resto della settimana? Silenzio da patriarca che osserva dall'alto dei suoi monti poggibonsesi.",
+      "messaggi": 1,
+      "mediaGiornaliera": 0.1,
       "highlights": [
-        "Domanda sul piccione"
+        "La domanda sul panino al piccione resta un enigma"
       ],
-      "citazioneTop": "C'è il panino al piccione?"
+      "citazioneTop": "C'e il panino al piccione?"
     }
   ],
   "awards": {
-    "mvp": "Adriano Sergio Lorenzo Facchini",
+    "mvp": "Alessio Valentini",
     "comico": "Fausto Petrini",
-    "cuore": "Alessio Macalùso",
-    "fantasma": null
+    "cuore": "Adriano Sergio Lorenzo Facchini",
+    "fantasma": "Giacomo Dolfi"
   }
 }

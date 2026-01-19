@@ -4,106 +4,122 @@
   "startDate": "2023-03-13",
   "endDate": "2023-03-19",
   "stats": {
-    "totalMessages": 105,
+    "totalMessages": 108,
     "activeMembers": 6,
-    "avgPerMember": 17.5
+    "avgPerMember": 18.0
   },
-  "riassunto": "Settimana della cucina e della salute! Adriano manda foto di cibo 'Sembra Chappy' (Alessio V.: 'Ma non capisco perché manda le foto se non cucina lui'). Training autogeno proposto da Fausto per la pressione alta. 'Se bevo sto male, se fumo abbaio' - Adriano paga il prezzo degli stravizi. Cena aperipoker confermata per il 24. Nardella 'Chuck Norris de noartri' dopo aver fermato un attivista.",
+  "riassunto": "Settimana intensa che inizia con una discussione gastronomica: Adriano manda foto di cibo e viene subito smascherato da Cosimo e Alessio V. che gli ricordano che cucina la moglie, lui 'assembla solo' e fa le verdure al vapore con la vaporiera della nonna delle televendite. La conversazione vira poi sulla salute: Alessio V. si lamenta della pressione a 200 nonostante l'amlodipina, e Fausto da bravo santone propone il training autogeno come soluzione. Il gruppo si unisce nel lamento collettivo sull'invecchiamento ('Te paghi il prezzo degli stravizi dei 30 anni prima'). Venerdi si accende lo scontro tra Giacomo e Adriano sull'organizzazione della cena del 24: volano accuse di incompetenza organizzativa e battute sul PD, mentre Alessio M. distribuisce 'Vero tutto' a tutti creando il caos. Il weekend si conclude con la scelta democratica del ristorante La Speranza per la bistecca, mentre Nardella diventa 'Chuck Norris de noartri' per aver rincorso un attivista.",
   "bestQuotes": [
     {
-      "quote": "Anche io avrei voluto ma non digerisco più, se bevo sto male, se fumo abbaio.",
-      "author": "Adriano Sergio Lorenzo Facchini",
-      "context": "Sui malanni dell'età"
+      "quote": "Lui e' solo maestro di spaghetti aglio olio e peperoncino",
+      "author": "Cosimo Nenciòni",
+      "context": "Smontando le pretese culinarie di Adriano che manda foto di piatti elaborati"
     },
     {
-      "quote": "Nel mio caso è guarda come mangio sano e come sono monotono.",
-      "author": "Adriano Sergio Lorenzo Facchini",
-      "context": "Spiegazione delle foto di cibo"
+      "quote": "Sarebbe come se io mandassi le foto di quello che cucina Elisa...",
+      "author": "Alessio Valentini",
+      "context": "La stoccata finale sulla questione cucina di Adriano"
     },
     {
       "quote": "Veramente sei te che ti prendi la briga di organizzare le cose e poi non sei capace",
       "author": "Giacomo Dolfi",
-      "context": "Attacco ad Adriano sull'organizzazione"
+      "context": "Il Fondatore che rimette Adriano al suo posto con precisione chirurgica"
+    },
+    {
+      "quote": "Ma vero anche che Adriano e' indifendibile. Per non parlare di Fausto",
+      "author": "Alessio Macalùso",
+      "context": "Lo Zen Master che fa strage dicendo 'Vero tutto' a chiunque attacchi chiunque"
+    },
+    {
+      "quote": "Chuck Norris de noartri",
+      "author": "Cosimo Nenciòni",
+      "context": "Commento sul video di Nardella che rincorre un attivista a Palazzo Vecchio"
     }
   ],
   "pagelle": [
     {
-      "name": "Adriano Sergio Lorenzo Facchini",
-      "voto": 8.0,
-      "giudizio": "Foto del cibo di Elena scatenano dibattito: 'Io assemblo solo'. 'Cazzo! È chappy!' realizza tardi. Non digerisce, non beve, abbaia se fuma. Conferma cena con lista Speranza/Barberino/Incisa. 'La persona che mette più dubbi del mondo' (Giacomo).",
-      "messaggi": 32,
-      "mediaGiornaliera": 4.6,
+      "name": "Alessio Macalùso",
+      "voto": 8.5,
+      "giudizio": "Lo Zen Master questa settimana ha raggiunto l'illuminazione del caos. Con la sua tecnica del 'Vero tutto' ha dato ragione a tutti contro tutti, culminando nel magistrale 'Ma vero anche che Adriano e' indifendibile. Per non parlare di Fausto'. Pochi messaggi, massimo impatto. Ha anche avuto la battuta piu' sottile della settimana: '15 anni fa digeriva' riferito ad Adriano. Alla fine e' lui che decide dove si va a cena, con la saggezza di chi sa che ha 'sveglia alle 4:20'.",
+      "messaggi": 9,
+      "mediaGiornaliera": 1.3,
       "highlights": [
-        "Dibattito sulle foto di cibo",
-        "Organizzazione cena aperipoker"
+        "Il 'Vero tutto' seriale che ha fatto implodere ogni discussione",
+        "La battuta '15 anni fa digeriva' che ha fatto ridere tutti",
+        "Ha chiuso la discussione sul ristorante con pragmatismo zen"
       ],
-      "citazioneTop": "Anche io avrei voluto ma non digerisco più, se bevo sto male, se fumo abbaio."
+      "citazioneTop": "Ma vero anche che Adriano e' indifendibile. Per non parlare di Fausto"
     },
     {
       "name": "Cosimo Nenciòni",
-      "voto": 7.5,
-      "giudizio": "'Sembra Chappy' per la foto di Adriano. 'Eri così anche 15 anni fa'. 'Abbaio' quando gli chiedono che ha. Nardella 'Chuck Norris de noartri'. 'È il mago di Google calendar' per Giacomo. Condivide link di qualità.",
-      "messaggi": 26,
-      "mediaGiornaliera": 3.7,
-      "highlights": [
-        "Parallelo Chappy",
-        "Commento su Nardella"
-      ],
-      "citazioneTop": "Sembra Chappy"
-    },
-    {
-      "name": "Alessio Valentini",
-      "voto": 7.5,
-      "giudizio": "'Ma Adri hai iniziato a cucinare o è la tu citta?' indaga sulle foto. Pressione a 200, l'amlodipina 'mi fa una sega'. 'Volevo straviziare altri 30 anni. E invece no'. Propone vaporella/ferro da stiro per le verdure.",
-      "messaggi": 22,
-      "mediaGiornaliera": 3.1,
-      "highlights": [
-        "Investigazione sulle foto di cibo",
-        "Update sulla pressione"
-      ],
-      "citazioneTop": "E cmq dio cane ho pressione a 200 durante il giorno"
-    },
-    {
-      "name": "Fausto Petrini",
-      "voto": 7.5,
-      "giudizio": "Propone training autogeno per la pressione: 'Le ricadute sulla muscolatura liscia sono dimostrate'. Emoticon del dito punta in su avrà nuovo significato. Riformula proposte ristoranti con Cocco. Pragmatico e terapeutico.",
+      "voto": 8.0,
+      "giudizio": "Il Provocatore Raffinato in grande forma nonostante la malattia (abbaia). Ha smontato Adriano con chirurgica precisione ('Lui e' solo maestro di spaghetti aglio olio e peperoncino'), ha coniato 'Chuck Norris de noartri' per Nardella, e ha risposto con perfetto timing 'Vaporella' quando si parlava di vapore. Pure malato, e' piu' brillante degli altri sani. Efficienza svizzera anche con la tosse.",
       "messaggi": 16,
       "mediaGiornaliera": 2.3,
       "highlights": [
-        "Proposta training autogeno",
-        "Coordinamento ristoranti"
+        "Lo smontaggio delle pretese culinarie di Adriano",
+        "Il 'Chuck Norris de noartri' su Nardella",
+        "La conferma laconicissima della cena: 'Certo'"
       ],
-      "citazioneTop": "Hai preso in considerazione il training autogeno?"
-    },
-    {
-      "name": "Alessio Macalùso",
-      "voto": 7.0,
-      "giudizio": "'15 anni fa digeriva' - precisazione storica su Adriano. 'Vero tutto' doppio: sia a Giacomo che ad Adriano. 'Adriano è indifendibile, per non parlare di Fausto'. Aggiunge Pasqualino alla lista ristoranti.",
-      "messaggi": 12,
-      "mediaGiornaliera": 1.7,
-      "highlights": [
-        "Precisazione storica",
-        "Equidistanza nel conflitto"
-      ],
-      "citazioneTop": "Vero tutto anche che ti prendi la briga di organizzare le cose e poi non sei capace"
+      "citazioneTop": "Lui e' solo maestro di spaghetti aglio olio e peperoncino"
     },
     {
       "name": "Giacomo Dolfi",
-      "voto": 7.0,
-      "giudizio": "Chiede conferma cena scatenando polemica. 'Sei te che ti prendi la briga di organizzare e poi non sei capace' ad Adriano. 'Quando usavo Google Calendar te c'avevi da nasce!' Condivide video di Nardella. Conflittuale ma presente.",
-      "messaggi": 14,
-      "mediaGiornaliera": 2.0,
+      "voto": 7.5,
+      "giudizio": "Il Fondatore si sveglia dal letargo per chiedere conferma della cena (aveva bisogno di sapere per Lucia e il teatro, mica per dubbi esistenziali), e quando Adriano prova a prenderlo in giro gli risponde con la verita' nuda e cruda: 'sei te che ti prendi la briga di organizzare le cose e poi non sei capace'. Ha condiviso il video di Nardella che rincorre l'attivista ('Nardella uno di noi') dimostrando che il gossip politico e' il suo habitat naturale. Anche lui vota Speranza, perche' il Lider deve mangiar bene.",
+      "messaggi": 11,
+      "mediaGiornaliera": 1.6,
       "highlights": [
-        "Scontro con Adriano",
-        "Difesa della priorità alla cena"
+        "La stoccata mortale su Adriano organizzatore incapace",
+        "Il video di Nardella che ha scatenato il 'Chuck Norris'",
+        "La rivendicazione di priorita' alla cena aperipoker su tutto il resto"
       ],
       "citazioneTop": "Quando usavo google calendar te c'avevi da nasce!"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 7.0,
+      "giudizio": "Il Giramondo questa settimana si preoccupa della salute con la pressione a 200 ('L'amlodipina mi fa una sega') ma trova comunque il tempo di prendere in giro Adriano sulla cucina con la battuta della settimana: 'Sarebbe come se io mandassi le foto di quello che cucina Elisa...'. Vorrebbe straviziare altri 30 anni ma il corpo dice no. Il training autogeno di Fausto lo considera ma con scetticismo tipico di chi ha visto troppo mondo.",
+      "messaggi": 16,
+      "mediaGiornaliera": 2.3,
+      "highlights": [
+        "La battuta killer sulle foto di cucina altrui",
+        "Il dramma della pressione e dell'amlodipina inutile",
+        "Il rammarico per i 30 anni di stravizi che voleva fare"
+      ],
+      "citazioneTop": "Sarebbe come se io mandassi le foto di quello che cucina Elisa..."
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 6.5,
+      "giudizio": "Il Re della Chat inizia la settimana mandando foto di cibo cercando di far colpo, ma viene subito smascherato: 'Io assemblo solo, e faccio le verdure al vapore ed il riso'. Ammette di essere monotono e di usare la vaporiera della nonna delle televendite. Prova a provocare Giacomo ('La persona che mette piu' dubbi del mondo') ma viene demolito. Poi confessa che non digerisce piu', se beve sta male, se fuma abbaia. Almeno e' sincero. Si riscatta organizzando la votazione per il ristorante.",
+      "messaggi": 17,
+      "mediaGiornaliera": 2.4,
+      "highlights": [
+        "L'ammissione di essere solo un assemblatore culinario",
+        "La vaporiera della nonna delle televendite come simbolo di una vita",
+        "La resa incondizionata ai segni dell'eta'"
+      ],
+      "citazioneTop": "Nel mio caso e' guarda come mangio sano e come sono monotono"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 7.0,
+      "giudizio": "Il Trascinatore questa settimana veste i panni del santone del benessere, proponendo ad Alessio V. il training autogeno per la pressione alta con tanto di spiegazione sulla muscolatura liscia delle vene. Si offre pure di spiegare meglio in pvt. Poi torna organizzatore: insieme a Cocco propone i ristoranti per la bistecca (Barberino, Incisa, Speranza) e tiene viva la discussione. Instancabile nel proporre, anche se poi alla fine decide il gruppo.",
+      "messaggi": 15,
+      "mediaGiornaliera": 2.1,
+      "highlights": [
+        "La proposta del training autogeno come cura per l'ipertensione",
+        "L'organizzazione della votazione ristoranti con Cocco",
+        "L'hashtag emoticon che 'd'ora in poi vorra' dire quello...'"
+      ],
+      "citazioneTop": "Senti, ora io so che ti sembrera' una stronzata, ma hai preso in considerazione il training autogeno?"
     }
   ],
   "awards": {
-    "mvp": "Adriano Sergio Lorenzo Facchini",
-    "comico": "Cosimo Nenciòni",
-    "cuore": "Fausto Petrini",
-    "fantasma": null
+    "mvp": "Alessio Macaluso - Il 'Vero tutto' seriale che ha dato ragione a tutti contro tutti e' stata la mossa geniale della settimana",
+    "comico": "Cosimo Nenciòni - 'Chuck Norris de noartri' e lo smontaggio culinario di Adriano sono da standing ovation",
+    "cuore": "Fausto Petrini - Si preoccupa genuinamente della pressione di Alessio V. e propone soluzioni concrete (anche se alternative)",
+    "fantasma": "Nessuno - Settimana con partecipazione equilibrata di tutti i membri attivi"
   }
 }

@@ -4,106 +4,116 @@
   "startDate": "2023-01-02",
   "endDate": "2023-01-08",
   "stats": {
-    "totalMessages": 55,
+    "totalMessages": 57,
     "activeMembers": 6,
-    "avgPerMember": 9.2
+    "avgPerMember": 9.5
   },
-  "riassunto": "Settimana di inizio anno tra auguri e nostalgia. Alessio V. racconta le tempeste a San Francisco e la magia della musica live a Dallas. La morte di Vialli unisce il gruppo nel ricordo. Festa a casa di Alessio M. sabato sera con 'bella gente'. Giacomo torna da Roma proponendo uscite nel weekend.",
+  "riassunto": "La prima settimana del 2023 si apre con Alessio Valentini che racconta le sue avventure americane: tempeste a San Francisco, scalo forzato a Dallas, e soprattutto la magia della musica live che lo ha conquistato. Il 6 gennaio la notizia della morte di Gianluca Vialli colpisce il gruppo - tutti lo ricordano come idolo d'infanzia, con Adriano che commenta amaramente sul tumore al pancreas. Alessio Macalùso lancia già l'idea di un viaggio negli USA insieme. Il weekend si chiude con una festa a casa di Alessio M. a Siena, raccontata con entusiasmo da Adriano mentre Alessio V. dall'altra parte del mondo scherza chiedendo se erano a casa sua. Giacomo cerca di organizzare un'uscita per il fine settimana, mentre Fausto scopre che in certi posti il Burraco si gioca con tre mazzi di carte.",
   "bestQuotes": [
     {
       "quote": "Non vale la pena visitare un posto così dall'europa. Ma io non ho mai visto niente del genere. Se a uno piace la musica dal vivo questa città non ha rivali.",
       "author": "Alessio Valentini",
-      "context": "Racconto entusiasta di Dallas e la sua scena musicale"
+      "context": "Alessio racconta l'esperienza di Austin con la musica live ovunque, persino all'aeroporto"
     },
     {
-      "quote": "Il pancreas non perdona. Solitamente ti porta via in 6 mesi… lui era 5 anni che ci combatteva",
+      "quote": "dio cane... pancreas... ao",
+      "author": "Alessio Valentini",
+      "context": "La reazione cruda e diretta alla notizia della morte di Vialli"
+    },
+    {
+      "quote": "Bella festa bella gente",
       "author": "Adriano Sergio Lorenzo Facchini",
-      "context": "Commento sulla morte di Vialli"
+      "context": "Il commento soddisfatto dopo la serata a casa di Alessio M."
     },
     {
       "quote": "Eri a casa mia?",
       "author": "Alessio Valentini",
-      "context": "Risposta confusa quando parlano della festa a casa di Alessio (M.)"
+      "context": "La battuta dall'America dopo che Adriano parla della festa 'a casa di Alessio'"
+    },
+    {
+      "quote": "quest'anno andiamo vero?",
+      "author": "Alessio Macalùso",
+      "context": "L'entusiasmo contagioso dopo i racconti americani di Alessio V."
     }
   ],
   "pagelle": [
     {
       "name": "Alessio Valentini",
-      "voto": 8.0,
-      "giudizio": "Il giramondo apre l'anno con racconti mozzafiato da Dallas. Musicisti all'aeroporto, tempeste a San Francisco, e la battuta 'Speriamo di ritrovarci la casa' che sdrammatizza tutto. Presente emotivamente nonostante il fuso orario.",
-      "messaggi": 18,
-      "mediaGiornaliera": 2.6,
+      "voto": 8.5,
+      "giudizio": "Il giramondo apre l'anno con una masterclass di storytelling americano. Tra tempeste a San Francisco, scali forzati a Dallas e musicisti centenari che suonano anche in aeroporto, ci ha fatto viaggiare dal divano. La reazione alla morte di Vialli è stata un concentrato di umanità toscana: cruda, diretta, vera. Chiude in bellezza con la battuta perfetta sulla festa 'a casa sua'.",
+      "messaggi": 19,
+      "mediaGiornaliera": 2.7,
       "highlights": [
-        "Racconto appassionato della scena musicale di Dallas",
-        "Partecipazione emotiva alla notizia di Vialli"
+        "Racconto epico della musica live negli USA",
+        "Battuta finale sulla festa 'a casa di Alessio'"
       ],
-      "citazioneTop": "160 anni. Erano fantastici."
+      "citazioneTop": "La cosa incredibile è che dopo un poco smetti anche di fare le foto."
     },
     {
       "name": "Adriano Sergio Lorenzo Facchini",
       "voto": 7.5,
-      "giudizio": "Parte piano ma poi si scalda. Il commento su Vialli e il pancreas è sentito e informato. Organizza la prima uscita dell'anno e chiude in bellezza commentando la 'bella festa' da Alessio.",
-      "messaggi": 12,
-      "mediaGiornaliera": 1.7,
+      "giudizio": "Il Re della Chat parte con un anno all'insegna del suo stile: primo a dare la notizia triste di Vialli, ultimo a lasciare la festa di sabato sera. La sua analisi sul pancreas è stata tanto clinica quanto toccante. Il commento 'Bella festa bella gente' alle 8 di mattina tradisce una notte memorabile.",
+      "messaggi": 13,
+      "mediaGiornaliera": 1.9,
       "highlights": [
-        "Riflessione toccante sulla morte di Vialli",
-        "Report della festa a casa di Alessio M."
+        "Ha dato la notizia della morte di Vialli",
+        "Report entusiasta della festa a casa di Alessio M."
       ],
-      "citazioneTop": "Bella festa bella gente"
+      "citazioneTop": "Il pancreas non perdona. Solitamente ti porta via in 6 mesi… lui era 5 anni che ci combatteva"
     },
     {
-      "name": "Fausto Petrini",
-      "voto": 6.5,
-      "giudizio": "Presente ma contenuto. Il 'Naaaaaaa' notturno e il 'Burraco con tre mazzi di carte' sono i suoi contributi principali. Riconosce la miticità di Vialli 'fin da bambino pur non interessandomi'. Onesto.",
-      "messaggi": 8,
-      "mediaGiornaliera": 1.1,
+      "name": "Alessio Macalùso",
+      "voto": 7.0,
+      "giudizio": "Lo zen master della settimana. Con pochi messaggi ma mirati, prima sogna il viaggio negli USA con un 'quest'anno andiamo vero?' pieno di speranza, poi ospita la prima serata memorabile dell'anno. Il suo 'Davvero deliziosa' riferito alla festa tradisce la soddisfazione del padrone di casa.",
+      "messaggi": 7,
+      "mediaGiornaliera": 1.0,
       "highlights": [
-        "Spiega il burraco con tre mazzi",
-        "Ricordo di Vialli"
+        "Ha ospitato la festa del weekend",
+        "Proposta viaggio USA con il gruppo"
       ],
-      "citazioneTop": "Perchè qui mettono insieme le carte a cazzo"
+      "citazioneTop": "quest'anno andiamo vero?"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 6.5,
+      "giudizio": "Il Fondatore torna da Roma dove 'è appena arrivata la primavera' e prova a organizzare il weekend. Il suo tentativo di mettere insieme un'uscita rimane senza esito concreto (classico), ma il ricordo di Vialli come 'idolo da sempre' dimostra che anche il Lider ha un cuore tenero.",
+      "messaggi": 5,
+      "mediaGiornaliera": 0.7,
+      "highlights": [
+        "Tentativo di organizzare uscita del weekend",
+        "Commento affettuoso su Vialli"
+      ],
+      "citazioneTop": "Davvero un idolo da sempre!"
     },
     {
       "name": "Cosimo Nenciòni",
       "voto": 6.0,
-      "giudizio": "Apre con un link Twitter della Gialappa's, commenta laconico 'Grossa tristezza' per Vialli, e chiude con il classico 'Dicco dicci' quando sente parlare di feste. Efficiente ma minimalista.",
+      "giudizio": "Il Provocatore Raffinato si limita a interventi chirurgici: un link, un 'Ah beh...' eloquente, e la perla della settimana quel 'Dicco dicci' curioso sulla festa. Due parole che contengono tutto il gossip-desire di un vero membro del gruppo. Efficienza massima, come sempre.",
       "messaggi": 6,
       "mediaGiornaliera": 0.9,
       "highlights": [
-        "Link di qualità dalla Gialappa's",
-        "Curiosità sulle feste altrui"
+        "Il 'Dicco dicci' sulla festa",
+        "Grossa tristezza per Vialli"
       ],
       "citazioneTop": "Dicco dicci"
     },
     {
-      "name": "Alessio Macalùso",
-      "voto": 6.5,
-      "giudizio": "L'host della settimana. Ospita la festa, propone 'quest'anno andiamo vero?' per un viaggio di gruppo, e ricorda Vialli come 'idolo di quando ero bambino'. Zen ma partecipe.",
-      "messaggi": 6,
-      "mediaGiornaliera": 0.9,
-      "highlights": [
-        "Host della festa di sabato",
-        "Proposta di viaggio di gruppo"
-      ],
-      "citazioneTop": "Davvero deliziosa"
-    },
-    {
-      "name": "Giacomo Dolfi",
+      "name": "Fausto Petrini",
       "voto": 6.0,
-      "giudizio": "Torna da Roma con la primavera e propone subito uscite. 'C'è qualcuno nel fine settimana?' è il classico tentativo del Fondatore di tenere unito il gruppo. Vialli era 'davvero un idolo da sempre'.",
-      "messaggi": 5,
-      "mediaGiornaliera": 0.7,
+      "giudizio": "Il Trascinatore apre l'anno con una scoperta antropologica: il Burraco con tre mazzi di carte. Il suo 'Naaaaaaa' iniziale e il successivo racconto delle regole improvvisate tradiscono la passione per il gioco. Partecipa alla discussione su Vialli con un ricordo d'infanzia genuino.",
+      "messaggi": 7,
+      "mediaGiornaliera": 1.0,
       "highlights": [
-        "Proposta di uscite per il weekend",
-        "Omaggio a Vialli"
+        "Scoperta del Burraco con tre mazzi",
+        "Ricordo di Vialli"
       ],
-      "citazioneTop": "Io nel frattempo sono tornato a Roma dove é appena arrivata la primavera"
+      "citazioneTop": "Ma.... con tre mazzi di carte, perchè qui mettono insieme le carte a cazzo."
     }
   ],
   "awards": {
-    "mvp": "Alessio Valentini",
-    "comico": "Fausto Petrini",
-    "cuore": "Adriano Sergio Lorenzo Facchini",
-    "fantasma": null
+    "mvp": "Alessio Valentini - ci ha fatto viaggiare negli USA dal divano",
+    "comico": "Alessio Valentini - 'Eri a casa mia?' timing perfetto",
+    "cuore": "Adriano Sergio Lorenzo Facchini - primo a condividere il lutto per Vialli",
+    "fantasma": "Nessuno - tutti presenti per la prima settimana dell'anno"
   }
 }

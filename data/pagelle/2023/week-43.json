@@ -4,103 +4,120 @@
   "startDate": "2023-10-23",
   "endDate": "2023-10-29",
   "stats": {
-    "totalMessages": 28,
-    "activeMembers": 6,
-    "avgPerMember": 4.7
+    "totalMessages": 24,
+    "activeMembers": 5,
+    "avgPerMember": 4.8
   },
-  "riassunto": "Settimana del Tour de France vs Palio e del lube da 40 sterline! Giacomo provoca Fausto: 'Chissa' Fausto che fara' il 29 giugno 2024... Guardera' la partenza del Tour da Firenze o sara' a Siena in piazza?'. Fausto non ha dubbi: 'Giro della chiocciola. Nessun dubbio'. Cocco a Londra! Foto dei preservativi: '40 sterle'. Giacomo: 'Non li porti via, immagino'. Adriano: 'Ti coccolano'. 'Subito che volevi qualcosa'. Fausto: 'Ti ci paghi la zoccola. El lube...'. Adriano: 'Se il preservativo costa 40 sterline non credo'. Cocco manda foto sorriso: 'Un sorriso tutto per voi'. Adriano svogliato: 'Oggi non ho voglia di fare un cazzo vero'. Cocco: 'Beh.. oggi'. Adriano: 'Anche ieri vero..'. Fausto a Roma prende l'Angelus! 'Saluti da Roma'. 'Ho preso anche l'Angelus'. Alessio V.: 'Spettacolo!!!'.",
+  "riassunto": "Settimana densa di contenuti nonostante i pochi messaggi. Giacomo apre con una domanda profetica: cosa fara' Fausto il 29 giugno 2024 quando il Tour de France partira' da Firenze? La risposta e' scontata: Giro della Chiocciola, cioe' Palio. Intanto Cosimo dall'UK condivide foto di gatti coccolosi da 40 sterline, scatenando un'escalation di battute a sfondo sessuale tra Fausto e Adriano che raggiunge vette di comicita' involontaria. Il venerdi' mattina Cosimo manda 'Un sorriso tutto per voi' e Adriano confessa la sua mancanza di voglia lavorativa, supportato dal cinismo di Cosimo che gli ricorda che non e' esattamente una novita'. Weekend con Fausto pellegrino a Roma che si prende pure l'Angelus papale, entusiasmando Alessio V.",
   "bestQuotes": [
+    {
+      "quote": "Se il preservativo costa 40 sterline non credo",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Risposta geniale a Fausto che aveva suggerito a Cosimo di pagarsi 'la zoccola' con le 40 sterline"
+    },
+    {
+      "quote": "Oggi non ho voglia di fare un cazzo vero",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Confessione mattutina seguita dalla replica letale di Cosimo: 'Beh.. oggi'"
+    },
     {
       "quote": "Giro della chiocciola. Nessun dubbio",
       "author": "Fausto Petrini",
-      "context": "Tour vs Palio"
+      "context": "Risposta alla domanda se guardera' il Tour de France o stara' in piazza a Siena - il Palio vince sempre"
     },
     {
-      "quote": "Ti ci paghi la zoccola. El lube...",
+      "quote": "Un sorriso tutto per voi",
+      "author": "Cosimo Nenciòni",
+      "context": "Cosimo in versione tenera manda una foto dall'UK ai suoi amici - momento raro di dolcezza"
+    },
+    {
+      "quote": "Ho preso anche l'angelus",
       "author": "Fausto Petrini",
-      "context": "Sui preservativi da 40 sterline"
-    },
-    {
-      "quote": "Oggi non ho voglia di fare un cazzo vero. Anche ieri vero..",
-      "author": "Adriano Sergio Lorenzo Facchini",
-      "context": "Svogliatezza cronica"
+      "context": "Il Trascinatore da Roma completa la sua esperienza papale"
     }
   ],
   "pagelle": [
     {
-      "name": "Fausto Petrini",
-      "voto": 8.5,
-      "giudizio": "Il chiocciolino a Roma! 'Giro della chiocciola. Nessun dubbio' - Tour vs Palio risolto. 'Ti ci paghi la zoccola. El lube...' sui preservativi. 'Saluti da Roma'. 'Ho preso anche l'Angelus'. Fedele alla contrada, ironico sui costumi inglesi, devoto.",
-      "messaggi": 8,
-      "mediaGiornaliera": 1.1,
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 8.0,
+      "giudizio": "Il Re della Chat si conferma maestro del tempismo comico. La battuta sul preservativo da 40 sterline e' da standing ovation, perfetto contraltare alla volgarita' gratuita di Fausto. La sua confessione mattutina sulla mancanza di voglia lavorativa e' il tipo di onesta' brutale che solo lui puo' permettersi. Il fatto che Cosimo gli abbia risposto 'Beh.. oggi' (sottintendendo 'come sempre') lo ha reso ancora piu' iconico.",
+      "messaggi": 6,
+      "mediaGiornaliera": 1.2,
       "highlights": [
-        "Chiocciola first",
-        "Angelus Roma"
+        "Battuta epica sui preservativi britannici",
+        "Confessione esistenziale sulla voglia di lavorare",
+        "Autoironia: 'Anche ieri vero..'"
+      ],
+      "citazioneTop": "Se il preservativo costa 40 sterline non credo"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 7.5,
+      "giudizio": "Il Trascinatore in grande forma: dal dialogo sul Palio vs Tour de France (nessun dubbio, la Chiocciola prima di tutto) al pellegrinaggio romano con tanto di Angelus. Ha lanciato la battuta greve sulla zoccola che ha generato la risposta epica di Adriano - a volte il merito e' di chi fa l'assist. Weekend da vero turista religioso, con Alessio V. che gli fa gli onori di casa con un 'spettacolo!!!'",
+      "messaggi": 6,
+      "mediaGiornaliera": 1.2,
+      "highlights": [
+        "Palio della Chiocciola sopra il Tour de France",
+        "Weekend spirituale a Roma",
+        "Battuta greve che ha generato oro comico"
       ],
       "citazioneTop": "Giro della chiocciola. Nessun dubbio"
     },
     {
-      "name": "Adriano Sergio Lorenzo Facchini",
-      "voto": 8.0,
-      "giudizio": "'Ti coccolano' sui preservativi. 'Subito che volevi qualcosa' a Giacomo. 'Se il preservativo costa 40 sterline non credo' sulla zoccola. 'Oggi non ho voglia di fare un cazzo vero'. 'Anche ieri vero..'. 'In palestra?' a Fausto. Svogliato ma presente.",
-      "messaggi": 8,
-      "mediaGiornaliera": 1.1,
-      "highlights": [
-        "Battute preservativi",
-        "Svogliatezza"
-      ],
-      "citazioneTop": "Oggi non ho voglia di fare un cazzo vero"
-    },
-    {
       "name": "Cosimo Nenciòni",
       "voto": 7.5,
-      "giudizio": "A Londra! Foto preservativi: '40 sterle'. 'No' - non li porta via. 'Un sorriso tutto per voi' con foto. 'Beh.. oggi' sulla svogliatezza di Adriano. Viaggiatore ironico.",
-      "messaggi": 6,
-      "mediaGiornaliera": 0.9,
+      "giudizio": "Il Provocatore Raffinato in missione britannica ci delizia con foto di gatti coccolosi e prezzi in sterline. Ma il vero colpo da maestro e' il suo 'Beh.. oggi' in risposta alla confessione di Adriano sulla mancanza di voglia lavorativa - due parole che valgono un trattato di filosofia cinica. Il suo 'Un sorriso tutto per voi' e' un raro momento di tenerezza che quasi commuove.",
+      "messaggi": 5,
+      "mediaGiornaliera": 1.0,
       "highlights": [
-        "Londra",
-        "Preservativi 40 sterline"
+        "Affettuoso dall'UK con foto di gatti",
+        "Demolizione zen di Adriano in due parole",
+        "Momento di dolcezza inaspettata"
       ],
-      "citazioneTop": "Un sorriso tutto per voi"
+      "citazioneTop": "Beh .. oggi"
     },
     {
       "name": "Giacomo Dolfi",
-      "voto": 7.5,
-      "giudizio": "Il provocatore! 'Chissa' Fausto che fara' il 29 giugno 2024...'. 'Volevo scrivere 2024'. 'Non li porti via, immagino' sui preservativi. 'Ah ecco'. 'Grande'. Stuzzica e commenta.",
-      "messaggi": 6,
-      "mediaGiornaliera": 0.9,
+      "voto": 7.0,
+      "giudizio": "Il Fondatore lancia la domanda delle domande: Tour de France da Firenze o Palio? Certo, ha scritto 2023 invece di 2024 (svista che Alessio V. non si e' lasciato sfuggire), ma la sostanza c'era. Il suo 'Grande' a Fausto che sceglie la Chiocciola e' il sigillo del patriarca. Attento osservatore delle dinamiche britanniche di Cosimo con domande pertinenti sui gatti.",
+      "messaggi": 4,
+      "mediaGiornaliera": 0.8,
       "highlights": [
-        "Provocazione Tour",
-        "Commenti Londra"
+        "Domanda profetica sul Tour de France 2024",
+        "Interesse per i gatti britannici di Cosimo",
+        "Piccola svista sull'anno (capita ai migliori)"
       ],
-      "citazioneTop": "Chissa' Fausto che fara' il 29 giugno 2024"
+      "citazioneTop": "Chissa' Fausto che fara' il 29 giugno 2024..."
     },
     {
       "name": "Alessio Valentini",
-      "voto": 7.0,
-      "giudizio": "'Dici 4 mesi fa!' sulla data sbagliata. 'Spettacolo!!!' su Roma. Presente ma minimale.",
-      "messaggi": 4,
+      "voto": 6.5,
+      "giudizio": "Il Giramondo interviene con precisione chirurgica: prima corregge l'errore di Giacomo sull'anno ('dici 4 mesi fa!'), poi esplode di entusiasmo per il weekend romano di Fausto con uno 'spettacolo!!!' sentito. Pochi messaggi ma sempre sul pezzo, come un cecchino della conversazione che aspetta il momento giusto per colpire.",
+      "messaggi": 3,
       "mediaGiornaliera": 0.6,
       "highlights": [
-        "Correzione data",
-        "Entusiasmo Roma"
+        "Correzione puntuale dell'errore temporale",
+        "Entusiasmo sincero per Roma"
       ],
-      "citazioneTop": "Spettacolo!!!"
+      "citazioneTop": "spettacolo!!!"
     },
     {
       "name": "Alessio Macalùso",
-      "voto": 5.5,
-      "giudizio": "Silenzioso questa settimana.",
+      "voto": 4.0,
+      "giudizio": "La Voce della Ragione questa settimana ha scelto il silenzio assoluto. Zero messaggi, presenza eterea. Probabilmente stava meditando sulla vacuita' delle chat di gruppo o era impegnato ad ospitare serate nella vita reale. Il suo silenzio parla piu' di mille parole - o forse no, forse stava solo dormendo.",
       "messaggi": 0,
       "mediaGiornaliera": 0.0,
-      "highlights": [],
-      "citazioneTop": null
+      "highlights": [
+        "Assenza totale dalla chat",
+        "Silenzio zen portato all'estremo"
+      ],
+      "citazioneTop": "[silenzio eloquente]"
     }
   ],
   "awards": {
-    "mvp": "Fausto Petrini",
-    "comico": "Adriano Sergio Lorenzo Facchini",
-    "cuore": "Cosimo Nenciòni",
-    "fantasma": "Alessio Macalùso"
+    "mvp": "Adriano Sergio Lorenzo Facchini - La battuta sui preservativi da 40 sterline vale da sola il podio",
+    "comico": "Adriano Sergio Lorenzo Facchini - Tra preservativi, mancanza di voglia e autoironia, settimana da incorniciare",
+    "cuore": "Cosimo Nenciòni - 'Un sorriso tutto per voi' dall'UK ha sciolto anche i cuori piu' duri",
+    "fantasma": "Alessio Macalùso - Zero messaggi, ma il silenzio e' d'oro (o almeno cosi' si dice)"
   }
 }

@@ -8,100 +8,111 @@
     "activeMembers": 6,
     "avgPerMember": 6.8
   },
-  "riassunto": "Settimana della fica a stufo e della senosite. Fausto apre con 'Fica a stufo'. Cocco cerca alloggio a Siena e Adriano trova subito contatto del tennista ('Mr Wolf'). Mac si offre di ospitare. Fausto sta malissimo con megaraffreddore e senosite: 'Secondo me mori entro le 7'. Alessio V. a Palo Alto con brasiliani sfoggia portoghese dopo 'piccola sbornietta da singola s'.",
+  "riassunto": "Settimana di grande solidarieta' e creativita' linguistica. Cosimo cerca un alloggio a Siena per alcuni amici e Adriano si trasforma in 'Mr Wolf' trovando in pochi minuti un contatto con casa in zona Scacciapensieri - efficienza proverbiale che strappa applausi a tutti. Alessio M. si offre anche lui come host di riserva, dimostrando lo spirito del gruppo. Nel frattempo Fausto viene colpito da un megaraffreddore con sinusite che lo tiene sveglio a orari impossibili, scatenando la preoccupazione (ironica) di Adriano che pronostica la sua dipartita 'entro le 7.00'. La settimana si chiude con Alessio V. che racconta dalla California le sue avventure a Palo Alto: una 'piccola sbornietta da singola S' con brasiliani e tentativi di sfoggiare il portoghese. Adriano nel frattempo filosofeggia sulle 'pocce budino' definendole 'ipnotiche' - poesia pura.",
   "bestQuotes": [
     {
-      "quote": "Fica a stufo",
+      "quote": "Boia, che rapidita' di esecuzione. Mr wolf",
       "author": "Fausto Petrini",
-      "context": "Apertura della settimana"
+      "context": "Celebrazione di Adriano che in 20 minuti trova un alloggio per gli amici di Cosimo. Riferimento a Pulp Fiction azzeccatissimo."
     },
     {
       "quote": "Secondo me mori entro le 7.00",
       "author": "Adriano Sergio Lorenzo Facchini",
-      "context": "A Fausto con la senosite"
+      "context": "Risposta compassionevole a Fausto che si lamenta del raffreddore notturno. Supporto morale di prim'ordine."
     },
     {
-      "quote": "Boia, che rapidità di esecuzione. Mr Wolf",
-      "author": "Fausto Petrini",
-      "context": "Ad Adriano che trova il contatto in pochi minuti"
+      "quote": "Le pocce budino sono le meglio.. Ipnotiche",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Riflessione filosofica mattutina sulle forme femminili. Poesia vernacolare toscana."
+    },
+    {
+      "quote": "Una piccola sbornietta da singola 'S' con solo birre. E' il massimo che puoi chiedere a Palo Alto.",
+      "author": "Alessio Valentini",
+      "context": "Report dalla Silicon Valley: anche in California il tasso alcolico ha dei limiti imposti dalla societa'"
     }
   ],
   "pagelle": [
     {
       "name": "Adriano Sergio Lorenzo Facchini",
-      "voto": 8.5,
-      "giudizio": "Mr Wolf! Trova contatto per alloggio a Siena in pochi minuti. 'Secondo me mori entro le 7' a Fausto. 'Le pocce budino sono le meglio.. ipnotiche'. 'Queste cose te le ho viste fare anche da sobrio' ad Alessio V.",
-      "messaggi": 18,
-      "mediaGiornaliera": 2.6,
+      "voto": 9.0,
+      "giudizio": "Settimana da incorniciare per il Re della Chat. Ha risolto in 20 minuti quello che ad altri avrebbe richiesto giorni: trovare un alloggio a Siena con tanto di contatto condiviso. Fausto lo ha giustamente paragonato a Mr Wolf di Pulp Fiction. Non contento, ha anche dispensato perle di saggezza sulle 'pocce budino' e pronosticato la morte imminente di Fausto con affetto fraterno. Semplicemente imprescindibile.",
+      "messaggi": 15,
+      "mediaGiornaliera": 2.1,
       "highlights": [
-        "Contatto alloggio istantaneo",
-        "Previsione morte Fausto"
+        "Ha trovato un alloggio in zona Scacciapensieri in tempo record",
+        "Riflessioni filosofiche sulle forme femminili",
+        "Supporto morale (ironico) a Fausto malato"
       ],
-      "citazioneTop": "Le pocce budino sono le meglio.. ipnotiche"
-    },
-    {
-      "name": "Fausto Petrini",
-      "voto": 7.5,
-      "giudizio": "'Fica a stufo' apre la settimana. Sta malissimo: megaraffreddore con senosite. 'Non la posso nemmeno piu nusare'. 'Mr Wolf' ad Adriano. 'Brutta maiala' di commento. Malato ma presente.",
-      "messaggi": 10,
-      "mediaGiornaliera": 1.4,
-      "highlights": [
-        "Apertura memorabile",
-        "Report malattia"
-      ],
-      "citazioneTop": "Fica a stufo"
+      "citazioneTop": "Secondo me mori entro le 7.00"
     },
     {
       "name": "Cosimo Nenciòni",
-      "voto": 7.0,
-      "giudizio": "Cerca alloggio a Siena per conoscenti ('previo pagamento ovviamente'). 'Ma sei un mitico' ad Adriano. 'Eri sicuro che fosse Fausto e hai fatto la foto'. 'Bellissimissimo' su video di Alessio V.",
-      "messaggi": 8,
-      "mediaGiornaliera": 1.1,
+      "voto": 7.5,
+      "giudizio": "Il Provocatore Raffinato questa volta si e' fatto aiutare invece di smontare i piani altrui. Ha chiesto gentilmente un alloggio per amici ('previo pagamento ovviamente' - sempre onesto) e ha ricevuto supporto immediato. Ha ringraziato Adriano con un sincero 'Ma sei un mitico' - momento raro di apprezzamento esplicito nel gruppo. Ha anche reagito con entusiasmo a qualcosa di 'Bellissimissimo' nel weekend.",
+      "messaggi": 5,
+      "mediaGiornaliera": 0.7,
       "highlights": [
-        "Ricerca alloggio",
-        "Apprezzamento Mr Wolf"
+        "Ha attivato la rete di solidarieta' del gruppo per trovare alloggio",
+        "Momento di gratitudine genuina verso Adriano",
+        "Entusiasta recensore del weekend"
       ],
       "citazioneTop": "Ma sei un mitico"
     },
     {
-      "name": "Alessio Valentini",
+      "name": "Fausto Petrini",
       "voto": 7.0,
-      "giudizio": "'Come mai sveglio?' a Fausto. Video a Palo Alto con brasiliani: 'Una piccola sbornietta da singola s con solo birre'. 'Volevo sfoggiare qualche portoghese'. Internazionale.",
-      "messaggi": 8,
-      "mediaGiornaliera": 1.1,
+      "giudizio": "Il Trascinatore questa settimana e' stato piu' trascinato che trascinatore, complice un megaraffreddore con sinusite che lo ha tenuto sveglio fino a tarda notte. 'Sto di merda' ripetuto in varie forme, incluso 'Non la posso nemmeno piu' nusare' - lamento toccante. Pero' ha aperto la settimana con il classico 'Fica a stufo' e ha riconosciuto il genio di Adriano con il paragone a Mr Wolf. W il bollore, anche quando c'e' il muco.",
+      "messaggi": 10,
+      "mediaGiornaliera": 1.4,
       "highlights": [
-        "Sbornietta a Palo Alto",
-        "Sfoggio portoghese"
+        "Aperto la settimana con 'Fica a stufo'",
+        "Ha celebrato Adriano come Mr Wolf",
+        "Ha condiviso il suo calvario da raffreddato"
       ],
-      "citazioneTop": "Una piccola sbornietta da singola s con solo birre. È il massimo che puoi chiedere a Palo Alto"
+      "citazioneTop": "Boia, che rapidita' di esecuzione. Mr wolf"
     },
     {
-      "name": "Alessio Macalùso",
-      "voto": 7.0,
-      "giudizio": "'Se non trovano posto li posso ospitare io per una notte'. Generoso come sempre. Presente e disponibile.",
-      "messaggi": 2,
-      "mediaGiornaliera": 0.3,
+      "name": "Alessio Valentini",
+      "voto": 7.5,
+      "giudizio": "Il Giramondo ha illuminato la settimana dalla lontana California con racconti delle sue avventure a Palo Alto. La 'piccola sbornietta da singola S' con brasiliani e' diventata leggenda. Ha mostrato empatia per Fausto malato ('wow, scusami non guardavo il cell... mi spiaceeeee') e ha ammesso i limiti del bere nella Silicon Valley. Quel 'Ero con dei brasiliani e volevo sfoggiare qualche portoghese' dipinge un quadro perfetto del nomade digitale.",
+      "messaggi": 6,
+      "mediaGiornaliera": 0.9,
       "highlights": [
-        "Offerta ospitalita"
+        "Cronache dalla Silicon Valley",
+        "Inventore della 'sbornietta da singola S'",
+        "Empatia notturna per Fausto"
       ],
-      "citazioneTop": "Se non trovano posto li posso ospitare io per una notte"
+      "citazioneTop": "Una piccola sbornietta da singola 'S' con solo birre"
     },
     {
       "name": "Giacomo Dolfi",
-      "voto": 6.0,
-      "giudizio": "'Siena centro?' 'Appena hai notato la fica a stufo....' a Fausto malato. Presente con battute.",
-      "messaggi": 3,
-      "mediaGiornaliera": 0.4,
+      "voto": 6.5,
+      "giudizio": "Il Fondatore ha partecipato alla discussione sull'alloggio con la domanda pratica 'Siena centro?' - sempre interessato ai dettagli logistici. Ha anche piazzato una battuta retroattiva su Fausto e la 'fica a stufo', dimostrando che anche lui tiene d'occhio le conversazioni. Contributo misurato ma qualitativo, come si addice a un patriarca.",
+      "messaggi": 2,
+      "mediaGiornaliera": 0.3,
       "highlights": [
-        "Battuta su fica e malattia"
+        "Domande pratiche sull'alloggio",
+        "Battuta sulla 'fica a stufo' di Fausto"
       ],
       "citazioneTop": "Appena hai notato la fica a stufo...."
+    },
+    {
+      "name": "Alessio Macaluso",
+      "voto": 7.0,
+      "giudizio": "Lo Zen Master ha brillato con un gesto di pura generosita': 'Ciao se non trovano posto li posso ospitare io per una notte'. Poche parole, massima sostanza. Mentre gli altri parlavano, lui ha offerto concretamente casa sua. La Voce della Ragione che si trasforma in Voce dell'Ospitalita'. Silenzioso ma determinante.",
+      "messaggi": 1,
+      "mediaGiornaliera": 0.1,
+      "highlights": [
+        "Ha offerto ospitalita' a casa sua",
+        "Massima efficienza: un messaggio, massimo impatto"
+      ],
+      "citazioneTop": "Ciao se non trovano posto li posso ospitare io per una notte"
     }
   ],
   "awards": {
-    "mvp": "Adriano Sergio Lorenzo Facchini",
-    "comico": "Fausto Petrini",
-    "cuore": "Alessio Macalùso",
-    "fantasma": null
+    "mvp": "Adriano Sergio Lorenzo Facchini - Mr Wolf della settimana: ha risolto problemi, filosofeggiato su anatomia femminile e pronosticato morti",
+    "comico": "Adriano Sergio Lorenzo Facchini - 'Secondo me mori entro le 7.00' e' supporto morale puro",
+    "cuore": "Alessio Macaluso - Ha offerto casa sua senza esitazione, generosita' allo stato puro",
+    "fantasma": "Giacomo Dolfi - Solo 2 messaggi ma sempre sul pezzo"
   }
 }

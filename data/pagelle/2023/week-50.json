@@ -4,106 +4,128 @@
   "startDate": "2023-12-11",
   "endDate": "2023-12-17",
   "stats": {
-    "totalMessages": 275,
+    "totalMessages": 187,
     "activeMembers": 6,
-    "avgPerMember": 45.8
+    "avgPerMember": 31.2
   },
-  "riassunto": "SETTIMANA EPICA: cena rimandata, Cocco ancora positivo e FAUSTO LIDER IN PECTORE! Mac: 'La cena del 15 la considero rinviata'. Cocco ancora positivo! 'Procedo col tampone definitivo. Mandatemi good vibes'. Jack: 'Io sono sulla tazza ad incitarti'. Cocco: 'L'ho nel culo. Sono ancora positivo'. 'Mi ci viene da piangere. Sono un po' stressato'. 'Vi ho delusi. Sono un debole'. Adriano solidale: 'Per me puoi venire. Non sei piu' contagioso. Stai accanto a me'. Fausto organizza sondaggi per la nuova data! Giacomo: 'Fausto lider in pectore'. Mac: 'Presto sarai lider e potremo fare videocene tutte le settimane'. Fausto umile: 'Riconosco umilmente che non sono un buon lider, ma se dovessi portare questa responsabilita' proporrei delle videocene'. Poi la cena! Prenotato al Fiasco di Faella. Adriano vuole andarci a tutti i costi: 'Ma porco dio, io voglio andare a Faella Dio merda'. Giacomo preferisce vicino ma alla fine: 'Io non vengo'. Alessio V. in Spagna: 'Sono fino al 24'. Si organizza per gennaio!",
+  "riassunto": "La settimana piu' epica dell'anno: l'organizzazione della cena di Natale al Fiasco di Faella si trasforma in una saga degna di Game of Thrones. Cosimo positivo al Covid vive il suo dramma personale tra tamponi, lacrime e sensi di colpa ('L'ho nel culo', 'Vi ho delusi'). Adriano esplode con il memorabile 'Ma porco dio, io voglio andare a Faella Dio merda' mentre Giacomo si destreggia tra madre covidata, figlio malato e impegni calcistici di Pietro. Fausto viene incoronato 'lider in pectore' e crea sondaggi a raffica. Alla fine la cena si fa: crostini ustionanti, Perdere l'Amore di Ranieri a tutto volume, una cameriera quasi aggressiva e Fausto che si lamenta della musica da radical chic. Il giorno dopo, mentre tutti digeriscono e celebrano la vittoria di Pietro contro la terribile Policras di Sovicille, Alessio V. ci regala il racconto epico della 'figa in treno' che paga il biglietto 5 euro invece di 60.",
   "bestQuotes": [
     {
-      "quote": "Riconosco umilmente che non sono un buon lider, ma se dovessi portare questa responsabilita' certo proporrei delle videocene",
-      "author": "Fausto Petrini",
-      "context": "Umilta' del lider in pectore"
-    },
-    {
-      "quote": "Mi ci viene da piangere. Sono un po' stressato. Vi ho delusi. Sono un debole",
-      "author": "Cosimo Nenciòni",
-      "context": "Ancora positivo covid"
-    },
-    {
-      "quote": "Ma porco dio, io voglio andare a Faella Dio merda",
+      "quote": "Ma porco dio, io voglio andare a Faella Dio merda.",
       "author": "Adriano Sergio Lorenzo Facchini",
-      "context": "Sulla cena"
+      "context": "La frustrazione raggiunge livelli biblici durante l'organizzazione"
+    },
+    {
+      "quote": "Io sono sulla tazza ad incitarti",
+      "author": "Giacomo Dolfi",
+      "context": "Supporto morale a Cosimo durante il tampone definitivo"
+    },
+    {
+      "quote": "L'ho nel culo",
+      "author": "Cosimo Nenciòni",
+      "context": "Comunicazione del risultato positivo del tampone"
+    },
+    {
+      "quote": "Fausto e' il tipico radical chic che va nelle osterie e poi si lamenta del rumore",
+      "author": "Alessio Macalùso",
+      "context": "Analisi sociologica post-cena"
+    },
+    {
+      "quote": "Fausto lider in pectore",
+      "author": "Giacomo Dolfi",
+      "context": "Incoronazione ufficiale del nuovo leader"
     }
   ],
   "pagelle": [
     {
-      "name": "Fausto Petrini",
+      "name": "Adriano Sergio Lorenzo Facchini",
       "voto": 9.0,
-      "giudizio": "IL LIDER IN PECTORE! Organizza tutto: sondaggi, date, luoghi. 'Io ci sono. Se cocco non potesse propongo cena con videocollegamento dalla casa'. 'Potrei ambire' a lider. 'Riconosco umilmente che non sono un buon lider, ma se dovessi portare questa responsabilita' certo proporrei delle videocene. Che per Alessio sarebbero videopranzi'. 'Per me dal 2 al 6 quando volete, so in ferie'. 'Forza cocco!'. 'E' chiaramente un caso in cui non ti puoi appellare ad altri impegni'. Organizzatore supremo.",
+      "giudizio": "Il Re della Chat ha dato il meglio di se: la sua determinazione a raggiungere Faella ha toccato vette mistiche con bestemmie bibliche. Ha organizzato, coordinato, urlato e alla fine trionfato. Il suo 'Stai accanto a me' a Cosimo positivo e' pura poesia da amicizia virile. Ha pure digerito bene con solo una bustina di citrosodina, meritandosi l'ammirazione di tutti.",
       "messaggi": 52,
       "mediaGiornaliera": 7.4,
       "highlights": [
-        "Lider in pectore",
-        "Sondaggi cena"
-      ],
-      "citazioneTop": "Riconosco umilmente che non sono un buon lider, ma proporrei delle videocene"
-    },
-    {
-      "name": "Adriano Sergio Lorenzo Facchini",
-      "voto": 8.5,
-      "giudizio": "Il determinato! 'Ti abbiamo detto tutti di si'. 'Come al solito Giec non scrive pubblicamente ma solo in via secondaria. Avra' detto al Mac che il 15 non puo' perche' deve andare al party di Batman'. 'Per me puoi venire. Non sei piu' contagioso. Stai accanto a me' a Cocco. 'MA PORCO DIO, IO VOGLIO ANDARE A FAELLA DIO MERDA'. 'Ho gia' fame'. 'Finalmente' quando Giacomo decide. Passionale e diretto.",
-      "messaggi": 48,
-      "mediaGiornaliera": 6.9,
-      "highlights": [
-        "Vuole Faella",
-        "Solidale Cocco"
+        "Il memorabile sfogo 'Ma porco dio, io voglio andare a Faella Dio merda'",
+        "Disponibilita' a sedersi accanto a Cosimo positivo",
+        "Organizzazione logistica impeccabile (orari, punti di ritrovo)",
+        "Digestione eccellente nonostante tutto"
       ],
       "citazioneTop": "Ma porco dio, io voglio andare a Faella Dio merda"
     },
     {
       "name": "Cosimo Nenciòni",
-      "voto": 8.0,
-      "giudizio": "Il positivo cronico! 'Io mi sto impegnando seriamente. E ce la faro''. 'Procedo col tampone definitivo. Mandatemi good vibes'. 'L'ho nel culo. Sono ancora positivo'. 'Mi ci viene da piangere. Sono un po' stressato'. 'Vi ho delusi. Sono un debole'. 'Ho sinusite e quindi un po' di moccolo'. 'Siete dei maiali. Ho fame'. Combattente nonostante tutto.",
-      "messaggi": 42,
-      "mediaGiornaliera": 6.0,
+      "voto": 8.5,
+      "giudizio": "Il Provocatore Raffinato ha vissuto la settimana piu' drammatica della sua carriera aperipokeriana. Tra tamponi, lacrime virtuali e sensi di colpa, ha regalato momenti di puro pathos: 'L'ho nel culo', 'Vi ho delusi', 'Sono un debole'. Ma il vero colpo di classe? Partecipare da remoto ordinando piatti via WhatsApp come un regista della cena. Il suo 'Pare na vetrina di Amsterdam senza la donnina' sul ristorante vale da solo mezzo punto.",
+      "messaggi": 35,
+      "mediaGiornaliera": 5.0,
       "highlights": [
-        "Ancora positivo",
-        "Vuole esserci"
+        "Il dramma del tampone in diretta ('Mandatemi good vibes')",
+        "Partecipazione virtuale alla cena ordinando da casa",
+        "La battuta sulla vetrina di Amsterdam",
+        "Autodichiarazione di negativita' per il resto del mondo"
       ],
-      "citazioneTop": "Mi ci viene da piangere. Vi ho delusi. Sono un debole"
+      "citazioneTop": "L'ho nel culo"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 8.0,
+      "giudizio": "Il Giramondo, in procinto di volare in Spagna, ha illuminato la settimana con il suo racconto epico della figa in treno: una donna senza biglietto che con 5 euro e occhi dolci convince il controllore. Reportage in tempo reale degno di un inviato speciale. Si e' anche bruciato la bocca col primo crostino, dimostrando che la vita nomade non perdona. 'Scusate raga so andato a letto alle 4' e' ormai la sua firma.",
+      "messaggi": 31,
+      "mediaGiornaliera": 4.4,
+      "highlights": [
+        "Cronaca in diretta della figa in treno ('Campionessa del mondo')",
+        "Si e' bruciato la bocca col crostino",
+        "Disponibilita' a farsi trovare alla colonna del grillo",
+        "Confessione sugli orari improbabili"
+      ],
+      "citazioneTop": "figa in treno, senza biglietto... campionessa del mondo"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 7.5,
+      "giudizio": "Il Trascinatore e' stato incoronato 'lider in pectore' e ha preso sul serio il ruolo creando sondaggi a raffica. Si e' lamentato del volume della musica al ristorante da vero radical chic, guadagnandosi la definizione immortale di Alessio Mac. Il suo 'Bono esagerato' sulla cena e il 'Troja maledetta' sulla figa del treno mostrano tutta la sua gamma emotiva. Era 'un po' caldino' durante la cena.",
+      "messaggi": 28,
+      "mediaGiornaliera": 4.0,
+      "highlights": [
+        "Creazione di sondaggi multipli per la nuova data",
+        "Incoronazione a 'lider in pectore'",
+        "Lamentele sul volume della musica (radical chic mode)",
+        "Ha mangiato la tartare perche' non c'era il tordo"
+      ],
+      "citazioneTop": "Riconosco umilmente che non sono un buon lider, ma se dovessi portare questa responsabilita' certo proporrei delle videocene"
     },
     {
       "name": "Alessio Macalùso",
-      "voto": 8.0,
-      "giudizio": "Il Lider mediatore! 'La cena del 15 la considero rinviata ma non prendo impegni che non si sa mai'. 'Ho prenotato al Fiasco di Faella'. 'A Faella duro. Zone tue'. 'Presto sarai lider e potremo fare videocene tutte le settimane'. 'E hai buone probabilita''. 'Aspetto a sprenotare'. 'Fausto deve venire per forza'. 'Potremmo risolvere con una pizza a Poggibonsi?'. Diplomatico.",
-      "messaggi": 38,
-      "mediaGiornaliera": 5.4,
+      "voto": 7.5,
+      "giudizio": "La Voce della Ragione ha gestito la situazione con la consueta calma zen: ha prenotato al Fiasco, ha mediato tra Giacomo e Adriano, e ha lanciato l'anatema definitivo su Fausto radical chic. Il suo 'No avete rotto i coglioni lo shogun rimane in viale bracci!' mostra che anche il saggio perde la pazienza. Ha aspettato Giacomo sotto casa mentre questo dimenticava le chiavi, dimostrando la pazienza di un santo.",
+      "messaggi": 24,
+      "mediaGiornaliera": 3.4,
       "highlights": [
-        "Prenota Faella",
-        "Media lider"
+        "Prenotazione al Fiasco di Faella",
+        "Mediazione tra le esigenze di tutti",
+        "La definizione 'radical chic' per Fausto",
+        "Pazienza infinita sotto casa di Giacomo"
       ],
-      "citazioneTop": "Presto sarai lider e potremo fare videocene tutte le settimane"
+      "citazioneTop": "Fausto e' il tipico radical chic che va nelle osterie e poi si lamenta del rumore"
     },
     {
       "name": "Giacomo Dolfi",
       "voto": 7.0,
-      "giudizio": "Il problematico! 'Io allineato con Pasquale'. 'Io sono sulla tazza ad incitarti' - a Cocco! 'Fausto lider in pectore'. 'Il dottor Google con il dottor Adriano'. 'Io preferirei qualcosa di piu' vicino'. 'Chiarisco per la serenita' di Adriano. Io non vengo'. 'Ho dovuto dire da prima che non vengo perche' Adriano ha iniziato ad offendermi'. Complicato ma presente.",
-      "messaggi": 32,
-      "mediaGiornaliera": 4.6,
+      "giudizio": "Il Fondatore ha vissuto la settimana piu' complicata: madre con covid, Giovanni con febbre, Pietro da portare a calcio. Nonostante tutto, e' riuscito a venire alla cena (dopo aver minacciato di non farcela mille volte). Il suo 'Io sono sulla tazza ad incitarti' a Cosimo e' poesia pura. Alla fine Pietro ha vinto contro la terribile Policras di Sovicille, regalando una chiusura trionfale.",
+      "messaggi": 17,
+      "mediaGiornaliera": 2.4,
       "highlights": [
-        "Sulla tazza",
-        "Non viene"
+        "Gestione multitasking famiglia-aperipoker",
+        "Supporto morale a Cosimo dalla tazza",
+        "Vittoria di Pietro contro la Policras",
+        "Resistenza eroica nonostante tutto"
       ],
       "citazioneTop": "Io sono sulla tazza ad incitarti"
-    },
-    {
-      "name": "Alessio Valentini",
-      "voto": 7.0,
-      "giudizio": "'Sentite, fatemi sapere perche' c'ho quelli del club di scacchi che mi pressano'. 'Un pranzo aperipoker col Covid l'abbiamo anche gia' fatto...'. 'Io sono in Spagna fino al 24'. 'Se Pasquale vuole'. 'Mi potrei fare trovare alla colonna del grillo'. 'Perfettissimo'. Presente dalla Spagna.",
-      "messaggi": 24,
-      "mediaGiornaliera": 3.4,
-      "highlights": [
-        "Club scacchi",
-        "In Spagna"
-      ],
-      "citazioneTop": "Un pranzo aperipoker col Covid l'abbiamo anche gia' fatto"
     }
   ],
   "awards": {
-    "mvp": "Fausto Petrini",
-    "comico": "Giacomo Dolfi",
-    "cuore": "Cosimo Nenciòni",
+    "mvp": "Adriano Sergio Lorenzo Facchini - Per la determinazione titanica nel raggiungere Faella a qualsiasi costo",
+    "comico": "Cosimo Nenciòni - Il dramma del tampone e la partecipazione virtuale alla cena",
+    "cuore": "Giacomo Dolfi - Ha tenuto duro nonostante madre covidata, figlio malato e mille impegni",
     "fantasma": null
   }
 }

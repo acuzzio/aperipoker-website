@@ -8,101 +8,118 @@
     "activeMembers": 6,
     "avgPerMember": 4.8
   },
-  "riassunto": "Settimana della fica universitaria e della cena immaginaria. Alessio V.: 'C'è una quantita di fica all'universita COLOSSALE. Mi sto sentendo male.' Adriano: 'Ti sale la pressione stai calmo'. Fausto resetta il telefono e si perde tutto. Adriano e Giacomo inventano una cena immaginaria epica: classifica migliore amico, scatola del tempo, laser game e Petriolo, falo con chitarra. 'Si vede che siete in grado di sognare solo quando fate per finta'.",
+  "riassunto": "Settimana leggendaria in cui il gruppo ha orchestrato uno dei piu' epici trollaggi della storia di Aperipoker. Tutto inizia con Fausto che annuncia di aver perso i messaggi per un reset di fabbrica del telefono. Giacomo finge di essersi perso una cena gia' prenotata, e da li' parte l'escalation: Adriano inventa una storia elaboratissima su un gioco per stabilire il 'migliore amico del gruppo' (vinto da Giacomo, Fausto ultimo), una merenda-cena emotiva, una foto firmata, una scatola del tempo sotterrata con patto segreto, laser game a Petriolo e falo' con chitarra. Il tutto condito da Giacomo e Cosimo che rilanciano continuamente. Fausto capisce che lo stanno prendendo per i fondelli e risponde amareggiato: 'Si vede che siete in grado di sognare solo quando fate per finta'. Nel frattempo Alessio V. dall'universita' comunica di star subendo danni dalla quantita' di fica presente.",
   "bestQuotes": [
     {
-      "quote": "C'è una quantità di fica all'università COLOSSALE. Mi sto sentendo male.",
+      "quote": "C'e' una quantita' di fica all'universita' COLOSSALE. Mi sto sentendo male.",
       "author": "Alessio Valentini",
-      "context": "Dalla North Carolina"
+      "context": "Comunicazione di pubblica utilita' dall'ateneo - il Giramondo alle prese con le matricole"
     },
     {
-      "quote": "Abbiamo fatto un giuoco per stabilire la classifica di migliore amico del gruppo... e tu l'ultimo. Menomale non c'eri",
-      "author": "Adriano Sergio Lorenzo Facchini",
-      "context": "Trollata a Fausto sulla cena immaginaria"
+      "quote": "Ho pero' acquisito il dono dell'invulnerabilita' alle bizze del mi figliolo, un grande superpotere",
+      "author": "Fausto Petrini",
+      "context": "Fausto padre zen, prima del trauma del trollaggio"
     },
     {
       "quote": "Si vede che siete in grado di sognare solo quando fate per finta...",
       "author": "Fausto Petrini",
-      "context": "Risposta alla cena immaginaria"
+      "context": "Risposta amara al trollaggio epocale - Fausto ferito nell'animo"
+    },
+    {
+      "quote": "abbiamo preso una scatola del tempo e ognuno di noi vi ha riposto un qualcosa di significativo che rappresentasse un attimo di felicita'",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Il culmine della storia inventata - la scatola del tempo sotterrata con patto segreto"
+    },
+    {
+      "quote": "Come un cittino",
+      "author": "Cosimo Nencioni",
+      "context": "Cosimo che rincara la dose parlando della felicita' di Fede (che probabilmente non c'era)"
     }
   ],
   "pagelle": [
     {
       "name": "Adriano Sergio Lorenzo Facchini",
-      "voto": 9.0,
-      "giudizio": "Inventa la cena immaginaria piu epica di sempre: classifica migliore amico, scatola del tempo sotterrata, merenda cena fino a sera, prospettive future del gruppo. Giacomo miglior amico, Fausto ultimo. 'Il falo con chitarra e canti? S'è perso la voce tra tutti'. Genio del trolling.",
-      "messaggi": 14,
-      "mediaGiornaliera": 2.0,
+      "voto": 9.5,
+      "giudizio": "Il Re della Chat si e' superato questa settimana, orchestrando un trollaggio degno di un romanzo. Ha costruito una narrazione talmente elaborata (gioco del migliore amico, merenda emotiva, foto firmata, scatola del tempo, patto segreto, falo' con chitarra) che quasi ci si commuoveva a leggerla. La sua prolissita' per una volta e' stata un'arma letale di precisione comica. Quando ha scritto 'Si ma non sara' uguale' sapevi che stava godendo come un riccio.",
+      "messaggi": 9,
+      "mediaGiornaliera": 1.3,
       "highlights": [
-        "Invenzione cena immaginaria",
-        "Trollata epica a Fausto"
+        "Ha costruito il trollaggio piu' elaborato dell'anno",
+        "Ha inventato il gioco del 'migliore amico del gruppo' con Fausto ultimo",
+        "La storia della scatola del tempo e' poesia pura",
+        "Ha consigliato ad Alessio V. di stare calmo per la pressione"
       ],
-      "citazioneTop": "Abbiamo fatto prima una call e dopo ci siamo riuniti di persona per una merenda cena fino a sera"
+      "citazioneTop": "abbiamo preso una scatola del tempo e ognuno di noi vi ha riposto un qualcosa di significativo"
     },
     {
       "name": "Giacomo Dolfi",
-      "voto": 8.0,
-      "giudizio": "Complice perfetto nella cena immaginaria. 'Ma tanto si rifa dai, siamo stati talmente bene'. 'Ma poi il mix laser game e Petriolo è stato davvero fantastico'. 'Chissa se c'ha lasciato anche l'orologio' - dubbio esistenziale.",
-      "messaggi": 6,
-      "mediaGiornaliera": 0.9,
-      "highlights": [
-        "Co-autore cena immaginaria",
-        "Dettagli sul laser game"
-      ],
-      "citazioneTop": "Ma poi il mix laser game e Petriolo è stato davvero fantastico"
-    },
-    {
-      "name": "Alessio Valentini",
-      "voto": 7.5,
-      "giudizio": "'C'è una quantita di fica all'universita COLOSSALE'. 'Ero gia fradiciotto li eh' su una foto vecchia. Presente dalla North Carolina con osservazioni di qualita.",
-      "messaggi": 6,
-      "mediaGiornaliera": 0.9,
-      "highlights": [
-        "Osservazione fica universitaria",
-        "Commenti nostalgici"
-      ],
-      "citazioneTop": "C'è una quantità di fica all'università COLOSSALE. Mi sto sentendo male."
-    },
-    {
-      "name": "Fausto Petrini",
-      "voto": 7.0,
-      "giudizio": "Reset di fabbrica del telefono, perde tutto. 'Se c'era qualche lancio importante me lo sono perso'. Scopre la trollata: 'Si vede che siete in grado di sognare solo quando fate per finta'. 'Ho acquisito il dono dell'invulnerabilita alle bizze del mi figliolo'.",
-      "messaggi": 6,
-      "mediaGiornaliera": 0.9,
-      "highlights": [
-        "Vittima della trollata",
-        "Risposta filosofica"
-      ],
-      "citazioneTop": "Si vede che siete in grado di sognare solo quando fate per finta"
-    },
-    {
-      "name": "Cosimo Nenciòni",
-      "voto": 6.5,
-      "giudizio": "'Come un cittino' su Federico. 'Bello assai'. 'Sei in una caverna?' ad Adriano. Presente ma con pochi contributi.",
+      "voto": 9.0,
+      "giudizio": "Il Fondatore ha dimostrato di essere un maestro dell'improvvisazione teatrale. Ha dato il la al trollaggio fingendo che Fausto si fosse perso una cena ('No cazzo, abbiamo fissato una cena ma la prenotazione andava fatta entro ieri sera'). Ha poi rincarato la dose parlando del laser game a Petriolo con una naturalezza disarmante. Il patriarca benevolo questa volta e' stato patriarca malefico, e ci piace.",
       "messaggi": 4,
       "mediaGiornaliera": 0.6,
       "highlights": [
-        "Commenti",
-        "Partecipazione alla trollata"
+        "Ha iniziato il trollaggio con la storia della cena persa",
+        "Ha inventato il combo 'laser game e Petriolo'",
+        "Ha mantenuto il sangue freddo per tutto lo sketch"
+      ],
+      "citazioneTop": "ma poi il mix laser game e petriolo e' stato davvero fantastico"
+    },
+    {
+      "name": "Cosimo Nencioni",
+      "voto": 8.0,
+      "giudizio": "Il Provocatore Raffinato ha fatto quello che sa fare meglio: interventi chirurgici che amplificano il caos. 'Bello assai' su chissa' cosa, 'Come un cittino' sulla felicita' inventata di Fede. Poche parole ma con timing perfetto. Ha anche chiuso la settimana chiedendo ad Adriano se fosse in una caverna. Sintetico e letale come sempre.",
+      "messaggi": 4,
+      "mediaGiornaliera": 0.6,
+      "highlights": [
+        "Ha rinforzato il trollaggio con 'Come un cittino'",
+        "Emoji pensieroso al momento giusto",
+        "La domanda sulla caverna resta un mistero"
       ],
       "citazioneTop": "Come un cittino"
     },
     {
-      "name": "Alessio Macalùso",
-      "voto": 6.0,
-      "giudizio": "'Ahahahah' e 'Sicuro' - contributi minimi ma presenti. Settimana tranquilla per il Mac.",
-      "messaggi": 3,
-      "mediaGiornaliera": 0.4,
+      "name": "Fausto Petrini",
+      "voto": 7.5,
+      "giudizio": "Il Trascinatore questa settimana e' stato trascinato. Ha iniziato con l'euforia del padre che scopre superpoteri ('l'invulnerabilita' alle bizze del mi figliolo'), poi e' precipitato nel baratro quando ha capito di essere stato trollato. La sua risposta amara ('Si vede che siete in grado di sognare solo quando fate per finta') e' entrata nella storia del gruppo. Pero' ha abboccato, quindi mezzo voto in meno.",
+      "messaggi": 4,
+      "mediaGiornaliera": 0.6,
       "highlights": [
-        "Partecipazione"
+        "Ha fornito inconsapevolmente l'occasione perfetta per il trollaggio",
+        "Il superpotere della pazienza paterna e' commovente",
+        "La risposta amara e' diventata leggendaria"
       ],
-      "citazioneTop": "Sicuro"
+      "citazioneTop": "Si vede che siete in grado di sognare solo quando fate per finta..."
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 7.0,
+      "giudizio": "Il Giramondo ha vissuto una settimana di forti emozioni all'universita', dove la concentrazione di fica lo ha portato a sentirsi male. Ha partecipato marginalmente al gruppo ma ha lasciato il segno con la sua comunicazione senza filtri. Sul finale della settimana ammette di essere stato 'gia' fradiciotto' in qualche occasione. Nomade digitale senza vergogna, come da tradizione.",
+      "messaggi": 6,
+      "mediaGiornaliera": 0.9,
+      "highlights": [
+        "Denuncia pubblica sulla quantita' di fica all'universita'",
+        "Ha ammesso di essere stato fradiciotto",
+        "Ha detto 'Non sembra male' senza che nessuno sappia a cosa si riferisse"
+      ],
+      "citazioneTop": "C'e' una quantita' di fica all'universita' COLOSSALE. Mi sto sentendo male."
+    },
+    {
+      "name": "Alessio Macaluso",
+      "voto": 6.0,
+      "giudizio": "La Voce della Ragione questa settimana ha scelto di restare in silenzio quasi totale. Un 'Ahahahah' che probabilmente era una reazione a qualche media omessa, e poi il vuoto. Il saggio zen ha meditato sulla vacuita' dell'esistenza senza disturbare il trollaggio in corso. Forse sapeva gia' tutto e ha scelto di non intervenire. O forse dormiva.",
+      "messaggi": 1,
+      "mediaGiornaliera": 0.1,
+      "highlights": [
+        "Un singolo 'Ahahahah' misterioso",
+        "Non ha partecipato al trollaggio ne' come carnefice ne' come vittima"
+      ],
+      "citazioneTop": "Ahahahah"
     }
   ],
   "awards": {
-    "mvp": "Adriano Sergio Lorenzo Facchini",
-    "comico": "Giacomo Dolfi",
-    "cuore": "Fausto Petrini",
-    "fantasma": null
+    "mvp": "Adriano Sergio Lorenzo Facchini - Architetto di uno dei trollaggi piu' elaborati e memorabili della storia del gruppo",
+    "comico": "Giacomo Dolfi - Ha dato il via al tutto con la storia della cena persa e il combo laser game-Petriolo",
+    "cuore": "Fausto Petrini - La sua risposta amara ha toccato le corde dell'anima ('siete in grado di sognare solo quando fate per finta')",
+    "fantasma": "Alessio Macaluso - Un solo messaggio in tutta la settimana, il silenzio e' oro"
   }
 }

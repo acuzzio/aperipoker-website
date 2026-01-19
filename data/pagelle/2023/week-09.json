@@ -4,106 +4,122 @@
   "startDate": "2023-02-27",
   "endDate": "2023-03-05",
   "stats": {
-    "totalMessages": 90,
+    "totalMessages": 68,
     "activeMembers": 6,
-    "avgPerMember": 15.0
+    "avgPerMember": 11.3
   },
-  "riassunto": "Settimana degli AUGURI! Compleanno di Giacomo il 2 marzo, onomastico di Adriano il 5. Fausto cerca adozione per domenica 5 (Eleonora e Giulio alle terme). Alessio M. difende le uscite miste: 'Mi farebbe parecchio piacere vedere Elena ogni tanto'. Adriano propone treno natura o trekking. Dark Side of the Moon compie 50 anni. Bristol scale delle feci diventa argomento.",
+  "riassunto": "Una settimana intensa e variegata che inizia lunedi con Fausto in cerca di compagnia maschile per la domenica, scatenando una discussione filosofica sulla natura delle serate 'tra uomini'. Alessio Macaluso non ci sta e rivendica il diritto di vedere anche Elena ogni tanto. Tra chi va a Follonica e chi a Pitigliano, emerge che organizzare qualcosa tutti insieme e sempre un'impresa titanica. Il martedi si parla di politica (Jacobin, Renzi che 'l'ha preso in culo', la Meloni e le flat tax), ma il momento clou arriva quando Adriano descrive la sua dieta salutista con tanto di link alla Bristol Scale delle feci: tipo 3, barra 4. Mercoledi Cosimo celebra i 50 anni di The Dark Side of the Moon condividendo articoli, mentre giovedi e il grande giorno: il compleanno di Giacomo! Gli auguri fioccano insieme a citazioni dubbie di Alberto Angela sulle targhe delle auto. La settimana si chiude domenica con l'onomastico di Adriano, salutato da Cosimo con il memorabile 'L'onomastico e da gay. Cmq buon onomastico'.",
   "bestQuotes": [
     {
-      "quote": "L'età è l'equivalente di una targa appiccicata all'auto, ma poi com'è l'auto, cosa c'è dentro, chi la guida, è tutta un'altra storia. - Alberto Angela",
+      "quote": "L'onomastico e da gay. Cmq buon onomastico",
+      "author": "Cosimo Nencioni",
+      "context": "Il modo piu Cosimo possibile di fare gli auguri ad Adriano"
+    },
+    {
+      "quote": "Io invece ci sono anche se non sono d'accordo sul fatto che quando te sei solo le serate debbano essere fra uomini",
+      "author": "Alessio Macaluso",
+      "context": "Alessio che smonta la logica patriarcale delle serate"
+    },
+    {
+      "quote": "L'eta e l'equivalente di una targa appiccicata all'auto, ma poi com'e l'auto, cosa c'e dentro, chi la guida, e tutta un'altra storia.",
       "author": "Adriano Sergio Lorenzo Facchini",
-      "context": "Auguri filosofici a Giacomo"
+      "context": "Citazione attribuita ad Alberto Angela per il compleanno di Giacomo - dubbia ma poetica"
     },
     {
-      "quote": "In realtà se ci pensi bene quando compri un'auto usata l'anno di immatricolazione è super importante. Alberto Angela ha detto un po' na cazzaaa' se l'ha detta",
+      "quote": "In realta se ci pensi bene quando compri un'auto usata l'anno di immatricolazione e super importante. Alberto Angela ha detto un po' na cazzaaa",
       "author": "Alessio Valentini",
-      "context": "Smontaggio della citazione"
+      "context": "Lo smontaggio logico della citazione inspirational"
     },
     {
-      "quote": "L'onomastico è da gay. Cmq buon onomastico",
-      "author": "Cosimo Nenciòni",
-      "context": "Auguri speciali ad Adriano"
+      "quote": "Cacherai benissimo",
+      "author": "Alessio Macaluso",
+      "context": "Commento zen sulla dieta di Adriano e le sue feci tipo 3-4"
     }
   ],
   "pagelle": [
     {
       "name": "Adriano Sergio Lorenzo Facchini",
       "voto": 8.5,
-      "giudizio": "Citazione di Alberto Angela per Giacomo (poi smontata da Alessio V.). Propone treno natura e trekking. Discussione sulla Bristol scale delle feci ('Tipo 3. Barra 4'). Festeggiato per l'onomastico. Settimana eclettica.",
+      "giudizio": "Il Re della Chat ha dominato la settimana con un mix esplosivo di politica, cibo salutare e feci ben formate. Dalla flat tax della Meloni alla Bristol Scale, passando per citazioni dubbie di Alberto Angela, Adriano ha toccato tutti i registri dell'umanita. Il suo onomastico di domenica e stato il coronamento di una settimana da protagonista assoluto. Menzione speciale per il coraggio di condividere pubblicamente la consistenza delle proprie evacuazioni.",
       "messaggi": 28,
       "mediaGiornaliera": 4.0,
       "highlights": [
-        "Citazione Alberto Angela",
-        "Proposta escursioni di gruppo"
+        "La Bristol Scale delle feci condivisa con orgoglio (tipo 3 barra 4)",
+        "La citazione di Alberto Angela che ha fatto ridere tutti",
+        "Il dibattito politico sulla Meloni e Renzi"
       ],
-      "citazioneTop": "Cacherai benissimo -> Si molto bene. Tipo 3 barra 4"
+      "citazioneTop": "Si vede che hai votato la Meloni.."
+    },
+    {
+      "name": "Cosimo Nencioni",
+      "voto": 8.0,
+      "giudizio": "Il Provocatore Raffinato ha colpito ancora con interventi chirurgici e letali. La sua celebrazione dei 50 anni di The Dark Side of the Moon ha portato cultura nel gruppo, ma e stato l'augurio per l'onomastico di Adriano ('L'onomastico e da gay. Cmq buon onomastico') a consacrarlo re della settimana. Con poche parole ha detto piu di mille monologhi, confermando la sua efficienza svizzera nel sarcasmo.",
+      "messaggi": 12,
+      "mediaGiornaliera": 1.7,
+      "highlights": [
+        "Il leggendario augurio per l'onomastico",
+        "I 50 anni di Dark Side of the Moon celebrati con classe",
+        "Gli auguri a Giacomo: 'Buon anno'"
+      ],
+      "citazioneTop": "L'onomastico e da gay. Cmq buon onomastico"
     },
     {
       "name": "Fausto Petrini",
-      "voto": 7.5,
-      "giudizio": "Cerca adozione per domenica 5 con garbo. Primo a fare gli auguri a Giacomo. Condivide articolo Jacobin sul PD. 'Purtroppo per capire le cose bisogna leggere di più' - il professore.",
-      "messaggi": 18,
-      "mediaGiornaliera": 2.6,
+      "voto": 7.0,
+      "giudizio": "L'instancabile Organizzatore ha provato ancora una volta a creare il 'magic moment' per vedersi tutti insieme. La sua proposta di una serata tra uomini ha scatenato dibattiti esistenziali sulla natura degli incontri di gruppo. Ha condiviso articoli di Jacobin alle 3 di notte (perche 'per capire le cose bisogna leggere di piu') e si e fatto portavoce del primo 'Auguri Jack!!' per Giacomo. Entusiasta come sempre, anche se i piani non vanno mai in porto.",
+      "messaggi": 10,
+      "mediaGiornaliera": 1.4,
       "highlights": [
-        "Ricerca adozione domenicale",
-        "Primo auguri a Giacomo"
+        "Il tentativo di organizzare la serata tra uomini",
+        "Articoli di Jacobin condivisi alle 3 di notte",
+        "Primo a fare gli auguri a Giacomo"
       ],
-      "citazioneTop": "Bovi, io domenica 5 sono da solo... qualcuno mi adotta anche da solo?"
+      "citazioneTop": "Purtroppo per capire le cose bisogna leggere di piu"
     },
     {
-      "name": "Cosimo Nenciòni",
+      "name": "Alessio Macaluso",
       "voto": 7.5,
-      "giudizio": "50 anni di Dark Side of the Moon celebrati. 'L'onomastico è da gay' ad Adriano. A Pitigliano il 5, quindi niente adozione Fausto. Link Twitter di qualità. Sarcastico come sempre.",
-      "messaggi": 16,
-      "mediaGiornaliera": 2.3,
+      "giudizio": "La Voce della Ragione ha brillato questa settimana con interventi brevi ma incisivi. Ha smontato la logica patriarcale delle serate 'tra uomini' con eleganza ('Anzi mi farebbe parecchio piacere vedere Elena ogni tanto'), ha commentato con zen la Bristol Scale ('Cacherai benissimo') e ha definito la citazione di Alberto Angela 'tipica frase da anziano'. Poche parole, massima saggezza, come sempre.",
+      "messaggi": 8,
+      "mediaGiornaliera": 1.1,
       "highlights": [
-        "Celebrazione Pink Floyd",
-        "Auguri gay ad Adriano"
+        "Lo smontaggio della serata tra soli uomini",
+        "Il commento zen sulle feci di Adriano",
+        "La definizione della citazione come 'tipica frase da anziano'"
       ],
-      "citazioneTop": "L'onomastico è da gay. Cmq buon onomastico"
+      "citazioneTop": "Tipica frase da anziano"
     },
     {
       "name": "Alessio Valentini",
       "voto": 7.0,
-      "giudizio": "Smonta la citazione di Alberto Angela con logica impeccabile. 'La bristol scale è sempre bella'. Auguri a Giacomo. Qualità alta nonostante pochi messaggi.",
-      "messaggi": 10,
-      "mediaGiornaliera": 1.4,
+      "giudizio": "Il Giramondo ha partecipato con il suo solito mix di ironia e logica implacabile. Ha apprezzato la Bristol Scale ('La bristol scale e sempre bella'), ha smontato la citazione di Alberto Angela con argomentazioni da concessionario d'auto ('quando compri un'auto usata l'anno di immatricolazione e super importante') e ha definito 'Leggendaria' la frase dell'onomastico. Interventi mirati e sempre sul pezzo.",
+      "messaggi": 7,
+      "mediaGiornaliera": 1.0,
       "highlights": [
-        "Smontaggio citazione",
-        "Apprezzamento Bristol scale"
+        "Lo smontaggio logico della citazione di Alberto Angela",
+        "L'apprezzamento per la Bristol Scale",
+        "Gli auguri a Giacomo con dubbi sulla fonte della citazione"
       ],
       "citazioneTop": "Alberto Angela ha detto un po' na cazzaaa' se l'ha detta"
     },
     {
-      "name": "Alessio Macalùso",
-      "voto": 7.0,
-      "giudizio": "Difende le uscite miste: 'Mi farebbe parecchio piacere vedere Elena ogni tanto'. 'Tipica frase da anziano' sulla citazione. Presente e propositivo. Aggiunge biustel.",
-      "messaggi": 10,
-      "mediaGiornaliera": 1.4,
-      "highlights": [
-        "Difesa uscite miste",
-        "Aggiunta biustel"
-      ],
-      "citazioneTop": "Mi farebbe parecchio piacere vedere Elena ogni tanto"
-    },
-    {
       "name": "Giacomo Dolfi",
       "voto": 6.5,
-      "giudizio": "Festeggiato il compleanno. A Follonica il 5 (si vede che hai votato Meloni, secondo Adriano). 'Grazie compagni'. Il Fondatore ringrazia con stile.",
-      "messaggi": 8,
-      "mediaGiornaliera": 1.1,
+      "giudizio": "Il Fondatore ha vissuto la settimana con il suo compleanno al centro dell'attenzione. Ha ringraziato i compagni con un sobrio 'Grazie compagni', ha parlato di Follonica e ha proposto ad Adriano di unirsi al ristorante. La sua presenza e stata costante ma discreta, come si addice a un patriarca benevolo che lascia parlare gli altri mentre lui osserva dal suo trono di Poggibonsi.",
+      "messaggi": 5,
+      "mediaGiornaliera": 0.7,
       "highlights": [
-        "Compleanno festeggiato",
-        "Ringraziamenti ai compagni"
+        "Il compleanno festeggiato dal gruppo",
+        "L'invito ad Adriano per il ristorante a Follonica",
+        "Il sobrio 'Grazie compagni' agli auguri"
       ],
       "citazioneTop": "Grazie compagni"
     }
   ],
   "awards": {
-    "mvp": "Adriano Sergio Lorenzo Facchini",
-    "comico": "Cosimo Nenciòni",
-    "cuore": "Alessio Macalùso",
-    "fantasma": null
+    "mvp": "Adriano Sergio Lorenzo Facchini - Ha dominato ogni discussione, dalla politica alle feci, con energia inesauribile",
+    "comico": "Cosimo Nencioni - 'L'onomastico e da gay' restera negli annali del gruppo",
+    "cuore": "Alessio Macaluso - Ha difeso il diritto di vedere Elena e ha supportato tutti con commenti zen",
+    "fantasma": "Nessuno - Tutti i membri hanno partecipato attivamente questa settimana"
   }
 }

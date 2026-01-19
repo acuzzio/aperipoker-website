@@ -4,106 +4,122 @@
   "startDate": "2023-12-04",
   "endDate": "2023-12-10",
   "stats": {
-    "totalMessages": 151,
+    "totalMessages": 152,
     "activeMembers": 6,
-    "avgPerMember": 25.2
+    "avgPerMember": 25.3
   },
-  "riassunto": "SETTIMANA DRAMMATICA: COVID, DIEGO AL MEYER E WHAMAGEDDON! Mac propone la sfida Whamageddon: evitare 'Last Christmas' degli Wham fino a Natale. Fausto: 'Ovviamente io lo conoscevo da Romesh Ranganathan'. Poi Adriano esplode: 'Scusate ma qualcuno di voi ha un raffreddore tremendo tosse / covid Dio bastardo??'. Fausto innocente: 'No'. Cocco: 'Io ho la febbre a 38'. Adriano furioso: 'Le ultime tre volte che sono stato male c'e' un denominatore comune, la presenza di Fausto la sera prima. A voi il resto..'. POLL epico: 'Fausto e' un untore (2 voti) vs Adriano deve stare a casa (1 voto)'. Poi arriva la conferma: 'Comunque ho il covid. Chissa' chi me lo avra' attaccato'. Anche Cocco positivo! E poi il DRAMMA: Diego al Meyer con covid + gastroenterite! Cocco: 'Ha il covid e lo ricoverano'. Tutti preoccupati. Finalmente domenica le buone notizie: 'Diego si e' ripreso e potrebbero mandarlo a casa'. Adriano gia' negativo, gioca a tennis: 'Ho una quantita' di muco che potrei intonacare una stanza medio grande'. Cena del 15 confermata.",
+  "riassunto": "Una settimana dominata dal Covid che falcidia il gruppo Aperipoker. Tutto inizia con Alessio M. che conferma la cena del 15 e propone la sfida del Whamageddon. Ma il virus non aspetta: Adriano annuncia di stare male con una serie di bestemmie creative ('cristo santo di un Dio minorato e bastardo rotto in culo'), accusando Fausto di essere l'untore. Scoppia la polemica: chi ha contagiato chi? Giacomo lancia un sondaggio democratico. Cosimo si unisce al club dei malati con febbre a 38, ma comunque va a visitare una vecchia che non gli apre ('Stastronza'). Quando il figlio Diego viene ricoverato al Mayer con Covid e gastroenterite, il gruppo si stringe intorno a Cosimo con genuina preoccupazione. Finisce con buone notizie: Diego migliora, Adriano torna negativo e gioca pure a tennis, mentre Fausto rimane l'unico illeso - confermando la teoria dell'untore.",
   "bestQuotes": [
     {
-      "quote": "Le ultime tre volte che sono stato male c'e' un denominatore comune, la presenza di Fausto la sera prima. A voi il resto..",
+      "quote": "Però ho esattamente i sintomi dell'altra volta e quindi cristo santo di un Dio minorato e bastardo rotto in culo ho sicuramente il covid",
       "author": "Adriano Sergio Lorenzo Facchini",
-      "context": "Teoria dell'untore"
+      "context": "La bestemmia piu' creativa e articolata dell'anno, degna di un Nobel per la letteratura blasfema."
     },
     {
-      "quote": "Ho una quantita' di muco fermo tra naso e bronchi che potrei intonacare una stanza medio grande",
+      "quote": "Le ultime tre volte che sono stato male c'è un denominatore comune, la presenza di Fausto la sera prima",
       "author": "Adriano Sergio Lorenzo Facchini",
-      "context": "Guarigione covid"
+      "context": "Adriano presenta la sua tesi complottista su Fausto untore con rigore scientifico."
     },
     {
-      "quote": "Diego ha sia il covid che la gastroenterite. Non ha niente di gravissimo ma e' piccolo quindi non sta bene ovviamente",
+      "quote": "Bah, io vi vo in culo, sto proprio bene",
+      "author": "Fausto Petrini",
+      "context": "Fausto risponde alle accuse di untore con la grazia tipica del gruppo."
+    },
+    {
+      "quote": "Io so dalla vecchia. Non mi apre. Stastronza",
       "author": "Cosimo Nenciòni",
-      "context": "Diego al Meyer"
+      "context": "Cosimo febbricitante cerca di lavorare, ma la paziente non collabora."
+    },
+    {
+      "quote": "Ho una quantità di muco fermo tra naso e bronchi che potrei intonacare una stanza medio grande",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Descrizione grafica della convalescenza che nessuno aveva chiesto ma tutti meritavamo."
     }
   ],
   "pagelle": [
     {
       "name": "Adriano Sergio Lorenzo Facchini",
       "voto": 9.0,
-      "giudizio": "Il paziente zero o la vittima? 'Qualcuno di voi ha un raffreddore tremendo covid Dio bastardo??'. Teoria dell'untore Fausto: 'Le ultime tre volte che sono stato male c'e' un denominatore comune'. Maratona film da malato: 5 in un giorno! 'Ho una quantita' di muco che potrei intonacare una stanza medio grande'. 'Non respiro'. 'Riesco solo a stare sul divano fine'. 'La tu mamma e te vi riconosco ma la ragazza non mi sembra tua moglie' - sulla foto di Alessio V.! Protagonista assoluto della settimana COVID.",
-      "messaggi": 42,
-      "mediaGiornaliera": 6.0,
+      "giudizio": "Il Re della Chat non perde lo scettro nemmeno dal letto di morte. Malato di Covid, febbricitante, senza fiato, riesce comunque a dominare la conversazione con un flusso di coscienza inarrestabile. Le sue bestemmie raggiungono vette letterarie mai viste prima, la teoria sull'untore Fausto e' esposta con rigore quasi accademico. Trova pure il tempo per guardare 5 film in un giorno e commentare la figlia di Alessio V. Un vero campione della resilienza comunicativa.",
+      "messaggi": 47,
+      "mediaGiornaliera": 6.7,
       "highlights": [
-        "Covid positivo",
-        "Teoria untore"
+        "Ha creato una bestemmia composita che meriterebbe di essere studiata nelle universita'",
+        "Ha guardato 5 film in un giorno di malattia e li ha elencati tutti",
+        "Ha formulato la teoria dell'untore Fausto con prove circostanziali"
       ],
-      "citazioneTop": "Le ultime tre volte che sono stato male c'e' un denominatore comune, la presenza di Fausto"
+      "citazioneTop": "cristo santo di un Dio minorato e bastardo rotto in culo"
     },
     {
       "name": "Cosimo Nenciòni",
       "voto": 8.5,
-      "giudizio": "Il padre preoccupato! 'Cmq io ho la febbre a 38'. 'E ora vado da una vecchia'. 'Non mi apre. Stastronza'. 'Ho il covid anche io'. 'Ora ha la febbre Diego quindi si parte per il Mayer'. DIEGO RICOVERATO! 'Ha il covid e lo ricoverano'. Poi le buone notizie: 'Diego si e' ripreso e potrebbero mandarlo a casa. Ovviamente ora e' positiva Luna ma sta bene'. 'Forse hai l'ebola' ad Adriano. Settimana drammatica gestita con coraggio.",
-      "messaggi": 32,
-      "mediaGiornaliera": 4.6,
-      "highlights": [
-        "Diego al Meyer",
-        "Covid famiglia"
-      ],
-      "citazioneTop": "Diego ha sia il covid che la gastroenterite. Non ha niente di gravissimo ma e' piccolo"
-    },
-    {
-      "name": "Fausto Petrini",
-      "voto": 8.0,
-      "giudizio": "L'untore accusato! 'Se vi interessa ho il collo bloccato'. 'Che devi sta a casa tua. Babbeo'. 'Sei venuto a pranzo col covid, secondo me ti devi guardare allo specchio'. 'Bah, io vi vo in culo, sto proprio bene'. 'Ho appena perso la sfida di Last Christmas'. 'Prossima volta evitero' di organizzare feste per tutelarti, pora stellina'. 'Un abbraccio co' a Cocco per Diego. Si difende dalle accuse.",
+      "giudizio": "Una settimana da incubo gestita con il tipico aplomb sarcastico. Febbre a 38? Va a lavorare. La vecchia non apre? 'Stastronza'. Il figlio ricoverato al Mayer? Tiene informato il gruppo con lucidita' e dignita'. Cosimo dimostra che si puo' essere malati, preoccupati per i figli, e comunque trovare il tempo per ipotizzare che Adriano abbia l'ebola. Un equilibrio tra ironia e umanita' che pochi raggiungono.",
       "messaggi": 28,
       "mediaGiornaliera": 4.0,
       "highlights": [
-        "Difesa untore",
-        "Last Christmas"
+        "E' andato a lavorare con 38 di febbre ('E ora vado da una vecchia')",
+        "Ha gestito il ricovero di Diego tenendo il gruppo informato",
+        "Ha chiuso con buone notizie domenica mattina"
       ],
-      "citazioneTop": "Bah, io vi vo in culo, sto proprio bene"
+      "citazioneTop": "forse hai l'ebola"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 7.5,
+      "giudizio": "Il presunto untore si difende con vigore ma senza grande successo. Da organizzatore a imputato, Fausto passa la settimana a respingere le accuse di Adriano con argomenti logici ('lavori negli ospedali') che pero' nessuno ascolta. Il suo 'vi vo in culo, sto proprio bene' mentre tutti crepano e' il plot twist perfetto. Perde la sfida del Whamageddon quasi subito. Rimane l'unico sano - elemento che rafforza i sospetti.",
+      "messaggi": 26,
+      "mediaGiornaliera": 3.7,
+      "highlights": [
+        "Ha perso il Whamageddon in meno di una settimana",
+        "Si e' difeso dalle accuse di untore con scarso successo",
+        "E' rimasto l'unico sano di tutto il gruppo"
+      ],
+      "citazioneTop": "Prossima volta eviterò di organizzare feste per tutelarti, pora stellina"
     },
     {
       "name": "Giacomo Dolfi",
-      "voto": 7.5,
-      "giudizio": "Il sondaggista! 'POLL: Fausto e' un untore (2 voti) vs Adriano deve stare a casa (1 voto)'. 'Cocco, in testa solo a me il vomito'. 'E comunque si sente che stai non benissimo'. 'Maremma gatta' sul covid. 'Ricordati l'altra volta al tennis....' su Adriano malato. 'Te e Luna come state?'. 'Bene per Diego dai!'. Presente e partecipe.",
-      "messaggi": 18,
-      "mediaGiornaliera": 2.6,
-      "highlights": [
-        "Poll untore",
-        "Solidarieta' Diego"
-      ],
-      "citazioneTop": "POLL: Fausto e' un untore vs Adriano deve stare a casa"
-    },
-    {
-      "name": "Alessio Valentini",
       "voto": 7.0,
-      "giudizio": "'Ao'. 'Non male'. 'Ottimo' - 'mi spiace :(' sul covid. 'Mi spiace non essere in macchina insieme'. 'E' mia figlia' - risposta geniale ad Adriano! 'Quando si muore' - filosofico. Presente da lontano.",
-      "messaggi": 14,
-      "mediaGiornaliera": 2.0,
+      "giudizio": "Il Fondatore interviene con la saggezza di chi osserva dall'alto. Il suo sondaggio 'Fausto e' un untore vs Adriano deve stare a casa' e' un capolavoro di democrazia digitale. Dispensa 'Maremma gatta' e 'Porella' con parsimonia biblica. Chiede aggiornamenti su Diego con genuina preoccupazione. Conferma la cena del 15 con 24 ore di ritardo perche' 'non aveva risposto'. Tipico Giacomo.",
+      "messaggi": 15,
+      "mediaGiornaliera": 2.1,
       "highlights": [
-        "Foto figlia",
-        "Commenti covid"
+        "Ha creato il sondaggio democratico sulla questione untore",
+        "Ha ricordato ad Adriano la volta che e' venuto a tennis col Covid",
+        "Si e' preoccupato per Diego con genuino affetto"
       ],
-      "citazioneTop": "E' mia figlia"
+      "citazioneTop": "POLL: Quale verità? - Fausto é un untore (2 votes) - Adriano deve stare a casa (1 vote)"
     },
     {
       "name": "Alessio Macalùso",
-      "voto": 7.0,
-      "giudizio": "Il Lider organizzatore! 'Allora la cena del 15 e' confermata'. Propone Whamageddon: 'Lo facciamo?'. 'Curati' ad Adriano. 'Bene forza'. 'Azzz' su Diego. Presente e organizzativo.",
+      "voto": 6.5,
+      "giudizio": "Lo zen master questa settimana e' piu' silenzioso del solito ma quando parla, parla bene. Apre confermando la cena del 15, propone il Whamageddon, commenta con un laconico 'Curati' la situazione di Adriano. Il suo trio di emoji religiose in risposta alla polemica untore e' un capolavoro di diplomazia passivo-aggressiva. Chiude con un 'Bene forza' di incoraggiamento genuino.",
+      "messaggi": 10,
+      "mediaGiornaliera": 1.4,
+      "highlights": [
+        "Ha proposto la sfida del Whamageddon al gruppo",
+        "Ha confermato la cena del 15 dicembre",
+        "Ha risposto alle polemiche con emoji religiose: diplomazia pura"
+      ],
+      "citazioneTop": "Lo facciamo? [riferito al Whamageddon]"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 6.0,
+      "giudizio": "Il Giramondo questa settimana osserva da lontano il caos epidemiologico italiano. I suoi interventi sono chirurgici e spesso criptici ('ottimo', 'mi spiace :(', 'quando si muore'). Condivide una foto con mamma e figlia che scatena la confusione di Adriano. La sua empatia si esprime in modi originali: 'mi spiace non essere in macchina insieme' e' forse il messaggio piu' Alessio V. dell'anno.",
       "messaggi": 12,
       "mediaGiornaliera": 1.7,
       "highlights": [
-        "Whamageddon",
-        "Organizza cena"
+        "Ha condiviso una foto di famiglia che ha confuso Adriano",
+        "Ha espresso solidarieta' per il Covid con 'mi spiace non essere in macchina insieme'",
+        "Ha commentato la situazione con il filosofico 'quando si muore'"
       ],
-      "citazioneTop": "Lo facciamo? (Whamageddon)"
+      "citazioneTop": "mi spiace non essere in macchina insieme"
     }
   ],
   "awards": {
-    "mvp": "Adriano Sergio Lorenzo Facchini",
-    "comico": "Fausto Petrini",
-    "cuore": "Cosimo Nenciòni",
-    "fantasma": null
+    "mvp": "Adriano Sergio Lorenzo Facchini - Ha dominato la chat pure dal letto di morte, tra bestemmie creative e maratone cinematografiche",
+    "comico": "Cosimo Nenciòni - 'forse hai l'ebola' e 'Stastronza' alla vecchia che non apre sono da standing ovation",
+    "cuore": "Cosimo Nenciòni - Ha gestito il ricovero di Diego con dignita' e tenuto il gruppo informato nei momenti difficili",
+    "fantasma": "Nessuno - Tutti hanno partecipato attivamente, uniti dal Covid e dalla solidarieta'"
   }
 }

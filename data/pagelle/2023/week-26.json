@@ -4,99 +4,103 @@
   "startDate": "2023-06-26",
   "endDate": "2023-07-02",
   "stats": {
-    "totalMessages": 58,
-    "activeMembers": 6,
-    "avgPerMember": 9.7
+    "totalMessages": 45,
+    "activeMembers": 5,
+    "avgPerMember": 9.0
   },
-  "riassunto": "Settimana del Palio e della casina GRATIS in North Carolina! Fausto spiega il termine 'vestirsi' con lezione magistrale: 'termine comunemente usato nelle contrade del Palio di Siena per indicare l'atto di mettersi la montura'. Adriano: 'Un vero lupaiolo'. Alessio V. arriva in North Carolina: 'Questa è la nuova ora a cui mi sveglio'. Un professore in sabbatico gli dà la casa GRATISSE fino a dicembre. Cocco: 'Ambientazione da Desperate Housewives'. Palio non entusiasmante: 'Un brutto palio come tanti'. Fausto vestito da alfiere per i santi patroni.",
+  "riassunto": "Settimana dominata da due grandi temi: il Palio di Siena e l'arrivo di Alessio Valentini in Nord Carolina. Fausto si 'veste' da alfiere per i santi patroni Pietro e Paolo, offrendo al gruppo una lezione magistrale sulla terminologia contradaiola ('vestirsi' non 'indossare', 'alfiere' non 'sbandieratore'). Intanto dall'altra parte dell'Atlantico, Alessio V annuncia trionfante di aver ottenuto una casa GRATISSE da un professore in sabbatico, scatenando invidia e paragoni con Desperate Housewives. Il Palio di luglio si rivela deludente ('Un brutto palio come tanti'), ma Cosimo si consola sapendo che almeno Fausto era vestito bene. Adriano propone birrette a orari improbabili e nessuno si presenta.",
   "bestQuotes": [
     {
-      "quote": "Vestirsi è termine comunemente usato nelle contrade del Palio di Siena per indicare l'atto di mettersi la montura",
+      "quote": "\"Vestirsi\" è termine comunemente usato nelle contrade del palio di Siena per indicare l'atto di mettersi la montura, abito rappresentativo dei figuranti di una contrada",
       "author": "Fausto Petrini",
-      "context": "Lezione di paliologia"
+      "context": "Spiegazione enciclopedica dopo che Adriano ha osato chiedere 'Vestirti per cosa??'"
     },
     {
-      "quote": "Un professore in sabbatico è andato in Europa fino a dicembre e ci ha dato la casa GRATISSE",
+      "quote": "Allora, un professore in sabbatico è andato in europa fino a dicembre e ci ha dato la casa GRATISSE.",
       "author": "Alessio Valentini",
-      "context": "Fortuna in North Carolina"
+      "context": "La fortuna del nomade digitale colpisce ancora"
     },
     {
-      "quote": "Ambientazione da Desperate Housewives",
+      "quote": "Ambientazione da desperate housewives.",
       "author": "Cosimo Nenciòni",
-      "context": "Sulla casetta americana"
+      "context": "Commento tagliente sulla casetta americana di periferia"
+    },
+    {
+      "quote": "Ciechi ma secchi come usci.",
+      "author": "Cosimo Nenciòni",
+      "context": "Sentenza lapidaria sul fantacalcio"
+    },
+    {
+      "quote": "Un brutto palio come tanti",
+      "author": "Alessio Macalùso",
+      "context": "Review brutale ma onesta del Palio di luglio"
     }
   ],
   "pagelle": [
     {
       "name": "Fausto Petrini",
       "voto": 8.5,
-      "giudizio": "Lezione magistrale sul 'vestirsi': spiega montura, tamburino, alfiere. 'La vedo buia per me, domani mi vado a vestire alle 6.30'. 'Paralitico' ad Adriano citando Nuti. 'Sembra carina la casina... in affitto o compra?' Vestito per i santi patroni Pietro e Paolo. Il chiocciolino doc.",
-      "messaggi": 12,
-      "mediaGiornaliera": 1.7,
+      "giudizio": "Il Trascinatore questa settimana si trasforma in Professore Emerito di Tradizioni Senesi. La sua spiegazione sul 'vestirsi' da alfiere e la differenza con lo 'sbandieratore' e' da antologia. Non solo partecipa attivamente al Palio vestendosi per i santi patroni Pietro e Paolo, ma trova anche il tempo di interessarsi alla casina americana di Alessio V. Un vero lupaiolo che fa cultura.",
+      "messaggi": 8,
+      "mediaGiornaliera": 1.1,
       "highlights": [
-        "Lezione vestirsi",
-        "Vestito per patroni"
+        "Lezione magistrale sulla terminologia del Palio",
+        "Si veste da alfiere per i santi patroni",
+        "Chiede se la casa in NC sia in affitto o compra"
       ],
-      "citazioneTop": "Vestirsi è termine comunemente usato nelle contrade del Palio di Siena per indicare l'atto di mettersi la montura"
+      "citazioneTop": "Un vero lupaiolo"
     },
     {
       "name": "Alessio Valentini",
       "voto": 8.0,
-      "giudizio": "Arriva in North Carolina: 'Questa è la nuova ora a cui mi sveglio'. Casa GRATIS da professore in sabbatico. 'Dovrei provare ad avvicinarmi ancora, ma la veggo buia'. '4-5 ore d'aereo in meno'. Fortunato ma sempre lontano.",
-      "messaggi": 14,
-      "mediaGiornaliera": 2.0,
-      "highlights": [
-        "Casa gratis",
-        "Avvicinamento a casa"
-      ],
-      "citazioneTop": "Un professore in sabbatico è andato in Europa fino a dicembre e ci ha dato la casa GRATISSE"
-    },
-    {
-      "name": "Adriano Sergio Lorenzo Facchini",
-      "voto": 7.5,
-      "giudizio": "'Stasera ci sono! Birretta????' 'Ma che devi fare?? Vestirti per cosa??' - finge di non capire per far spiegare Fausto. 'Ed io che volevo farti raccontare per metterti in luce'. 'Praticamente sei a casa'. 'Ma facci un video cazzo'. 'Dieci e lode' sul Palio. Stratega sociale.",
+      "giudizio": "Il Giramondo sbarca in Nord Carolina annunciando la sua nuova ora di sveglia (le 8:30!) come se fosse un traguardo olimpico. Condivide la location, manda foto della casetta da Desperate Housewives e rivela il colpo del secolo: casa GRATISSE da un professore in sabbatico. Il suo 'Ao, semmai poco' riassume la filosofia del nomade fortunato.",
       "messaggi": 12,
       "mediaGiornaliera": 1.7,
       "highlights": [
-        "Strategia far raccontare",
-        "Commento Palio"
+        "Annuncia l'arrivo in Nord Carolina",
+        "Ottiene casa gratis fino a dicembre",
+        "Si sveglia alle 8:30 e ne va fiero"
       ],
-      "citazioneTop": "Ed io che volevo farti raccontare per metterti in luce dinnanzi a tutti"
+      "citazioneTop": "Buongiorno ragazzi. Questa è la nuova ora a cui mi sveglio."
     },
     {
       "name": "Cosimo Nenciòni",
       "voto": 7.5,
-      "giudizio": "'Mi taja'. 'Ciechi ma secchi come usci' sui muscolari. 'Con 100 diventi un fascio di muscoli'. Chiede sunto paliesco: 'Potete fare un sunto a me e all'Alessio d'America?' 'Fausto è vestito'. 'Ambientazione da Desperate Housewives'. Critico e assente dal Palio.",
-      "messaggi": 12,
-      "mediaGiornaliera": 1.7,
-      "highlights": [
-        "Richiesta sunto Palio",
-        "Battuta Desperate Housewives"
-      ],
-      "citazioneTop": "Ambientazione da Desperate Housewives"
-    },
-    {
-      "name": "Alessio Macalùso",
-      "voto": 7.0,
-      "giudizio": "'Cioè? È ironico?' sul video. 'C'è Fausto per questo' sul sunto paliesco. 'È proprio una casetta di periferia'. 'Un brutto palio come tanti'. 'Eri in piazza Fausto?' 'La qualità delle immagini di Canale 3 è imbarazzante'. Presente e pratico.",
+      "giudizio": "Il Provocatore Raffinato e' in forma smagliante. Apre la settimana con un link che 'lo taja', dispensa sentenze sul fantacalcio ('Ciechi ma secchi come usci'), chiede cortesemente un 'sunto paliesco' per se e 'l'alessio d'America', e chiude con il commento perfetto sulla casetta americana. Parole misurate ma letali.",
       "messaggi": 10,
       "mediaGiornaliera": 1.4,
       "highlights": [
-        "Commento Palio",
-        "Critica TV"
+        "Richiesta formale di aggiornamento paliesco",
+        "Paragone con Desperate Housewives",
+        "Sentenza sul fantacalcio: 'Con 100 diventi un fascio di muscoli'"
       ],
-      "citazioneTop": "La qualità delle immagini di Canale 3 è imbarazzante"
+      "citazioneTop": "Mi taja"
     },
     {
-      "name": "Giacomo Dolfi",
-      "voto": 5.5,
-      "giudizio": "Silenzioso questa settimana. In preparazione per l'Australia.",
-      "messaggi": 2,
-      "mediaGiornaliera": 0.3,
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 7.0,
+      "giudizio": "Il Re della Chat propone birrette alle 3 del mattino e si stupisce genuinamente quando Fausto parla di 'vestirsi'. Le sue domande ingenue ('Vestirti per cosa??') permettono a Fausto di brillare con la sua lezione. Nota che Alessio V 'si e' avvicinato' e chiede video della casa. Curioso e partecipe come sempre.",
+      "messaggi": 9,
+      "mediaGiornaliera": 1.3,
       "highlights": [
-        "Preparazione viaggio"
+        "Propone birretta alle 3:14 di notte",
+        "Fa le domande giuste su Fausto che si veste",
+        "Nota che Alessio V si e' avvicinato geograficamente"
       ],
-      "citazioneTop": null
+      "citazioneTop": "Ed io che volevo farti raccontare per metterti in luce dinnanzi a tutti..guarda come mi tratti. Cattivo!!!"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 6.5,
+      "giudizio": "La Voce della Ragione interviene con la sua consueta pacatezza zen. Delega a Fausto il sunto paliesco ('C'e' Fausto per questo'), commenta la casetta americana ('E' proprio una casetta di periferia') e chiude il Palio con una sentenza definitiva. Poche parole, ma sempre al momento giusto.",
+      "messaggi": 6,
+      "mediaGiornaliera": 0.9,
+      "highlights": [
+        "Delega saggiamente il sunto paliesco a Fausto",
+        "Commenta la qualita' video di canale 3",
+        "Sentenza sul Palio: 'Un brutto palio come tanti'"
+      ],
+      "citazioneTop": "La qualità delle immagini di canale 3 è imbarazzante"
     }
   ],
   "awards": {

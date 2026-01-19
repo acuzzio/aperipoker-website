@@ -4,106 +4,122 @@
   "startDate": "2023-12-18",
   "endDate": "2023-12-24",
   "stats": {
-    "totalMessages": 41,
+    "totalMessages": 37,
     "activeMembers": 6,
-    "avgPerMember": 6.8
+    "avgPerMember": 6.2
   },
-  "riassunto": "SETTIMANA NATALIZIA: sondaggi cena e LUCIA E' NATA! Adriano al nuovo Lider: 'Sei tu il lider'. Fausto: 'Ma chiaramente se poi il lider decide, noi ci adatteremo cmq'. 'Ho fussato in alto il messaggio'. Organizzazione cena tra Natale e Capodanno. Adriano: 'Quindi vuoi pilotare il voto a tuo favore?'. Cocco: 'Non mi ero accorto del sondaggione'. Adriano: 'Io porcaccia della madonna ho votato sempre adattandomi porco dio. Ora tolgo i voti'. Fausto: 'Tanto poi ci pensa Jack a metterne solo una, il giorno prima'. Giacomo: 'Il mio problema e' che ad oggi non lo so. Ho i biglietti per andare a Milano'. POI LA NOTIZIA: Cocco condivide foto di bimbo: 'Questo ha 1 settimana. Nome?'. Alessio V.: 'Lucia. Nata Lunedi''. E' NATA LA FIGLIA DI ALESSIO V.! Cocco: 'Siete certamente molto belli'. 'Mi devi far stare male' sui taglieri. Alessio V.: 'Divertitevi e mandate foto'. Fausto: 'Ma te quando torni?'. Alessio: 'Domani'.",
+  "riassunto": "Settimana storica per il gruppo: Alessio Valentini annuncia la nascita di sua figlia Lucia, nata lunedi 18 dicembre! La grande notizia arriva mentre il gruppo si organizza febbribilmente per la cena aperipoker tra Capodanno e l'Epifania. Fausto lancia il sondaggio e 'fussa' messaggi in alto con la determinazione di un segretario di partito, mentre Adriano scopre che Fausto ha 'delle case a Sambuca' e lo incorona 'possidente'. Cosimo non si era accorto del sondaggio (classic Cosimo) e offre uno sformato come risarcimento. Giacomo tentenna sui biglietti per Milano creando suspense sul voto. La settimana si chiude con Alessio Macaluso che si becca il Covid proprio a Natale, saltando il pranzo in famiglia - timing perfetto.",
   "bestQuotes": [
     {
-      "quote": "Lucia. Nata Lunedi'",
-      "author": "Alessio Valentini",
-      "context": "Annuncio nascita figlia"
-    },
-    {
-      "quote": "Io porcaccia della madonna ho votato sempre adattandomi porco dio. Ora tolgo i voti",
+      "quote": "Io porcaccia della madonna ho votato sempre adattandomi porco dio",
       "author": "Adriano Sergio Lorenzo Facchini",
-      "context": "Sul sondaggio cena"
+      "context": "Adriano esprime con eleganza la sua frustrazione per aver votato troppo democraticamente nel sondaggio"
     },
     {
-      "quote": "Ma chiaramente se poi il lider decide, noi ci adatteremo cmq",
+      "quote": "Non mi ero accorto del sondaggione",
+      "author": "Cosimo Nencioni",
+      "context": "Cosimo ammette candidamente di aver mancato il sondaggio - nulla di nuovo sul fronte occidentale"
+    },
+    {
+      "quote": "Tanto poi ci pensa jack a metterne solo una, il giorno prima",
       "author": "Fausto Petrini",
-      "context": "Rispetto per Adriano lider"
+      "context": "Fausto fotografa perfettamente le dinamiche del gruppo: tutti si adattano tranne uno"
+    },
+    {
+      "quote": "Che possidente",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Adriano scopre che Fausto ha case a Sambuca e non resiste a commentare"
+    },
+    {
+      "quote": "Grande Ale! Cosi' si fa! Vedrai che strage ora",
+      "author": "Cosimo Nencioni",
+      "context": "Cosimo celebra gli auguri di Natale di Adriano alle 4:52 del mattino prevedendo il risveglio di tutti"
     }
   ],
   "pagelle": [
     {
-      "name": "Fausto Petrini",
-      "voto": 8.5,
-      "giudizio": "L'organizzatore! 'Maaaaa la cena aperipoker? Si potrebbe stabilire il giorno?'. 'C'ho delle case li'' a Sambuca. 'Ho fussato in alto il messaggio'. 'Ma chiaramente se poi il lider decide, noi ci adatteremo'. 'Certo, se anche gli ultimi due dessero il loro voto sarebbe piu' facile'. 'Magari invece cerchiamo tutti di mettere il massimo delle disponibilita''. 'Tanto poi ci pensa Jack a metterne solo una, il giorno prima'. 'Ma te quando torni?' ad Alessio. Efficiente.",
-      "messaggi": 14,
-      "mediaGiornaliera": 2.0,
+      "name": "Alessio Valentini",
+      "voto": 9.0,
+      "giudizio": "Il Giramondo fa il colpo della vita: annuncia la nascita di sua figlia Lucia, nata lunedi 18 dicembre! 'Divertitevi e mandate foto' - dice lui da qualche parte nel mondo con una neonata in braccio, con la nonchalance di chi e' abituato a vivere avventure. Il voto al sondaggio e' un laconico 'qua', ma quando sei appena diventato padre puoi permetterti ogni cosa. Torna il 24 dicembre per farsi vedere con la nuova famiglia - momento storico per Aperipoker.",
+      "messaggi": 6,
+      "mediaGiornaliera": 1.5,
       "highlights": [
-        "Organizza cena",
-        "Possidente Sambuca"
+        "Ha annunciato la nascita di Lucia - momento storico del gruppo",
+        "Ha detto 'divertitevi' con la serenita' di un neo-papa zen",
+        "Tornera' il 24 dicembre per mostrare la bimba"
       ],
-      "citazioneTop": "Ho fussato in alto il messaggio"
+      "citazioneTop": "Lucia - Nata Lunedi'"
     },
     {
-      "name": "Cosimo Nenciòni",
+      "name": "Fausto Petrini",
       "voto": 8.0,
-      "giudizio": "'Scusate, non mi ero accorto del sondaggione. Ora voto'. 'Ho votato il certo ma potrei aggiustarmi anche per uno degli altri giorni'. 'Mi devi far stare male' sui taglieri. 'Ashehshsh. Questo ha 1 settimana. Nome?' - chiede della figlia di Alessio! 'Siete certamente molto belli' sulla foto famiglia Valentini. Curioso e presente.",
+      "giudizio": "Il Trascinatore scatena la macchina organizzativa natalizia con il sondaggio per la cena aperipoker. 'Fussa' messaggi, sollecita voti, gestisce le preferenze - e' un one-man-show organizzativo. La rivelazione delle 'case a Sambuca' lo eleva a status di possidente. Tuttavia la vera perla e' la profezia su Jack: 'ci pensa lui a metterne solo una, il giorno prima'. Fausto conosce il suo gruppo.",
       "messaggi": 10,
-      "mediaGiornaliera": 1.4,
+      "mediaGiornaliera": 2.5,
       "highlights": [
-        "Chiede di Lucia",
-        "Sondaggio cena"
+        "Ha lanciato e gestito il sondaggione per la cena",
+        "Ha 'fussato' messaggi con autorita' da project manager",
+        "Ha rivelato di possedere case a Sambuca"
       ],
-      "citazioneTop": "Questo ha 1 settimana. Nome?"
+      "citazioneTop": "Tanto poi ci pensa jack a metterne solo una, il giorno prima"
     },
     {
       "name": "Adriano Sergio Lorenzo Facchini",
-      "voto": 8.0,
-      "giudizio": "Il nuovo Lider! 'Macelleria Francini. Sambuca'. 'Che possidente' a Fausto. 'Sei tu il lider'. 'Quindi vuoi pilotare il voto a tuo favore?'. 'Male molto male malissimo' su Cocco che non aveva votato. 'Io porcaccia della madonna ho votato sempre adattandomi porco dio. Ora tolgo i voti'. Ironico e presente.",
+      "voto": 7.5,
+      "giudizio": "Il Re della Chat si sveglia alle 4:52 di Natale per mandare gli auguri al gruppo - nottambulismo di altissimo livello. Durante la settimana ha scoperto che Fausto e' un 'possidente' con case a Sambuca e non ha resistito alla battuta. Il suo sfogo sul voto ('porcaccia della madonna ho votato sempre adattandomi porco dio') e' poesia pura della frustrazione democratica. Ha consigliato la Macelleria Francini, contribuendo anche alla cultura gastronomica del gruppo.",
       "messaggi": 8,
-      "mediaGiornaliera": 1.1,
+      "mediaGiornaliera": 2.0,
       "highlights": [
-        "E' il Lider",
-        "Voti adattandomi"
+        "Auguri di Natale alle 4:52 del mattino",
+        "Sfogo epico sul sistema di votazione",
+        "Ha scoperto e commentato le proprieta' immobiliari di Fausto"
       ],
       "citazioneTop": "Io porcaccia della madonna ho votato sempre adattandomi porco dio"
     },
     {
-      "name": "Alessio Valentini",
-      "voto": 8.5,
-      "giudizio": "IL PAPA'! 'Qua' - presente. 'Divertitevi e mandate foto'. E poi l'annuncio: 'Lucia. Nata Lunedi''. LA FIGLIA E' NATA! 'Domani' - quando torna. Momento speciale per Alessio.",
-      "messaggi": 6,
-      "mediaGiornaliera": 0.9,
+      "name": "Cosimo Nencioni",
+      "voto": 7.0,
+      "giudizio": "Il Provocatore Raffinato questa settimana e' stato piu' dolce del solito: non si era accorto del sondaggio (ammissione disarmante), ha offerto uno sformato di consolazione, e ha celebrato la nascita di Lucia con un 'Ashehshsh' commosso chiedendo il nome. Ha anche profetizzato 'la strage' per gli auguri di Adriano alle 4:52 - conosce bene le dinamiche del gruppo. 'Siete certamente molto belli' a Giacomo: Cosimo si sta ammorbidendo?",
+      "messaggi": 7,
+      "mediaGiornaliera": 1.75,
       "highlights": [
-        "Lucia nata!",
-        "Torna domani"
+        "Ha ammesso candidamente di non aver visto il sondaggio",
+        "Ha offerto uno sformato come risarcimento",
+        "Ha fatto i complimenti a Giacomo con sincero affetto"
       ],
-      "citazioneTop": "Lucia. Nata Lunedi'"
+      "citazioneTop": "Mi devi far stare male. Cmq se vi serve posso mandarvi uno sformato"
     },
     {
-      "name": "Alessio Macalùso",
-      "voto": 7.5,
-      "giudizio": "Il mediatore! 'Fino al 6 sono in ferie si potrebbe fare dall'1 al 6 se Alessio e' tornato e ci siete tutti'. 'Ho votato i giorni che sono in ferie ma alle brutte mi adatto anche all'8'. Disponibile e flessibile.",
+      "name": "Alessio Macaluso",
+      "voto": 6.5,
+      "giudizio": "La Voce della Ragione ha dato disponibilita' per le ferie con la precisione di un calendario. Ha votato, si e' adattato, e' stato collaborativo - tutto perfetto. Poi il colpo di scena: Covid a Natale! 'Poco o niente mal di gola e febbricola' dice con la serenita' zen che lo contraddistingue, mentre salta il pranzo di Natale. Il timing del virus e' impeccabile: forse voleva evitare i parenti?",
       "messaggi": 4,
-      "mediaGiornaliera": 0.6,
+      "mediaGiornaliera": 1.0,
       "highlights": [
-        "Ferie disponibile",
-        "Si adatta"
+        "Ha gestito le ferie con precisione svizzera",
+        "Si e' beccato il Covid a Natale",
+        "Ha saltato il pranzo con i parenti - Covid o strategia?"
       ],
-      "citazioneTop": "Fino al 6 sono in ferie si potrebbe fare dall'1 al 6"
+      "citazioneTop": "Fino al 6 sono in ferie si potrebbe fare dall'1 al 6 se Alessio e' tornato e ci siete tutti"
     },
     {
       "name": "Giacomo Dolfi",
-      "voto": 7.0,
-      "giudizio": "'Il mio problema e' che ad oggi non lo so. Ho i biglietti per andare a Milano i primi di gennaio'. 'Ho comunque votato i giorni in cui ci sono ad oggi'. Incerto ma presente.",
-      "messaggi": 4,
-      "mediaGiornaliera": 0.6,
+      "voto": 6.0,
+      "giudizio": "Il Fondatore vive nell'incertezza: ha i biglietti per Milano ma non sa se parte, creando suspense inutile sul voto. Ha comunque votato 'i giorni in cui ci sono ad oggi' - impegno a termine. Ha mandato una foto che ha fatto dire a Cosimo 'siete certamente molto belli' - contenuto misterioso ma evidentemente apprezzato. L'indecisione e' il suo stato naturale.",
+      "messaggi": 2,
+      "mediaGiornaliera": 0.5,
       "highlights": [
-        "Milano incerto",
-        "Vota sondaggio"
+        "Ha creato suspense sui biglietti per Milano",
+        "Ha votato con riserva temporale",
+        "Ha mandato foto che hanno commosso Cosimo"
       ],
-      "citazioneTop": "Ho i biglietti per andare a Milano, ma ancora non so se andiamo"
+      "citazioneTop": "Ho i biglietti per andare a Milano i primi di gennaio, ma ancora non so se andiamo"
     }
   ],
   "awards": {
-    "mvp": "Alessio Valentini",
-    "comico": "Adriano Sergio Lorenzo Facchini",
-    "cuore": "Fausto Petrini",
-    "fantasma": null
+    "mvp": "Alessio Valentini - La nascita di Lucia e' l'evento dell'anno, forse del decennio",
+    "comico": "Adriano Sergio Lorenzo Facchini - Lo sfogo sul voto democratico e' da antologia",
+    "cuore": "Cosimo Nencioni - Lo sformato offerto come risarcimento e' puro amore",
+    "fantasma": "Giacomo Dolfi - Due messaggi e un'indecisione sui biglietti per Milano"
   }
 }

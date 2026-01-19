@@ -8,99 +8,117 @@
     "activeMembers": 6,
     "avgPerMember": 4.0
   },
-  "riassunto": "Settimana delle bestemmie a Stanford e dell'addio al celibato! Alessio V. al supercomputer di Stanford: 'Quando entri ci sono frasi famose degli ex del gruppo. Mi hanno sentito programmare per 3 anni. Immaginatevi le bestemmie che sono volate'. Cocco: 'Eccezionale'. Fausto condivide articolo sui robot e meteoriti. Giacomo: 'Quanto mi piacerebbe!'. Adriano si lamenta: 'Che cazzo di freddo'. 'Ma quest'anno non si e' fatto nulla, peccato..'. Alessio V.: 'Non s'e' sposato nessuno'. Fausto: 'Tranne te. Urge(rebbe) farti l'addio al celibato'. Alessio V.: 'Ao, si va a Rex (detto con accento albanese)'. Mac: 'Giusto'. Settimana tranquilla pre-cena.",
+  "riassunto": "Settimana divisa in due atti distinti: prima Alessio Valentini racconta delle bestemmie volate durante i suoi tre anni di programmazione nel supercomputer di Stanford ('immaginatevi le bestemmie che sono volate'), scatenando le risate del gruppo. Poi, nella notte di sabato 18, si apre una conversazione notturna sul freddo e sulla nostalgia: Adriano si lamenta del gelo alle 2 di notte, Giacomo risponde laconico 'Fresco', e nasce una riflessione sul fatto che 'quest'anno non si e' fatto nulla'. La discussione si sposta sull'imminente matrimonio di Alessio Vale, con Fausto che propone l'addio al celibato e Alessio che risponde con la classica ironia: 'si va a Rex (detto con accento Albanese)'. Una settimana con pochi messaggi ma intensa, tra aneddoti dalla Silicon Valley e progetti matrimoniali.",
   "bestQuotes": [
     {
-      "quote": "Mi hanno sentito programmare per 3 anni. Immaginatevi le bestemmie che sono volate",
+      "quote": "nel supercomputer di Stanford, quando entri ci sono frasi famose degli ex del gruppo... mi hanno sentito programmare per 3 anni... immaginatevi le bestemmie che sono volate",
       "author": "Alessio Valentini",
-      "context": "Supercomputer Stanford"
+      "context": "Alessio rivela che le sue bestemmie potrebbero essere immortalate sui muri di Stanford"
     },
     {
-      "quote": "Tranne te. Urge(rebbe) farti l'addio al celibato",
+      "quote": "Urge(rebbe) farti l'addio al celibato",
       "author": "Fausto Petrini",
-      "context": "Ad Alessio V. che si sposa"
+      "context": "Fausto propone di organizzare l'addio al celibato per Alessio Vale"
     },
     {
-      "quote": "Si va a Rex (detto con accento albanese)",
+      "quote": "si va a Rex (detto con accento Albanese)",
       "author": "Alessio Valentini",
-      "context": "Proposta addio celibato"
+      "context": "Alessio propone il locale per l'addio al celibato con il suo solito umorismo"
+    },
+    {
+      "quote": "Che cazzo di freddo",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Adriano apre la conversazione notturna delle 2 di notte"
+    },
+    {
+      "quote": "Fresco",
+      "author": "Giacomo Dolfi",
+      "context": "Giacomo risponde laconico alle lamentele sul freddo, alle 3:22 di notte"
     }
   ],
   "pagelle": [
     {
       "name": "Alessio Valentini",
-      "voto": 8.5,
-      "giudizio": "Il bestemmiatore di Stanford! 'Nel supercomputer ci sono frasi famose degli ex del gruppo. Mi hanno sentito programmare per 3 anni. Immaginatevi le bestemmie'. 'Non s'e' sposato nessuno' sulla mancanza di eventi. 'Ao, si va a Rex detto con accento albanese'. Protagonista e futuro sposo.",
-      "messaggi": 8,
-      "mediaGiornaliera": 1.1,
+      "voto": 9.0,
+      "giudizio": "Il Giramondo dalla Silicon Valley domina la settimana con il racconto epico delle bestemmie a Stanford, dimostrando che si puo' lasciare il segno anche in un supercomputer. Poi, con tempismo perfetto, risponde a Fausto che propone l'addio al celibato con 'si va a Rex (detto con accento Albanese)', confermando il suo status di maestro dell'understatement. Pochi messaggi ma tutti memorabili, come un rapper che dropppa solo hit.",
+      "messaggi": 7,
+      "mediaGiornaliera": 1.0,
       "highlights": [
-        "Bestemmie Stanford",
-        "Addio celibato"
+        "Ha raccontato delle bestemmie immortalate nel supercomputer di Stanford",
+        "Ha fatto ridere tutti con l'aneddoto dei 3 anni di programmazione",
+        "Ha proposto Rex con accento albanese per l'addio al celibato"
       ],
-      "citazioneTop": "Mi hanno sentito programmare per 3 anni. Immaginatevi le bestemmie"
-    },
-    {
-      "name": "Fausto Petrini",
-      "voto": 8.0,
-      "giudizio": "Articolo robot e meteoriti. 'Tranne te. Urge(rebbe) farti l'addio al celibato'. Propositivo e presente.",
-      "messaggi": 4,
-      "mediaGiornaliera": 0.6,
-      "highlights": [
-        "Proposta addio celibato",
-        "Articolo robot"
-      ],
-      "citazioneTop": "Urge(rebbe) farti l'addio al celibato"
+      "citazioneTop": "immaginatevi le bestemmie che sono volate"
     },
     {
       "name": "Adriano Sergio Lorenzo Facchini",
       "voto": 7.5,
-      "giudizio": "'Che cazzo di freddo'. 'Da rifare'. 'Ma quest'anno non si e' fatto nulla, peccato..'. 'Effettivamente'. Nostalgico e freddoloso.",
-      "messaggi": 4,
-      "mediaGiornaliera": 0.6,
+      "giudizio": "Il Re della Chat ha aperto due filoni importanti: il lamento notturno sul freddo ('Che cazzo di freddo' alle 2 di notte, un classico) e la riflessione malinconica sul fatto che 'quest'anno non si e' fatto nulla'. Adriano e' quello che tiene insieme il gruppo con la sua presenza costante, anche quando tutti dormono. Il suo 'Da rifare' e' un manifesto programmatico per il 2024.",
+      "messaggi": 5,
+      "mediaGiornaliera": 0.7,
       "highlights": [
-        "Lamento freddo",
-        "Nostalgia eventi"
+        "Ha aperto la conversazione notturna con lamentele sul freddo",
+        "Ha lanciato la riflessione su come l'anno sia passato senza eventi",
+        "Ha supportato l'idea dell'addio al celibato con un 'Effettivamente'"
       ],
-      "citazioneTop": "Ma quest'anno non si e' fatto nulla, peccato"
+      "citazioneTop": "Ma quest'anno non si e' fatto nulla, peccato.."
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 8.0,
+      "giudizio": "Il Trascinatore ha fatto quello che sa fare meglio: proporre. In soli tre messaggi ha condiviso un articolo scientifico su robot e meteoriti (perche' la cultura non deve mai mancare) e soprattutto ha lanciato la bomba 'Urge(rebbe) farti l'addio al celibato'. Quel condizionale tra parentesi e' poesia: dice e non dice, propone ma non si sbilancia. Un maestro della diplomazia aperipokerista.",
+      "messaggi": 3,
+      "mediaGiornaliera": 0.4,
+      "highlights": [
+        "Ha condiviso l'articolo scientifico su robot e ossigeno dai meteoriti",
+        "Ha proposto l'addio al celibato per Alessio Vale",
+        "Ha usato il condizionale '(rebbe)' con maestria diplomatica"
+      ],
+      "citazioneTop": "Urge(rebbe) farti l'addio al celibato"
     },
     {
       "name": "Cosimo Nenciòni",
-      "voto": 7.0,
-      "giudizio": "'Eccezionale' sulle bestemmie. 'Cmq di questo tocca parlarne a voce'. 'Molto bene'. 'Ao'. Presente ma minimale.",
+      "voto": 7.5,
+      "giudizio": "Il Provocatore Raffinato questa settimana ha scelto di ridere piu' che provocare. Le sue risate per il racconto di Stanford ('Ahahahahajahahh', 'Eccezionale') sono genuine e contagiose. Il suo 'Cmq di questo tocca parlarne a voce' lascia intendere che ci sono cose che non si possono scrivere su WhatsApp. Misterioso come sempre, ma simpatico.",
       "messaggi": 4,
       "mediaGiornaliera": 0.6,
       "highlights": [
-        "Commento bestemmie"
+        "Ha riso di gusto per le bestemmie di Stanford",
+        "Ha lanciato il misterioso 'tocca parlarne a voce'",
+        "Ha risposto 'Ao' alle 2:18 di notte, solidale con Adriano"
       ],
-      "citazioneTop": "Eccezionale"
+      "citazioneTop": "Cmq di questo tocca parlarne a voce"
     },
     {
       "name": "Giacomo Dolfi",
       "voto": 7.0,
-      "giudizio": "'Quanto mi piacerebbe!' sui robot. 'Fresco'. Presente ma silenzioso.",
-      "messaggi": 2,
-      "mediaGiornaliera": 0.3,
+      "giudizio": "Il Fondatore ha dimostrato la sua maestria nel commento laconico. 'Quanto mi piacerebbe!' esprime tutto l'entusiasmo per qualcosa di non specificato (mistero aperipokerista), mentre 'Fresco' alle 3:22 di notte e' la risposta perfetta a chi si lamenta del freddo. Giacomo non spreca parole, le investe con saggezza poggibonsese.",
+      "messaggi": 3,
+      "mediaGiornaliera": 0.4,
       "highlights": [
-        "Sogno robot"
+        "Ha espresso entusiasmo con 'Quanto mi piacerebbe!'",
+        "Ha risposto 'Fresco' alle 3:22 di notte, laconico e perfetto",
+        "E' rimasto sveglio fino a tardi in solidarieta' notturna"
       ],
-      "citazioneTop": "Quanto mi piacerebbe!"
+      "citazioneTop": "Fresco"
     },
     {
       "name": "Alessio Macalùso",
       "voto": 6.5,
-      "giudizio": "'Chi non lo vorrebbe'. 'Giusto' sull'addio. Presente ma minimale.",
+      "giudizio": "La Voce della Ragione questa settimana e' stata particolarmente zen: due soli messaggi, ma entrambi perfettamente calibrati. 'Chi non lo vorrebbe' e' una frase filosofica che potrebbe riferirsi a qualsiasi cosa, mentre 'Giusto' conferma l'addio al celibato con la parsimonia verbale di un monaco buddista. Quando parla, pero', ha sempre ragione.",
       "messaggi": 2,
       "mediaGiornaliera": 0.3,
       "highlights": [
-        "Approvazione addio"
+        "Ha commentato con filosofico 'Chi non lo vorrebbe'",
+        "Ha approvato il Rex con un laconico 'Giusto'"
       ],
       "citazioneTop": "Giusto"
     }
   ],
   "awards": {
-    "mvp": "Alessio Valentini",
-    "comico": "Fausto Petrini",
-    "cuore": "Adriano Sergio Lorenzo Facchini",
-    "fantasma": null
+    "mvp": "Alessio Valentini - Le bestemmie di Stanford e il Rex albanese lo rendono imbattibile questa settimana",
+    "comico": "Alessio Valentini - 'immaginatevi le bestemmie che sono volate' e' la frase della settimana",
+    "cuore": "Adriano Sergio Lorenzo Facchini - Il lamento notturno sul freddo e la nostalgia per l'anno passato senza eventi mostrano il suo lato sensibile",
+    "fantasma": "Alessio Macalùso - Solo 2 messaggi, ma quando parla e' oro colato"
   }
 }

@@ -8,99 +8,115 @@
     "activeMembers": 6,
     "avgPerMember": 6.8
   },
-  "riassunto": "Settimana delle grandi notizie e del grande lutto. Alessio V. annuncia: CONTRATTO FIRMATO! Esce dall'universita, entra nel mondo del lavoro come software engineer in una startup californiana con lavoro remoto. Purtroppo bloccato in USA senza travel permit. Tragedia: muore la cagnolina di Cosimo (probabilmente Mia). Il gruppo si stringe intorno a lui. 'Le volevate bene anche voi. Io non ho parole.'",
+  "riassunto": "Una settimana di emozioni forti che ha attraversato la gioia e il dolore nel giro di tre giorni. Lunedi 3 aprile Alessio Valentini esplode nella chat con l'annuncio bomba: 'CONTRATTO FIRMATO'. Il giramondo ha finalmente concluso il suo lungo percorso accademico e si lancia nel mondo del lavoro come software engineer in una startup californiana - stipendio da Silicon Valley, vita in North Carolina, lavoro totalmente remoto. Cosimo si dimostra l'amico perfetto, esultando genuinamente e facendo mille domande pratiche su casa, permessi e logistica. Poi la doccia fredda del 6 aprile: Cosimo condivide la notizia devastante della morte della sua cagnolina. Il gruppo si stringe attorno a lui con messaggi di conforto sinceri e toccanti. Adriano ammette 'Non ci posso credere... Momenti devastanti', Alessio Mac offre un semplice ma sentito 'Mi dispiace tanto', Giacomo chiude con un commovente 'No cavolo, brutta notizia'. Una settimana che ha mostrato il vero cuore del gruppo Aperipoker: pronti a festeggiare insieme e a consolarsi nei momenti difficili.",
   "bestQuotes": [
     {
-      "quote": "CONTRATTO FIRMATO. Cari aperiamici, il mio periodo di studio è finito. Sono fuori dall'università adesso.",
+      "quote": "CONTRATTO FIRMATO",
       "author": "Alessio Valentini",
-      "context": "L'annuncio del nuovo lavoro"
+      "context": "L'annuncio esplosivo che ha fatto esultare il gruppo"
     },
     {
-      "quote": "Manca solo la figa! Ma quella tanto ormai è vintage",
+      "quote": "Se non fosse per quei MAIALI BASTARDI dell'uscis, sarei in italia OGGI",
+      "author": "Alessio Valentini",
+      "context": "Lo sfogo sulla burocrazia americana che gli impedisce di tornare in Italia"
+    },
+    {
+      "quote": "Ora ci vorranno altri 6/7 anni per capire, pur in maniera vaga, in cosa effettivamente consista il lavoro",
       "author": "Cosimo Nenciòni",
-      "context": "Commento sul nuovo lavoro di Alessio V."
+      "context": "La battuta ironica sul fatto che nessuno ha mai capito cosa faccia Alessio Vale"
+    },
+    {
+      "quote": "Grandeeee! Manca solo la figa!",
+      "author": "Cosimo Nenciòni",
+      "context": "L'entusiasmo genuino di Cosimo per l'amico, con finale ironico"
     },
     {
       "quote": "Le volevate bene anche voi. Io non ho parole.",
       "author": "Cosimo Nenciòni",
-      "context": "Annuncio della morte della cagnolina"
+      "context": "Il messaggio devastante che annuncia la perdita della cagnolina"
     }
   ],
   "pagelle": [
     {
       "name": "Alessio Valentini",
       "voto": 9.0,
-      "giudizio": "BOMBA: contratto firmato! Software engineer con stipendio californiano in North Carolina. Lavoro remoto, scienza e chimica, gente ganza. Bloccato in USA dai 'MAIALI BASTARDI dell'USCIS'. 'Ho fatto quello che volevo fare' - missione compiuta.",
-      "messaggi": 16,
-      "mediaGiornaliera": 2.3,
-      "highlights": [
-        "Annuncio contratto firmato",
-        "Descrizione del lavoro dei sogni"
-      ],
-      "citazioneTop": "Cmq il lavoro è troppo bello per essere vero"
-    },
-    {
-      "name": "Cosimo Nenciòni",
-      "voto": 8.0,
-      "giudizio": "Settimana di alti e bassi devastanti. Felicissimo per Alessio V. ('Manca solo la figa, ma quella è vintage'). Poi il dramma: muore la cagnolina. 'Le volevate bene anche voi'. Momento di grande umanita del gruppo.",
+      "giudizio": "Il protagonista assoluto della settimana. Dopo anni di studio matto e disperatissimo, il giramondo ha finalmente firmato il contratto che lo trasforma in software engineer di una startup californiana. Ha condiviso la notizia con entusiasmo contagioso, elencando i vantaggi del nuovo lavoro come un bambino che descrive i regali di Natale. Peccato per i 'MAIALI BASTARDI dell'uscis' che gli impediscono di tornare a festeggiare in Italia - ma almeno ha dato al gruppo un motivo per brindare virtualmente.",
       "messaggi": 14,
       "mediaGiornaliera": 2.0,
       "highlights": [
-        "Supporto entusiasta ad Alessio V.",
-        "Condivisione del lutto"
+        "Ha annunciato la firma del contratto con un entusiastico 'CONTRATTO FIRMATO'",
+        "Ha elencato i 5 punti che rendono il lavoro perfetto",
+        "Ha espresso solidarieta' genuina per la perdita di Cosimo"
       ],
-      "citazioneTop": "Ora ci vorranno altri 6/7 anni per capire in cosa effettivamente consista il lavoro"
+      "citazioneTop": "cmq il lavoro e' troppo bello per essere vero"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 8.5,
+      "giudizio": "Una settimana da montagne russe emotive per il Provocatore Raffinato. Prima ha festeggiato l'amico con domande pratiche e battute perfette ('Manca solo la figa! Ma quella tanto ormai e' vintage'), poi ha dovuto condividere la notizia piu' triste: la perdita della sua cagnolina. La dignita' con cui ha comunicato il lutto ('Le volevate bene anche voi. Io non ho parole') ha mostrato un Cosimo diverso, vulnerabile ma sempre composto. Il vero cuore del gruppo.",
+      "messaggi": 15,
+      "mediaGiornaliera": 2.1,
+      "highlights": [
+        "Ha fatto le domande giuste ad Alessio sul nuovo lavoro",
+        "Ha regalato la battuta della settimana sui 6/7 anni per capire il lavoro",
+        "Ha condiviso con dignita' un momento di dolore personale"
+      ],
+      "citazioneTop": "Ora ci vorranno altri 6/7 anni per capire, pur in maniera vaga, in cosa effettivamente consista il lavoro"
     },
     {
       "name": "Adriano Sergio Lorenzo Facchini",
-      "voto": 7.0,
-      "giudizio": "'Felicitazioni' ad Alessio V. 'Non ci posso credere... Mi dispiace tantissimo' per la cagnolina. 'Momenti devastanti'. Presente nei momenti importanti, sia di gioia che di dolore.",
+      "voto": 7.5,
+      "giudizio": "Il Re della Chat ha mostrato il suo lato piu' umano questa settimana. Le 'Felicitazioni' ad Alessio erano sobrie ma sentite, ma e' nel momento del dolore che Adriano ha brillato: i suoi messaggi a Cosimo ('Non ci posso credere... Mi dispiace tantissimo... Momenti devastanti... Mi spiace veramente tanto Cocco') erano un fiume di empatia genuina. Quando serve, Adriano sa mettere da parte le discussioni infinite e offrire supporto vero.",
       "messaggi": 6,
       "mediaGiornaliera": 0.9,
       "highlights": [
-        "Supporto nei momenti chiave",
-        "Condoglianze sentite"
+        "Ha esultato con sobriet per il successo di Alessio",
+        "Ha espresso vicinanza profonda a Cosimo nel momento del lutto",
+        "Ha usato il soprannome affettuoso 'Cocco' per consolare l'amico"
       ],
       "citazioneTop": "Mi spiace veramente tanto Cocco"
     },
     {
       "name": "Alessio Macalùso",
-      "voto": 6.0,
-      "giudizio": "'Mi dispiace tanto' per la cagnolina. Presente e solidale ma con pochi messaggi. Settimana emotivamente intensa.",
-      "messaggi": 2,
-      "mediaGiornaliera": 0.3,
+      "voto": 7.0,
+      "giudizio": "Lo Zen Master ha colpito con la sua tipica economia di parole, ma ogni messaggio pesava come piombo emotivo. Il suo 'Mi dispiace tanto' a Cosimo era essenziale ma sincero, perfettamente in linea con il suo stile laconico. Non ha commentato l'annuncio di Alessio Vale, ma la sua presenza silenziosa nel momento difficile vale piu' di mille parole. Il saggio sa quando parlare e quando semplicemente esserci.",
+      "messaggi": 1,
+      "mediaGiornaliera": 0.1,
       "highlights": [
-        "Solidarieta al gruppo"
+        "Ha espresso condoglianze essenziali ma sincere",
+        "Ha mantenuto il suo stile zen anche nei momenti difficili"
       ],
       "citazioneTop": "Mi dispiace tanto"
     },
     {
       "name": "Giacomo Dolfi",
-      "voto": 6.0,
-      "giudizio": "'No cavolo, brutta notizia' per la cagnolina. Presente nei momenti difficili. Il Fondatore silenzioso ma partecipe.",
-      "messaggi": 2,
-      "mediaGiornaliera": 0.3,
+      "voto": 6.5,
+      "giudizio": "Il Fondatore e' intervenuto solo per il momento piu' importante: consolare Cosimo. Il suo 'No cavolo, brutta notizia' era perfettamente calibrato - dispiacere genuino senza essere melodrammatico. Giacomo conosce il peso delle parole e sa quando usarle con parsimonia. Non ha commentato il successo lavorativo di Alessio, ma quando serviva essere presente per un amico in difficolta', c'era.",
+      "messaggi": 1,
+      "mediaGiornaliera": 0.1,
       "highlights": [
-        "Solidarieta"
+        "Ha espresso vicinanza a Cosimo con tono perfetto",
+        "Ha dimostrato che poche parole possono valere tanto"
       ],
       "citazioneTop": "No cavolo, brutta notizia"
     },
     {
       "name": "Fausto Petrini",
-      "voto": 5.5,
-      "giudizio": "Presente solo con media condivisi. Settimana silenziosa per il professore.",
+      "voto": 6.0,
+      "giudizio": "Il Trascinatore questa settimana era in modalita' fantasma - il telefono rotto spiega l'assenza prolungata (come scopriremo la settimana dopo). Ha comunque inviato delle reazioni con media omessi per festeggiare Alessio, dimostrando che anche senza parole sa farsi sentire. Fausto silente e' un evento raro come un'eclissi: quando torna, ci sara' da recuperare.",
       "messaggi": 2,
       "mediaGiornaliera": 0.3,
       "highlights": [
-        "Media condivisi"
+        "Ha reagito all'annuncio di Alessio con media",
+        "Era assente per problemi tecnici al telefono"
       ],
-      "citazioneTop": null
+      "citazioneTop": "[Assente per telefono rotto]"
     }
   ],
   "awards": {
-    "mvp": "Alessio Valentini",
-    "comico": "Cosimo Nenciòni",
-    "cuore": "Cosimo Nenciòni",
-    "fantasma": null
+    "mvp": "Alessio Valentini - Ha portato la notizia piu' bella della settimana: il contratto firmato dopo anni di studio",
+    "comico": "Cosimo Nenciòni - '6/7 anni per capire il lavoro' e' puro genio comico",
+    "cuore": "Adriano Sergio Lorenzo Facchini - I suoi messaggi di conforto a 'Cocco' erano pura empatia",
+    "fantasma": "Fausto Petrini - Telefono rotto, assenza giustificata ma comunque notata"
   }
 }

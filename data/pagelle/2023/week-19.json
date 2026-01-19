@@ -4,106 +4,122 @@
   "startDate": "2023-05-08",
   "endDate": "2023-05-14",
   "stats": {
-    "totalMessages": 96,
+    "totalMessages": 63,
     "activeMembers": 6,
-    "avgPerMember": 16.0
+    "avgPerMember": 10.5
   },
-  "riassunto": "Settimana della cena impossibile che FINALMENTE si fa! Discussione infinita su date (17? 18? 19? 22? 23?) e ristoranti (Bargino? Casato? Speranza?). Adriano scrive messaggio lunghissimo ('Ha certamente un ghostwriter' - Cocco, 'chatgpt' - Alessio V.). Fausto si attiene al 'Si/No' come promesso. Cocco frustrato da una chat dove nessuno capisce il suo umorismo. Prenotato al Casato per il 17.",
+  "riassunto": "Una settimana interamente dedicata all'organizzazione di una cena che sembra impossibile da fissare. Si parte lunedi con Fausto che propone date (17, 23, 19 maggio) e si scatena il solito balletto di disponibilita': chi puo' il 17 non puo' il 23, chi e' a Milano il 18, chi fa mattina alle 4:20. Adriano scrive un messaggio-fiume proponendo un sistema a turni per non rischiare di non vedersi piu' - Cosimo lo accusa subito di avere un ghostwriter ('chatgpt'). Giacomo confessa di essere taccagno preferendo il Casato al Bargino. Si discute tra pesce crudo, fiorentina, Bargino e Speranza finche' Adriano non prenota d'imperio al Casato per il 17. Memorabile lo sfogo di Cosimo su un'altra chat: 'Ho una chat dove nessuno capisce il mio umorismo e la mia sagacia. E' frustrante' - e gli amici rispondono con affetto. Alessio V., lontano fisicamente ma presente spiritualmente, offrirebbe 'peso d'oro' per partecipare.",
   "bestQuotes": [
     {
-      "quote": "Ha certamente un ghostwriter. Sennò non si spiega",
+      "quote": "Ho una chat dove nessuno capisce il mio umorismo e la mia sagacia. E' frustrante",
       "author": "Cosimo Nenciòni",
-      "context": "Sul messaggio lungo di Adriano"
+      "context": "Sfogo esistenziale su un'altra chat di lavoro"
+    },
+    {
+      "quote": "Dio maiale, aggiungo io. Io pagherei a peso d'oro per venire.",
+      "author": "Alessio Valentini",
+      "context": "Dall'altra parte del mondo, vorrebbe essere presente"
+    },
+    {
+      "quote": "Sono troppo anziano per tutto questo",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Risposta alla proposta di Fausto sulla festa nell'oliveta"
     },
     {
       "quote": "Stai parlando troppo fausto, attieniti al si/no come avevi detto.",
       "author": "Adriano Sergio Lorenzo Facchini",
-      "context": "Richiamo a Fausto"
+      "context": "Richiamo all'ordine dopo che Fausto si era impegnato a rispondere solo si/no"
     },
     {
-      "quote": "Ho una chat dove nessuno capisce il mio umorismo e la mia sagacia. È frustrante",
-      "author": "Cosimo Nenciòni",
-      "context": "Sfogo esistenziale"
+      "quote": "so taccagno",
+      "author": "Giacomo Dolfi",
+      "context": "Ammissione onesta sulla preferenza per il Casato rispetto al costoso Bargino"
     }
   ],
   "pagelle": [
     {
       "name": "Adriano Sergio Lorenzo Facchini",
       "voto": 9.0,
-      "giudizio": "Il grande mediatore! Messaggio epico sulla pazienza e le cene ('chatgpt' secondo Alessio V.). 'Stai parlando troppo Fausto, attieniti al si/no'. Si libera il 17 apposta. Prenota al Casato e 'chiude faccenda'. Leader.",
-      "messaggi": 32,
-      "mediaGiornaliera": 4.6,
+      "giudizio": "Il generale della chat ha preso il comando delle operazioni con piglio deciso. Prima scrive un messaggio-fiume propositivo degno di un discorso di Churchill (tant'e' che Cosimo sospetta l'uso di ChatGPT), poi passa all'azione prenotando al Casato senza attendere consensi. 'Ed invece si. Prenoto al casato, in 20 minuti il Mac e' a casa e si mangia bene. Fine.' Democrazia? Mai sentita. Ma almeno si mangia. Si dichiara 'troppo anziano' per l'oliveta con musica, ma non troppo per comandare.",
+      "messaggi": 21,
+      "mediaGiornaliera": 3.0,
       "highlights": [
-        "Messaggio epico sulla pazienza",
-        "Prenotazione definitiva"
+        "Messaggio-fiume propositivo accusato di essere ChatGPT",
+        "Prenotazione d'imperio al Casato",
+        "Dichiarazione di anzianita' contro l'oliveta"
       ],
-      "citazioneTop": "Ed invece si. Prenoto al casato, in 20 minuti il Mac è a casa e si mangia bene. Fine"
+      "citazioneTop": "Ed invece si. Prenoto al casato, in 20 minuti il Mac e' a casa e si mangia bene. Fine"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 8.5,
+      "giudizio": "Il provocatore raffinato colpisce ancora. Prima smonta il messaggio elaborato di Adriano con un semplice 'Ha certamente un ghostwriter' poi 'chatgpt', poi si sfoga sul gruppo lamentando che un'altra chat non capisce il suo umorismo. 'Ora li mando tutti a cagare.' E qui trova conforto: 'Dillo a noi che ti capiamo' risponde il Mac. Si propone di ospitare Alessio M. a dormire prima del lavoro. Nonostante il treno alle 7 per Milano il giorno dopo, c'e'. Fedele fino all'ultimo.",
+      "messaggi": 11,
+      "mediaGiornaliera": 1.6,
+      "highlights": [
+        "Accusa di ghostwriter/ChatGPT ad Adriano",
+        "Sfogo memorabile sull'altra chat",
+        "Offerta ospitalita' ad Alessio M."
+      ],
+      "citazioneTop": "Ho una chat dove nessuno capisce il mio umorismo e la mia sagacia. E' frustrante"
     },
     {
       "name": "Fausto Petrini",
       "voto": 7.5,
-      "giudizio": "'D'ora in poi aspetto proposte concrete e dico solo si/no'. Rispetta la promessa: 'Si' 'No' 'Si' 'No'. 'Mi fai stianta' gli dice Cocco. Propone festa nell'oliveta in chiocciola. Pragmatico zen.",
-      "messaggi": 18,
-      "mediaGiornaliera": 2.6,
-      "highlights": [
-        "Promessa Si/No mantenuta",
-        "Proposta oliveta"
-      ],
-      "citazioneTop": "Si"
-    },
-    {
-      "name": "Cosimo Nenciòni",
-      "voto": 7.5,
-      "giudizio": "'Ha certamente un ghostwriter'. Sfogo sulla chat che non lo capisce: 'È frustrante. Ora li mando tutti a cagare'. Offre ospitalita a Mac. Il 18 a Milano. Sarcastico e generoso.",
+      "giudizio": "L'organizzatore frustrato apre le danze proponendo date su date: 17, 23, 19, la festa all'oliveta dal 24 al 27. Ad un certo punto si arrende: 'D'ora in poi io aspetto proposte concrete e dico solo si/no, ok?' Promessa mantenuta per circa 24 ore, poi torna a commentare. Quando Adriano lo riprende ('Stai parlando troppo'), risponde con un laconico 'No'. W il bollore, anche se questa settimana si e' raffreddato.",
       "messaggi": 14,
       "mediaGiornaliera": 2.0,
       "highlights": [
-        "Battuta ghostwriter/chatgpt",
-        "Sfogo esistenziale"
+        "Proposta festa oliveta con braciere e musica",
+        "Voto di silenzio 'solo si/no' infranto subito",
+        "Accettazione zen del Casato dopo aver detto 'No'"
       ],
-      "citazioneTop": "Ho una chat dove nessuno capisce il mio umorismo e la mia sagacia"
-    },
-    {
-      "name": "Alessio Valentini",
-      "voto": 7.0,
-      "giudizio": "'Dio maiale, io pagherei a peso d'oro per venire'. 'chatgpt' sul messaggio di Adriano. 'Io di solito aumento la cattiveria finché non mi buttano fuori'. Partecipa emotivamente da lontano.",
-      "messaggi": 8,
-      "mediaGiornaliera": 1.1,
-      "highlights": [
-        "Battuta chatgpt",
-        "Partecipazione emotiva"
-      ],
-      "citazioneTop": "Dio maiale, io pagherei a peso d'oro per venire"
+      "citazioneTop": "D'ora in poi io aspetto proposte concrete e dico solo si/no, ok?"
     },
     {
       "name": "Alessio Macalùso",
       "voto": 7.0,
-      "giudizio": "'Famo 17? Io faccio mattina ma insomma va bene'. Sveglia alle 4:20. 'Dillo a noi che ti capiamo' a Cocco. 'Cosimo mi fa notare che non ho risposto'. Sempre disponibile nonostante i turni.",
-      "messaggi": 12,
-      "mediaGiornaliera": 1.7,
+      "giudizio": "La voce della ragione interviene con la calma zen di sempre. Conferma disponibilita', fa presente che si sveglia alle 4:20 per il turno di mattina, e quando gli offrono ospitalita' a Firenze declina educatamente: 'Grazie ho gia' dove dormire'. Alla fine Cosimo deve fargli notare che non ha risposto sulla location: 'ok per casato'. Il mediatore silenzioso che tiene insieme il gruppo senza fare troppo rumore.",
+      "messaggi": 9,
+      "mediaGiornaliera": 1.3,
       "highlights": [
-        "Disponibilita nonostante turni",
-        "Supporto a Cocco"
+        "Sveglia alle 4:20 per lavoro",
+        "Supporto emotivo a Cosimo: 'Dillo a noi che ti capiamo'",
+        "Risposta data solo dopo sollecito di Cosimo"
       ],
       "citazioneTop": "Dillo a noi che ti capiamo"
     },
     {
       "name": "Giacomo Dolfi",
-      "voto": 6.0,
-      "giudizio": "'23 non posso, 17 si, 18 meglio'. 'So taccagno' sulla scelta del ristorante. 'Io un messaggio lungo cosi l'avrei diviso in 10 mini messaggi'. TikTok su Adriano non leader. Il solito.",
-      "messaggi": 10,
-      "mediaGiornaliera": 1.4,
+      "voto": 7.0,
+      "giudizio": "Il fondatore partecipa con la sua solita saggezza economica. Propone lunedi 22 come alternativa, ammette candidamente 'so taccagno' preferendo il Casato al costoso Bargino, e condivide un TikTok domenicale commentando 'Meno male Adri non e' leader'. Poche parole, ma tutte al posto giusto. Un patriarca che veglia dal Poggibonsi con parsimonia verbale ma precisione chirurgica.",
+      "messaggi": 7,
+      "mediaGiornaliera": 1.0,
       "highlights": [
-        "Ammissione taccagneria",
-        "Battuta sui messaggi"
+        "Ammissione di taccagneria",
+        "TikTok condiviso con shade su Adriano",
+        "Proposta costruttiva del lunedi 22"
       ],
-      "citazioneTop": "So taccagno"
+      "citazioneTop": "Meno male Adri non e' leader"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 6.5,
+      "giudizio": "Il giramondo interviene dal suo fuso orario con la passione di sempre. 'Dio maiale, aggiungo io. Io pagherei a peso d'oro per venire.' L'anima del gruppo e' con loro nonostante i chilometri. Quando Cosimo si lamenta dell'altra chat, lui consiglia: 'Io di solito aumento la cattiveria e la mostruosita', finche' non mi buttano fuori'. Un metodo discutibile ma efficace. Lontano ma presente nel cuore.",
+      "messaggi": 4,
+      "mediaGiornaliera": 0.6,
+      "highlights": [
+        "Pagherei a peso d'oro per venire",
+        "Consiglio sulla cattiveria nelle chat",
+        "Bravo Adri per il messaggio-fiume"
+      ],
+      "citazioneTop": "Io di solito aumento la cattiveria e la mostruosita', finche' non mi buttano fuori"
     }
   ],
   "awards": {
-    "mvp": "Adriano Sergio Lorenzo Facchini",
-    "comico": "Cosimo Nenciòni",
-    "cuore": "Alessio Macalùso",
-    "fantasma": null
+    "mvp": "Adriano Sergio Lorenzo Facchini - Ha preso il comando e prenotato, fine delle discussioni",
+    "comico": "Cosimo Nenciòni - Tra ghostwriter, ChatGPT e sfoghi esistenziali, ha dominato",
+    "cuore": "Alessio Macalùso - 'Dillo a noi che ti capiamo' e' amicizia vera",
+    "fantasma": "Alessio Valentini - Solo 4 messaggi ma pagherebbe peso d'oro per esserci"
   }
 }

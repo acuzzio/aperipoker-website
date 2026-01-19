@@ -4,106 +4,122 @@
   "startDate": "2023-03-06",
   "endDate": "2023-03-12",
   "stats": {
-    "totalMessages": 174,
+    "totalMessages": 113,
     "activeMembers": 6,
-    "avgPerMember": 29.0
+    "avgPerMember": 18.8
   },
-  "riassunto": "Settimana filosofica sulla ricchezza! Cosimo a pranzo col cliente che ha comprato 'una barchetta' da 70k di trasporto. 'Ho dovuto fingere entusiasmo' mentre lui risparmia 100 euro sulle sedie. Alessio V. con pressione alta e macchinetta che misura ogni 10 minuti, desolato dalla 'gente ricchissima' in USA. Organizzazione cena del 24: lista ristoranti epica (Speranza, Bargino, Spagnolo). Fausto evoca Shu dell'uccello d'acqua di Nanto. Giulio cresce e Adriano fa la sega sul bidet.",
+  "riassunto": "Settimana densa di filosofia esistenziale sul rapporto con il denaro, innescata da Cosimo che va a pranzo con un cliente proprietario di barca mentre lui arriva in bici cinese a noleggio, fradicio di sudore. Alessio V. dal suo esilio messicano racconta di tavole rotonde con milionari convinti che servano 20 milioni per stare bene, mentre lui riflette sulla sua vita 'spettacolare' spesa con molto meno. Fausto interviene con citazioni dotte di Ken il Guerriero, paragonando Cosimo a Shu dell'uccello d'acqua di Nanto, nato sotto la stella del sacrificio. Nel frattempo si organizza una cena per il 24 marzo con proposte che vanno dalla Speranza al ristorante spagnolo di Poggibonsi, con Cosimo che polemizza per piacere e Adriano che tiene le fila con liste aggiornate in tempo reale. La settimana si chiude con Fausto a Folgaria con Giulietto sugli sci, e Adriano che pulisce casa mentre Elena prepara lo spezzatino.",
   "bestQuotes": [
     {
-      "quote": "Ho dovuto fingere entusiasmo. È questo il problema",
+      "quote": "Io per comprare 4 sedie da cucina ho perso 1 mese per risparmiare 100 euro",
       "author": "Cosimo Nenciòni",
-      "context": "Sul cliente con la barca da milioni"
+      "context": "Il contrasto tra la sua parsimonia e il cliente che ha speso 70k per trasportare una barca"
+    },
+    {
+      "quote": "Ho vissuto la mia vita fino a 40 anni spettacolarmente e dio maiale col cazzo che ho speso mezzo milione. Ora, a 120 mica c'arrivo eh...",
+      "author": "Alessio Valentini",
+      "context": "Riflessione filosofica sul valore del denaro dopo dibattito con milionari"
+    },
+    {
+      "quote": "Altro che educazione gesuita, te sei nato sotto la stella del sacrificio, come shu dell'uccello d'acqua di nanto",
+      "author": "Fausto Petrini",
+      "context": "Citazione epica di Ken il Guerriero per descrivere la frugalita di Cosimo"
     },
     {
       "quote": "No mi sto facendo una sega sul bidet. La consiglio a tutti.",
       "author": "Adriano Sergio Lorenzo Facchini",
-      "context": "Risposta a 'Stai pulendo?'"
+      "context": "Risposta caustica a Cosimo che chiede se sta pulendo casa"
     },
     {
-      "quote": "Finirai schiacciato da una grossa pietra in cima ad una piramide",
-      "author": "Fausto Petrini",
-      "context": "Profezia per Cosimo nato sotto la stella del sacrificio"
+      "quote": "Io polemizzavo per piacere",
+      "author": "Cosimo Nenciòni",
+      "context": "Ammissione disarmante dopo aver contestato ogni proposta di ristorante"
     }
   ],
   "pagelle": [
     {
-      "name": "Cosimo Nenciòni",
-      "voto": 9.0,
-      "giudizio": "Il cliente con la barchetta e lui con la bici cinese fradicio di sudore. 'I soldi vanno coi soldi' diventa il tema della settimana. '1 mese per risparmiare 100 euro sulle sedie'. Filosofo del sacrificio. 'La vita deve essere sacrificio' - educazione gesuita.",
-      "messaggi": 42,
-      "mediaGiornaliera": 6.0,
-      "highlights": [
-        "Racconto epico del cliente con la barca",
-        "Educazione gesuita sul sacrificio"
-      ],
-      "citazioneTop": "Ho dovuto fingere entusiasmo. È questo il problema"
-    },
-    {
       "name": "Adriano Sergio Lorenzo Facchini",
       "voto": 8.5,
-      "giudizio": "Organizzatore instancabile della cena. Lista ristoranti chilometrica. 'Democristiano' a Giacomo. Condivide link sulla Francia e pensioni. La sega sul bidet 'La consiglio a tutti'. Non trova donna di servizio 'Maremma puttana'.",
-      "messaggi": 48,
-      "mediaGiornaliera": 6.9,
+      "giudizio": "Il re della chat ha dominato la settimana con la sua proverbiale capacita organizzativa, gestendo liste di presenze e ristoranti come un segretario ONU sotto caffeina. Ha condiviso riflessioni sulla rivoluzione francese (che noi italiani non abbiamo fatto), ha trollato Giacomo chiamandolo 'sempre l'ultimo', e ha regalato perle come la raccomandazione sul bidet. Il sabato lo troviamo a pulire casa mentre Elena cucina lo spezzatino - la divisione dei compiti e cristallina.",
+      "messaggi": 35,
+      "mediaGiornaliera": 5.8,
       "highlights": [
-        "Organizzazione cena con liste dettagliate",
-        "Consiglio sul bidet"
+        "Gestione impeccabile dell'organizzazione cena con liste aggiornate in tempo reale",
+        "Commento politico sulla riforma IRPEF e la rivoluzione francese mai fatta",
+        "Battuta epica sul bidet che ha spiazzato il gruppo"
       ],
-      "citazioneTop": "No mi sto facendo una sega sul bidet. La consiglio a tutti."
+      "citazioneTop": "E che aspettavi a dirlo? La chiamata ufficiale?"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 9.0,
+      "giudizio": "Settimana da MVP assoluto. Ha aperto le danze con l'avvistamento di Fausto che dormiva ritto in macchina ('ti ho sonato come se non ci fosse un domani'), poi ha innescato la discussione filosofica della settimana: lui in bici cinese a noleggio fradicio di sudore mentre il cliente ha comprato una barca. Ha dovuto 'fingere entusiasmo' per i 70k spesi per trasportarla. Il suo 'Io polemizzavo per piacere' dopo aver contestato ogni ristorante e il fondamentale 'ma buonissimo' sullo spezzatino sono poesia pura.",
+      "messaggi": 28,
+      "mediaGiornaliera": 4.7,
+      "highlights": [
+        "Ha immortalato Fausto addormentato in macchina mentre guidava con la figlia (molto male)",
+        "Riflessione esistenziale sul rapporto con i soldi: sedie da 100 euro vs barche da 70k",
+        "Ha polemizzato per piacere su ogni ristorante proposto"
+      ],
+      "citazioneTop": "Ho dovuto fingere entusiasmo. E questo il problema"
     },
     {
       "name": "Alessio Valentini",
       "voto": 8.0,
-      "giudizio": "Sfogo esistenziale sulla gente ricchissima. 'Se avessi un milione in banca la mia vita sarebbe risolta' - tutti lo prendono per scemo. Pressione a 200, macchinetta attaccata. 'Questa desolazione di ricchi mi ha fatto perdere i valori di Hokuto'. Deve rileggere Siddhartha.",
-      "messaggi": 32,
-      "mediaGiornaliera": 4.6,
+      "giudizio": "Il giramondo ha portato nel gruppo le sue riflessioni dal mondo dei ricchi messicani, dove ha dovuto difendere a un tavolo di 10 persone l'idea che con un milione la vita sarebbe 'risolta'. Ha condiviso la sua filosofia di vita con una sincerita disarmante: vita spettacolare a 40 anni senza aver speso mezzo milione. Nel frattempo aspetta il permesso di viaggio ('sti mega maiali'), mentre Elisa e a Chapel Hill per la poster session. La foto del pranzo con tutto quello che c'era in frigo (mais e wurstel inclusi) ha strappato un 'Diocristo' a Cosimo.",
+      "messaggi": 18,
+      "mediaGiornaliera": 3.0,
       "highlights": [
-        "Riflessione sulla ricchezza americana",
-        "Monitoraggio pressione continuo"
+        "Riflessione filosofica memorabile sulla ricchezza e il senso della vita",
+        "Condivisione sulla macchinetta della pressione attaccata tutto il giorno",
+        "Foto del pranzo 'tutto quello che c'era in frigo' che ha scandalizzato Cosimo"
       ],
-      "citazioneTop": "Ho vissuto la mia vita fino a 40 anni spettacolarmente e dio maiale col cazzo che ho speso mezzo milione"
+      "citazioneTop": "questa desolazione di ricchi mi ha fatto perdere un po' i valori di Hokuto"
     },
     {
       "name": "Fausto Petrini",
-      "voto": 7.5,
-      "giudizio": "Evoca Shu di Nanto per Cosimo: 'Finirai schiacciato da una grossa pietra in cima ad una piramide'. 'Nanto uguale morte'. Propone cena a Firenze. 'Il tamburo va tirato con quest'umido'. Saluti dai monti con Giulio cresciuto.",
-      "messaggi": 24,
-      "mediaGiornaliera": 3.4,
+      "voto": 8.0,
+      "giudizio": "Il trascinatore ha proposto la cena del martedi ('anche a cena da me, volendo'), ha confermato per il 17, e ha chiesto se puo portare la moglie. Ma il momento di gloria e la citazione dotta di Ken il Guerriero: Cosimo e nato sotto la stella del sacrificio come Shu di Nanto, finira schiacciato da una grossa pietra in cima a una piramide. 'Nanto uguale morte' con emoji rock and roll. La domenica da Folgaria manda saluti dai monti con Giulietto sullo scivolo spezzaculo.",
+      "messaggi": 14,
+      "mediaGiornaliera": 2.3,
       "highlights": [
-        "Profezia Hokuto per Cosimo",
-        "Foto di Giulio in montagna"
+        "Citazione epica di Ken il Guerriero per descrivere il destino di Cosimo",
+        "Ha proposto la cena e offerto casa sua come alternativa",
+        "Weekend in montagna con Giulietto documentato per il gruppo"
       ],
       "citazioneTop": "Finirai schiacciato da una grossa pietra in cima ad una piramide"
     },
     {
       "name": "Alessio Macalùso",
-      "voto": 7.0,
-      "giudizio": "'I soldi vanno coi soldi' - massima del saggio. 'Te vorresti solo smettere di lavorare. Come me d'altronde'. Disponibile per la cena, propone la Speranza. 'Faccelo vedere' per lo spezzatino.",
-      "messaggi": 18,
-      "mediaGiornaliera": 2.6,
+      "voto": 7.5,
+      "giudizio": "Il saggio zen ha partecipato con la sua consueta calma, filosofeggiando con Cosimo sul rapporto tra soldi e felicita. 'Ma poi che cambia averci la barca o no' e la domanda che riassume tutta la sua visione del mondo. Ha confermato la sua disponibilita per la cena del 24 (ma non garantisce), ha notato che i pezzetti del pranzo di Alessio V. sono 'molto precisi', e ha chiuso il sabato con un laconico 'C'e Fausto per le ripetizioni'. Zen master.",
+      "messaggi": 14,
+      "mediaGiornaliera": 2.3,
       "highlights": [
-        "Filosofia anti-lavoro",
-        "Contributo all'organizzazione cena"
+        "Domanda filosofica 'Ma poi che cambia averci la barca o no'",
+        "Osservazione zen sui pezzetti molto precisi del pranzo di Alessio",
+        "Ha richiesto insistentemente la foto dello spezzatino"
       ],
       "citazioneTop": "Te vorresti solo smettere di lavorare. Come me d'altronde"
     },
     {
       "name": "Giacomo Dolfi",
-      "voto": 6.5,
-      "giudizio": "Propone rivoluzione IRPEF. Preferenza spagnola per la cena. 'Per me ok 17 e 24'. L'ultimo a rispondere come sempre ('E che aspettavi? La chiamata ufficiale?'). Il Fondatore latita.",
-      "messaggi": 10,
-      "mediaGiornaliera": 1.4,
+      "voto": 6.0,
+      "giudizio": "Il fondatore ha partecipato con moderazione, intervenendo sulla riforma IRPEF ('se passa ci tocchera fare come i francesi'), confermando per il 17 e 24, e esprimendo preferenza per il ristorante spagnolo. Adriano lo ha bonariamente rimproverato: 'E che aspettavi a dirlo? La chiamata ufficiale?' Sempre democristiano nelle scelte: 'mi va bene piu o meno tutto'.",
+      "messaggi": 4,
+      "mediaGiornaliera": 0.7,
       "highlights": [
-        "Proposta rivoluzione fiscale",
-        "Preferenza ristorante"
+        "Commento politico sulla riforma IRPEF che potrebbe portare alla rivoluzione",
+        "Ha espresso preferenza per lo spagnolo di Poggibonsi",
+        "Partecipazione tardiva ma efficace all'organizzazione"
       ],
-      "citazioneTop": "Secondo me se la riforma dell'IRPEF passa per come l'hanno descritta ci toccherà fare lo stesso"
+      "citazioneTop": "Secondo me se la riforma dell'IRPEF passa per come l'hanno descritta ci tocchera fare lo stesso"
     }
   ],
   "awards": {
-    "mvp": "Cosimo Nenciòni",
-    "comico": "Adriano Sergio Lorenzo Facchini",
-    "cuore": "Alessio Valentini",
+    "mvp": "Cosimo Nenciòni - Ha innescato la discussione filosofica della settimana e polemizzato per puro piacere",
+    "comico": "Adriano Sergio Lorenzo Facchini - La battuta sul bidet vale da sola il premio",
+    "cuore": "Alessio Valentini - Riflessioni sincere sulla vita e condivisione delle sue ansie per il visto",
     "fantasma": null
   }
 }

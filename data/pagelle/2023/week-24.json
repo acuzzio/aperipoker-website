@@ -4,106 +4,127 @@
   "startDate": "2023-06-12",
   "endDate": "2023-06-18",
   "stats": {
-    "totalMessages": 125,
+    "totalMessages": 127,
     "activeMembers": 6,
-    "avgPerMember": 20.8
+    "avgPerMember": 21.2
   },
-  "riassunto": "Settimana della morte di Berlusconi e Francesco Nuti! Giacomo apre: 'Insomma alla fine è morto anche Silvio'. Fausto: 'Mai troppo presto'. Mac ricorda Nuti: 'Persona veramente divertente... mi dispiace ma ha smesso di soffrire'. Discussione epica sui film di Nuti: Caruso Pascosky, 'Je suis frocio', il paralitico. Adriano analizza: 'Quando si picchiano si mettono allo stesso livello'. Mac e Fausto citano battute a memoria: 'Io amo Giulia, Giulia ama me e te sei omosessuale'. Cocco perde al quiz sull'oggetto misterioso (apribarattoli): 'Sono deluso'. Mac trova la soluzione. Siena sott'acqua con cascata impressionante.",
+  "riassunto": "Una settimana carica di emozioni e ricordi. Il 12 giugno l'Italia perde due icone: Silvio Berlusconi e Francesco Nuti. Giacomo apre le danze alle 4:39 con 'Insomma alla fine e' morto anche Silvio', ma e' la scomparsa di Nuti a scatenare il gruppo in un commovente tributo collettivo. I due Alessio e Fausto si lanciano in un'analisi appassionata della filmografia del comico toscano, rievocando scene cult come il paralitico picchiato da Haber o il bambino che ammazza la giraffa. Nel pomeriggio irrompe il quiz dell'oggetto misterioso: Cosimo sostiene sia un manico universale per coperchi, ma Giacomo e Alessio Mac trionfano identificandolo come apribarattoli. Il giorno dopo Siena finisce sott'acqua con video spettacolari, mentre Cosimo liquida Sezze come 'sottosviluppati veri'. Alessio Mac chiude con perfezione: 'Non a caso e' il paese di Martufello'.",
   "bestQuotes": [
     {
-      "quote": "Mai troppo presto",
-      "author": "Fausto Petrini",
-      "context": "Sulla morte di Berlusconi"
+      "quote": "Insomma alla fine e' morto anche Silvio",
+      "author": "Giacomo Dolfi",
+      "context": "L'annuncio laconico alle 4:39 del mattino che apre la settimana - Giacomo stile, niente giri di parole"
     },
     {
       "quote": "Diranno di oggi che due grandi comici italiani se ne sono andati",
       "author": "Adriano Sergio Lorenzo Facchini",
-      "context": "Su Berlusconi e Nuti"
+      "context": "La battuta che eleva Berlusconi a comico involontario, genio sottile"
     },
     {
-      "quote": "Non è tanto COSA fa, ma COME lo fa",
-      "author": "Alessio Valentini",
-      "context": "Sull'apribarattoli rivoluzionario"
+      "quote": "E cmq la scena con Haber del 'tuo problema' e del 'paralitico!' rimane una delle vette piu' dissacranti e esilaranti del cinema mondiale",
+      "author": "Fausto Petrini",
+      "context": "Fausto critico cinematografico che difende l'onore di Nuti con passione"
+    },
+    {
+      "quote": "Se trovo qualche oggetto strano prometto che ti mando la foto cosi' puoi non indovinare ancora una volta",
+      "author": "Alessio Macalùso",
+      "context": "La stoccata perfetta a Cosimo dopo la sua sconfitta nel quiz dell'oggetto misterioso"
+    },
+    {
+      "quote": "Non a caso e' il paese di Martufello",
+      "author": "Alessio Macalùso",
+      "context": "Risposta chirurgica dopo che Cosimo definisce Sezze 'sottosviluppati veri'"
     }
   ],
   "pagelle": [
     {
       "name": "Alessio Valentini",
-      "voto": 8.5,
-      "giudizio": "'Ho paura a rivedere Caruso Pascosky... è il mio film commedia favorito'. Ricorda scene devastanti: 'Je suis frocio', 'Il nero che si lancia dalla finestra'. 'TROIA!' citando il film. Sull'apribarattoli: 'Non è tanto COSA fa, ma COME lo fa'. 'CONOSCETE IL VERO APRISCATOLE'. Video sulla banda a Sezze e cascata a Siena. Nostalgico e entusiasta.",
-      "messaggi": 36,
-      "mediaGiornaliera": 5.1,
+      "voto": 9.0,
+      "giudizio": "Il Giramondo si trasforma in critico cinematografico appassionato. Tra meeting di lavoro riesce a condividere link su Nuti, evocare scene memorabili ('Je suis frocio', 'Il bambino che ammazza la giraffa'), e fare da evangelista dell'apribarattoli rivoluzionario. La sua dichiarazione 'non e' tanto COSA fa, ma COME lo fa' potrebbe essere il motto della sua vita. Chiude con un colpo di teatro: 'ovviamente Nuti e' la cosa piu' importante, scusate' - cuore toscano sotto la scorza da nomade digitale.",
+      "messaggi": 32,
+      "mediaGiornaliera": 4.6,
       "highlights": [
-        "Ricordi film Nuti",
-        "Rivelazione apriscatole"
+        "Ha condiviso link preziosi sui film di Nuti appena uppati",
+        "Citazioni cult a raffica: 'TROIA!', 'Je suis frocio', scene del supermercato",
+        "Ha rivelato al gruppo il vero apribarattoli come fosse il Santo Graal",
+        "Ha condiviso video del maltempo a Siena e della banda di Sezze"
       ],
-      "citazioneTop": "Il fatto che adesso CONOSCETE IL VERO APRISCATOLE sarebbe la cosa più importante di oggi"
+      "citazioneTop": "Il fatto che adesso CONOSCETE IL VERO APRISCATOLE sarebbe la cosa piu' importante di oggi"
     },
     {
       "name": "Alessio Macalùso",
-      "voto": 8.0,
-      "giudizio": "Annuncia la morte di Nuti: 'Persona veramente divertente... ha smesso di soffrire'. Cita battute a memoria: 'Io amo Giulia, Giulia ama me e te sei omosessuale'. Trova l'apribarattoli: 'Trovato! Per stappare i barattoli'. 'Una persona insopportabile' sul cretino alla cena. 'Tipico senesotto'. Cinefilo e investigatore.",
-      "messaggi": 28,
-      "mediaGiornaliera": 4.0,
+      "voto": 8.5,
+      "giudizio": "La Voce della Ragione si e' espressa piu' del solito, e che interventi. Ha aperto il ricordo di Nuti con 'Persona veramente divertente' e 'Mi dispiace ma ha smesso di soffrire' - poche parole che dicono tutto. Ha vinto il quiz dell'oggetto misterioso con l'aiuto di un collega (che confessa onestamente), e ha piazzato due perle: la stoccata a Cosimo sugli oggetti da indovinare e l'assassinio di Sezze via Martufello. Il 'Mammeglio' finale sull'apribarattoli e' puro zen toscano.",
+      "messaggi": 24,
+      "mediaGiornaliera": 3.4,
       "highlights": [
-        "Ricordo Nuti",
-        "Soluzione apribarattoli"
+        "Ha annunciato la morte di Nuti con rispetto e affetto",
+        "Citazioni perfette: 'Io amo Giulia Giulia ama me e te sei omosessuale'",
+        "Ha risolto il mistero dell'apribarattoli",
+        "Stoccata epica: 'Non a caso e' il paese di Martufello'"
       ],
-      "citazioneTop": "Io amo Giulia, Giulia ama me e te sei omosessuale"
-    },
-    {
-      "name": "Adriano Sergio Lorenzo Facchini",
-      "voto": 8.0,
-      "giudizio": "'Dispiace' su Berlusconi. Analisi profonda su Nuti: 'Quando si picchiano si mettono allo stesso livello... Nuti ha affrontato tematiche scomode'. 'Diranno che due grandi comici italiani se ne sono andati'. 'Questa pioggia mi ha un pochino rotto i coglioni'. Intellettuale e meteoropatico.",
-      "messaggi": 22,
-      "mediaGiornaliera": 3.1,
-      "highlights": [
-        "Analisi Nuti",
-        "Commento pioggia"
-      ],
-      "citazioneTop": "Nuti ha affrontato nella sua troppo breve carriera tematiche scomode al grande pubblico"
+      "citazioneTop": "Se trovo qualche oggetto strano prometto che ti mando la foto cosi' puoi non indovinare ancora una volta"
     },
     {
       "name": "Fausto Petrini",
       "voto": 8.0,
-      "giudizio": "'Mai troppo presto' su Berlusconi - lapidario. Su Nuti: 'Con la testa di ora li ho gustati ancora di più... apprezzi meglio il genio insito nel nonsense'. 'La scena con Haber rimane una delle vette più dissacranti del cinema mondiale'. 'Ehhhhh questa la sa solo il Mac'. Super esperto nutiano.",
-      "messaggi": 16,
-      "mediaGiornaliera": 2.3,
+      "giudizio": "Il Trascinatore si e' trasformato in critico cinematografico per l'occasione. La sua difesa di Nuti e' stata appassionata e competente: 'con la testa di ora li ho gustati e apprezzati ancora di piu'. Ha elevato la scena del paralitico a 'vetta dissacrante del cinema mondiale' e ha ricordato 'Tutta colpa del paradiso'. Ha anche trovato il tempo di segnalare un personaggio fastidioso alla cena delle contrade. Il suo 'Mai troppo presto' su Berlusconi alle 5:26 del mattino dice tutto.",
+      "messaggi": 12,
+      "mediaGiornaliera": 1.7,
       "highlights": [
-        "Commento Berlusconi",
-        "Expertise Nuti"
+        "Analisi cinematografica di Nuti degna di un critico",
+        "Ha condiviso clip e meme sui film",
+        "Commento iconico alle 5:26 su Berlusconi: 'Mai troppo presto'",
+        "Ha ricordato il cretino con la borzina Luis Vuitton"
       ],
-      "citazioneTop": "Mai troppo presto"
+      "citazioneTop": "E cmq la scena con Haber rimane una delle vette piu' dissacranti e esilaranti del cinema mondiale"
     },
     {
-      "name": "Giacomo Dolfi",
+      "name": "Adriano Sergio Lorenzo Facchini",
       "voto": 7.5,
-      "giudizio": "Apre la settimana: 'Insomma alla fine è morto anche Silvio'. 'Mediaset a reti unificate'. 'Apribarattoli?' - intuizione corretta. 'Cocco hai perso, basta. Macaluso - Dolfi WIN'. 'Oggi Sienona sott'acqua davvero'. Notiziario e vincitore.",
+      "giudizio": "Il Re della Chat ha dimostrato di essere sveglio anche alle 4:44 del mattino per commentare la morte di Berlusconi. Il suo 'Diranno di oggi che due grandi comici italiani se ne sono andati' e' la battuta sottile della settimana - ha aspettato che tutti capissero da soli. La sua analisi sulla scena del paralitico ('quando si picchiano si mettono allo stesso livello') e' quasi filosofica. Ha chiuso la settimana lamentandosi della pioggia - 'Un pochinino' - come un nonno toscano doc.",
       "messaggi": 14,
       "mediaGiornaliera": 2.0,
       "highlights": [
-        "Notizia Berlusconi",
-        "Vittoria quiz"
+        "Sveglio alle 4:44 per commentare Berlusconi",
+        "Battuta geniale sui 'due comici italiani'",
+        "Analisi quasi filosofica sulla scena del paralitico",
+        "Ha battezzato l'oggetto misterioso come 'Oggetto del giorno'"
       ],
-      "citazioneTop": "Macaluso - Dolfi WIN"
+      "citazioneTop": "Diranno di oggi che due grandi comici italiani se ne sono andati"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 7.0,
+      "giudizio": "Il Fondatore ha aperto la settimana alle 4:39 con il tipico annuncio asciutto: 'Insomma alla fine e' morto anche Silvio'. Ha poi provato a indovinare l'oggetto misterioso ('Apribarattoli?') vincendo il quiz. Si e' goduto la vittoria su Cosimo con il trionfalismo del Lider: 'Cocco hai perso, basta', 'Macaluso - Dolfi WIN', 'Solo Dolfi'. Ha condiviso foto del maltempo a Siena e le 'Tristezze senesi' - il patriarca benevolo che veglia sulla citta'.",
+      "messaggi": 14,
+      "mediaGiornaliera": 2.0,
+      "highlights": [
+        "Ha aperto la settimana alle 4:39 con l'annuncio su Berlusconi",
+        "Ha vinto il quiz sull'oggetto misterioso",
+        "Celebrazione della vittoria su Cosimo: 'Cocco hai perso, basta'",
+        "Ha documentato il maltempo a Siena"
+      ],
+      "citazioneTop": "Insomma alla fine e' morto anche Silvio"
     },
     {
       "name": "Cosimo Nenciòni",
-      "voto": 7.0,
-      "giudizio": "'Ma figuriamoci' e 'È un manico universale per coperchi' - sbaglia l'oggetto. 'Veramente troppo facile' e 'Sono deluso' quando perde. 'È strepitosa' sulla signora con le galline. 'A Sezze sono dei sottosviluppati veri'. Perdente dignitoso.",
+      "voto": 6.0,
+      "giudizio": "Il Provocatore Raffinato ha avuto una settimana sottotono. E' intervenuto poco ma con i soliti lampi: 'Ma figuriamoci', 'Sono deluso', 'Non mi ha divertito' - puro Cosimo. Ha perso il quiz dell'oggetto misterioso insistendo fosse un 'manico universale per coperchi' e ha liquidato Sezze come 'sottosviluppati veri'. Il suo 'Io quando vedo le galline moio' su un video random e' l'unico guizzo comico della sua settimana. Il Provocatore ha provocato poco.",
       "messaggi": 10,
       "mediaGiornaliera": 1.4,
       "highlights": [
-        "Sconfitta quiz",
-        "Giudizio su Sezze"
+        "Ha sbagliato clamorosamente il quiz dell'oggetto: 'E' un manico universale per coperchi'",
+        "Ha definito Sezze 'sottosviluppati veri'",
+        "Reazione al video delle galline: 'Io quando vedo le galline moio'"
       ],
-      "citazioneTop": "A Sezze sono dei sottosviluppati veri"
+      "citazioneTop": "Tuttavia vi posso garantire che a Sezze sono dei sottosviluppati veri"
     }
   ],
   "awards": {
-    "mvp": "Alessio Valentini",
-    "comico": "Fausto Petrini",
-    "cuore": "Alessio Macalùso",
-    "fantasma": null
+    "mvp": "Alessio Valentini - Ha guidato il tributo a Nuti con passione cinematografica e rivelato al mondo il vero apribarattoli",
+    "comico": "Adriano Sergio Lorenzo Facchini - 'Due grandi comici italiani se ne sono andati' e' la battuta sottile della settimana",
+    "cuore": "Alessio Macalùso - Ha ricordato Nuti con affetto genuino e ha difeso l'onore del gruppo vincendo il quiz",
+    "fantasma": "Cosimo Nenciòni - Il Provocatore ha provocato poco e ha perso pure il quiz sull'oggetto misterioso"
   }
 }

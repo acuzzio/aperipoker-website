@@ -8,99 +8,118 @@
     "activeMembers": 6,
     "avgPerMember": 3.5
   },
-  "riassunto": "Settimana del Covid di coppia e dell'attacco di Hamas! Fausto preoccupato: 'Jack visto che non rispondi al telefono ci dici come stai?'. Giacomo ancora positivo: 'Sto abbastanza bene, ma stamani ero comunque positivo'. 'Mi sono rotto le palle di stare a casa. Non ne posso piu'. Ma per niente'. Adriano: 'Povero Giec, tutto solo a casa. Poverino'. Giacomo: 'No no peggio... positiva anche Lucia'. Poi 7 ottobre! Attacco Hamas a Israele. Cocco: 'Ma sta roba pare un film. Fantascienza'. Link a video. Alessio V.: 'Il mio amico di Gerusalemme e' stato tutta la notte nello shelter d'acciaio che ha comodamente in casa'. Cocco: 'Follia'. Settimana pesante tra malattia e guerra.",
+  "riassunto": "Settimana carica di emozioni contrastanti per il gruppo. Si apre con Fausto preoccupato per Giacomo che non risponde al telefono - si scopre che il Lider e' positivo al COVID e stufo marcio di stare a casa. 'Mi sono rotto le palle di stare a casa' e' il grido di dolore che scatena la solidarieta' del gruppo. Adriano si commuove per il 'povero Giec' isolato, ma Giacomo rivela la beffa: 'No no peggio... positiva anche Lucia'. Fine settimana dominato dalla tragedia internazionale: l'attacco di Hamas a Israele del 7 ottobre irrompe nella chat. Cosimo condivide il video shock commentando 'pare un film, fantascienza', mentre Alessio Valentini porta una testimonianza diretta: il suo amico di Gerusalemme ha passato la notte nello shelter d'acciaio che 'ha comodamente in casa'. Un momento di connessione reale con la tragedia mondiale.",
   "bestQuotes": [
     {
-      "quote": "No no peggio... positiva anche Lucia",
+      "quote": "Mi sono rotto le palle di stare a casa",
       "author": "Giacomo Dolfi",
-      "context": "Covid di coppia"
+      "context": "Il Lider positivo al COVID esprime tutta la sua frustrazione per l'isolamento"
     },
     {
-      "quote": "Ma sta roba pare un film. Fantascienza",
-      "author": "Cosimo Nenciòni",
-      "context": "Attacco Hamas"
+      "quote": "No no peggio.....positiva anche Lucia",
+      "author": "Giacomo Dolfi",
+      "context": "La rivelazione che peggiora la situazione gia' drammatica"
     },
     {
-      "quote": "Il mio amico di Gerusalemme e' stato tutta la notte nello shelter d'acciaio che ha comodamente in casa",
+      "quote": "il mio amico di Gerusalemme e' stato tutta la notte nello shelter d'acciaio che ha comodamente in casa",
       "author": "Alessio Valentini",
-      "context": "Testimonianza Israele"
+      "context": "Testimonianza diretta dall'attacco di Hamas del 7 ottobre"
+    },
+    {
+      "quote": "Ma sta roba pare un film. Fantascienza.",
+      "author": "Cosimo Nenciòni",
+      "context": "Reazione incredula ai video dell'attacco in Israele"
+    },
+    {
+      "quote": "madonna che coglioni",
+      "author": "Alessio Valentini",
+      "context": "Solidarieta' cruda ma sincera per il COVID di Giacomo"
     }
   ],
   "pagelle": [
     {
       "name": "Giacomo Dolfi",
-      "voto": 8.0,
-      "giudizio": "Il covidoso 2.0! 'Sto abbastanza bene, ma stamani ero comunque positivo'. 'Mi sono rotto le palle di stare a casa'. 'Non ne posso piu'. Ma per niente'. 'No no peggio... positiva anche Lucia'. 'Stasera vista Marcella'. Malato ma comunicativo.",
+      "voto": 8.5,
+      "giudizio": "Il protagonista indiscusso della settimana, anche se controvoglia. Positivo al COVID, positiva Lucia, positivamente esaurito dalla clausura. Il suo 'Mi sono rotto le palle di stare a casa' e' un grido esistenziale che risuona in tutti noi. Nonostante l'isolamento forzato, mantiene la calma zen del fondatore e ci aggiorna su Marcella. Resistenza eroica.",
       "messaggi": 6,
       "mediaGiornaliera": 0.9,
       "highlights": [
-        "Covid coppia",
-        "Marcella"
+        "Ha comunicato la sua positivita' al COVID con dignita'",
+        "Ha svelato che anche Lucia era positiva con tempismo drammatico",
+        "Ha visto Marcella giovedi' nonostante tutto"
       ],
-      "citazioneTop": "No no peggio... positiva anche Lucia"
-    },
-    {
-      "name": "Cosimo Nenciòni",
-      "voto": 8.0,
-      "giudizio": "Il cronista della guerra! Link video attacco Hamas: 'Ma sta roba pare un film. Fantascienza'. 'Follia'. Informatore su eventi drammatici.",
-      "messaggi": 4,
-      "mediaGiornaliera": 0.6,
-      "highlights": [
-        "Attacco Hamas",
-        "Video shock"
-      ],
-      "citazioneTop": "Ma sta roba pare un film. Fantascienza"
+      "citazioneTop": "Mi sono rotto le palle di stare a casa"
     },
     {
       "name": "Alessio Valentini",
-      "voto": 7.5,
-      "giudizio": "'Madonna che coglioni' sul Covid. 'Il mio amico di Gerusalemme e' stato tutta la notte nello shelter d'acciaio che ha comodamente in casa'. Testimone di guerre vicine e lontane.",
+      "voto": 8.0,
+      "giudizio": "Il giramondo questa settimana ci porta una prospettiva unica: connessioni dirette con la tragedia israeliana. Il suo amico a Gerusalemme nello shelter d'acciaio 'che ha comodamente in casa' e' un dettaglio che fa venire i brividi. Prima pero' ha solidarizzato con Giacomo nel modo piu' Alessio possibile: 'madonna che coglioni'. Crudo ma sincero, come sempre.",
       "messaggi": 4,
       "mediaGiornaliera": 0.6,
       "highlights": [
-        "Amico Gerusalemme",
-        "Solidarieta' Giacomo"
+        "Ha portato una testimonianza diretta dall'attacco del 7 ottobre",
+        "Ha solidarizzato con Giacomo in modo colorito",
+        "Ha condiviso un media misterioso"
       ],
-      "citazioneTop": "Il mio amico di Gerusalemme e' stato tutta la notte nello shelter d'acciaio"
+      "citazioneTop": "il mio amico di Gerusalemme e' stato tutta la notte nello shelter d'acciaio"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 7.5,
+      "giudizio": "Il Provocatore Raffinato questa volta porta contenuti pesanti. E' lui a condividere il video shock dell'attacco Hamas, commentando con la sua tipica sintesi: 'pare un film, fantascienza'. Tre parole che catturano l'assurdita' di quello che stava succedendo. Chiude con un lapidario 'Follia' che dice tutto. Pochi messaggi, massimo impatto.",
+      "messaggi": 4,
+      "mediaGiornaliera": 0.6,
+      "highlights": [
+        "Ha condiviso il video dell'attacco in Israele per primo",
+        "Ha sintetizzato l'orrore in tre parole perfette",
+        "Ha concluso con 'Follia' - non serviva altro"
+      ],
+      "citazioneTop": "Ma sta roba pare un film. Fantascienza."
     },
     {
       "name": "Adriano Sergio Lorenzo Facchini",
       "voto": 7.0,
-      "giudizio": "'Povero Giec, tutto solo a casa. Poverino'. Solidale con Giacomo malato.",
+      "giudizio": "Il Re della Chat questa settimana ha mostrato il suo lato piu' tenero. 'Povero Giec, tutto solo a casa, poverino' - tre messaggi consecutivi di pura empatia per Giacomo malato. Quando scopre che anche Lucia e' positiva, reagisce con un emoji spaventato che vale piu' di mille parole. Solidarieta' genuina dal fiume in piena.",
       "messaggi": 4,
       "mediaGiornaliera": 0.6,
       "highlights": [
-        "Solidarieta' Giacomo"
+        "Ha espresso compassione sincera per Giacomo malato",
+        "Ha reagito con terrore alla notizia di Lucia positiva",
+        "Ha detto 'poverino' tre volte di fila - cuore d'oro"
       ],
-      "citazioneTop": "Povero Giec, tutto solo a casa"
+      "citazioneTop": "Povero Giec, tutto solo a casa, poverino"
     },
     {
       "name": "Fausto Petrini",
-      "voto": 7.0,
-      "giudizio": "Preoccupato per Jack! 'Visto che non rispondi al telefono ci dici come stai?'. 'Cazzo' sulla notizia del Covid di Lucia. Amico presente.",
+      "voto": 6.5,
+      "giudizio": "Il Trascinatore apre la settimana con preoccupazione genuina: 'Jack visto che non rispondi al telefono ci dici come stai?' - da vero amico che si preoccupa. Quando scopre del COVID e di Lucia, il suo 'Cazzo' racchiude tutta la solidarieta' toscana in una singola parola. Pochi messaggi ma tutti carichi di affetto.",
       "messaggi": 2,
       "mediaGiornaliera": 0.3,
       "highlights": [
-        "Preoccupazione Giacomo"
+        "Ha aperto la settimana preoccupandosi per Giacomo",
+        "Ha sintetizzato la situazione con un 'Cazzo' memorabile",
+        "Ha dimostrato di essere un amico attento"
       ],
       "citazioneTop": "Jack visto che non rispondi al telefono ci dici come stai?"
     },
     {
       "name": "Alessio Macalùso",
-      "voto": 6.5,
-      "giudizio": "'Dev'esse il tu figliolo Giacomo'. Presente ma minimale.",
+      "voto": 6.0,
+      "giudizio": "La Voce della Ragione questa settimana interviene con un solo messaggio, ma che messaggio: 'Dev'esse il tu figliolo giacomo'. Commenta un media di Alessio V con la sua tipica laconicita' e un tocco di toscano verace. Zen come sempre, interviene solo quando serve davvero. Qualita' sulla quantita'.",
       "messaggi": 1,
       "mediaGiornaliera": 0.1,
       "highlights": [
-        "Battuta figliolo"
+        "Ha commentato con precisione chirurgica il media di Alessio V",
+        "Ha usato il vernacolo toscano con maestria",
+        "Ha mantenuto il suo stile zen-laconico"
       ],
-      "citazioneTop": "Dev'esse il tu figliolo Giacomo"
+      "citazioneTop": "Dev'esse il tu figliolo giacomo"
     }
   ],
   "awards": {
-    "mvp": "Giacomo Dolfi",
-    "comico": "Cosimo Nenciòni",
-    "cuore": "Fausto Petrini",
-    "fantasma": null
+    "mvp": "Giacomo Dolfi - Ha trasformato il COVID in un racconto epico di resistenza domestica",
+    "comico": "Alessio Valentini - 'madonna che coglioni' come espressione di solidarieta'",
+    "cuore": "Fausto Petrini - Ha aperto la settimana preoccupandosi per l'amico che non rispondeva",
+    "fantasma": "Alessio Macalùso - Un solo messaggio zen in tutta la settimana"
   }
 }

@@ -4,105 +4,122 @@
   "startDate": "2023-09-25",
   "endDate": "2023-10-01",
   "stats": {
-    "totalMessages": 40,
+    "totalMessages": 33,
     "activeMembers": 6,
-    "avgPerMember": 6.7
+    "avgPerMember": 5.5
   },
-  "riassunto": "Settimana del sasso di Giulio e del Covid di Giacomo! Fausto: 'Oggi mayer: Giulio ha ingoiato un sasso a scuola. Enorme giramento di cazzo'. 'E non ha niente eh...'. Alessio V.: 'Era buono?'. Giacomo: 'Comunque dalle suore non sarebbe successo, sicuro'. Radiografia! Fausto: 'E' gia' nello stomaco, 1,2 cm per 6mm, nei prossimi giorni SETACCIARE ACCURATAMENTE FECI per avere prova della naturale espulsione'. Cocco: 'Voglio aspettare la versione di Elena'. Mac: 'Il mangiasassi'. Adriano: 'Un lavoretto certosino!'. Poi Giacomo prende il Covid: 'Per iniziare bene il fine settimana ho preso il covid. Fanculo'. 'E' molto sympa'. 'Stanotte ho dormito con pigiama invernale, calzini pesi, piumino invernale, coperta e borsa dell'acqua calda'. Cocco: 'Sara' stata contenta Lucia'. Giacomo: 'Sono stato confinato nello studio'. Adriano cattivo: 'Io ti avrei fatto andare in albergo'. Fausto scopre perche' ha fatto cacare quella sera: 'Pare si sia fatta stesa di rum sul tavolo'.",
+  "riassunto": "Settimana di grande apprensione che si trasforma in commedia: Giulio, figlio di Fausto, ha ingoiato un sasso a scuola scatenando il panico familiare. Per fortuna il sasso era gia nello stomaco e non nell'esofago - ora tocca 'SETACCIARE ACCURATAMENTE FECI' per giorni. Alessio M. lo battezza immediatamente 'Il mangiasassi'. Giacomo chiude il weekend prendendo il COVID: confinato nello studio dalla moglie Lucia con pigiama invernale, calzini pesi, piumino, coperta E borsa dell'acqua calda. Cosimo sentenzia 'Severo ma giusto'. Nel mezzo, Fausto rivela di aver scoperto il motivo della sua figuraccia di 15 giorni prima: una stesa di rum sul tavolo che non ricorda affatto. Il gruppo alterna preoccupazione sincera a sfotto spietati, come da tradizione.",
   "bestQuotes": [
     {
-      "quote": "Nei prossimi giorni SETACCIARE ACCURATAMENTE FECI per avere prova della naturale espulsione",
+      "quote": "SETACCIARE ACCURATAMENTE FECI per avere prova della naturale espulsione",
       "author": "Fausto Petrini",
-      "context": "Istruzioni post-sasso"
+      "context": "Le istruzioni mediche che nessun genitore vorrebbe ricevere"
+    },
+    {
+      "quote": "Il mangiasassi",
+      "author": "Alessio Macaluso",
+      "context": "Il soprannome perfetto per Giulio, coniato al volo"
     },
     {
       "quote": "Stanotte ho dormito con pigiama invernale, calzini pesi, piumino invernale, coperta e borsa dell'acqua calda",
       "author": "Giacomo Dolfi",
-      "context": "Covid experience"
+      "context": "Il corredo anti-COVID del Fondatore"
     },
     {
-      "quote": "Lucia ha tanti pregi ma il difetto di essere morbida e permissiva nei tuoi confronti non riesce proprio a toglierselo",
-      "author": "Adriano Sergio Lorenzo Facchini",
-      "context": "Su Giacomo in studio"
+      "quote": "Comunque dalle suore non sarebbe successo, sicuro",
+      "author": "Giacomo Dolfi",
+      "context": "Commento sul sasso di Giulio - le scuole laiche non sono piu quelle di una volta"
+    },
+    {
+      "quote": "Pare si sia fatta stesa di rum sul tavolo, fatto che non ricordo assolutamente",
+      "author": "Fausto Petrini",
+      "context": "Quando scopri dopo 15 giorni perche hai fatto figuracce"
     }
   ],
   "pagelle": [
     {
       "name": "Fausto Petrini",
       "voto": 8.5,
-      "giudizio": "Padre ansioso e ironico! 'Giulio ha ingoiato un sasso a scuola'. 'Enorme giramento di cazzo'. 'Per ora si, si aspettano esiti radiografia'. 'E' gia' nello stomaco, 1,2 cm per 6mm'. 'SETACCIARE ACCURATAMENTE FECI'. 'Mannaggia, volevo anche vederti' a Giacomo col Covid. 'Pare si sia fatta stesa di rum sul tavolo, fatto che non ricordo assolutamente'. Cronista domestico.",
-      "messaggi": 12,
-      "mediaGiornaliera": 1.7,
+      "giudizio": "Il Trascinatore vive la settimana piu intensa da padre: il figlio Giulio inghiotte un sasso a scuola e lui gestisce l'emergenza con il giusto mix di preoccupazione e aggiornamenti in tempo reale. 'Enorme giramento di cazzo' iniziale che si scioglie in sollievo quando si scopre che il sasso e gia nello stomaco. Ciliegina sulla torta: la rivelazione della stesa di rum sul tavolo che non ricorda - W il bollore strikes again, anche retroattivamente.",
+      "messaggi": 8,
+      "mediaGiornaliera": 1.6,
       "highlights": [
-        "Sasso di Giulio",
-        "Stesa di rum"
+        "Ha gestito l'emergenza sasso con il gruppo come supporto morale",
+        "Ha fornito aggiornamenti medici dettagliati incluse le dimensioni del sasso (1,2 cm x 6mm)",
+        "Ha svelato il mistero della figuraccia di 15 giorni prima"
       ],
       "citazioneTop": "SETACCIARE ACCURATAMENTE FECI per avere prova della naturale espulsione"
     },
     {
       "name": "Giacomo Dolfi",
-      "voto": 8.0,
-      "giudizio": "Il covidoso! 'Per iniziare bene il fine settimana ho preso il covid. Fanculo'. 'E' molto sympa'. 'Stanotte ho dormito con pigiama invernale, calzini pesi, piumino invernale, coperta e borsa dell'acqua calda'. 'Sono stato confinato nello studio'. 'Dalle suore non sarebbe successo' sul sasso. 'Se era meno permissiva magari non lo prendevo nemmeno il coviddi'. Malato ma ironico.",
-      "messaggi": 10,
-      "mediaGiornaliera": 1.4,
-      "highlights": [
-        "Covid",
-        "Battuta suore"
-      ],
-      "citazioneTop": "E' molto sympa"
-    },
-    {
-      "name": "Adriano Sergio Lorenzo Facchini",
-      "voto": 8.0,
-      "giudizio": "Il cattivo! 'Un lavoretto certosino!' sul setacciare feci. 'Non capisco perche' il sasso sarebbe dovuto rimanere nell'esofago'. 'Io ti avrei fatto andare in albergo'. 'Lucia ha tanti pregi ma il difetto di essere morbida e permissiva nei tuoi confronti non riesce proprio a toglierselo'. Condivide video. Spietato ma simpatico.",
-      "messaggi": 6,
-      "mediaGiornaliera": 0.9,
-      "highlights": [
-        "Cattiveria su Giacomo",
-        "Commento sasso"
-      ],
-      "citazioneTop": "Lucia ha tanti pregi ma il difetto di essere morbida e permissiva"
-    },
-    {
-      "name": "Cosimo Nenciòni",
       "voto": 7.5,
-      "giudizio": "'Noooooo gnamo!' sul sasso. 'Fai sapere sviluppi. Porco2.. porello e porelli voi'. 'Voglio aspettare la versione di Elena'. 'Sara' stata contenta Lucia' sul pigiamone. 'Severo ma giusto' sul confino. Solidale e ironico.",
+      "giudizio": "Il Fondatore passa dal ruolo di commentatore a quello di protagonista suo malgrado: COVID preso a fine settimana e confinamento nello studio. La descrizione del suo equipaggiamento notturno (pigiama, calzini, piumino, coperta, borsa dell'acqua calda) e poesia del disagio. 'E molto sympa' riferito al COVID e understatement da British. La battuta sulle suore dimostra che anche malato il sarcasmo resta intatto.",
       "messaggi": 8,
-      "mediaGiornaliera": 1.1,
+      "mediaGiornaliera": 1.6,
       "highlights": [
-        "Supporto sasso",
-        "Battuta Lucia"
+        "Ha annunciato il COVID con un elegante 'Fanculo'",
+        "Confinato nello studio da Lucia - 'Severo ma giusto' secondo Cosimo",
+        "Ha ipotizzato che la colpa del contagio sia di Lucia"
       ],
-      "citazioneTop": "Voglio aspettare la versione di Elena"
+      "citazioneTop": "Stanotte ho dormito con pigiama invernale, calzini pesi, piumino invernale, coperta e borsa dell'acqua calda"
     },
     {
-      "name": "Alessio Macalùso",
-      "voto": 7.0,
-      "giudizio": "'Il mangiasassi'. 'Un bel lavoretto' sul setacciare. 'Anche le mie nipoti hanno Covid'. 'Perche'? Dove l'hai preso? In discoteca?'. Presente e curioso.",
-      "messaggi": 6,
-      "mediaGiornaliera": 0.9,
+      "name": "Cosimo Nencioni",
+      "voto": 8.0,
+      "giudizio": "Il Provocatore Raffinato si conferma maestro del tempismo e della sintesi. 'Noooooo gnamo!' all'annuncio del sasso, poi la richiesta 'Voglio aspettare la versione di elena' che sottintende dubbi sulla narrazione di Fausto. Sul COVID di Giacomo piazza 'Sara stata contenta lucia' e 'Severo ma giusto'. Cinque messaggi, tutti perfettamente calibrati tra empatia e sfotto.",
+      "messaggi": 5,
+      "mediaGiornaliera": 1.0,
       "highlights": [
-        "Mangiasassi",
-        "Covid nipoti"
+        "Ha chiesto aggiornamenti con genuina preoccupazione",
+        "Ha messo in dubbio la versione di Fausto chiedendo quella di Elena",
+        "Sentenze memorabili sul confinamento di Giacomo"
+      ],
+      "citazioneTop": "Severo ma giusto"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 7.0,
+      "giudizio": "Il Giramondo interviene con la leggerezza che lo contraddistingue. 'era buono?' chiede del sasso ingoiato - domanda legittima per uno che ha provato street food in mezzo mondo. 'ah niente' alla rivelazione della stesa di rum e la risposta perfetta: poche parole che dicono tutto. Presente ma essenziale, come si addice a chi probabilmente ha fusi orari da gestire.",
+      "messaggi": 4,
+      "mediaGiornaliera": 0.8,
+      "highlights": [
+        "Ha sdrammatizzato con 'era buono?' riferito al sasso",
+        "Commento laconico sulla stesa di rum",
+        "Supporto morale con orari improbabili"
+      ],
+      "citazioneTop": "era buono?"
+    },
+    {
+      "name": "Alessio Macaluso",
+      "voto": 7.5,
+      "giudizio": "Lo Zen Master colpisce ancora con la sua capacita di sintesi letale. 'Il mangiasassi' e il soprannome perfetto per Giulio, coniato in tempo reale. 'Un bel lavoretto' sul setacciamento feci e ironia nera da maestro. Quando interviene sul COVID di Giacomo con 'Perche? Dove l'hai preso? In discoteca?' dimostra che anche lui ha il suo lato provocatore, solo piu sottile degli altri.",
+      "messaggi": 4,
+      "mediaGiornaliera": 0.8,
+      "highlights": [
+        "Ha battezzato Giulio 'Il mangiasassi' per l'eternita",
+        "Ha commentato il lavoro di setacciamento con cinismo",
+        "Ha ipotizzato che Giacomo avesse preso il COVID in discoteca"
       ],
       "citazioneTop": "Il mangiasassi"
     },
     {
-      "name": "Alessio Valentini",
+      "name": "Adriano Sergio Lorenzo Facchini",
       "voto": 6.5,
-      "giudizio": "'Era buono?' sul sasso. 'Non male affatto'. 'Ah niente'. Presente ma minimale.",
+      "giudizio": "Il Re della Chat questa settimana gioca in difesa, intervenendo solo nel pomeriggio dopo che il dramma del sasso si e gia risolto. 'Un lavoretto certosino!!' sul setacciamento feci e apprezzabile, ma poi si perde in considerazioni mediche ('Non capisco perche il sasso sarebbe dovuto rimanere nell'esofago') che nessuno ha chiesto. Chiude la settimana condividendo un link YouTube alle 3 di notte - il nottambulo resta fedele a se stesso.",
       "messaggi": 4,
-      "mediaGiornaliera": 0.6,
+      "mediaGiornaliera": 0.8,
       "highlights": [
-        "Battuta sasso"
+        "Ha suggerito che Lucia avrebbe dovuto mandare Giacomo in albergo",
+        "Ha fatto considerazioni mediche non richieste sul sasso",
+        "Link YouTube notturno di sabato"
       ],
-      "citazioneTop": "Era buono?"
+      "citazioneTop": "Lucia ha tanti pregi ma il difetto di essere morbida e permissiva nei tuoi confronti non riesce proprio a toglierselo"
     }
   ],
   "awards": {
-    "mvp": "Fausto Petrini",
-    "comico": "Adriano Sergio Lorenzo Facchini",
-    "cuore": "Cosimo Nenciòni",
+    "mvp": "Fausto Petrini - Ha vissuto il dramma del sasso e ce l'ha raccontato in diretta",
+    "comico": "Alessio Macaluso - 'Il mangiasassi' entra nella storia del gruppo",
+    "cuore": "Cosimo Nencioni - Preoccupazione sincera mascherata da sfotto",
     "fantasma": null
   }
 }

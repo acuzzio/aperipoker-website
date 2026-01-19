@@ -4,106 +4,127 @@
   "startDate": "2023-02-06",
   "endDate": "2023-02-12",
   "stats": {
-    "totalMessages": 134,
+    "totalMessages": 93,
     "activeMembers": 6,
-    "avgPerMember": 22.3
+    "avgPerMember": 15.5
   },
-  "riassunto": "Settimana del TERREMOTO a Siena! Scossa di magnitudo 3.5 che fa tremare tutti. Adriano ed Elena nel panico, Giacomo terrorizzato, Cosimo non sente niente da Firenze. Sciame sismico con 20+ scosse. Si parla di Sanremo, FantaSanremo, Mengoni. Adriano sostituisce il camino con una stufa in terracotta e chiede password di PornHub per la febbre. Discussione epica sul porno premium.",
+  "riassunto": "Settimana dominata dal terremoto dell'8 febbraio a Siena, che ha scatenato il panico tra i membri del gruppo residenti in zona. Adriano e Giacomo hanno vissuto le scosse in diretta, mentre Cosimo e Alessio M. erano al lavoro e non hanno sentito nulla. Fausto era a Firenze al telefono con la mamma che tremava. Alessio V. era altrove e ha seguito da lontano. La seconda meta' della settimana ha visto il ritorno alla normalita' con discussioni su Sanremo 2023 (giudicato di buon livello), il Fantasanremo, e i progetti di ristrutturazione di Adriano che ha sostituito il camino con una stufa in terracotta. Momento surreale: Adriano che chiede password di Pornhub mentre ha 38 gradi di febbre.",
   "bestQuotes": [
     {
       "quote": "Avevo davanti le finestre grande sembrano lo specchio di uno stagno quando ci lanci un sasso",
       "author": "Adriano Sergio Lorenzo Facchini",
-      "context": "Descrizione poetica del terremoto"
+      "context": "Descrizione poetica e inquietante dell'effetto del terremoto sulle finestre"
+    },
+    {
+      "quote": "Da cacarsi sotto",
+      "author": "Giacomo Dolfi",
+      "context": "Sintesi perfetta dello stato d'animo post-terremoto"
+    },
+    {
+      "quote": "Vi siete cacati sotto",
+      "author": "Cosimo Nenciòni",
+      "context": "Il provocatore che non ha sentito le scosse prende in giro gli altri"
     },
     {
       "quote": "Ragazzi, so a casa con la febbre, qualcuno ha le password di porn hub da condividere?",
       "author": "Adriano Sergio Lorenzo Facchini",
-      "context": "Richiesta spontanea durante la convalescenza"
+      "context": "Plot twist della domenica: dalla febbre alla richiesta improbabile"
     },
     {
-      "quote": "Se vuoi ti posso condividere qualche ottima chiave di ricerca su xnxx. Tipo: Maid threesome",
+      "quote": "Se vuoi ti posso condividere qualche ottima chiave di ricerca su xnxx",
       "author": "Fausto Petrini",
-      "context": "Aiuto pratico ad Adriano"
+      "context": "Fausto che viene incontro alle esigenze del malato con consigli pratici"
     }
   ],
   "pagelle": [
     {
       "name": "Adriano Sergio Lorenzo Facchini",
       "voto": 9.0,
-      "giudizio": "Settimana monumentale. Vive il terremoto come un poeta ('lo specchio di uno stagno'), si ammala con 38.5 di febbre, sostituisce il camino, e chiede password di PornHub al gruppo. 'Il porno di serie c è gratis' - conoscitore.",
-      "messaggi": 42,
-      "mediaGiornaliera": 6.0,
+      "giudizio": "Il cronista del terremoto. Ha vissuto le scosse in prima persona e le ha raccontate in diretta con pathos da inviato di guerra. 'Una sensazione di merda che non immaginate' - grazie Adriano, ora immaginiamo. Tra scosse di assestamento, Elena nel panico, e la febbre della domenica, ha tenuto banco tutta la settimana. La richiesta di password Pornhub con 38 di febbre e' stata il colpo di genio finale che solo lui poteva tirare fuori.",
+      "messaggi": 32,
+      "mediaGiornaliera": 4.6,
       "highlights": [
-        "Racconto del terremoto in tempo reale",
-        "Richiesta memorabile di porno premium"
+        "Cronaca in diretta del terremoto con aggiornamenti costanti",
+        "Descrizione poetica delle finestre che tremano",
+        "Progetto stufa in terracotta presentato nel weekend",
+        "La surreale richiesta di password durante la febbre"
       ],
-      "citazioneTop": "Nessuno di voi che viaggia in top class? Naturalmente scherzo"
+      "citazioneTop": "Avevo davanti le finestre grande sembrano lo specchio di uno stagno quando ci lanci un sasso"
     },
     {
       "name": "Giacomo Dolfi",
-      "voto": 7.5,
-      "giudizio": "Terrorizzato dal terremoto: 'Da cacarsi sotto', 'Che coglioni', 'Boati continui'. Condivide il comunicato del Ggiani. Al Fantasanremo per il secondo anno. Propone l'Aperieroica. Il Fondatore ha paura ma non molla.",
-      "messaggi": 20,
-      "mediaGiornaliera": 2.9,
+      "voto": 8.5,
+      "giudizio": "Il Fondatore ha tremato ma non si e' piegato. 'Da cacarsi sotto' e 'Che coglioni' ripetuto piu' volte - il suo vocabolario sismico e' limitato ma efficace. Ha condiviso il comunicato della Protezione Civile con il commento 'I'ggiani' perche' anche durante un'emergenza ci vuole l'ironia toscana. Il sabato ha proposto l'Aperieroica, perche' dopo un terremoto cosa c'e' di meglio di una corsa in bici vintage?",
+      "messaggi": 15,
+      "mediaGiornaliera": 2.1,
       "highlights": [
-        "Report terremoto in diretta",
-        "Proposta Aperieroica"
+        "Partecipazione emotiva durante le scosse",
+        "Notizie sui conoscenti che dormono in macchina",
+        "Proposta Aperieroica per il futuro",
+        "Consenso sul Fantasanremo"
       ],
       "citazioneTop": "Da cacarsi sotto"
     },
     {
       "name": "Cosimo Nenciòni",
-      "voto": 7.0,
-      "giudizio": "Non sente il terremoto da Firenze ma solidarizza: 'Mi dispiace ragazzi. È una merda.' Commenta Sanremo ('Terribile. Cmq meglio di usa 94') e apprezza la stufa nuova di Adriano. Sempre sarcastico, sempre presente.",
-      "messaggi": 18,
-      "mediaGiornaliera": 2.6,
+      "voto": 7.5,
+      "giudizio": "Il provocatore che non ha sentito nulla. Mentre tutti tremavano, Cosimo era beato al lavoro. 'Io non ho sentito cazzo' - e poi subito 'Vi siete cacati sotto'. Classico Cosimo: prima provoca, poi mostra empatia con un sincero 'Mi dispiace ragazzi. E' una merda. Fa paura'. Il sabato ha commentato le maglie vintage di Fausto con expertise da ciclista: 'Meglio di USA 94'. Sintetico ma letale come sempre.",
+      "messaggi": 14,
+      "mediaGiornaliera": 2.0,
       "highlights": [
-        "Solidarietà da Firenze",
-        "Commenti su Sanremo"
+        "La provocazione iniziale 'Vi siete cacati sotto'",
+        "Il momento di empatia genuina",
+        "Domanda su che banda suona a Siena",
+        "Commento sulle maglie vintage"
       ],
-      "citazioneTop": "Io non ho sentito cazzo"
+      "citazioneTop": "Vi siete cacati sotto"
     },
     {
       "name": "Fausto Petrini",
-      "voto": 7.5,
-      "giudizio": "Mentre tutti tremano, lui condivide contenuti culturali. La mamma al telefono durante la scossa. Difende Sanremo ('il livello quest'anno era buono'), consiglia chiavi di ricerca porno ad Adriano. Trascinatore su ogni fronte.",
-      "messaggi": 22,
-      "mediaGiornaliera": 3.1,
+      "voto": 7.0,
+      "giudizio": "Il trascinatore era a Firenze ma con il cuore a Siena. Ha sentito la mamma che tremava al telefono e ha aspettato che la scossa arrivasse anche a lui - spoiler: non e' arrivata. Il giovedi' notte ha condiviso video su YouTube alle 3:50 dalla sala d'attesa di ostetricia (il padre operato per i nei, non lui che diventa padre). La domenica ha difeso Sanremo ('il livello era buono, molto') e si e' offerto di condividere 'ottime chiavi di ricerca' per il porno. Un cuore d'oro, Fausto.",
+      "messaggi": 12,
+      "mediaGiornaliera": 1.7,
       "highlights": [
-        "Difesa di Sanremo",
-        "Consigli porno pratici"
+        "Racconto della mamma al telefono durante la scossa",
+        "Video consigliato alle 3:50 di notte da ostetricia",
+        "Difesa di Sanremo e Fantasanremo",
+        "Consigli pratici su xnxx per l'amico malato"
       ],
-      "citazioneTop": "Maid threesome"
+      "citazioneTop": "Se vuoi ti posso condividere qualche ottima chiave di ricerca su xnxx"
     },
     {
       "name": "Alessio Macalùso",
       "voto": 6.5,
-      "giudizio": "Al lavoro durante il terremoto, non sente niente. Poi torna a casa e sente le scosse. Condivide Disney+ con Fausto per Giulio malato. 'Ormai il porno è gratis' - filosofo pragmatico. Fantasanremo fatto.",
-      "messaggi": 14,
-      "mediaGiornaliera": 2.0,
+      "giudizio": "La voce della ragione anche durante il terremoto. 'Io a lavoro sentito niente' - lo zen master non si scompone nemmeno per un sisma. Tornato a casa, ha riferito di gente che faceva benzina e dormiva in macchina con il distacco di un antropologo. La domenica ha offerto Disney+ a Fausto per Giulino malato - sempre disponibile quando serve. Ha fatto il Fantasanremo e vorrebbe rifarlo l'anno prossimo 'anche noi'. Laconico ma partecipe.",
+      "messaggi": 12,
+      "mediaGiornaliera": 1.7,
       "highlights": [
-        "Condivisione Disney+",
-        "Partecipazione Fantasanremo"
+        "Offerta Disney+ per Giulino malato",
+        "Report antropologico sulla gente in panico",
+        "Entusiasmo per Fantasanremo",
+        "'Ormai il porno e' gratis' - filosofia spicciola"
       ],
-      "citazioneTop": "Ormai il porno è gratis"
+      "citazioneTop": "Ci sono persone che mettono benzina e parecchi che dormono in macchina boh"
     },
     {
       "name": "Alessio Valentini",
-      "voto": 6.0,
-      "giudizio": "Da lontano commenta 'Ma poi epicentro a siena preciso eh'. Ricorda la stufa di Jago che lo fece dormire in canottiera. Pochi messaggi ma sempre pertinenti. Il fuso orario pesa.",
+      "voto": 5.5,
+      "giudizio": "Il giramondo era evidentemente altrove durante il terremoto. E' apparso ore dopo con un laconico 'Ao' e la considerazione che l'epicentro era 'a Siena preciso eh'. Come se lo avesse letto su Wikipedia. Ha commentato la stufa di Adriano ricordando quella di Jago che lo costrinse a dormire in canottiera. 'Bello assai' e 'Viene voglia di sedercisi' - non si capisce se parlava del divano o della stufa. Presente ma defilato.",
       "messaggi": 8,
       "mediaGiornaliera": 1.1,
       "highlights": [
-        "Ricordo della stufa di Jago",
-        "Commento epicentro"
+        "Ricordo della stufa di Jago troppo calda",
+        "Commento geografico sull'epicentro",
+        "Video di Fausto apprezzato ('Bello, cmq.')"
       ],
-      "citazioneTop": "Misi un extra legno prima di andare a letto e mi toccò dormire in canottiera fuori dalle coperte."
+      "citazioneTop": "Misi un extra legno prima di andare a letto e mi tocco' dormire in canottiera fuori dalle coperte."
     }
   ],
   "awards": {
     "mvp": "Adriano Sergio Lorenzo Facchini",
     "comico": "Fausto Petrini",
-    "cuore": "Cosimo Nenciòni",
+    "cuore": "Alessio Macalùso",
     "fantasma": null
   }
 }

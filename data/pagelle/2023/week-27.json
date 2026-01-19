@@ -4,106 +4,122 @@
   "startDate": "2023-07-03",
   "endDate": "2023-07-09",
   "stats": {
-    "totalMessages": 89,
+    "totalMessages": 86,
     "activeMembers": 6,
-    "avgPerMember": 14.8
+    "avgPerMember": 14.3
   },
-  "riassunto": "Settimana del viaggio in Australia! Giacomo parte con famiglia: 'Famiglia Dolfi in partenza verso l'Australia! Puzzo già prima di partire'. 31 ore porta a porta con scalo a Doha. Giovanni vomita. Canguri nel campo da golf! Alessio V. nelle Keys: 'Fa un caldo infernale'. 'A Miami parlano spagnolo, c'è chi l'inglese manco lo sa'. Cocco: 'Puoi andare a nuoto a Cuba'. Fausto analizza il Palio con audio spettacolari. Tutti chiedono foto di dingo, echidna, emù.",
+  "riassunto": "Una settimana di viaggi intercontinentali e invidie reciproche: Giacomo annuncia la partenza della famiglia Dolfi verso l'Australia, scatenando un florilegio di battute sugli animali locali - dall'odore di canguro e dingo di Adriano alle richieste di foto di echidna e ornitorinco. Alessio Valentini, intrappolato nelle Florida Keys per motivi di visto, si lamenta del caldo infernale e scopre con stupore che a Miami nessuno parla inglese, solo spagnolo. Il viaggio australiano si rivela epico: 31 ore porta a porta, con Giovanni che vomita e tutti che si rincoglioniscono di giochini. Giacomo arriva in stato confusionale ma entusiasta, visitando il punto dove oceano indiano e oceano del sud si incontrano. Alessio Macaluso nel frattempo si gode l'Isola d'Elba, mentre Adriano dispensa perle di saggezza come 'Come sempre hai perso una ulteriore occasione per stare zitto'. Una settimana dove ognuno e' lontano da Siena, ma tutti vicini nel prendersi in giro.",
   "bestQuotes": [
     {
-      "quote": "Famiglia Dolfi in partenza verso l'Australia! Puzzo già prima di partire",
+      "quote": "Puzzo gia' prima di partire",
       "author": "Giacomo Dolfi",
-      "context": "Partenza per l'Australia"
+      "context": "L'onesta' brutale di Giacomo in attesa del volo per l'Australia sotto il sole cocente di Fiumicino"
     },
     {
-      "quote": "A Miami parlano spagnolo. C'è chi l'inglese manco lo sa",
-      "author": "Alessio Valentini",
-      "context": "Scoperta a Miami"
-    },
-    {
-      "quote": "Come sempre hai perso una ulteriore occasione per stare zitto",
+      "quote": "Come sempre hai perso una ulteriore occasione per stare zitto.",
       "author": "Adriano Sergio Lorenzo Facchini",
-      "context": "A Fausto sul lider"
+      "context": "La frecciatina perfetta ad Alessio Valentini sulla questione del 'lider Pasquale'"
+    },
+    {
+      "quote": "In Europa non mi fanno tornare, una vacanzina la devo pur fare",
+      "author": "Alessio Valentini",
+      "context": "Alessio V. giustifica la sua presenza nelle Keys con la filosofia del nomade digitale"
+    },
+    {
+      "quote": "Si sono trasformati in bestie di Satana?",
+      "author": "Cosimo Nencioni",
+      "context": "La domanda pertinente di Cosimo sui figli di Giacomo dopo 31 ore di viaggio"
+    },
+    {
+      "quote": "Te stai cagando lo so",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Adriano commenta una foto di Alessio V. con la consueta delicatezza"
     }
   ],
   "pagelle": [
     {
       "name": "Giacomo Dolfi",
       "voto": 9.0,
-      "giudizio": "Protagonista assoluto! Partenza per Australia: '31 ore porta a porta'. 'Giovanni ha vomitato, e via'. Canguri nel campo da golf. 'Ieri siamo stati al punto dove si incontrano oceano indiano e oceano del sud'. 'Stanotte mi sono svegliato 5/6 volte'. Viaggio della vita.",
-      "messaggi": 24,
-      "mediaGiornaliera": 3.4,
+      "giudizio": "Il Fondatore conquista la settimana con il viaggio della vita: 31 ore di aereo verso l'Australia, ritardi epici, Giovanni che vomita, jet lag mostruoso. Ma niente lo ferma: visita canguri nel campo da golf, raggiunge il punto dove gli oceani si incontrano, e trova il tempo di chiedere agli altri 'dove siete di bello?' con l'innocenza di chi ha appena fatto il giro del mondo. La frase 'Puzzo gia' prima di partire' e' poesia pura.",
+      "messaggi": 17,
+      "mediaGiornaliera": 2.4,
       "highlights": [
-        "Viaggio Australia",
-        "Canguri nel golf"
+        "Viaggio epico di 31 ore verso l'Australia",
+        "Canguri nel campo da golf",
+        "Punto di incontro tra oceano indiano e oceano del sud"
       ],
-      "citazioneTop": "Da porta a porta 31 ore"
+      "citazioneTop": "Puzzo gia' prima di partire"
     },
     {
       "name": "Alessio Valentini",
       "voto": 8.0,
-      "giudizio": "Nelle Florida Keys: 'Fa un caldo infernale ma poteva andare peggio'. 'In Europa non mi fanno tornare, una vacanzina la devo pur fare'. 'A Miami parlano spagnolo'. 'Il fuso deve essere mostruoso'. Esploratore forzato.",
-      "messaggi": 20,
-      "mediaGiornaliera": 2.9,
+      "giudizio": "Il Giramondo e' bloccato nelle Florida Keys per questioni di visto, ma riesce a trasformare l'esilio forzato in contenuto top per il gruppo. Le sue riflessioni sul Palio e i conflitti di interesse aprono la settimana, poi la scoperta antropologica che a Miami nessuno parla inglese lo lascia basito. Condivide location, commenta tutto, fa da spalla perfetta ai viaggiatori. Il suo 'In Europa non mi fanno tornare, una vacanzina la devo pur fare' e' la filosofia del nomade condensata.",
+      "messaggi": 24,
+      "mediaGiornaliera": 3.4,
       "highlights": [
-        "Florida Keys",
-        "Scoperta Miami"
+        "Riflessioni sul Palio e conflitti di interesse",
+        "Scoperta sociolinguistica di Miami",
+        "Location dalle Keys"
       ],
-      "citazioneTop": "A Miami parlano spagnolo. C'è chi l'inglese manco lo sa"
-    },
-    {
-      "name": "Cosimo Nenciòni",
-      "voto": 7.5,
-      "giudizio": "'Bella Giec, manna foto dingo e ornitorinco'. 'Puoi andare a nuoto a Cuba, poi però non ti fanno tornare'. 'Parete gemelli' su foto di famiglia. 'Si ma manna'. Richieste continue di foto australiane.",
-      "messaggi": 14,
-      "mediaGiornaliera": 2.0,
-      "highlights": [
-        "Battuta Cuba",
-        "Richieste foto animali"
-      ],
-      "citazioneTop": "Puoi andare a nuoto a Cuba. Poi però non ti fanno tornare"
+      "citazioneTop": "A Miami parlano spagnolo. C'e' chi l'inglese manco lo sa."
     },
     {
       "name": "Adriano Sergio Lorenzo Facchini",
       "voto": 7.5,
-      "giudizio": "'Odore livello canguro!' 'Oppure l'odore di un canguro ingroppato da un dingo'. 'Come sempre hai perso un'ulteriore occasione per stare zitto' a Fausto. 'Che spettacolo!!!!' sull'Australia. 'Te stai cagando lo so'. Ironico e coinvolto.",
-      "messaggi": 16,
-      "mediaGiornaliera": 2.3,
+      "giudizio": "Il Re della Chat domina con battute fulminanti sulla fauna australiana: dall'odore livello canguro all'eucalipton ice tea, passando per l'analisi olfattiva del dingo ingroppato. Ma il colpo da maestro e' la frecciatina 'Come sempre hai perso una ulteriore occasione per stare zitto' che congela Alessio V. a distanza di oceani. Chiude sul raccordo Impruneta-Scandicci mentre gli altri sono dall'altra parte del mondo: il contrasto e' impietoso ma lui lo abbraccia con ironia.",
+      "messaggi": 13,
+      "mediaGiornaliera": 1.9,
       "highlights": [
-        "Battute animali",
-        "Stuzzicate a Fausto"
+        "Battute memorabili sulla fauna australiana",
+        "Frecciatina epica sul 'stare zitto'",
+        "Contrasto ironico sul raccordo fiorentino"
       ],
-      "citazioneTop": "Come sempre hai perso una ulteriore occasione per stare zitto"
+      "citazioneTop": "Oppure l'odore di un canguro ingroppato fa un dingo o viceversa o la somma totale."
+    },
+    {
+      "name": "Cosimo Nencioni",
+      "voto": 7.0,
+      "giudizio": "Il Provocatore Raffinato interviene poco ma con precisione chirurgica. La richiesta 'Manna foto dingo e ornitorinco' stabilisce le priorita' zoologiche del gruppo. La domanda sui figli di Giacomo - 'Si sono trasformati in bestie di Satana?' - e' geniale nella sua pertinenza. Il suo 'Io perdo' davanti alle foto altrui e il 'Nomen omen' sulla location dell'Elba dimostrano che con due parole riesce a dire piu' degli altri con venti.",
+      "messaggi": 12,
+      "mediaGiornaliera": 1.7,
+      "highlights": [
+        "Domanda iconica sui figli-bestie di Satana",
+        "Priorita' zoologiche: dingo e ornitorinco",
+        "Battuta su Cuba a nuoto"
+      ],
+      "citazioneTop": "Si sono trasformati in bestie di Satana?"
+    },
+    {
+      "name": "Alessio Macaluso",
+      "voto": 6.5,
+      "giudizio": "La Voce della Ragione opera in modalita' zen dall'Isola d'Elba, condividendo la sua location con la calma di chi non deve affrontare 31 ore di volo. I suoi interventi sono misurati ma sempre pertinenti: 'Che figata' all'annuncio australiano, la battuta sulla carta verde per Alessio V., il riferimento al 'lider Pasquale' che scatena la frecciatina di Adriano. Fa da moderatore inconsapevole mentre gli altri si perdono in deliri zoologici.",
+      "messaggi": 11,
+      "mediaGiornaliera": 1.6,
+      "highlights": [
+        "Vacanza zen all'Elba",
+        "Riferimento al lider Pasquale",
+        "Battuta sulla carta verde"
+      ],
+      "citazioneTop": "Ma magari ti fanno la carta verde"
     },
     {
       "name": "Fausto Petrini",
-      "voto": 7.0,
-      "giudizio": "'Buon viaggio alla famiglia Dolfi!!' 'Anche emù'. 'Viaggio della vita'. Articolo sull'alcol. 'Sono cose che potrebbe pretendere solo il legittimo lider'. Audio spettacolari sul Palio. Presente e informativo.",
-      "messaggi": 10,
-      "mediaGiornaliera": 1.4,
+      "voto": 6.0,
+      "giudizio": "Il Trascinatore questa settimana si limita a fare da tifoso del gruppo viaggiante. Il suo 'Bu9n viaggio' (con typo affettuoso) alla famiglia Dolfi, la richiesta di foto dell'emu, l'articolo sull'alcol condiviso a meta' pomeriggio: tutto parla di un Fausto in modalita' supporto. Il 'Viaggio della vita' detto a Giacomo e' sincero e sentito. Meno protagonista del solito ma sempre presente con il cuore.",
+      "messaggi": 9,
+      "mediaGiornaliera": 1.3,
       "highlights": [
-        "Auguri viaggio",
-        "Analisi Palio"
+        "Auguri affettuosi per il viaggio australiano",
+        "Articolo del Post sull'alcol",
+        "Richiesta foto emu"
       ],
       "citazioneTop": "Viaggio della vita"
-    },
-    {
-      "name": "Alessio Macalùso",
-      "voto": 7.0,
-      "giudizio": "'Che figata' sulla partenza. 'Ma magari ti fanno la carta verde' a Alessio V. 'Il lider Pasquale, appena potrà ci manderà dei videi'. Location dall'Elba. Presente e ottimista.",
-      "messaggi": 10,
-      "mediaGiornaliera": 1.4,
-      "highlights": [
-        "Supporto viaggiatori",
-        "Vacanza Elba"
-      ],
-      "citazioneTop": "Ma magari ti fanno la carta verde"
     }
   ],
   "awards": {
-    "mvp": "Giacomo Dolfi",
-    "comico": "Cosimo Nenciòni",
-    "cuore": "Fausto Petrini",
-    "fantasma": null
+    "mvp": "Giacomo Dolfi - ha portato il gruppo in Australia senza muoversi dal divano",
+    "comico": "Adriano Sergio Lorenzo Facchini - l'analisi olfattiva del dingo ingroppato e la frecciatina letale",
+    "cuore": "Fausto Petrini - sempre pronto a fare il tifo per i viaggi degli altri",
+    "fantasma": "Federico Ceccuzzi - non ancora nel gruppo nel 2023"
   }
 }

@@ -4,105 +4,121 @@
   "startDate": "2023-01-30",
   "endDate": "2023-02-05",
   "stats": {
-    "totalMessages": 172,
+    "totalMessages": 98,
     "activeMembers": 6,
-    "avgPerMember": 28.7
+    "avgPerMember": 16.3
   },
-  "riassunto": "Settimana esplosiva! Adriano non dorme e mangia nduja alle 3 di notte invece della camomilla. Cosimo cena al Castello di Nipozzano con 6 calici diversi e 'caca vinsanto'. BOMBA: Elisa viene selezionata come professoressa alla University of North Carolina - Chapel Hill. Serata poker epica a casa di Alessio M.: cena deliziosa ma poker disastroso. Adriano accusato di aver vinto 'prendendosi i piatti dalle mani degli altri'.",
+  "riassunto": "Settimana memorabile che inizia con Adriano in preda all'insonnia notturna curata a colpi di nduja, prosegue con Cosimo che confessa di aver 'cacato vinsanto' dopo una degustazione epica al Castello di Nipozzano, e raggiunge il climax con la grande notizia: Elisa, compagna di Alessio V., viene selezionata come professore alla University of North Carolina Chapel Hill, una delle universita' piu' prestigiose al mondo. Il gruppo si stringe attorno ad Alessio con affetto sincero, mentre si organizza una serata da Mac con poker annesso. La logistica scatena le solite tensioni: chi porta cosa, Adriano che mette il tennis alle 19 irritando Cosimo che viene da Firenze, e la leggendaria 'cassa di pera' che torna come promessa mai mantenuta. Venerdi' sera da Mac e' un successo emotivo ma un disastro pokeristico, con qualcuno che ha 'rubato i piatti delle mani vinte dagli altri' e voleva giocare con due mazzi. La domenica si chiude con dibattito sui parchi nazionali USA, perche' in questo gruppo si passa dalla nduja allo Utah senza soluzione di continuita'.",
   "bestQuotes": [
-    {
-      "quote": "Stanotte non riuscivo a dormire ed erano le tre. Mi sono alzato e ho iniziato a mangiare pane formaggi, e ndujia. Poi sono riuscito a prendere sonno.",
-      "author": "Adriano Sergio Lorenzo Facchini",
-      "context": "Il metodo anti-insonnia di Adriano"
-    },
     {
       "quote": "Ieri ero a cena. A una certa avevo 6 calici con 6 vini diversi davanti. Stanotte ho cacato vinsanto",
       "author": "Cosimo Nenciòni",
-      "context": "Report della cena al Castello di Nipozzano"
+      "context": "Il provocatore raffinato apre la settimana con un'immagine che restera' negli annali"
     },
     {
-      "quote": "Non c'ha messo le mani dall'inizio. Si è preso i piatti delle mani vinte dagli altri.",
+      "quote": "Elisa e' stata selezionata come professore prima unanime dalla quinta universita' degli stati uniti",
+      "author": "Alessio Valentini",
+      "context": "L'annuncio bomba della settimana, condiviso con orgoglio trattenuto"
+    },
+    {
+      "quote": "Io non porto un cazzo. Non ho tempo. Motivo per cui preferivo uscire.",
       "author": "Cosimo Nenciòni",
-      "context": "Accusa ad Adriano per il poker"
+      "context": "La sintesi perfetta del Cocco: onesta' brutale condita con un pizzico di polemica"
+    },
+    {
+      "quote": "Propongo una bella cazzottata appena s'arriva",
+      "author": "Giacomo Dolfi",
+      "context": "Il fondatore interviene con la saggezza di chi ha visto troppe discussioni logistiche"
+    },
+    {
+      "quote": "Tanto sara' l'ultima cena godiamocela appieno",
+      "author": "Alessio Macalùso",
+      "context": "Lo zen master scherza sulla sua ipotetica partenza per la Svizzera, scatenando il panico"
     }
   ],
   "pagelle": [
     {
       "name": "Cosimo Nenciòni",
       "voto": 9.0,
-      "giudizio": "Settimana leggendaria. Dalla cena con 6 calici al 'cacato vinsanto', dalle accuse al poker alla solidarietà col Mac. 'Mac io sono con te! Sono tutti delle merde' è fratellanza vera. MVP indiscusso per qualità umoristica.",
-      "messaggi": 32,
-      "mediaGiornaliera": 4.6,
+      "giudizio": "Settimana da incorniciare per il Provocatore Raffinato. Apre con la confessione del vinsanto cacato, prosegue con richieste di democrazia nel processo decisionale, si lamenta giustamente di Adriano che mette il tennis mentre lui viene da Firenze, e chiude ringraziando Mac per la serata con un tocco di poesia. Ha fatto ridere, ha fatto arrabbiare, ha fatto riflettere. Tutto quello che ci si aspetta da lui, ma questa settimana al massimo della forma.",
+      "messaggi": 23,
+      "mediaGiornaliera": 3.3,
       "highlights": [
-        "Racconto epico della cena a Nipozzano",
-        "Accuse feroci ad Adriano per il poker"
+        "La confessione del vinsanto che ha aperto la settimana col botto",
+        "Ha fatto i complimenti a Elisa definendola 'cervello di nulla' (in senso positivo)",
+        "Post-serata: ha incolpato qualcuno per il disastro al poker con precisione chirurgica"
       ],
       "citazioneTop": "Stanotte ho cacato vinsanto"
     },
     {
       "name": "Alessio Valentini",
       "voto": 8.5,
-      "giudizio": "Notizia bomba: Elisa selezionata alla University of North Carolina. 'Io sono contento a belva' ma sa che ci saranno 'TANTI cambiamenti'. Piano preciso: lavoro remoto e 2 mesi in Europa. Partecipa anche al poker via videochiamata. Presente sempre.",
-      "messaggi": 28,
-      "mediaGiornaliera": 4.0,
+      "giudizio": "Il giramondo questa settimana ha portato la notizia piu' importante: Elisa professore alla University of North Carolina. Ha condiviso l'emozione con il gruppo, ha spiegato i piani futuri con lucidita', e ha pure partecipato via telefono alla serata del venerdi'. E quando Fausto gli ricorda le 9 Dragoon, risponde con un laconico 'ao.' che vale piu' di mille parole. Settimana di cuore e di sostanza.",
+      "messaggi": 18,
+      "mediaGiornaliera": 2.6,
       "highlights": [
-        "Annuncio della selezione di Elisa",
-        "Partecipazione al poker via videochiamata"
+        "Ha annunciato la grande notizia accademica di Elisa",
+        "Ha partecipato alla serata via telefono dagli USA",
+        "Ha educato il gruppo sui parchi nazionali americani (Utah > Hawaii)"
       ],
-      "citazioneTop": "Ao, è allucinante."
-    },
-    {
-      "name": "Adriano Sergio Lorenzo Facchini",
-      "voto": 8.0,
-      "giudizio": "La nduja alle 3 di notte invece della camomilla è poesia. Al poker vince tutto e viene accusato di ogni nefandezza. 'Pensando di andare al ristorante gioco a tennis dalle 19' - le priorità di un uomo.",
-      "messaggi": 30,
-      "mediaGiornaliera": 4.3,
-      "highlights": [
-        "Metodo anti-insonnia rivoluzionario",
-        "Vittoria controversa a poker"
-      ],
-      "citazioneTop": "Mi sono alzato e ho iniziato a mangiare pane formaggi, e ndujia. Poi sono riuscito a prendere sonno."
+      "citazioneTop": "Ao, e' allucinante."
     },
     {
       "name": "Alessio Macalùso",
-      "voto": 8.0,
-      "giudizio": "Host perfetto della serata. Spaghetto alle vongole leggendario. 'Serata deliziosa ma il poker un disastro'. La frase 'Tanto sarà l'ultima cena godiamocela appieno' scatena il panico (spoiler: niente Svizzera). Generoso e ironico.",
-      "messaggi": 24,
-      "mediaGiornaliera": 3.4,
+      "voto": 8.5,
+      "giudizio": "Lo zen master si trasforma in host generoso: offre casa, antipasto, primo e vino. Lo spaghetto alle vongole diventa leggenda. Ha gestito le tensioni logistiche con calma olimpica, ha scherzato sulla Svizzera facendo toccare i coglioni a Cosimo, e il giorno dopo ammette: 'Serata deliziosa ma il poker un disastro'. Presenza fisica e culinaria che ha tenuto insieme il gruppo. Chapeau.",
+      "messaggi": 16,
+      "mediaGiornaliera": 2.3,
       "highlights": [
-        "Cena memorabile a casa sua",
-        "Panico con 'l'ultima cena'"
+        "Ha ospitato la serata offrendo antipasto, primo e vino",
+        "Ha trollato tutti con 'l'ultima cena' e la storia della Svizzera",
+        "Post-poker analysis: 'L'avrebbe fatto anche se avessimo avuto carte e fiches'"
       ],
-      "citazioneTop": "Tanto sarà l'ultima cena godiamocela appieno"
+      "citazioneTop": "Facciamo da me e festa"
     },
     {
-      "name": "Fausto Petrini",
-      "voto": 7.0,
-      "giudizio": "Porta il dolce casareccio e André the Giant nella discussione wrestling. 'Le tue 9 dragoon sono acqua' ad Alessio V. dopo le 119 birre di André. Pragmatico nell'organizzazione, tossico dichiarato. 'In qualità di secondo più tossico dopo Adriano...'",
-      "messaggi": 22,
-      "mediaGiornaliera": 3.1,
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 6.5,
+      "giudizio": "Il Re della Chat questa settimana ha regnato meno del solito. Ha aperto con la saga dell'insonnia curata a nduja (memorabile), ma poi si e' perso in discussioni sul tennis delle 19, irritando Cosimo che veniva da Firenze. Al poker pare abbia fatto il diavolo: rubato piatti, bluffato, voluto giocare con due mazzi. 'Daro' il tutto per tutto nel resto del tempo' aveva promesso. E infatti...",
+      "messaggi": 17,
+      "mediaGiornaliera": 2.4,
       "highlights": [
-        "Contributo al dolce",
-        "Cultura wrestling"
+        "La saga notturna della nduja che cura l'insonnia",
+        "Ha irritato Cosimo mettendo il tennis alle 19",
+        "Al poker ha 'rubato i piatti delle mani vinte dagli altri'"
       ],
-      "citazioneTop": "Le tue 9 dragoon sono acqua"
+      "citazioneTop": "Stanotte non riuscivo a dormire... Mi sono alzato e ho iniziato a mangiare pane formaggi, e nduja."
     },
     {
       "name": "Giacomo Dolfi",
       "voto": 7.0,
-      "giudizio": "Porta Hulk Hogan nella chat ('Povero Hulk') e propone 'una bella cazzottata appena s'arriva'. Torta salata in arrivo. Al poker ride delle accuse ad Adriano: 'Sostenendo anche di averci rimesso!'",
-      "messaggi": 18,
-      "mediaGiornaliera": 2.6,
+      "giudizio": "Il fondatore e' intervenuto con tempismo perfetto: ha lanciato l'idea del poker, ha commentato la notte da leoni di Cosimo, ha condiviso la tristezza per Hulk Hogan, e quando le tensioni logistiche sono salite ha proposto 'una bella cazzottata appena s'arriva'. Saggezza e ironia in dosi calibrate, come si addice a un patriarca benevolo.",
+      "messaggi": 12,
+      "mediaGiornaliera": 1.7,
       "highlights": [
-        "Contributo wrestling con Hulk Hogan",
-        "Torta salata"
+        "Ha lanciato l'idea del pokerazzo del venerdi'",
+        "Ha proposto la cazzottata per risolvere le tensioni",
+        "Post-serata: 'Sostenendo anche di averci rimesso!' sul poker di Adriano"
       ],
       "citazioneTop": "Propongo una bella cazzottata appena s'arriva"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 6.5,
+      "giudizio": "Il trascinatore questa settimana ha fatto il suo dovere organizzativo con meno entusiasmo del solito. Ha promesso un dolce casareccio (la cassa di pera aleggia), ha linkato articoli su Andre the Giant, ha ricordato ad Adriano di portare qualcosa di piu' sostanzioso di una bottiglia. 'Te ricordati sempre: quando hai bisogno, io ci sono' - frase bella, ma il dolce?",
+      "messaggi": 12,
+      "mediaGiornaliera": 1.7,
+      "highlights": [
+        "Ha promesso di 'esprimersi caserecciamente' sul dolce",
+        "Ha educato il gruppo su Andre the Giant e le sue 119 birre",
+        "Ha cercato di responsabilizzare Adriano senza successo"
+      ],
+      "citazioneTop": "Le tue 9 dragoon sono acqua"
     }
   ],
   "awards": {
     "mvp": "Cosimo Nenciòni",
-    "comico": "Adriano Sergio Lorenzo Facchini",
+    "comico": "Cosimo Nenciòni",
     "cuore": "Alessio Macalùso",
     "fantasma": null
   }

@@ -4,106 +4,122 @@
   "startDate": "2023-03-20",
   "endDate": "2023-03-26",
   "stats": {
-    "totalMessages": 62,
+    "totalMessages": 55,
     "activeMembers": 6,
-    "avgPerMember": 10.3
+    "avgPerMember": 9.2
   },
-  "riassunto": "Settimana della cena spagnola! Cambio di programma: dalla Speranza allo Spagnolo di Poggibonsi ('I spagnoli si sa... so boncitti'). Luna di Cosimo dorme con le ciabatte giganti di Pietrodolfi. Cena fissata alle 20 da Giacomo. 'La fanno la Fiorentina? Col riso, nel senso che ti ridono in faccia'. Fede non viene e Giacomo 'si incazza'. Discussione sul bigne/occhio nuovo nella foto.",
+  "riassunto": "Una settimana dedicata all'organizzazione della cena del venerdi, con il classico ping-pong tra La Speranza e il ristorante spagnolo a Poggibonsi. Fausto e Adriano sollevano preoccupazioni logistiche (orari, distanze, 'ci buttano fuori alle 22'), mentre Giacomo con spirito da leader taglia corto e prenota lo spagnolo. Cosimo porta un momento di tenerezza condividendo foto della figlia che dorme con le ciabatte giganti dei Dolfi - 'Inseparabili' dice lui con orgoglio paterno. La cena avviene venerdi 24, con Alessio Valentini che da lontano chiede foto e riceve in cambio battute surreali su bigne e occhi nuovi. La settimana si chiude con Adriano che condivide notizie di cronaca nera e cerca cerchioni di bici per un misterioso attrezzo.",
   "bestQuotes": [
     {
-      "quote": "La fanno ma col riso. Nel senso che ti ridono in faccia",
+      "quote": "La fanno ma col riso... Nel senso che ti ridono in faccia",
       "author": "Adriano Sergio Lorenzo Facchini",
-      "context": "Sulla Fiorentina al ristorante spagnolo"
-    },
-    {
-      "quote": "I spagnoli si sa ... So boncitti",
-      "author": "Cosimo Nenciòni",
-      "context": "Sui ritmi spagnoli per cenare tardi"
+      "context": "Battuta sulla fiorentina al ristorante spagnolo - gioco di parole tra 'riso' cereale e 'ridere'"
     },
     {
       "quote": "La tentacolare Poggibonsi",
       "author": "Cosimo Nenciòni",
-      "context": "Ironia sui locali post-cena"
+      "context": "Ironia sottile sulla proposta di Giacomo di andare nei locali di Poggibonsi dopo cena"
+    },
+    {
+      "quote": "I spagnoli si sa... So boncitti",
+      "author": "Cosimo Nenciòni",
+      "context": "Filosofia culinaria sul perche scegliere il ristorante spagnolo per arrivare tardi"
+    },
+    {
+      "quote": "La domanda e', ma quello che ha in mano e' un bigne oppure il suo occhio nuovo?",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Commento surreale a una foto della cena che scatena risate"
+    },
+    {
+      "quote": "Dorme con le ciabatte di Pietrodolfi",
+      "author": "Cosimo Nenciòni",
+      "context": "Momento tenero: la figlia di Cosimo e le sue ciabatte preferite oversize"
     }
   ],
   "pagelle": [
     {
       "name": "Adriano Sergio Lorenzo Facchini",
-      "voto": 7.5,
-      "giudizio": "'Considerate che alle 22 ci buttano fuori'. La battuta sulla Fiorentina col riso. 'Si potrebbe andare alla Speranza e poi fermarsi a Bottega Tolta'. Domanda esistenziale sul bigne/occhio nella foto. Cerca cerchioni di bici per costruire attrezzo.",
-      "messaggi": 18,
-      "mediaGiornaliera": 2.6,
+      "voto": 8.0,
+      "giudizio": "Il fiume in piena della settimana ha colpito ancora. La sua battuta sulla fiorentina 'col riso' e' il momento comico della settimana, perfettamente costruita in due tempi. Non pago, rincara con l'occhio-bigne e chiude cercando cerchioni di bici per progetti misteriosi. Adriano e' sempre sul pezzo, a qualsiasi ora del giorno e della notte.",
+      "messaggi": 17,
+      "mediaGiornaliera": 2.4,
       "highlights": [
-        "Battuta Fiorentina col riso",
-        "Progetto cerchioni"
+        "Battuta 'fiorentina col riso' - capolavoro comico in due atti",
+        "Supporto logistico sulla scelta del ristorante",
+        "Condivisione di notizie bizzarre di cronaca"
       ],
-      "citazioneTop": "La fanno ma col riso. Nel senso che ti ridono in faccia"
+      "citazioneTop": "La fanno ma col riso... Nel senso che ti ridono in faccia"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 7.5,
+      "giudizio": "Il Fondatore prende le redini dell'organizzazione con decisione quasi dittatoriale: 'Dai spagnolo e via'. Gestisce la prenotazione, comunica l'assenza di Fede con un 'No invece mi incazz9' che tradisce emozioni represse. Si commuove per le ciabatte dei figli indossate dalla figlia di Cosimo. Un padre-leader che tiene insieme il gruppo.",
+      "messaggi": 11,
+      "mediaGiornaliera": 1.6,
+      "highlights": [
+        "Prenotazione decisa del ristorante",
+        "Entusiasmo per le ciabatte dei figli ('Fantastica! E che ciabatte!')",
+        "Gestione della crisi-Fede con emotivita' controllata"
+      ],
+      "citazioneTop": "No invece mi incazz9"
     },
     {
       "name": "Cosimo Nenciòni",
-      "voto": 7.5,
-      "giudizio": "'La tentacolare Poggibonsi'. Luna con le ciabatte di Pietrodolfi: 'La sto fiaccando'. 'I spagnoli so boncitti'. Video di Luna che fa ridere tutti. Qualità altissima nonostante pochi messaggi.",
-      "messaggi": 12,
-      "mediaGiornaliera": 1.7,
+      "voto": 8.5,
+      "giudizio": "MVP della settimana. Pochi messaggi, ma tutti centrati: la 'tentacolare Poggibonsi' e' poesia pura, i 'boncitti' spagnoli entrano nel lessico del gruppo. Ma e' il momento tenero della figlia con le ciabatte giganti a rubare la scena. Cosimo dimostra che si puo' essere sarcastici e dolcissimi nella stessa settimana. Papa' dell'anno.",
+      "messaggi": 9,
+      "mediaGiornaliera": 1.3,
       "highlights": [
-        "Video di Luna con le ciabatte",
-        "Ironia su Poggibonsi"
+        "Foto della figlia che dorme con le ciabatte - momento di pura tenerezza",
+        "'La tentacolare Poggibonsi' - battuta perfetta",
+        "Filosofia sui ristoratori iberici boncitti"
       ],
       "citazioneTop": "La tentacolare Poggibonsi"
     },
     {
-      "name": "Giacomo Dolfi",
-      "voto": 7.0,
-      "giudizio": "Prenota allo spagnolo alle 20. 'Fede non viene' e 'No invece mi incazz9'. 'A Poggibonsi ci sono locali per bere dopo cena'. Giovanni in piscina a Rapolano. Il Fondatore organizza nonostante i limiti.",
-      "messaggi": 12,
-      "mediaGiornaliera": 1.7,
-      "highlights": [
-        "Prenotazione ristorante",
-        "Incazzatura per Federico"
-      ],
-      "citazioneTop": "Fantastica! E che ciabatte!"
-    },
-    {
       "name": "Fausto Petrini",
       "voto": 6.5,
-      "giudizio": "Propone cambio posto: 'Se si deve anche scappare presto non è meglio cambiare?'. 'A me va bene qualsiasi, meglio vicino'. 'Siamo dentro' dal ristorante. Prossima cena il 19 aprile proposta per gli auguri ad Alessio V.",
-      "messaggi": 10,
-      "mediaGiornaliera": 1.4,
+      "giudizio": "L'organizzatore frustrato solleva obiezioni logistiche sacrosante (orari, distanze) ma poi si arrende con un 'A me va bene, qualsiasi in realta'. Presente alla cena, propone gia' la prossima per il 19 aprile. Il suo 'Siamo dentro' dal ristorante e' l'apice dell'adrenalina settimanale. Fausto c'e' sempre, anche se nessuno lo ascolta.",
+      "messaggi": 7,
+      "mediaGiornaliera": 1.0,
       "highlights": [
-        "Proposta cambio logistico",
-        "Pianificazione prossima cena"
+        "Obiezioni logistiche ragionevoli sulla scelta del locale",
+        "Proposta proattiva della prossima cena (19 aprile)",
+        "Live reporting dalla cena: 'Siamo dentro'"
       ],
       "citazioneTop": "Prossima cena, 19 aprile, per farti gli auguri ovunque tu sia"
     },
     {
       "name": "Alessio Macalùso",
       "voto": 6.5,
-      "giudizio": "'È fuori mano per lui?' su Fede. 'Siamo sempre in tempo per andare alla Speranza eh'. 'Speriamo facciano la Fiorentina'. 'Parcheggiato ora' - il report live. Presente e pragmatico.",
-      "messaggi": 8,
-      "mediaGiornaliera": 1.1,
+      "giudizio": "La Voce della Ragione interviene poco ma sempre con saggezza pratica. Il suo 'Siamo sempre in tempo per andare alla speranza eh' e' un capolavoro di diplomazia passivo-aggressiva. Coordina l'arrivo alla cena con un 'Parcheggiato ora' da vero zen master. Spera nella fiorentina al ristorante spagnolo - ingenuo ma adorabile.",
+      "messaggi": 6,
+      "mediaGiornaliera": 0.9,
       "highlights": [
-        "Proposta Speranza alternativa",
-        "Speranza sulla Fiorentina"
+        "Tentativo diplomatico di riproporre La Speranza",
+        "Coordinamento pratico per la cena",
+        "Speranza (vana) nella fiorentina allo spagnolo"
       ],
-      "citazioneTop": "Siamo sempre in tempo per andare alla Speranza eh"
+      "citazioneTop": "Siamo sempre in tempo per andare alla speranza eh"
     },
     {
       "name": "Alessio Valentini",
       "voto": 6.0,
-      "giudizio": "'Ma ndo è il ristorante spagnolo?' - la domanda del lontano. 'Fate foto mostri' per la cena. 'Eeeexcellent' per la prossima cena. 'È na cappella' sul bigne. Partecipa da remoto con affetto.",
-      "messaggi": 8,
-      "mediaGiornaliera": 1.1,
+      "giudizio": "Il Giramondo partecipa da remoto con la curiosita' di chi non sa dove sia Poggibonsi. Chiede 'Fate foto mostri' e poi interpreta il misterioso oggetto nella foto come 'na cappella'. Presente ma distante, letteralmente. Il suo 'Eeeexcellent' alla proposta della cena del 19 aprile suggerisce che forse quella volta ci sara'. Forse.",
+      "messaggi": 5,
+      "mediaGiornaliera": 0.7,
       "highlights": [
-        "Richiesta foto dalla cena",
-        "Partecipazione emotiva da lontano"
+        "Richiesta di foto dalla cena (partecipazione a distanza)",
+        "Interpretazione della foto misteriosa",
+        "Entusiasmo per la prossima cena"
       ],
       "citazioneTop": "Fate foto mostri"
     }
   ],
   "awards": {
-    "mvp": "Adriano Sergio Lorenzo Facchini",
-    "comico": "Cosimo Nenciòni",
-    "cuore": "Fausto Petrini",
-    "fantasma": null
+    "mvp": "Cosimo Nenciòni - Per aver unito ironia tagliente e tenerezza paterna",
+    "comico": "Adriano Sergio Lorenzo Facchini - 'La fanno col riso... ti ridono in faccia'",
+    "cuore": "Cosimo Nenciòni - Per le ciabatte della figlia e l'orgoglio paterno",
+    "fantasma": "Federico Ceccuzzi - Non presente questa settimana"
   }
 }

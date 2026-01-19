@@ -8,102 +8,116 @@
     "activeMembers": 6,
     "avgPerMember": 11.5
   },
-  "riassunto": "Settimana delle bestemmie (legali o no?) e della pipì seduti. Fausto condivide articoli del Post su entrambi. Prima carbonara per Luna, celebrata da Cosimo con scaramanzia ('Stanotte muore e la su ma mi incula'). Adriano alla partita di pallavolo si lamenta dei tifosi. Primarie PD: Giacomo vota, Cosimo lo chiama democristiano. Discussione politica accesa.",
+  "riassunto": "Settimana dominata da tre grandi temi: articoli del Post improbabili (bestemmie e pipì da seduti), fitness tracking con Adriano che difende le sue prestazioni tennistiche sotto attacco, e infine le primarie PD della domenica con Giacomo che vota 'la ragazza giovane' mentre gli altri lo prendono in giro da democristiano. Nel mezzo, Cosimo riesuma un vecchio conoscente gay dichiarato famoso per il suo riso alle noccioline senza sale, mentre Adriano assiste a una partita di pallavolo e sviluppa un odio profondo per i tifosi coi tamburi. Fausto tenta l'ennesima organizzazione di uscita che naufraga miseramente. La politica divide: chi è il vero mongolo del gruppo?",
   "bestQuotes": [
     {
       "quote": "È il tennis che è uno sport da finocchi che se uno starnutisce sembra che gli hanno ammazzato la mamma",
       "author": "Cosimo Nenciòni",
-      "context": "Difesa della tifoseria rumorosa"
+      "context": "Risposta epica alla lamentela di Adriano sui tifosi rumorosi della pallavolo"
     },
     {
-      "quote": "Prima carbonara va celebrata. Come la prima sega",
-      "author": "Alessio Valentini",
-      "context": "Filosofia di vita"
+      "quote": "Prima carbonara va celebrata [...] Come la prima sega",
+      "author": "Cosimo Nenciòni / Alessio Valentini",
+      "context": "Scambio memorabile tra i due sulla carbonara di Cosimo"
     },
     {
-      "quote": "Se rinasco voglio rinascere Francese..",
+      "quote": "Di certo non lo ha preso per la gola... La cosa peggiore che abbia mai mangiato",
+      "author": "Fausto Petrini",
+      "context": "Sul vecchio conoscente gay che cucinava male"
+    },
+    {
+      "quote": "Spero stiantino tutti",
       "author": "Adriano Sergio Lorenzo Facchini",
-      "context": "Delusione politica italiana"
+      "context": "Sui tifosi della pallavolo coi tamburi"
+    },
+    {
+      "quote": "Se rinasco voglio rinascere Francese",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Disperazione esistenziale post-primarie"
     }
   ],
   "pagelle": [
     {
-      "name": "Fausto Petrini",
-      "voto": 8.0,
-      "giudizio": "Settimana da curatore culturale: bestemmie, pipì seduti, riso alle noccioline. Propone uscita a Siena, invita alle primarie PD. 'Inutili, andate a votare alle primarie eh...' - il trascinatore civico.",
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 8.5,
+      "giudizio": "Settimana stellare per il Re della Chat, che ci regala una delle sue tirate epiche sui tifosi della pallavolo ('Spero stiantino tutti'). Difende con vigore le sue 410 calorie bruciate a tennis, si lancia in disquisizioni esistenziali sulla propria italianità, e chiude la settimana con il desiderio di rinascere francese. Sempre sul pezzo, sempre polemico, sempre amato.",
       "messaggi": 18,
       "mediaGiornaliera": 2.6,
       "highlights": [
-        "Articoli culturali del Post",
-        "Invito alle primarie"
+        "Tirata epica sui tifosi della pallavolo con i tamburi",
+        "Difesa appassionata delle calorie bruciate a tennis",
+        "Crisi esistenziale: vuole rinascere francese"
       ],
-      "citazioneTop": "Mi meraviglio ogni volta di come si possa riuscire a scrivere articoli così lunghi a partiren da un tema così esiziale"
-    },
-    {
-      "name": "Adriano Sergio Lorenzo Facchini",
-      "voto": 8.0,
-      "giudizio": "Sfogo epico sui tifosi di pallavolo ('Spero stiantino tutti'), dibattito politico, sogno francese. 410 calorie a tennis! Polemica costruttiva su ogni fronte. 'Ma i più mongoli di tutti siamo noi..'",
-      "messaggi": 22,
-      "mediaGiornaliera": 3.1,
-      "highlights": [
-        "Polemica sui tifosi di pallavolo",
-        "Dibattito primarie PD"
-      ],
-      "citazioneTop": "Spero stiantino tutti."
+      "citazioneTop": "Spero stiantino tutti"
     },
     {
       "name": "Cosimo Nenciòni",
-      "voto": 7.5,
-      "giudizio": "Prima carbonara per Luna, difende i tifosi rumorosi contro Adriano, chiama Giacomo democristiano. 'È il tennis che è uno sport da finocchi' - controcorrente come sempre.",
-      "messaggi": 14,
-      "mediaGiornaliera": 2.0,
+      "voto": 9.0,
+      "giudizio": "MVP indiscusso della settimana. Con pochi messaggi ma letali, Cosimo smonta Adriano sulla pallavolo ('È il tennis che è uno sport da finocchi'), celebra la sua prima carbonara con paragoni arditi, e dà dei mongoli a tutti quanti. La sua efficienza nel provocare è chirurgica: un 'Brava' qui, un 'Non sono d'accordo' là, e il gruppo esplode. Maestro.",
+      "messaggi": 13,
+      "mediaGiornaliera": 1.9,
       "highlights": [
-        "Prima carbonara di Luna",
-        "Difesa tifosi rumorosi"
+        "Battuta killer sul tennis sport da finocchi",
+        "Prima carbonara celebrata come un rito di passaggio",
+        "Distribuisce patenti di mongolismo al gruppo"
       ],
-      "citazioneTop": "Sei il solito democristiano"
+      "citazioneTop": "È il tennis che è uno sport da finocchi che se uno starnutisce sembra che gli hanno ammazzato la mamma"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 7.0,
+      "giudizio": "Il solito trascinatore frustrato. Propone uscita sabato a Siena, poi scopre di avere altri impegni a Firenze. Condivide articoli del Post improbabili (bestemmie, pipì da seduti) e si meraviglia che esistano. Ricorda con orrore il riso alle noccioline senza sale del conoscente di Cosimo. Incita tutti ad andare alle primarie con l'entusiasmo di chi poi rimane solo.",
+      "messaggi": 17,
+      "mediaGiornaliera": 2.4,
+      "highlights": [
+        "Propone uscita che poi deve disdire lui stesso",
+        "Condivide articoli del Post su temi esiziali",
+        "Trauma culinario rievocato: riso alle noccioline senza sale"
+      ],
+      "citazioneTop": "Di certo non lo ha preso per la gola..."
     },
     {
       "name": "Giacomo Dolfi",
-      "voto": 7.0,
-      "giudizio": "Va alle primarie PD stamani, vota Bona, viene chiamato democristiano. 'Ma siete strulli?' si difende. 'Gilet giallo' ad Adriano. Il Fondatore politicamente attivo.",
-      "messaggi": 10,
-      "mediaGiornaliera": 1.4,
+      "voto": 7.5,
+      "giudizio": "Il Fondatore si fa vivo strategicamente per le primarie. Vota 'la ragazza giovane' (Bona) e poi finge di non capire perché lo chiamano democristiano. La sua domanda retorica 'Secondo voi chi ho votato?' scatena il prevedibile delirio del gruppo. Commento sarcastico sui 48 minuti per mezzo km di Adriano: chirurgico.",
+      "messaggi": 6,
+      "mediaGiornaliera": 0.9,
       "highlights": [
-        "Voto alle primarie",
-        "Difesa dalle accuse"
+        "Va alle primarie di prima mattina, da buon cittadino",
+        "Trolleggia il gruppo facendo finta di non dire per chi ha votato",
+        "Commento letale: 'Mezzo km in 48 minuti non é da tutti'"
       ],
-      "citazioneTop": "Ovvio che hai votato la ragazza giovane.."
+      "citazioneTop": "Mezzo km in 48 minuti non é da tutti"
     },
     {
       "name": "Alessio Valentini",
-      "voto": 6.5,
-      "giudizio": "'Prima carbonara va celebrata. Come la prima sega' - filosofia di vita. 'Ahabha' per una foto. Pochi messaggi ma qualitativamente alti.",
-      "messaggi": 4,
-      "mediaGiornaliera": 0.6,
+      "voto": 6.0,
+      "giudizio": "Settimana sottotono per il Giramondo, che si limita a qualche comparsata: un 'Amen' di solidarietà, un 'Ahabha' di risata, e il paragone illuminante tra prima carbonara e prima sega. Pochi messaggi ma quello sul rito di passaggio vale da solo una sufficienza. Probabilmente aveva internet di merda.",
+      "messaggi": 5,
+      "mediaGiornaliera": 0.7,
       "highlights": [
-        "Filosofia carbonara/sega",
-        "Risate"
+        "Paragone memorabile: carbonara = prima sega",
+        "Solidarietà silenziosa con 'Amen'"
       ],
       "citazioneTop": "Come la prima sega"
     },
     {
       "name": "Alessio Macalùso",
-      "voto": 5.5,
-      "giudizio": "Presente ma silenzioso. 'Ci sono ma devo andare a letto presto'. 'Non sanno fare i tifosi' - opinione lapidarìa. Settimana zen.",
-      "messaggi": 3,
-      "mediaGiornaliera": 0.4,
+      "voto": 4.5,
+      "giudizio": "Due messaggi in tutta la settimana, entrambi zen e laconici come da tradizione. 'Ci sono ma devo andare a letto presto' per l'uscita (mai avvenuta), e 'Non sanno fare i tifosi' sulla pallavolo. La Voce della Ragione questa settimana era più una voce fuori campo. Presente in spirito, assente nel corpo.",
+      "messaggi": 2,
+      "mediaGiornaliera": 0.3,
       "highlights": [
-        "Disponibilità condizionata",
-        "Opinione sui tifosi"
+        "Disponibile per uscita ma con coprifuoco",
+        "Sentenza sui tifosi: 'Non sanno fare i tifosi'"
       ],
-      "citazioneTop": "Ci sono ma devo andare a letto presto"
+      "citazioneTop": "Non sanno fare i tifosi"
     }
   ],
   "awards": {
-    "mvp": "Fausto Petrini",
-    "comico": "Cosimo Nenciòni",
-    "cuore": "Giacomo Dolfi",
-    "fantasma": null
+    "mvp": "Cosimo Nenciòni - Pochi messaggi ma tutti letali, tra tennis da finocchi e patenti di mongolismo",
+    "comico": "Cosimo Nenciòni - La battuta sul tennis è da antologia",
+    "cuore": "Fausto Petrini - Almeno ci prova sempre a organizzare",
+    "fantasma": "Alessio Macalùso - Due messaggi zen non bastano per una settimana"
   }
 }

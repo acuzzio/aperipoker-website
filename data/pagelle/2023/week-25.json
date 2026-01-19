@@ -4,103 +4,117 @@
   "startDate": "2023-06-19",
   "endDate": "2023-06-25",
   "stats": {
-    "totalMessages": 28,
+    "totalMessages": 27,
     "activeMembers": 6,
-    "avgPerMember": 4.7
+    "avgPerMember": 4.5
   },
-  "riassunto": "Settimana di Spalletti al bar e del Palio che si avvicina! Adriano: 'Ho appena preso un caffè affianco a Spalletti ex allenatore del Napoli che ha vinto lo scudetto. Non l'ho cagato minimamente'. Fausto: 'Speravi ti cagasse lui?' Giacomo: 'Gli potevi dare due scapaccioni nella pelata'. Discussione sul riconoscimento facciale dopo notizia di cronaca. Giacomo va al Fordicolle con Lucia, Adriano lo stuzzica: 'Potresti portarla alla Pergola e smettere di rompere il cazzo'. Fausto propone cena il 29: 'Io giro tutto il giorno, poi se volete ci sono, se no prendo la tessera in contrada'. Giacomo nell'Ondone, Mac spera di esserci.",
+  "riassunto": "Settimana di incontri illustri e anticipazioni paliesi. Adriano ha avuto l'onore di prendere un caffe affianco a Luciano Spalletti, fresco campione d'Italia con il Napoli, e con aristocratico distacco ha deciso di non cagarlo minimamente - scelta che il gruppo ha trovato al contempo saggia e esilarante. Giacomo ha colto l'occasione per immaginare Adriano trasformato in tiktoker toscano alla Ceccherini. Momento di riflessione seria per il gruppo sul terribile caso del clochard ucciso da due sedicenni a Pomigliano, con Cosimo che non ha usato mezzi termini nel definire i colpevoli 'merde umane'. Sul fronte culinario, Giacomo ha finalmente portato Lucia al Fordicolle, mentre Adriano lo ha stuzzicato sulla Pergola. La settimana si e chiusa con i preparativi per il Palio del 29 giugno: Fausto ha sventolato la bandiera chiocciolina, Giacomo si e dichiarato ondaiolo, e il gruppo si e diviso come sempre tra contrade rivali.",
   "bestQuotes": [
     {
-      "quote": "Ho appena preso un caffè affianco a Spalletti... Non l'ho cagato minimamente",
+      "quote": "Ho appena preso un caffè affianco a spalletti ex allenatore del Napoli che ha vinto lo scudetto. Non l'ho cagato minimamente",
       "author": "Adriano Sergio Lorenzo Facchini",
-      "context": "Incontro con l'allenatore"
+      "context": "L'incontro illustre del mattino, gestito con nonchalance toscana"
     },
     {
-      "quote": "Speravi ti cagasse lui?",
+      "quote": "Speravi ti cagase lui?",
       "author": "Fausto Petrini",
-      "context": "Risposta ad Adriano su Spalletti"
+      "context": "Risposta fulminante all'indifferenza di Adriano verso Spalletti"
     },
     {
-      "quote": "Potresti portarla alla Pergola e smettere di rompere il cazzo",
-      "author": "Adriano Sergio Lorenzo Facchini",
-      "context": "A Giacomo sulla Pergola"
+      "quote": "Cmq non credo sia stato utilizzato il riconoscimento biometrico. Sono delle merde umane per le quali fatico a trovare qualsiasi tipo di giustificazione. E' veramente un mondo di merda.",
+      "author": "Cosimo Nenciòni",
+      "context": "Riflessione amara sul caso di cronaca nera di Pomigliano"
+    },
+    {
+      "quote": "Bene, vo in contrada",
+      "author": "Fausto Petrini",
+      "context": "Il trascinatore che si arrende all'assenza di adesioni e opta per la via chiocciolina"
+    },
+    {
+      "quote": "Adri tra poco si metterà a raccontare le barzellette in toscano su tiktok come ceccherini",
+      "author": "Giacomo Dolfi",
+      "context": "Previsione ironica sul futuro social di Adriano"
     }
   ],
   "pagelle": [
     {
       "name": "Adriano Sergio Lorenzo Facchini",
       "voto": 8.0,
-      "giudizio": "Caffè con Spalletti: 'Non l'ho cagato minimamente'. Stuzzica Giacomo: 'Potresti portarla alla Pergola e smettere di rompere il cazzo'. Riflessione sul riconoscimento facciale: 'È preoccupante come tutti siano tracciati'. 'Un vero chiocciolino' a Fausto. 'W l'Ondone!' Casa alle 16: 'Questa cosa non deve succedere'. Protagonista.",
-      "messaggi": 14,
-      "mediaGiornaliera": 2.0,
+      "giudizio": "Il Re della Chat ha dominato la settimana con il suo incontro ravvicinato con Spalletti, gestito con la flemma di chi sa che i veri protagonisti sono loro, gli Aperipokeristi. Ha incassato con eleganza le battute sul suo futuro da tiktoker toscano e ha dimostrato di avere opinioni forti su tutto, dalle grigliate ai diritti civili. Il suo 'W l'ondone!' finale, tradimento alla propria chiocciolinita, e stato il tocco di ironia che lo contraddistingue.",
+      "messaggi": 11,
+      "mediaGiornaliera": 1.6,
       "highlights": [
-        "Caffè con Spalletti",
-        "Stuzzicata a Giacomo"
+        "L'incontro ignorato con Spalletti",
+        "La pungolata a Giacomo sulla Pergola",
+        "Il supporto ironico all'Onda"
       ],
-      "citazioneTop": "Potresti portarla alla Pergola e smettere di rompere il cazzo che non ci puoi andare se prima non ci hai portato Lucia"
-    },
-    {
-      "name": "Fausto Petrini",
-      "voto": 7.5,
-      "giudizio": "'Speravi ti cagasse lui?' a Adriano su Spalletti. Video: 'Ah già, era mancino... ma come ti può venire in mente?' Propone cena il 29: 'Io giro tutto il giorno, poi se volete ci sono, se no prendo la tessera in contrada e vado lì'. 'Bene, vo in contrada'. Il chiocciolino doc.",
-      "messaggi": 6,
-      "mediaGiornaliera": 0.9,
-      "highlights": [
-        "Battuta Spalletti",
-        "Proposta cena Palio"
-      ],
-      "citazioneTop": "Speravi ti cagasse lui?"
-    },
-    {
-      "name": "Giacomo Dolfi",
-      "voto": 7.0,
-      "giudizio": "'Gli potevi dare due scapaccioni nella pelata' su Spalletti. 'Adri tra poco si metterà a raccontare le barzellette in toscano su TikTok come Ceccherini'. 'Stasera con Lucia si va al Fordicolle'. 'Io sarò nell'Ondone'. Il contradaiolo.",
-      "messaggi": 4,
-      "mediaGiornaliera": 0.6,
-      "highlights": [
-        "Battuta Spalletti",
-        "Cena Fordicolle"
-      ],
-      "citazioneTop": "Gli potevi dare due scapaccioni nella pelata"
+      "citazioneTop": "Ho appena preso un caffè affianco a spalletti ex allenatore del Napoli che ha vinto lo scudetto. Non l'ho cagato minimamente"
     },
     {
       "name": "Cosimo Nenciòni",
-      "voto": 6.5,
-      "giudizio": "'Sì' e riflessione sul riconoscimento facciale: 'Non credo sia stato utilizzato il riconoscimento biometrico... sono delle merde umane per le quali fatico a trovare qualsiasi tipo di giustificazione'. Serio e presente.",
-      "messaggi": 3,
-      "mediaGiornaliera": 0.4,
-      "highlights": [
-        "Riflessione crimine"
-      ],
-      "citazioneTop": "È veramente un mondo di merda"
-    },
-    {
-      "name": "Alessio Valentini",
-      "voto": 6.0,
-      "giudizio": "'Ao' e 'Buona estate a te Adri'. Presente ma limitato questa settimana dalla lontananza.",
+      "voto": 7.5,
+      "giudizio": "Il Provocatore Raffinato ha sfoderato la sua anima piu seria commentando la cronaca nera con lucidita e indignazione genuina. Due messaggi soltanto, ma di quelli che pesano: quando Cosimo parla di 'merde umane' e 'mondo di merda', sai che la situazione e grave. Zero battute questa settimana, solo verita scomode dette con la franchezza che lo contraddistingue.",
       "messaggi": 2,
       "mediaGiornaliera": 0.3,
       "highlights": [
-        "Auguri estivi"
+        "L'analisi tecnica sul riconoscimento facciale",
+        "Il giudizio senza appello sui criminali"
+      ],
+      "citazioneTop": "Sono delle merde umane per le quali fatico a trovare qualsiasi tipo di giustificazione"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 5.5,
+      "giudizio": "Il Giramondo e passato come un refolo di vento estivo con i suoi lapidari 'ao' e 'Buona estate a te Adri'. Due messaggi, zero sostanza, massima efficienza nel farsi ricordare per l'assenza. Probabilmente da qualche parte con internet di merda, o semplicemente troppo impegnato a godersi l'estate per partecipare alle discussioni. L'affetto per Adriano traspare, ma la partecipazione langue.",
+      "messaggi": 2,
+      "mediaGiornaliera": 0.3,
+      "highlights": [
+        "Gli auguri estivi ad Adriano"
       ],
       "citazioneTop": "Buona estate a te Adri"
     },
     {
+      "name": "Fausto Petrini",
+      "voto": 7.0,
+      "giudizio": "Il Trascinatore ha provato ancora una volta a organizzare qualcosa per il 29 giugno, ricevendo come risposta il solito entusiasmo tiepido del gruppo. La sua risposta rassegnata 'Bene, vo in contrada' racchiude anni di proposte ignorate e tessere della Chiocciola prese in solitudine. La battuta su Spalletti ('Speravi ti cagase lui?') dimostra che quando non organizza, sa pungere con precisione chirurgica.",
+      "messaggi": 5,
+      "mediaGiornaliera": 0.7,
+      "highlights": [
+        "La battuta fulminante su Spalletti",
+        "Il tentativo organizzativo per il Palio",
+        "La rassegnazione chiocciolina"
+      ],
+      "citazioneTop": "Speravi ti cagase lui?"
+    },
+    {
       "name": "Alessio Macalùso",
       "voto": 6.0,
-      "giudizio": "'La sera non ci sono ma spero nel pomeriggio' per il 29. Disponibile nonostante impegni.",
+      "giudizio": "La Voce della Ragione ha mantenuto il suo profilo zen con un unico messaggio di disponibilita condizionata per il 29. 'La sera non ci sono ma spero nel pomeriggio' e il classico Alessio M.: presente nell'idea, sfuggente nella pratica, sempre diplomatico nel declinare. Non si espone, non si sbilancia, ma quando c'e da esserci (forse) c'e.",
       "messaggi": 1,
       "mediaGiornaliera": 0.1,
       "highlights": [
-        "Disponibilità parziale"
+        "La disponibilita pomeridiana per il Palio"
       ],
       "citazioneTop": "La sera non ci sono ma spero nel pomeriggio"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 7.5,
+      "giudizio": "Il Fondatore ha brillato con la sua ironia tagliente, immaginando Adriano trasformato in un Ceccherini da TikTok. Ha portato Lucia al Fordicolle (finalmente una cena romantica!) e si e dichiarato ondaiolo con orgoglio: 'Io saro nell'ondone'. I suoi scapaccioni virtuali sulla pelata di Spalletti e le punzecchiature ad Adriano dimostrano che il patriarca benevolo sa ancora mordere quando vuole.",
+      "messaggi": 6,
+      "mediaGiornaliera": 0.9,
+      "highlights": [
+        "La battuta su Adriano-Ceccherini",
+        "La cena con Lucia al Fordicolle",
+        "La dichiarazione ondaiola"
+      ],
+      "citazioneTop": "Adri tra poco si metterà a raccontare le barzellette in toscano su tiktok come ceccherini"
     }
   ],
   "awards": {
     "mvp": "Adriano Sergio Lorenzo Facchini",
     "comico": "Fausto Petrini",
-    "cuore": "Giacomo Dolfi",
-    "fantasma": "Alessio Macalùso"
+    "cuore": "Cosimo Nenciòni",
+    "fantasma": "Alessio Valentini"
   }
 }

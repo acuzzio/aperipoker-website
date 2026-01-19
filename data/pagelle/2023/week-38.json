@@ -4,92 +4,107 @@
   "startDate": "2023-09-18",
   "endDate": "2023-09-24",
   "stats": {
-    "totalMessages": 22,
+    "totalMessages": 21,
     "activeMembers": 5,
-    "avgPerMember": 4.4
+    "avgPerMember": 4.2
   },
-  "riassunto": "Settimana dell'amico Amish e delle placche! Adriano propone cena a Firenze. Fausto: 'Eeehhhhh sarebbe top. Ma e' dura'. Cocco annuncia ritiro sociale: 'Ragazzi io stasera sono uscito a cena con un mio ex collega. Ora non usciro' tipo mai piu'. Ci rivediamo nel 2024. Pero' scrivetemi'. Adriano: 'Ti veniamo a trovare noi. Le visite di cortesia. Il nostro amico Amish'. Mac: 'Vengo anch'io'. Poi Cocco malato! 'Ho la febbre alta da ieri. Ho mal di gola e sono pieno di placche'. Foto placche. 'Come faccio a sapere se e' batterica?'. Adriano medico: 'Vai tranquillo e pigliate un amoxicillina. E segui la posologia'. Mac: 'L'importante e' che se inizi devi fare tutto il ciclo'. Adriano: 'Hai le placche, mi sembra piu' che sufficiente. Tocca smette di fumare Cocco'. 'La prossima volta fai che sia della Sandoz!'.",
+  "riassunto": "Settimana che inizia con i soliti sogni irrealizzabili: Adriano propone una cena a Firenze e Fausto risponde col classico 'Eeehhhhh sarebbe top. Ma e dura'. Cosimo invece annuncia di aver gia esaurito il suo bonus uscite annuale: 'Ora non usciro tipo mai piu. Ci rivediamo nel 2024'. Alessio Valentini lo incorona 'mito' per questa onesta brutale. Adriano, non pago, propone visite di cortesia a casa Cosimo, ribattezzandolo 'Il nostro amico Amish' - Alessio M. si prenota subito. Ma il clou arriva sabato: Cosimo si presenta con febbre alta e placche alla gola, scatenando un consulto medico improvvisato dove Adriano si improvvisa medico ('Vai tranquillo e pigliate un amoxicillina') e Alessio M. aggiunge la saggezza farmacologica ('L'importante e che se inizi devi fare tutto il ciclo'). Adriano chiude con una diagnosi morale: 'Tocca smette di fumare Cocco'.",
   "bestQuotes": [
     {
-      "quote": "Ora non usciro' tipo mai piu'. Ci rivediamo nel 2024. Pero' scrivetemi",
-      "author": "Cosimo Nenciòni",
-      "context": "Ritiro sociale"
+      "quote": "Ragazzi io stasera sono uscito a cena con un mio ex collega. Ora non usciro' tipo mai piu' 🤣. Ci rivediamo nel 2024. Pero' scrivetemi",
+      "author": "Cosimo Nencioni",
+      "context": "L'annuncio del ritiro dalla vita sociale - quota uscite esaurita"
     },
     {
-      "quote": "Ti veniamo a trovare noi. Le visite di cortesia. Il nostro amico Amish",
+      "quote": "Il nostro amico Amish",
       "author": "Adriano Sergio Lorenzo Facchini",
-      "context": "Su Cocco ritirato"
+      "context": "Il nuovo soprannome per Cosimo in isolamento"
     },
     {
-      "quote": "Tocca smette di fumare Cocco. O almeno limitare a una due siga, ma non di piu'",
+      "quote": "Vai tranquillo e pigliate un amoxicillina",
       "author": "Adriano Sergio Lorenzo Facchini",
-      "context": "Consiglio medico"
+      "context": "Quando l'amico si improvvisa medico senza titolo"
+    },
+    {
+      "quote": "Hai le placche, mi sembra piu che sufficiente. Tocca smette di fumare Cocco",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Diagnosi medica seguita da ramanzina paterna"
+    },
+    {
+      "quote": "La prossima volta fai che sia della Sandoz! Cristo",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Anche sui farmaci c'e brand loyalty"
     }
   ],
   "pagelle": [
     {
       "name": "Adriano Sergio Lorenzo Facchini",
       "voto": 8.5,
-      "giudizio": "Il medico del gruppo! 'Organizziamo una cena a Firenze?'. 'Ti veniamo a trovare noi. Le visite di cortesia'. 'Il nostro amico Amish'. Consulenza medica a Cocco: 'Vai tranquillo e pigliate un amoxicillina'. 'E segui la posologia'. 'Hai le placche, mi sembra piu' che sufficiente'. 'Tocca smette di fumare Cocco'. 'La prossima volta fai che sia della Sandoz!'. Dottore e organizzatore.",
+      "giudizio": "Il Re della Chat questa settimana si trasforma in medico di famiglia, farmacista e life coach. Prima propone una cena a Firenze che sa gia morta, poi ribattezza Cosimo 'Il nostro amico Amish' con affetto quasi paterno. Ma il momento di gloria arriva con la consulenza medica: prescrive amoxicillina con la sicurezza di un primario, raccomanda la posologia, e chiude con la ramanzina 'Tocca smette di fumare Cocco'. Ciliegina sulla torta: pretende farmaci Sandoz. Nottambulo cronico, scrive pure alle 2:43 e alle 2:51 di notte. Enciclopedico e prolisso come sempre, ma stavolta utile.",
       "messaggi": 10,
-      "mediaGiornaliera": 1.4,
+      "mediaGiornaliera": 2.5,
       "highlights": [
-        "Consulenza medica",
-        "Amico Amish"
+        "Ha proposto una cena a Firenze destinata al nulla",
+        "Ha battezzato Cosimo 'Amish'",
+        "Ha fatto il medico di famiglia improvvisato con prescrizioni precise"
       ],
-      "citazioneTop": "Il nostro amico Amish"
+      "citazioneTop": "Tocca smette di fumare Cocco"
     },
     {
-      "name": "Cosimo Nenciòni",
+      "name": "Cosimo Nencioni",
       "voto": 8.0,
-      "giudizio": "Il ritirato malato! 'Ora non usciro' tipo mai piu'. Ci rivediamo nel 2024'. 'Ho la febbre alta da ieri e la tengo a bada col Brufen'. 'Sono pieno di placche'. 'Perche' sto abb di merda'. 'Come faccio a sapere se e' batterica?'. Condivide foto placche. Amish ma presente.",
+      "giudizio": "Il Provocatore Raffinato questa settimana si scopre vulnerabile: prima annuncia il ritiro dalla vita sociale con onesta disarmante ('Ci rivediamo nel 2024'), poi crolla con febbre e placche chiedendo consiglio medico al gruppo. Da maestro del sarcasmo a paziente bisognoso di cure: 'Amici portatemi consiglio', 'Come faccio a sapere se e' batterica?'. E comunque riesce a lamentarsi dell'app del medico: 'Perche sto abb di merda'. Anche malato, il Cocco resta fedele a se stesso.",
       "messaggi": 6,
-      "mediaGiornaliera": 0.9,
+      "mediaGiornaliera": 1.5,
       "highlights": [
-        "Ritiro sociale",
-        "Placche"
+        "Ha annunciato il ritiro dalla vita sociale fino al 2024",
+        "Ha chiesto consulto medico al gruppo con umilta insolita",
+        "Ha mostrato le placche in foto (probabilmente disgustose)"
       ],
-      "citazioneTop": "Ora non usciro' tipo mai piu'. Ci rivediamo nel 2024"
+      "citazioneTop": "Ora non usciro' tipo mai piu' 🤣. Ci rivediamo nel 2024. Pero' scrivetemi"
     },
     {
       "name": "Alessio Valentini",
       "voto": 7.0,
-      "giudizio": "'Non male'. 'Hahaha sei un mito'. Presente ma limitato questa settimana.",
-      "messaggi": 4,
-      "mediaGiornaliera": 0.6,
+      "giudizio": "Il Giramondo interviene col suo stile essenziale e affettuoso. Due 'hahaha', un 'sei un mito' rivolto a Cosimo per l'annuncio del ritiro sociale, e un 'non male' che apre la settimana senza contesto ma con approvazione. Da qualche fuso orario improbabile, riesce comunque a far sentire la sua presenza con poche parole ma ben calibrate. Quando Cosimo annuncia che sparira, lui lo celebra - solidarieta tra spiriti liberi.",
+      "messaggi": 3,
+      "mediaGiornaliera": 0.75,
       "highlights": [
-        "Supporto Cocco"
+        "Ha celebrato Cosimo come 'mito' per il suo ritiro sociale",
+        "Presente con risate e approvazione",
+        "Solidarieta da nomade a 'Amish'"
       ],
-      "citazioneTop": "Sei un mito"
-    },
-    {
-      "name": "Alessio Macalùso",
-      "voto": 7.0,
-      "giudizio": "'Vengo anch'io' per la visita a Cocco. 'L'importante e' che se inizi devi fare tutto il ciclo' sull'antibiotico. Solidale e informato.",
-      "messaggi": 2,
-      "mediaGiornaliera": 0.3,
-      "highlights": [
-        "Visita Cocco",
-        "Consiglio antibiotico"
-      ],
-      "citazioneTop": "L'importante e' che se inizi devi fare tutto il ciclo"
+      "citazioneTop": "sei un mito"
     },
     {
       "name": "Fausto Petrini",
       "voto": 6.5,
-      "giudizio": "'Eeehhhhh sarebbe top. Ma e' dura' sulla cena. Presente ma silenzioso.",
-      "messaggi": 2,
-      "mediaGiornaliera": 0.3,
+      "giudizio": "Il Trascinatore questa settimana si limita a un commento scoraggiato sulla proposta di cena a Firenze: 'Eeehhhhh sarebbe top. Ma e dura'. E la frase che racchiude anni di tentativi falliti di organizzare uscite. Un solo messaggio, ma denso di rassegnazione. Forse sta conservando le energie per settimane piu movimentate (spoiler: la prossima sara il dramma del sasso). L'organizzatore frustrato riposa.",
+      "messaggi": 1,
+      "mediaGiornaliera": 0.25,
       "highlights": [
-        "Risposta cena"
+        "Ha riassunto anni di sconfitte organizzative in una frase",
+        "Ha mantenuto viva la speranza, seppure a fatica"
       ],
-      "citazioneTop": "Eeehhhhh sarebbe top. Ma e' dura"
+      "citazioneTop": "Eeehhhhh sarebbe top. Ma e dura"
+    },
+    {
+      "name": "Alessio Macaluso",
+      "voto": 6.5,
+      "giudizio": "Lo Zen Master interviene con la sua consueta parsimonia: 'Vengo anch'io' alle 3 di notte per unirsi alle visite di cortesia a Cosimo, e poi il saggio consiglio farmacologico 'L'importante e che se inizi devi fare tutto il ciclo'. Due messaggi, entrambi perfetti. La voce della ragione che emerge solo quando serve: niente chiacchiere inutili, solo saggezza concentrata e disponibilita. Laconico ma presente quando conta.",
+      "messaggi": 2,
+      "mediaGiornaliera": 0.5,
+      "highlights": [
+        "Si e prenotato per le visite di cortesia a Cosimo",
+        "Ha fornito l'unico consiglio medico veramente sensato"
+      ],
+      "citazioneTop": "L'importante e che se inizi devi fare tutto il ciclo"
     }
   ],
   "awards": {
-    "mvp": "Adriano Sergio Lorenzo Facchini",
-    "comico": "Cosimo Nenciòni",
-    "cuore": "Alessio Macalùso",
-    "fantasma": "Giacomo Dolfi"
+    "mvp": "Adriano Sergio Lorenzo Facchini - Medico, farmacista e life coach del gruppo",
+    "comico": "Adriano Sergio Lorenzo Facchini - 'Il nostro amico Amish' entra nel vocabolario del gruppo",
+    "cuore": "Cosimo Nencioni - Ha chiesto aiuto con vulnerabilita insolita",
+    "fantasma": "Giacomo Dolfi - Settimana di silenzio assoluto"
   }
 }

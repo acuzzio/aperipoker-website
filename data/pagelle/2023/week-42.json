@@ -4,106 +4,122 @@
   "startDate": "2023-10-16",
   "endDate": "2023-10-22",
   "stats": {
-    "totalMessages": 39,
+    "totalMessages": 40,
     "activeMembers": 6,
-    "avgPerMember": 6.5
+    "avgPerMember": 6.7
   },
-  "riassunto": "SETTIMANA DELLA NASCITA DI DIEGO! Cocco annuncia con foto: 'E' nato Diego ragazzi'. Tutti in festa! Mac: 'Alla grande! Complimenti!'. Alessio V.: 'OH MIO DDDDDIIIOOOO. FANTASTICO'. 'Che con Luna era COVID e non hai potuto esserci, ricordo bene?'. Fausto: 'Grande Piego!'. Giacomo: 'Ma che bellezza!!!! Grandissimi! Auguroni belli!'. Adriano: 'Fantastiiiicoooook. Bellissimi!!! Grande Diego!!! Benvenuto! Queste so che sono soddisfazioni!'. Poi Luna si apre il capo! Cocco: 'S'e' aperta il capo. Tipico'. 'E' inciampata dentro il portone di casa e ha sbattuto il capo nello spigolo del gradino. Di marmo. Splatter mood'. Foto con sette punti. Fausto: 'Il sette nel capo'. Alessio V.: 'Harry Potter? Bellisssssimo'. 'Potrebbe succedere a me oggi pomeriggio'. Mac: 'Tipico' x3. Fausto condivide articolo sui 30 anni di Demolition Man e brano Ti.Pi.Cal.",
+  "riassunto": "Una settimana che inizia col botto: lunedi 16 ottobre nasce DIEGO, secondogenito di Cosimo! Il gruppo esplode in festeggiamenti virtuali, con Alessio V. che ricorda come alla nascita di Luna Cosimo non avesse potuto essere presente per colpa del COVID. Fausto inaugura la celebrazione con un 'Grande Piego!!' che suona come un soprannome gia acquisito. Ma la settimana di Cosimo non finisce qui: mercoledi arriva il racconto splatter di Luna che inciampa nel portone e sbatte la testa sullo spigolo di marmo - 'S'e' aperta il capo' annuncia laconicamente il neo-papabis, con Alessio M. che risponde con un filosofico 'Tipico'. Nel mezzo, Fausto condivide nostalgia anni '90 con un pezzo dei Ti.Pi.Cal. e insegna ad Alessio V. cosa significhi 'holy moly' - o meglio, cosa non significhi.",
   "bestQuotes": [
     {
       "quote": "E' nato Diego ragazzi",
-      "author": "Cosimo Nenciòni",
-      "context": "Annuncio nascita"
+      "author": "Cosimo Nencioni",
+      "context": "L'annuncio piu importante dell'anno, con la sobrietà che contraddistingue il Provocatore"
     },
     {
-      "quote": "S'e' aperta il capo. E' inciampata dentro il portone di casa e ha sbattuto il capo nello spigolo del gradino. Di marmo. Splatter mood",
-      "author": "Cosimo Nenciòni",
-      "context": "Incidente Luna"
+      "quote": "OH MIO DDDDDIIIOOOO",
+      "author": "Alessio Valentini",
+      "context": "Reazione del Giramondo alla nascita - livelli di entusiasmo da concerto punk"
     },
     {
-      "quote": "Queste so che sono soddisfazioni!",
-      "author": "Adriano Sergio Lorenzo Facchini",
-      "context": "Sulla nascita"
+      "quote": "S'e' aperta il capo",
+      "author": "Cosimo Nencioni",
+      "context": "Due giorni dopo la nascita del figlio, la figlia si spacca la testa. Tipica settimana Nencioni"
+    },
+    {
+      "quote": "Splatter mood",
+      "author": "Cosimo Nencioni",
+      "context": "Il commento definitivo sul sangue di Luna sul marmo"
+    },
+    {
+      "quote": "se dicin holy shit e' male",
+      "author": "Alessio Valentini",
+      "context": "Lezione di linguistica americana per Fausto"
     }
   ],
   "pagelle": [
     {
-      "name": "Cosimo Nenciòni",
-      "voto": 9.5,
-      "giudizio": "Papa' bis! 'E' nato Diego ragazzi'. Condivide foto. 'S'e' aperta il capo. Tipico'. 'E' inciampata dentro il portone, ha sbattuto il capo nello spigolo di marmo. Splatter mood'. Padre eroico tra nascita e incidenti.",
-      "messaggi": 10,
-      "mediaGiornaliera": 1.4,
+      "name": "Cosimo Nencioni",
+      "voto": 10.0,
+      "giudizio": "Il Provocatore Raffinato questa settimana diventa protagonista assoluto con l'arrivo di Diego. L'annuncio 'E' nato Diego ragazzi' e un capolavoro di understatement: niente fronzoli, niente emoji, solo i fatti. Due giorni dopo deve gestire Luna che si spacca la testa sul marmo del portone - 'Splatter mood' riassume tutto. Passa dalla gioia massima al panico in 48 ore mantenendo sempre quella flemma da vero toscano. La settimana e sua, e non si discute.",
+      "messaggi": 6,
+      "mediaGiornaliera": 2.0,
       "highlights": [
-        "Nascita Diego",
-        "Luna Harry Potter"
+        "Ha annunciato la nascita di Diego con la sobrietà di chi ordina un caffe",
+        "Ha gestito l'emergenza testa di Luna con sangue freddo (mentre Luna perdeva sangue caldo)",
+        "Ha coniato 'Splatter mood' per descrivere la situazione domestica"
       ],
       "citazioneTop": "E' nato Diego ragazzi"
     },
     {
-      "name": "Adriano Sergio Lorenzo Facchini",
-      "voto": 8.0,
-      "giudizio": "'Fantastiiiicoooook. Bellissimi!!! Grande Diego!!! Benvenuto!'. 'Queste so che sono soddisfazioni!'. 'Stellare' sulla foto Luna. Entusiasta e presente.",
-      "messaggi": 8,
-      "mediaGiornaliera": 1.1,
-      "highlights": [
-        "Auguri Diego",
-        "Commenti foto"
-      ],
-      "citazioneTop": "Queste so che sono soddisfazioni!"
-    },
-    {
       "name": "Alessio Valentini",
-      "voto": 8.0,
-      "giudizio": "'OH MIO DDDDDIIIOOOO. FANTASTICO'. 'Che con Luna era COVID e non hai potuto esserci, ricordo bene?'. 'Harry Potter? Bellisssssimo'. 'Potrebbe succedere a me oggi pomeriggio'. 'Holy moly, che roba' sulla musica. Spiega 'moly'. Entusiasta e colto.",
+      "voto": 8.5,
+      "giudizio": "Il Giramondo si scatena per la nascita di Diego con una serie di esclamazioni che sembrano uscite da un concerto metal: 'OH MIO DDDDDIIIOOOO', 'FANTASICO', 'che spettacoloooooooooooooooooooooooo'. Ricorda con empatia che alla nascita di Luna, Cosimo era bloccato dal COVID - memoria da elefante per i momenti importanti. Poi si cala nei panni del professore spiegando a Fausto l'etimologia di 'holy moly' con dovizia di particolari. Presente emotivamente, culturalmente, e con quell'energia che solo chi vive a fusi orari improbabili puo avere.",
       "messaggi": 10,
-      "mediaGiornaliera": 1.4,
+      "mediaGiornaliera": 3.3,
       "highlights": [
-        "Auguri Diego",
-        "Holy moly spiegato"
+        "Ha festeggiato Diego con l'entusiasmo di mille soli",
+        "Ha ricordato il dramma COVID alla nascita di Luna",
+        "Ha tenuto una lezione di slang americano su 'holy moly'"
       ],
-      "citazioneTop": "OH MIO DDDDDIIIOOOO. FANTASTICO"
+      "citazioneTop": "OH MIO DDDDDIIIOOOO"
     },
     {
       "name": "Fausto Petrini",
       "voto": 7.5,
-      "giudizio": "'Grande Piego!'. 'Il sette nel capo' sulla ferita. Articolo Demolition Man 30 anni. Ti.Pi.Cal: 'A me quel pezzo piaceva un casino, e' proprio un pezzo della mia adolescenza'. 'Moly che vuol dire?'. Nostalgico e curioso.",
+      "giudizio": "Il Trascinatore accoglie Diego con un affettuoso 'Grande Piego!!' che suona gia come un soprannome consolidato. Poi si lancia in uno dei suoi viaggi nostalgici anni '90: l'articolo sui 30 anni di Demolition Man, il pezzo dei Ti.Pi.Cal. che gli ricorda 'qualche estate' della sua adolescenza. 'Il sette nel capo' riferito a Luna e criptico ma evocativo. Chiede cosa significhi 'moly' perche, in fondo, non si finisce mai di imparare. W il bollore e W la curiosita.",
       "messaggi": 6,
-      "mediaGiornaliera": 0.9,
+      "mediaGiornaliera": 2.0,
       "highlights": [
-        "Auguri Diego",
-        "Nostalgia anni 90"
+        "Ha battezzato Diego 'Piego' al primo messaggio",
+        "Ha condiviso nostalgia anni '90 con Ti.Pi.Cal. e Demolition Man",
+        "Ha chiesto spiegazioni linguistiche dimostrando umilta intellettuale"
       ],
-      "citazioneTop": "A me quel pezzo piaceva un casino, e' proprio un pezzo della mia adolescenza"
+      "citazioneTop": "A me quel pezzo piaceva un casino, è proprio un pezzo della mia adolescenza"
+    },
+    {
+      "name": "Alessio Macaluso",
+      "voto": 7.0,
+      "giudizio": "La Voce della Ragione risponde alla nascita di Diego con il classico mix di entusiasmo contenuto: 'Alla grande!' e 'Complimenti!' - perfetti, misurati, genuini. Quando arriva il racconto della testa di Luna, risponde con tre 'Tipico' che dicono tutto sulla vita da genitore. 'Per ora prevale la curiosità' riferito al disastro domestico dei Nencioni e filosofia zen allo stato puro. Poche parole, tutte centrate.",
+      "messaggi": 6,
+      "mediaGiornaliera": 2.0,
+      "highlights": [
+        "Ha fatto i complimenti a Cosimo con eleganza zen",
+        "Ha risposto 'Tipico' tre volte consecutive alla storia di Luna",
+        "Ha espresso curiosità filosofica per il caos domestico"
+      ],
+      "citazioneTop": "Per ora prevale la curiosità"
     },
     {
       "name": "Giacomo Dolfi",
-      "voto": 7.5,
-      "giudizio": "'Ma che bellezza!!!! Grandissimi! Auguroni belli!'. 'Fantastici, ma come ha fatto?' sulla ferita. Presente e affettuoso.",
-      "messaggi": 6,
-      "mediaGiornaliera": 0.9,
+      "voto": 7.0,
+      "giudizio": "Il Fondatore accoglie Diego con tre messaggi in rapida successione: 'Ma che bellezza!!!!', 'Grandissimi!', 'Auguroni belli!' - il patriarca benevolo che benedice la nuova generazione del gruppo. Sul dramma di Luna si limita a un 'Fantastici' e a chiedere 'Ma come ha fatto?' con la curiosità di chi vuole capire la dinamica dell'incidente. Da Poggibonsi veglia sul gruppo con affetto, anche quando il gruppo si spacca la testa.",
+      "messaggi": 5,
+      "mediaGiornaliera": 1.7,
       "highlights": [
-        "Auguri Diego",
-        "Domanda ferita"
+        "Ha accolto Diego con triplo messaggio di auguri",
+        "Ha chiesto dettagli sull'incidente di Luna con genuina curiosità",
+        "Ha mantenuto il ruolo di patriarca benevolo del gruppo"
       ],
-      "citazioneTop": "Ma che bellezza!!!! Grandissimi!"
+      "citazioneTop": "Auguroni belli!"
     },
     {
-      "name": "Alessio Macalùso",
+      "name": "Adriano Sergio Lorenzo Facchini",
       "voto": 7.0,
-      "giudizio": "'Alla grande! Complimenti!' sulla nascita. 'Tipico' x3 su tutto. 'Per ora prevale la curiosita'' sulla ferita. Il re del 'Tipico'.",
-      "messaggi": 6,
-      "mediaGiornaliera": 0.9,
+      "giudizio": "Il Re della Chat festeggia Diego con il suo stile inconfondibile: cinque messaggi in un minuto, dal 'Fantasticooooooook' al 'Benvenuto!' finale. 'Queste so che sono soddisfazioni!' e la frase del saggio che ha vissuto abbastanza da sapere cosa conta nella vita. Sul pezzo dei Ti.Pi.Cal. condiviso da Fausto sentenzia un laconico 'Stellare' - critico musicale di poche ma decisive parole. Presente e partecipe, anche se non piu verboso come ai tempi d'oro.",
+      "messaggi": 7,
+      "mediaGiornaliera": 2.3,
       "highlights": [
-        "Auguri Diego",
-        "Tipico x3"
+        "Ha festeggiato Diego con cinque messaggi consecutivi",
+        "Ha riconosciuto l'importanza del momento con saggezza",
+        "Ha approvato la scelta musicale di Fausto con un 'Stellare'"
       ],
-      "citazioneTop": "Tipico"
+      "citazioneTop": "Queste so che sono soddisfazioni!"
     }
   ],
   "awards": {
-    "mvp": "Cosimo Nenciòni",
-    "comico": "Alessio Macalùso",
-    "cuore": "Adriano Sergio Lorenzo Facchini",
+    "mvp": "Cosimo Nencioni - Diego e nato, Luna si e spaccata la testa, ma lui resta impassibile",
+    "comico": "Alessio Valentini - 'OH MIO DDDDDIIIOOOO' e l'esclamazione dell'anno",
+    "cuore": "Alessio Valentini - Ha ricordato il dramma COVID di Luna con empatia",
     "fantasma": null
   }
 }

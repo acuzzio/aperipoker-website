@@ -8,102 +8,118 @@
     "activeMembers": 6,
     "avgPerMember": 11.3
   },
-  "riassunto": "Settimana della crisi di Alessio V. e dei nomi per il bambino! Alessio V. ha la prima vera crisi: 'Prima vera crisi da voglio tornare a casa dio boia'. Sveglia alle 5 di notte per passeggiata. Aspetta il permesso da gennaio. Matrimonio del Lorenzini a settembre incerto. Adriano filosofico: 'Viviamo in un mondo di merda. Puoi sempre comprare una pistola ma guai se vai in Italia senza il pass'. Cocco dal carrozziere dopo la grandinata: 'Mi fanno tutto ma prima di settembre non se ne parla'. Discussione sui nomi: Bruno, Mario, Carlo, Elio, Giona. Adriano: 'Bruno mi garba'. 'Un bel nome sobrio di quelli potenti'. Fausto manda foto dalla montagna con reflex. Poll: Mare o Montagna - vince Montagna 4 a 1! Adriano ricorda l'attacco di panico di Cocco in Abruzzo. Cocco: 'MI continuo a cacare addosso alla grande'. Giacomo inizia a Sinalunga. Fausto: 'Evidente sosia di Begby'.",
+  "riassunto": "Settimana emotivamente intensa dominata dalla crisi notturna di Alessio Valentini, che confida al gruppo il suo momento di sconforto per i permessi mai arrivati e il matrimonio di un amico che rischia di saltare. Gli amici rispondono con solidarieta' e ironia, Adriano filosofeggia su pistole e burocrazia, Cosimo gli augura di tornare presto. Intanto Fausto condivide foto dalla montagna scatenando un sondaggio epico 'mare vs montagna' (vince la montagna 4-1), mentre Cosimo ammette candidamente di cacarsi ancora addosso sulle discese. La settimana si chiude con il meteo: grandine in arrivo, Giacomo che riparte per Sinalunga, e Fausto che paragona qualcuno a Begby.",
   "bestQuotes": [
     {
-      "quote": "Prima vera crisi da voglio tornare a casa dio boia",
+      "quote": "stanotte m'e' presa di meeeeerda ragazzi non ve lo immaginate. Prima vera crisi da 'voglio tornare a casa dio boia'",
       "author": "Alessio Valentini",
-      "context": "Crisi notturna"
+      "context": "Confessione notturna alle 5 del mattino, momento di vulnerabilita' raro"
     },
     {
-      "quote": "Viviamo in un mondo di merda. C'e' di buono che puoi sempre comprare una pistola o un arsenale ma guai se vai in Italia senza il pass",
+      "quote": "C'e' di buono che puoi sempre comprare una pistola o un arsenale ma guai se vai in Italia senza il pass",
       "author": "Adriano Sergio Lorenzo Facchini",
-      "context": "Solidarieta' ad Alessio V."
+      "context": "Commento amaro sulla burocrazia americana vs italiana"
     },
     {
-      "quote": "Un bel nome sobrio di quelli potenti che si ricordano alla prima",
+      "quote": "MI continuo a cacare addosso alla grande",
+      "author": "Cosimo Nencioni",
+      "context": "Ammissione disarmante sulla paura delle discese in montagna"
+    },
+    {
+      "quote": "E pensare che Cocco un tempo la temeva!",
       "author": "Adriano Sergio Lorenzo Facchini",
-      "context": "Sui nomi per il bambino"
+      "context": "Rievocazione del semi-attacco di panico in Abruzzo"
+    },
+    {
+      "quote": "Evidente sosia di begby",
+      "author": "Fausto Petrini",
+      "context": "Paragone cinematografico con il personaggio di Trainspotting"
     }
   ],
   "pagelle": [
     {
       "name": "Alessio Valentini",
-      "voto": 8.5,
-      "giudizio": "Protagonista emotivo! 'Prima vera crisi da voglio tornare a casa'. Si e' alzato alle 5 di notte per passeggiare. Aspetta permesso da gennaio. Matrimonio incerto. 'Mi ha semplicemente domandato in che tavolo mi deve mettere e m'ha messo in crisi'. 'Paaaartiro''. 'Cmq secondo me il brizzolato bianco ti sta bene a tutto foco'. 'Occhio alla grandine'. Condivide e resiste.",
-      "messaggi": 16,
-      "mediaGiornaliera": 2.3,
+      "voto": 8.0,
+      "giudizio": "La vera star della settimana, purtroppo per ragioni tristi. Ha avuto il coraggio di condividere la sua crisi notturna con il gruppo, passeggiata alle 5 del mattino inclusa. Un momento di vulnerabilita' autentica che ha mostrato quanto il gruppo sia importante per lui. Non e' facile aprirsi cosi', e gli amici hanno risposto presente. Alla fine ha pure trovato la forza di fare complimenti sul brizzolato di qualcuno e cantare 'Paaaartiro''. Il giramondo ha il cuore grande.",
+      "messaggi": 17,
+      "mediaGiornaliera": 2.4,
       "highlights": [
-        "Crisi notturna",
-        "Incertezza matrimonio"
+        "Confessione emotiva sulla crisi notturna",
+        "Ha condiviso l'ansia per il matrimonio del Lorenzini",
+        "Complimenti sul look brizzolato"
       ],
-      "citazioneTop": "Prima vera crisi da voglio tornare a casa dio boia"
+      "citazioneTop": "stanotte m'e' presa di meeeeerda ragazzi non ve lo immaginate"
     },
     {
       "name": "Adriano Sergio Lorenzo Facchini",
-      "voto": 8.5,
-      "giudizio": "Solidale e filosofico! 'Viviamo in un mondo di merda. Puoi comprare una pistola ma guai se vai in Italia'. 'Bruno mi garba'. 'Un bel nome sobrio di quelli potenti'. Ricorda l'attacco di panico di Cocco: 'Ora sfreccia all'impazzata con una e-Bike fiammante'. 'E' il bello del cambiare'. 'Io parto il 19 agosto e ciao'. Amico vero.",
-      "messaggi": 14,
-      "mediaGiornaliera": 2.0,
-      "highlights": [
-        "Solidarieta' Alessio V.",
-        "Nomi bambino"
-      ],
-      "citazioneTop": "Un bel nome sobrio di quelli potenti che si ricordano alla prima"
-    },
-    {
-      "name": "Cosimo Nenciòni",
-      "voto": 8.0,
-      "giudizio": "Carrozziere e solidale! 'Mi fanno tutto ma prima di settembre non se ne parla'. A Alessio V.: 'Si capisce che sei arrivato. E' una situazione veramente di merda'. 'A sto punto vedi di tornare non prima di ottobre cosi' vedi Bruno/Giona'. 'Non come Mario che pero' mi e' stato proibito'. Poll grandine: 'Forse ci schiva'. 'MI continuo a cacare addosso alla grande'. Amico nel bisogno.",
-      "messaggi": 14,
-      "mediaGiornaliera": 2.0,
-      "highlights": [
-        "Aggiornamento carrozziere",
-        "Supporto Alessio V."
-      ],
-      "citazioneTop": "A sto punto pero' vedi di tornare non prima di ottobre cosi' vedi Elio/Bruno/Giona"
-    },
-    {
-      "name": "Alessio Macalùso",
       "voto": 7.5,
-      "giudizio": "Presente e partecipe! 'Come e' andata dal carrozziere?'. 'Ormai dopo il palio'. 'Ti sei sentito in trappola' a Alessio V. 'Siete diventati piu' montanari che marini'. Crea poll Mare vs Montagna. 'Metti la macchina a riparo'. 'Ahhhh ci voleva'. Curioso e solidale.",
+      "giudizio": "Il Re della Chat ha risposto alla chiamata emotiva con il suo mix unico di cinismo e affetto. La battuta su pistole e burocrazia e' da antologia, ma sotto l'ironia c'era vera solidarieta'. Ha poi rievocato il glorioso attacco di panico di Cosimo in Abruzzo con affetto nostalgico, filosofeggiato sul cambiamento, e proposto nomi per il futuro figlio di qualcuno (Bruno, Mario, Carlo). Un Adriano in forma, enciclopedico e presente.",
+      "messaggi": 14,
+      "mediaGiornaliera": 2.0,
+      "highlights": [
+        "Supporto sarcastico ma affettuoso ad Alessio V",
+        "Rievocazione storica del panico di Cosimo",
+        "Consulenza onomastica non richiesta"
+      ],
+      "citazioneTop": "C'e' di buono che puoi sempre comprare una pistola o un arsenale ma guai se vai in Italia senza il pass"
+    },
+    {
+      "name": "Cosimo Nencioni",
+      "voto": 7.5,
+      "giudizio": "Il Provocatore Raffinato ha mostrato il suo lato piu' umano. Ha espresso vicinanza sincera ad Alessio ('si capisce che sei arrivato'), gli ha augurato di tornare presto, e ha discusso di nomi proibiti per il futuro figlio. Ma il momento cult e' stato l'ammissione 'MI continuo a cacare addosso alla grande' sulle discese alpine. Onesta' brutale, come sempre. Ha anche apprezzato le foto dalla montagna e annunciato grandine. Completo.",
+      "messaggi": 14,
+      "mediaGiornaliera": 2.0,
+      "highlights": [
+        "Solidarieta' genuina verso Alessio Valentini",
+        "Ammissione epica sulla paura delle discese",
+        "Commenti sulle foto di montagna"
+      ],
+      "citazioneTop": "MI continuo a cacare addosso alla grande"
+    },
+    {
+      "name": "Alessio Macaluso",
+      "voto": 7.0,
+      "giudizio": "La Voce della Ragione ha fatto esattamente quello che doveva: domande giuste al momento giusto. 'Come e' andata dal carrozziere?', 'Ti sei sentito in trappola?', 'Hai dato di matto?'. Poche parole ma centrate, da vero amico che ascolta. Ha lanciato il sondaggio mare vs montagna (montagna stravince) e dato consigli pratici sulla grandine. Il classico Alessio M: parla poco, ma quando parla conta.",
       "messaggi": 10,
       "mediaGiornaliera": 1.4,
       "highlights": [
-        "Poll Mare/Montagna",
-        "Supporto amici"
+        "Domande empatiche durante la crisi di Alessio V",
+        "Sondaggio epocale mare vs montagna",
+        "Consigli pratici sulla grandine"
       ],
-      "citazioneTop": "Siete diventati piu' montanari che marini"
+      "citazioneTop": "Ti sei sentito in trappola"
     },
     {
       "name": "Fausto Petrini",
-      "voto": 7.5,
-      "giudizio": "Fotografo di montagna! 'Le piu' belle sono con la reflex, era per farvi vedere dove siamo'. 'Divertentissimo' sul tubing. 'Menomale che per farlo bisognava salire tutta la montagna'. Propone incontro: 'Io e Cocco dal 17 siamo entrambi soli a lavorare a Fi'. 'Grande Jack, evidente sosia di Begby'. Organizzatore.",
+      "voto": 6.5,
+      "giudizio": "Il Trascinatore era in montagna con la famiglia e ha condiviso foto bellissime (le migliori sono con la reflex, ovviamente). Ha cercato di organizzare qualcosa per il 17-18 agosto con Cocco a Firenze, senza troppo successo. Ha riso con 'Haahahahaha' genuino e chiuso la settimana con il paragone Begby che solo lui poteva fare. In vacanza ma presente, anche se organizzativamente frustrato come sempre.",
       "messaggi": 8,
       "mediaGiornaliera": 1.1,
       "highlights": [
-        "Foto montagna",
-        "Proposta incontro"
+        "Foto dalla montagna con la famiglia",
+        "Tentativo di organizzare serata il 17-18",
+        "Paragone cinematografico con Begby"
       ],
-      "citazioneTop": "Evidente sosia di Begby"
+      "citazioneTop": "Evidente sosia di begby"
     },
     {
       "name": "Giacomo Dolfi",
-      "voto": 7.0,
-      "giudizio": "'Durati poco ehhhh' sul jet lag. 'Domani inizio a Sinalunga'. 'Baci baci'. 'Si vola'. Riprende la routine post-Australia.",
-      "messaggi": 6,
-      "mediaGiornaliera": 0.9,
+      "voto": 6.0,
+      "giudizio": "Il Fondatore si e' fatto vivo solo domenica per annunciare che ricomincia a lavorare a Sinalunga. Ha condiviso qualcosa (media omessa), commentato 'Durati poco' sul maltempo, e mandato 'Baci baci'. Poche parole ma con stile: 'Ma per ora 50%....' lascia il mistero. Da Poggibonsi veglia silenzioso, interviene quando serve, poi scompare. Patriarcale.",
+      "messaggi": 5,
+      "mediaGiornaliera": 0.7,
       "highlights": [
-        "Inizio Sinalunga",
-        "Ripresa routine"
+        "Annuncio lavoro a Sinalunga",
+        "Condivisione misteriosa",
+        "Baci baci di commiato"
       ],
-      "citazioneTop": "Domani inizio a Sinalunga"
+      "citazioneTop": "Durati poco ehhhh"
     }
   ],
   "awards": {
     "mvp": "Alessio Valentini",
-    "comico": "Adriano Sergio Lorenzo Facchini",
-    "cuore": "Cosimo Nenciòni",
-    "fantasma": null
+    "comico": "Cosimo Nencioni",
+    "cuore": "Adriano Sergio Lorenzo Facchini",
+    "fantasma": "Giacomo Dolfi"
   }
 }

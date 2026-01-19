@@ -4,106 +4,122 @@
   "startDate": "2023-07-10",
   "endDate": "2023-07-16",
   "stats": {
-    "totalMessages": 120,
+    "totalMessages": 81,
     "activeMembers": 6,
-    "avgPerMember": 20.0
+    "avgPerMember": 13.5
   },
-  "riassunto": "Settimana del caccavomito di Cocco e della lite per l'aria condizionata a Malta! Cocco sta malissimo: 'Ho avuto il caccavomito... febbre a 38.5... ho avuto la geniale idea di andare a giocare a tennis alle 12.30 co 40 gradi. Ho rischiato di morire'. Giacomo festeggia i 50 anni dei genitori in Australia: pizza a 30 dollari. Giovanni fa il bagno nell'oceano con piumino! Alessio V. primo giorno in ufficio della sua vita. Mac a Malta: lite per aria condizionata alle 4 di notte. 'Mi sono svegliato in un bagno di sudore tipo sacra sindone'. Fausto a Stia con bagno nell'Arno.",
+  "riassunto": "Settimana di dispersione geografica totale: Giacomo esplora l'Australia occidentale con la famiglia per i 50 anni dei genitori (pizze a 30 dollari e camion da 64 gomme), mentre Fausto si gode Stia con bagni nell'Arno e serate sotto le stelle. Alessio Valentini vive il suo primo giorno in ufficio della vita in un coworking americano, documentando il sogno (o l'incubo?) delle startup. Cosimo, nonostante febbre a 38, vomito e diarrea, decide che giocare a tennis a mezzogiorno con 40 gradi sia un'ottima idea e 'rischia di morire'. Alessio Macaluso sbarca a Malta e regala un racconto epico sulla lite notturna per l'aria condizionata: sudore tipo 'sacra sindone' e filosofia da Nobel - 'perche devo spostare il letto quando posso spostare le alette?'. Adriano, rimasto a casa, cerca disperatamente uno scooter e commenta invidioso le avventure altrui.",
   "bestQuotes": [
     {
-      "quote": "Ho avuto il caccavomito... Ho avuto la geniale idea di andare a giocare a tennis alle 12.30 co 40 gradi. Ho rischiato di morire",
+      "quote": "Ho avuto il caccavomito domenica notte e ieri. Febbre a 38.5. Digiuno da domenica sera. Oggi ho avuto la geniale idea di andare a giocare a tennis alle 12.30. co 40 gradi. Ho rischiato di morire.",
       "author": "Cosimo Nenciòni",
-      "context": "Sfogo sulla malattia"
+      "context": "Il resoconto di una settimana memorabile per tutte le ragioni sbagliate"
     },
     {
       "quote": "Mi sono svegliato in un bagno di sudore tipo sacra sindone",
       "author": "Alessio Macalùso",
-      "context": "Lite aria condizionata a Malta"
+      "context": "La guerra dell'aria condizionata a Malta"
     },
     {
-      "quote": "Se rinasco voglio rinascere Giacomo Dolfi",
+      "quote": "Se rinasco voglio rinascere Giacomo Dolfi.",
       "author": "Adriano Sergio Lorenzo Facchini",
-      "context": "Invidia per il viaggio"
+      "context": "L'invidia per chi viaggia in Australia mentre tu cerchi uno scooter"
+    },
+    {
+      "quote": "Oggi Giovanni ha fatto il bagno nell'oceano indiano munito di piumino, golf, camicia, canottiera e mutande! L'onda fatale da dietro l'ha buttato in terra....",
+      "author": "Giacomo Dolfi",
+      "context": "Le disavventure balneari del patriarca Dolfi in Australia"
+    },
+    {
+      "quote": "O e perche e incinta, o e perche e stronza",
+      "author": "Fausto Petrini",
+      "context": "Diagnosi differenziale sul comportamento della ragazza di Alessio M con l'aria condizionata"
     }
   ],
   "pagelle": [
     {
-      "name": "Giacomo Dolfi",
-      "voto": 8.5,
-      "giudizio": "Festeggia 50 anni dei genitori in Australia: pizza a 30 dollari. Giovanni fa bagno nell'oceano col piumino! 'L'onda fatale da dietro l'ha buttato in terra'. Clima assurdo: 'Ieri diluviato, mattina freschino, pomeriggio sole pieno'. 'Oggi abbiamo superato un camion con 64 gomme'. Cronista australiano.",
-      "messaggi": 22,
-      "mediaGiornaliera": 3.1,
-      "highlights": [
-        "50 anni genitori",
-        "Giovanni col piumino"
-      ],
-      "citazioneTop": "Oggi abbiamo superato un camion che aveva solo 64 gomme"
-    },
-    {
       "name": "Alessio Macalùso",
       "voto": 8.5,
-      "giudizio": "A Malta! Racconto epico della lite per l'aria condizionata: 'La sera ha acceso l'aria a 27 gradi, ha girato le alette verso il suo letto'. 'Mi sono svegliato in un bagno di sudore tipo sacra sindone'. 'Litigato per l'aria alle 4 del mattino'. 'Per lo più degrado e posti bellissimi'. Cronista di vacanze.",
-      "messaggi": 26,
-      "mediaGiornaliera": 3.7,
+      "giudizio": "La Voce della Ragione diventa la Voce della Cronaca Nera. Il racconto della guerra dell'aria condizionata a Malta e pura poesia trash: 'sacra sindone' di sudore, filosofia zen sulle alette del condizionatore, e il tempismo perfetto nel coinvolgere Adriano per fargli assaporare le sue pene. Malta e degrado, dice lui, ma il vero spettacolo e nella camera da letto.",
+      "messaggi": 20,
+      "mediaGiornaliera": 2.9,
       "highlights": [
-        "Malta",
-        "Lite aria condizionata"
+        "Racconto epico della lite sull'aria condizionata",
+        "Filosofia esistenziale: alette vs spostare il letto",
+        "Ha scoperto che a Malta parlano come 'Italian man who went to Malta'"
       ],
       "citazioneTop": "Mi sono svegliato in un bagno di sudore tipo sacra sindone"
     },
     {
+      "name": "Giacomo Dolfi",
+      "voto": 8.0,
+      "giudizio": "Il Fondatore e in Australia e fa invidia a tutti. Tra pizze a 30 dollari, il padre che fa il bagno vestito nell'oceano e camion con 64 gomme, i suoi racconti hanno quel sapore di avventura che fa sospirare chi e rimasto a casa. Si lamenta pure che Lucia ha sbagliato la foto del camion - la moglie perfetta non esiste, nemmeno in Australia.",
+      "messaggi": 15,
+      "mediaGiornaliera": 2.1,
+      "highlights": [
+        "In viaggio in Australia per i 50 anni dei genitori",
+        "Ha documentato il padre che fa il bagno vestito nell'oceano",
+        "Ha avvistato un camion da 64 gomme - foto sbagliata da Lucia"
+      ],
+      "citazioneTop": "Oggi Giovanni ha fatto il bagno nell'oceano indiano munito di piumino, golf, camicia, canottiera e mutande!"
+    },
+    {
       "name": "Cosimo Nenciòni",
       "voto": 8.0,
-      "giudizio": "Malato ma presente! 'Vomito diarrea e febbre a 38, fuori 40 gradi, è un mix faboloso'. Tennis col caccavomito: 'A na certa mi ha fatto ace Lazzaro. Ho visto la morte in faccia'. 'Alla fine il fisico umano è più resiliente del previsto'. 'Tu volevi iffreddo e lei iccaldo?'. Guerriero.",
-      "messaggi": 18,
-      "mediaGiornaliera": 2.6,
+      "giudizio": "Il Provocatore Raffinato si trasforma nel Martire dell'Estate. Febbre, vomito, diarrea e 40 gradi fuori, ma lui che fa? Va a giocare a tennis a mezzogiorno perche evidentemente la vita e troppo lunga. 'Ho visto la morte in faccia' e la frase piu onesta mai pronunciata in questo gruppo. L'ace di Lazzaro e la ciliegina sulla bara.",
+      "messaggi": 12,
+      "mediaGiornaliera": 1.7,
       "highlights": [
-        "Tennis col caccavomito",
-        "Commenti Malta"
+        "Ha rischiato la vita giocando a tennis malato",
+        "Ha subito un ace da Lazzaro nei momenti peggiori",
+        "Diagnosi perfetta: '38 fuori, 40 dentro - mix faboloso'"
       ],
-      "citazioneTop": "Ho visto la morte in faccia"
+      "citazioneTop": "Ho avuto il caccavomito domenica notte e ieri. Febbre a 38.5. Oggi ho avuto la geniale idea di andare a giocare a tennis alle 12.30"
     },
     {
       "name": "Alessio Valentini",
       "voto": 7.5,
-      "giudizio": "Primo giorno in ufficio della sua vita! 'Ufficio all'americana'. 'È un posto dove le startup affittano uffici'. 'Cmq sei fisicato' - 'Ma so una sega, le 15 foto con la buzza non ve le mando'. 'Ne stanno succedendo troppe'. Momento intenso.",
-      "messaggi": 18,
-      "mediaGiornaliera": 2.6,
+      "giudizio": "Il Giramondo segna una data storica: il primo giorno in ufficio della sua vita. Dopo anni di nomadismo digitale, lo vediamo nell'atrio di un coworking americano tra startup in continuo ricambio. 'Cmq sei fisicato' gli dice Fausto vedendo la foto - le 15 con la buzza non ce le ha mandate, purtroppo o per fortuna.",
+      "messaggi": 14,
+      "mediaGiornaliera": 2.0,
       "highlights": [
-        "Primo giorno ufficio",
-        "Sogno americano"
+        "Primo giorno in ufficio della sua vita",
+        "Ha mostrato il 'sogno americano' delle startup",
+        "Ha nascosto le foto con la buzza al gruppo"
       ],
-      "citazioneTop": "Oggi primo giorno in ufficio della mia vita"
+      "citazioneTop": "Io invece oggi primo giorno in ufficio della mia vita"
     },
     {
       "name": "Adriano Sergio Lorenzo Facchini",
-      "voto": 7.5,
-      "giudizio": "'Qualcuno ha uno scooter 50 da dare in prestito? Per un paio di mesi'. 'Foto di famiglia bellissima'. 'Stasera danno Fracchia la belva umana, aspetta fino a domani' a Cocco. 'Se rinasco voglio rinascere Giacomo Dolfi'. 'Foto spiagge? Fiche? Buchi di culo stretti ed elastici?'. Vulcanico.",
-      "messaggi": 18,
-      "mediaGiornaliera": 2.6,
+      "voto": 7.0,
+      "giudizio": "Il Re della Chat e l'unico rimasto a casa e si vede. Cerca disperatamente uno scooter per due mesi (nessuno ce l'ha), commenta invidioso le avventure altrui e chiede ossessivamente foto - spiagge, fiche, persino 'buchi di culo stretti ed elastici'. Il suo 'Se rinasco voglio rinascere Giacomo Dolfi' e il manifesto di chi guarda gli altri vivere.",
+      "messaggi": 12,
+      "mediaGiornaliera": 1.7,
       "highlights": [
-        "Ricerca scooter",
-        "Invidia Giacomo"
+        "Ha cercato uno scooter per due mesi senza successo",
+        "Ha espresso invidia cosmica per Giacomo in Australia",
+        "Ha apprezzato il 'bel resoconto' di Alessio M sulla lite"
       ],
       "citazioneTop": "Se rinasco voglio rinascere Giacomo Dolfi"
     },
     {
       "name": "Fausto Petrini",
-      "voto": 7.0,
-      "giudizio": "A Stia da Elena Petri: 'Stati davvero davvero bene, 0 stress, grandi serate sotto le stelle'. 'Fato bagno in fiume Arno'. 'Fava di lesso' a Cocco. 'Ahhhhh il sogno americano... Cmq sei fisicato'. 'O è perché è incinta, o è perché è stronza' sulla lite di Mac. Vacanziero.",
-      "messaggi": 12,
-      "mediaGiornaliera": 1.7,
+      "voto": 6.5,
+      "giudizio": "Il Trascinatore si gode Stia con bagni nell'Arno e serate sotto le stelle, ospite di Elena Petri. Contribuisce poco alla chat ma quando lo fa e devastante: 'O e perche e incinta, o e perche e stronza' sulla ragazza di Alessio M e una diagnosi da medico di base con specializzazione in crudelta.",
+      "messaggi": 8,
+      "mediaGiornaliera": 1.1,
       "highlights": [
-        "Vacanza Stia",
-        "Battuta incinta/stronza"
+        "Vacanza rilassante a Stia con bagno nell'Arno",
+        "Diagnosi brutale sulla ragazza di Alessio M",
+        "Ha notato che Alessio V e 'fisicato'"
       ],
-      "citazioneTop": "O è perché è incinta, o è perché è stronza"
+      "citazioneTop": "O e perche e incinta, o e perche e stronza"
     }
   ],
   "awards": {
-    "mvp": "Alessio Macalùso",
-    "comico": "Cosimo Nenciòni",
-    "cuore": "Giacomo Dolfi",
-    "fantasma": null
+    "mvp": "Alessio Macalùso - Il racconto della guerra dell'aria condizionata e pura letteratura",
+    "comico": "Cosimo Nenciòni - Giocare a tennis a 40 gradi con febbre e vomito e da premio Darwin",
+    "cuore": "Giacomo Dolfi - Porta i genitori in Australia e racconta le loro disavventure con affetto",
+    "fantasma": "Nessuno - Tutti dispersi per il mondo ma tutti connessi"
   }
 }

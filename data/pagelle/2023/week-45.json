@@ -4,106 +4,122 @@
   "startDate": "2023-11-06",
   "endDate": "2023-11-12",
   "stats": {
-    "totalMessages": 106,
+    "totalMessages": 71,
     "activeMembers": 6,
-    "avgPerMember": 17.7
+    "avgPerMember": 11.8
   },
-  "riassunto": "Settimana del metalmeccanico ivoriano e degli occhiali di Gino! Fausto manda cartello 'divieto d'accesso': 'Quando lo vedo mi viene subito il buonumore'. Alessio V.: 'E per questo hai buone possibilita' di divenire leader'. Adriano perplesso: 'Perche' questo cartello mette Fausto di buon umore? Questo ragazzo e' proprio strano'. Fausto spiega: 'Il significato non e' non passare di qui, ma se provi a entrare trovi un metalmeccanico ivoriano che ti vocia dietro e forse ti mena con le sue manone'. Notizia triste: Gino deve mettere gli occhiali! 'Ipermetropia che non gli ha fatto sviluppare la vista da un occhio'. Tutti solidali. Cocco: 'Io uguale, li ho messi a 6 anni fino ai 30'. Discussione sull'operazione al setto nasale: Mac: 'I 5 giorni piu' brutti della mia vita. Ma poi si sta meglio'. Alessio V. a New York per la maratona del Lorenzini. 'Scusate l'off topic, ma insomma io ero la'' con foto Times Square. Cocco malato: 'Sto di merda'. Adriano: 'Come fai ad ammalarti cosi' tanto?'. Cocco: 'Duenne in casa che distribuisce microbi'.",
+  "riassunto": "Settimana intensa tra nasi rotti, occhi pigri e viaggi oltreoceano. Si apre con un enigmatico cartello di RoboCop con la manona nera che mette Fausto di buon umore in onore di Pasquale. Mercoledi' arriva la notizia che il piccolo Gino dovra' portare gli occhiali per ipermetropia e il gruppo si stringe intorno al padre con storie di occhiali e operazioni. Alessio V. fa capolino da New York dove ha accompagnato il Lorenzini per la maratona. La discussione degenera in un confronto dettagliatissimo sulle operazioni al setto nasale: Cosimo malato di sinusite vorrebbe operarsi ma ha paura, mentre i due Alessio lo terrorizzano ulteriormente con racconti di nasi messi su tavoli e tampax nasali. Chiude la settimana Cosimo che celebra il premio del Financial Times a Banca Generali con un elegante 'we don't fry with water'.",
   "bestQuotes": [
     {
-      "quote": "Se provi a entrare trovi un metalmeccanico ivoriano che ti vocia dietro, si incazza e forse ti mena con le sue manone",
+      "quote": "...perche' il significato non e' 'non passare di qui', ma 'se provi a entrare trovi un metalmeccanico ivoriano che ti vocia dietro, si incazza e forse ti mena con le sue manone'",
       "author": "Fausto Petrini",
-      "context": "Spiegazione cartello"
+      "context": "Spiegazione filosofica sul perche' il cartello di RoboCop lo mette di buon umore"
     },
     {
-      "quote": "I 5 giorni piu' brutti della mia vita. Ma poi si sta meglio",
-      "author": "Alessio Macalùso",
-      "context": "Operazione setto nasale"
+      "quote": "Operazione: i 5 giorni piu' brutti della mia vita",
+      "author": "Alessio Macaluso",
+      "context": "Incoraggiamento motivazionale a Cosimo sull'operazione al setto nasale"
     },
     {
-      "quote": "Il combinato disposto di un setto nasale deviato e di una duenne in casa che distribuisce microbi e virus",
+      "quote": "Le mie foto che sono gonfio per giorni dopo l'operazione e' perche' io ho fatto una grossa operazione, non solo i turbinati, a me hanno tagliato il naso, mi hanno messo il naso su un tavolo e rimesso dentro",
+      "author": "Alessio Valentini",
+      "context": "Racconto horror che sicuramente ha convinto Cosimo a operarsi"
+    },
+    {
+      "quote": "we don't fry with water",
       "author": "Cosimo Nenciòni",
-      "context": "Perche' si ammala sempre"
+      "context": "Commento elegante al premio del Financial Times a Banca Generali"
+    },
+    {
+      "quote": "Top of the pop corn!",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Risposta entusiasta al traguardo professionale di Cosimo"
     }
   ],
   "pagelle": [
     {
-      "name": "Fausto Petrini",
-      "voto": 8.5,
-      "giudizio": "Il metalmeccanico ivoriano! 'Quando lo vedo mi viene il buonumore'. Spiegazione epica del cartello con le manone. 'Bog tegols: il poro Gino dovra' mettere gli occhiali'. 'Ipermetropia'. 'Visita dall'oculista di routine'. 'Sciacqui nasali, due volte al di''. 'Sheet, it happens'. 'Lacrime'. Padre preoccupato e ironico.",
-      "messaggi": 22,
-      "mediaGiornaliera": 3.1,
-      "highlights": [
-        "Metalmeccanico ivoriano",
-        "Occhiali Gino"
-      ],
-      "citazioneTop": "Trovi un metalmeccanico ivoriano che ti vocia dietro e ti mena con le sue manone"
-    },
-    {
-      "name": "Cosimo Nenciòni",
-      "voto": 8.5,
-      "giudizio": "'Porca puttana' sugli occhiali. 'Io uguale a lui, li ho messi a 6 anni fino ai 30'. 'E' pieno il mondo di quattrocchi'. 'Avoja, sto di merda'. 'Il combinato disposto di un setto nasale deviato e di una duenne che distribuisce microbi'. 'Dovrei operarmi ma ho paura'. 'We don't fry with water' su Banca Generali. Malato ma presente.",
-      "messaggi": 18,
-      "mediaGiornaliera": 2.6,
-      "highlights": [
-        "Solidarieta' Gino",
-        "Paura operazione"
-      ],
-      "citazioneTop": "Una duenne in casa che distribuisce microbi e virus"
-    },
-    {
       "name": "Alessio Valentini",
-      "voto": 8.0,
-      "giudizio": "'E per questo hai buone possibilita' di divenire leader'. 'C'e' RoboCop con la manona nera'. A New York! 'Scusate l'off topic, ma insomma io ero la'' - foto Times Square. 'Sono a New York perche' il Lorenzini era qua a fare la maratona'. Sull'operazione: 'Sono incazzato nero che l'ho fatto cosi' tardi'. Viaggiatore e testimonial.",
+      "voto": 8.5,
+      "giudizio": "Il giramondo colpisce ancora: dalla maratona di New York alla sala operatoria immaginaria. Ha il talento unico di raccontare un intervento al naso come se fosse un film dell'orrore di Dario Argento. 'Mi hanno messo il naso su un tavolo' restera' negli annali. Presente su tutti i fusi orari, sempre pronto a condividere esperienze che nessuno ha chiesto.",
       "messaggi": 20,
       "mediaGiornaliera": 2.9,
       "highlights": [
-        "New York",
-        "Esperienza operazione"
+        "Collegamento live da New York per la maratona",
+        "Racconto epico dell'operazione nasale",
+        "Tentativo fallito di rassicurare Cosimo"
       ],
-      "citazioneTop": "Scusate l'off topic, ma insomma io ero la'"
+      "citazioneTop": "mi hanno messo il naso su un tavolo e rimesso dentro"
     },
     {
-      "name": "Alessio Macalùso",
+      "name": "Fausto Petrini",
       "voto": 8.0,
-      "giudizio": "'Esatto'. 'Probabile prossimo lider'. 'Bravi tutti ragazzi mi mettete in difficolta''. 'E che sara' mai, li abbiamo portati tutti'. 'Operazione: i 5 giorni piu' brutti della mia vita. Ma poi si sta meglio. Ho parlato'. 'Io andai a scuola in pantofole una volta'. 'It happens'. Solidale e esperto di nasi.",
-      "messaggi": 16,
-      "mediaGiornaliera": 2.3,
+      "giudizio": "Due grandi momenti questa settimana: l'analisi semiotica del cartello di RoboCop degna di Umberto Eco e la condivisione della diagnosi di Gino. Ha ricevuto l'abbraccio virtuale del gruppo con dignita'. Il metalmeccanico ivoriano che vocia e' gia' un cult. 'Sheet, it happens' diventa il nuovo mantra genitoriale.",
+      "messaggi": 12,
+      "mediaGiornaliera": 1.7,
       "highlights": [
-        "Esperienza operazione",
-        "Pantofole a scuola"
+        "Interpretazione filosofica del cartello",
+        "Condivisione della diagnosi di Gino",
+        "Consigli medici sugli sciacqui nasali"
       ],
-      "citazioneTop": "I 5 giorni piu' brutti della mia vita. Ma poi si sta meglio"
+      "citazioneTop": "se provi a entrare trovi un metalmeccanico ivoriano che ti vocia dietro"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 7.5,
+      "giudizio": "Protagonista involontario: malato di sinusite, terrorizzato all'idea di operarsi, ma comunque capace di chiudere la settimana con classe. Il suo 'we don't fry with water' dopo il premio del Financial Times e' puro stile. Ha paura del dolore fisico ma non di condividerlo col gruppo. Il suo babbo col naso torto e' una figura mitologica.",
+      "messaggi": 13,
+      "mediaGiornaliera": 1.9,
+      "highlights": [
+        "Solidarieta' immediata per il piccolo Gino",
+        "Confessione sulla paura dell'operazione",
+        "Celebrazione del premio FT a Banca Generali"
+      ],
+      "citazioneTop": "we don't fry with water"
+    },
+    {
+      "name": "Alessio Macaluso",
+      "voto": 7.0,
+      "giudizio": "La Voce della Ragione... che pero' questa settimana ha parlato di pantofole a scuola e operazioni traumatiche. Il suo 'Ho parlato' dopo aver descritto i 5 giorni piu' brutti della sua vita e' cinema. Sdrammatizza sempre, ma forse questa volta ha terrorizzato Cosimo piu' di Alessio V. La maledizione del setto deviato colpisce ancora.",
+      "messaggi": 11,
+      "mediaGiornaliera": 1.6,
+      "highlights": [
+        "Aneddoto delle pantofole a scuola",
+        "Racconto traumatico dell'operazione",
+        "Solidarieta' per Gino e gli occhiali"
+      ],
+      "citazioneTop": "Operazione: i 5 giorni piu' brutti della mia vita. Ma poi si sta meglio"
     },
     {
       "name": "Adriano Sergio Lorenzo Facchini",
-      "voto": 7.5,
-      "giudizio": "'Perche' questo cartello mette Fausto di buon umore? Questo ragazzo e' proprio strano'. 'Mi spiace, in un attimo li togliera' e sara' perfetto' su Gino. Storia degli occhiali: 'Messi in seconda elementare, mai messi, rimessi, operazione 2016'. 'Come fai ad ammalarti cosi' tanto?'. 'Oppure smettere di fumare'. 'Top of the pop corn!'. Perplesso e medico.",
-      "messaggi": 14,
-      "mediaGiornaliera": 2.0,
+      "voto": 7.0,
+      "giudizio": "Il Re della Chat non delude: presente in ogni discussione, dalla semiotica dei cartelli alle operazioni nasali. Il suo racconto degli occhiali mai messi dalle elementari alle superiori e' un classico di autodenuncia. 'Top of the pop corn' per il premio di Cosimo dimostra che sa celebrare i successi altrui con creativita' linguistica unica.",
+      "messaggi": 9,
+      "mediaGiornaliera": 1.3,
       "highlights": [
-        "Perplessita' cartello",
-        "Storia occhiali"
+        "Storia autobiografica degli occhiali mai portati",
+        "Descrizione tecnica dell'operazione nasale di Alessio V.",
+        "Congratulazioni creative a Cosimo"
       ],
-      "citazioneTop": "Questo ragazzo e' proprio strano"
+      "citazioneTop": "Top of the pop corn!"
     },
     {
       "name": "Giacomo Dolfi",
-      "voto": 7.0,
-      "giudizio": "'Non sono l'unico ad averlo pensato' sul lider. 'Grazie! Siamo tutti bravi! Soprattutto Pasquale'. 'Porca miseria, meno male l'avete scoperto presto' su Gino. 'Io mai messi' gli occhiali. 'Ma grandissimo! Che spettacolo' su New York. Presente e solidale.",
-      "messaggi": 10,
-      "mediaGiornaliera": 1.4,
+      "voto": 6.5,
+      "giudizio": "Il Fondatore interviene con precisione chirurgica: solidarieta' per Gino, entusiasmo per New York ('Ma grandissimo!'), e la perla 'Io mai messi' sugli occhiali. Poche parole ma sempre al momento giusto. La sua presenza e' quella del patriarca benevolo che osserva e benedice.",
+      "messaggi": 6,
+      "mediaGiornaliera": 0.9,
       "highlights": [
-        "Commento lider",
-        "Solidarieta' Gino"
+        "Solidarieta' immediata per la diagnosi di Gino",
+        "Entusiasmo per il viaggio a New York",
+        "Vanto di non aver mai portato occhiali"
       ],
-      "citazioneTop": "Siamo tutti bravi! Soprattutto Pasquale"
+      "citazioneTop": "Ma grandissimo!"
     }
   ],
   "awards": {
-    "mvp": "Fausto Petrini",
-    "comico": "Cosimo Nenciòni",
-    "cuore": "Alessio Macalùso",
-    "fantasma": null
+    "mvp": "Alessio Valentini - Per il collegamento intercontinentale e il racconto horror dell'operazione",
+    "comico": "Fausto Petrini - Il metalmeccanico ivoriano che vocia e' poesia",
+    "cuore": "Tutti - Per il sostegno collettivo a Fausto sulla diagnosi di Gino",
+    "fantasma": "Nessuno - Settimana di partecipazione corale"
   }
 }

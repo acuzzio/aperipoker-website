@@ -4,106 +4,122 @@
   "startDate": "2023-05-29",
   "endDate": "2023-06-04",
   "stats": {
-    "totalMessages": 45,
+    "totalMessages": 40,
     "activeMembers": 6,
-    "avgPerMember": 7.5
+    "avgPerMember": 6.7
   },
-  "riassunto": "Settimana del compleanno di Fausto e dell'idolo di Stanford! Adriano fa gli auguri alle 3:46 di notte: 'Auguri al vecchio Fausto che ha compiuto 41 anni e comincia il cammino nei 42!' Fausto filosofeggia: 'Il cammino verso i 42 è in realtà il cammino della vita'. Alessio V. incontra Leonard Susskind a Stanford: 'Ho appena incontrato uno dei miei idoli... sono andato a dirgli che gli voglio bene'. Mac chiede: 'E lui? Era contento di avere un fan?' Giacomo al matrimonio col farfallino: Fausto nota 'Mano sul colore il Dolfi... culo'. Adriano a Genova: 'I vostri matrimoni sono stati parecchio più divertenti'.",
+  "riassunto": "Settimana che si apre con gli auguri notturni di Adriano a Fausto per i suoi 41 anni - alle 3:46 del mattino, perche il Re della Chat non dorme mai. Fausto risponde con una riflessione filosofica degna di un monaco tibetano: 'il cammino verso i 42 e' in realta' il cammino della vita'. Il momento clou arriva quando Alessio Valentini, dal suo esilio californiano, annuncia di aver incontrato uno dei suoi idoli: Leonard Susskind, leggendario professore di Stanford che nel 2011 mise online i corsi di meccanica quantistica gratuiti. Alessio confessa che senza quei corsi 'col cazzo che capivo la meta' delle cose, a Siena il corso era ridicolo'. Cosimo, annoiato dal 2016 a sua detta, chiede il nome per cercarlo su internet. Nel weekend il gruppo commenta le foto di un evento elegante (matrimonio? battesimo?) con Giacomo in farfallino. Adriano da Genova sentenzia che 'i vostri matrimoni sono stati parecchio piu' divertenti'.",
   "bestQuotes": [
     {
-      "quote": "Il cammino verso i 42 è in realtà il cammino della vita, in cui un numero in più o meno è solo una convenzione",
+      "quote": "Il cammino verso i 42 e' in realta' il cammino della vita, in cui un numero in piu' o meno e' solo una convenzione, ma anche l'occasione buona per fare bilanci",
       "author": "Fausto Petrini",
-      "context": "Riflessione filosofica sul compleanno"
+      "context": "Fausto risponde agli auguri di compleanno alle 4 di mattina con saggezza da monaco zen"
     },
     {
-      "quote": "Senza quelli col cazzo che capivo la metà delle cose, a Siena il corso era ridicolo",
-      "author": "Alessio Valentini",
-      "context": "Sui corsi di Susskind vs Siena"
-    },
-    {
-      "quote": "L'ultima volta che mi so annoiato era tipo il 2016",
+      "quote": "L ultima volta che mi so annoiato era tipo il 2016",
       "author": "Cosimo Nenciòni",
-      "context": "Risposta ad Adriano"
+      "context": "Cosimo risponde ad Adriano che gli chiedeva se si annoiasse"
+    },
+    {
+      "quote": "Senza quelli col cazzo che capivo la meta' delle cose, a Siena il corso era ridicolo",
+      "author": "Alessio Valentini",
+      "context": "Alessio parla dei corsi online di Susskind che lo hanno salvato dall'incompetenza accademica senese"
+    },
+    {
+      "quote": "Ho dovuto cercare su google anche lex Friedman",
+      "author": "Alessio Macalùso",
+      "context": "Alessio Mac ammette candidamente la sua ignoranza sui podcaster famosi"
+    },
+    {
+      "quote": "I vostri matrimoni sono stati parecchio piu' divertenti",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Adriano commenta da Genova dopo un matrimonio evidentemente noioso"
     }
   ],
   "pagelle": [
     {
-      "name": "Adriano Sergio Lorenzo Facchini",
-      "voto": 8.0,
-      "giudizio": "Auguri notturni a Fausto alle 3:46. 'Ti annoi?' a Cocco. A Genova per matrimonio: 'I vostri matrimoni sono stati parecchio più divertenti'. 'Bella cravatta' e 'Bella Lucia' sui look del matrimonio. Sempre attento ai dettagli.",
-      "messaggi": 12,
-      "mediaGiornaliera": 1.7,
-      "highlights": [
-        "Auguri notturni",
-        "Matrimonio a Genova"
-      ],
-      "citazioneTop": "I vostri matrimoni sono stati parecchio più divertenti"
-    },
-    {
       "name": "Alessio Valentini",
       "voto": 8.5,
-      "giudizio": "Incontra il suo idolo Leonard Susskind a Stanford: 'L'ho visto e sono andato a dirgli che gli voglio bene'. Spiega l'importanza: 'Senza quelli col cazzo che capivo la metà delle cose'. 'È anche stato intervistato da Lex Friedman'. Momento magico per il fisico.",
-      "messaggi": 12,
-      "mediaGiornaliera": 1.7,
-      "highlights": [
-        "Incontro con Susskind",
-        "Critica a UniSiena"
-      ],
-      "citazioneTop": "Ragazzi ho appena incontrato uno dei miei idoli... sono andato a dirgli che gli voglio bene"
-    },
-    {
-      "name": "Fausto Petrini",
-      "voto": 7.5,
-      "giudizio": "Compie 41 anni e filosofeggia: 'Il cammino verso i 42 è in realtà il cammino della vita'. 'Bella cravatta' e 'Bel farfallino' sui look. 'Mano sul colore il Dolfi... culo'. A Siena per il compleanno. Saggio e ironico.",
-      "messaggi": 8,
-      "mediaGiornaliera": 1.1,
-      "highlights": [
-        "Compleanno filosofico",
-        "Battute sui look"
-      ],
-      "citazioneTop": "Il cammino verso i 42 è in realtà il cammino della vita"
-    },
-    {
-      "name": "Alessio Macalùso",
-      "voto": 7.0,
-      "giudizio": "'Entrambi molto saggi' su Adriano e Fausto. 'E lui? Era contento di avere un fan?' su Susskind. 'Ho dovuto cercare su google anche Lex Friedman'. 'Come i vips'. Auguri al matrimonio: 'Bel damerino'. Curioso e partecipe.",
+      "giudizio": "Il giramondo dalla California ci regala il momento piu' nerd della settimana: l'incontro con Leonard Susskind, il suo idolo accademico. La gioia genuina nel raccontare che 'l'ho visto e sono andato a dirgli che gli voglio bene' e' commovente. Poi svela che l'universita' di Siena faceva corsi ridicoli e che senza i video di Stanford sarebbe ancora li' a non capire nulla. Uno che critica la sua alma mater mentre idolatra un prof americano: il Valentini in purezza.",
       "messaggi": 10,
       "mediaGiornaliera": 1.4,
       "highlights": [
-        "Domande su Susskind",
-        "Auguri matrimonio"
+        "Ha incontrato Leonard Susskind e gli ha detto che lo ama",
+        "Ha demolito il corso di meccanica quantistica di Siena",
+        "E' stato fotografato da uno dei ragazzi del gruppo di Susskind"
       ],
-      "citazioneTop": "Ho dovuto cercare su google anche Lex Friedman"
+      "citazioneTop": "Senza quelli col cazzo che capivo la meta' delle cose, a Siena il corso era ridicolo"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 8.0,
+      "giudizio": "Il Re della Chat conferma la sua fama di nottambulo facendo gli auguri a Fausto alle 3:46 del mattino. Poi commenta il matrimonio genovese con la consueta franchezza: 'i vostri matrimoni erano piu' divertenti'. Ha tenuto attiva la chat in momenti morti e ha dimostrato che il suo ciclo sonno-veglia non segue le convenzioni umane. Se esiste un messaggio da mandare alle 4 di notte, Adriano lo mandera'.",
+      "messaggi": 9,
+      "mediaGiornaliera": 1.3,
+      "highlights": [
+        "Auguri di compleanno alle 3:46 di notte",
+        "Commento cinico sul matrimonio genovese",
+        "Presenza costante in orari improbabili"
+      ],
+      "citazioneTop": "I vostri matrimoni sono stati parecchio piu' divertenti"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 7.5,
+      "giudizio": "Lo zen master interviene con la consueta parsimonia ma sempre con precisione. Il suo 'Entrambi molto saggi' alle 4:24 di mattina suggella lo scambio filosofico notturno tra Adriano e Fausto. Poi confessa candidamente di aver dovuto googlare sia Susskind che Lex Friedman - l'onesta' intellettuale che non ti aspetti. Chiude con un 'Do sei?' ad Adriano che e' un capolavoro di sintesi toscana.",
+      "messaggi": 8,
+      "mediaGiornaliera": 1.1,
+      "highlights": [
+        "Ha commentato con saggezza il momento filosofico notturno",
+        "Ha ammesso di non conoscere Lex Friedman",
+        "Presente anche alle 4 di mattina"
+      ],
+      "citazioneTop": "Ho dovuto cercare su google anche lex Friedman"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 7.0,
+      "giudizio": "Il festeggiato della settimana compie 41 anni e risponde agli auguri notturni con una riflessione filosofica da premio Nobel per la pace. 'Il cammino verso i 42 e' il cammino della vita' - Fausto trasforma il compleanno in un'occasione per meditare sull'esistenza. Propone anche un mercoledi sera a Siena, ovviamente ignorato. Il trascinatore anche quando festeggia pensa a organizzare.",
+      "messaggi": 5,
+      "mediaGiornaliera": 0.7,
+      "highlights": [
+        "Ha compiuto 41 anni con saggezza zen",
+        "Ha proposto serata a Siena (ignorata)",
+        "Ha commentato le foto del matrimonio con eleganza"
+      ],
+      "citazioneTop": "Il cammino verso i 42 e' in realta' il cammino della vita"
     },
     {
       "name": "Cosimo Nenciòni",
       "voto": 7.0,
-      "giudizio": "'Nome? Tanto per cercarlo su internet' su Susskind. 'L'ultima volta che mi so annoiato era tipo il 2016'. 'Molto bello' e 'Che porco' sui look del matrimonio. Laconico ma presente.",
-      "messaggi": 6,
-      "mediaGiornaliera": 0.9,
-      "highlights": [
-        "Battuta sulla noia",
-        "Commenti matrimonio"
-      ],
-      "citazioneTop": "L'ultima volta che mi so annoiato era tipo il 2016"
-    },
-    {
-      "name": "Giacomo Dolfi",
-      "voto": 7.0,
-      "giudizio": "'Voleva sicuramente dire Alan' su Lex Friedman. Protagonista del matrimonio col farfallino. 'Lì sole, all'Arbia diluvia'. Look elegante apprezzato da tutti.",
+      "giudizio": "Il provocatore raffinato colpisce con la battuta della settimana: 'L'ultima volta che mi so annoiato era tipo il 2016'. Chiede il nome di Susskind 'tanto per cercarlo su internet' dimostrando quella curiosita' disinteressata che lo caratterizza. Commenta 'Molto bello' e 'Che porco' con quella sintesi che vale piu' di mille parole. Pochi messaggi ma tutti a segno.",
       "messaggi": 5,
       "mediaGiornaliera": 0.7,
       "highlights": [
-        "Matrimonio col farfallino",
-        "Battuta su Alan Friedman"
+        "Ha dichiarato di non annoiarsi dal 2016",
+        "Ha chiesto info su Susskind con nonchalance",
+        "Commenti chirurgici sulle foto"
+      ],
+      "citazioneTop": "L ultima volta che mi so annoiato era tipo il 2016"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 6.5,
+      "giudizio": "Il fondatore emerge dalla nebbia di Poggibonsi per condividere foto di un evento elegante (farfallino d'ordinanza) e per lanciare la battuta su Alan Friedman. Quando Alessio Mac confessa di aver googlato Lex Friedman, Giacomo sentenzia: 'Voleva sicuramente dire Alan'. Tre messaggi, ma tutti calibrati con la precisione di un orologiaio svizzero. Il patriarca osserva e colpisce quando serve.",
+      "messaggi": 3,
+      "mediaGiornaliera": 0.4,
+      "highlights": [
+        "Ha condiviso foto in farfallino da evento elegante",
+        "Ha lanciato la battuta su Alan Friedman",
+        "Aggiornamento meteo: sole li, diluvio all'Arbia"
       ],
       "citazioneTop": "Voleva sicuramente dire Alan"
     }
   ],
   "awards": {
-    "mvp": "Alessio Valentini",
-    "comico": "Fausto Petrini",
-    "cuore": "Adriano Sergio Lorenzo Facchini",
-    "fantasma": null
+    "mvp": "Alessio Valentini - L'incontro con il suo idolo Susskind e la critica all'universita' di Siena sono momenti di puro oro",
+    "comico": "Cosimo Nenciòni - 'L'ultima volta che mi so annoiato era tipo il 2016' e' poesia esistenziale",
+    "cuore": "Adriano Sergio Lorenzo Facchini - Auguri di compleanno alle 3:46 di notte, questo e' vero affetto",
+    "fantasma": "Giacomo Dolfi - Tre messaggi ma tutti perfetti, il fondatore sa quando parlare"
   }
 }

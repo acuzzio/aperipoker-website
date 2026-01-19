@@ -8,100 +8,110 @@
     "activeMembers": 6,
     "avgPerMember": 13.5
   },
-  "riassunto": "Cattura di Messina Denaro e ironia sulla Meloni. Alessio V. finisce in ospedale per la pressione alta ma poi tutto rientra. Grande discussione sul concerto di Robbie Williams a Bologna: Giacomo ci va con Lucia e viene interrogato sul 'percorso psicologico' che lo ha portato fin lì. ChatGPT fa la sua prima apparizione nel gruppo. Nevica a Siena.",
+  "riassunto": "Una settimana che inizia con l'arresto storico di Matteo Messina Denaro, accolto con commenti ironici sulla Meloni e la destra. Ma il vero protagonista e' stato Giacomo, smascherato mentre cercava di nascondere la sua partecipazione al concerto di Robbie Williams a Bologna. Il gruppo lo ha sottoposto a un interrogatorio degno della Stasi, chiedendo video di balli, canti e soprattutto l'iter psicologico che lo ha portato fin la'. Alessio Valentini ha spaventato tutti con un passaggio in ospedale per la pressione, ma poi tutto e' rientrato. Fausto ha filosofeggiato, Cosimo ha avuto una giornata dimmerda, e Adriano ha rispolverato i ricordi di Ventotene 2006 con orecchini di cocco persi.",
   "bestQuotes": [
-    {
-      "quote": "Tu non capici la grandezza di un concerto così",
-      "author": "Giacomo Dolfi",
-      "context": "Frase attribuita (falsamente secondo lui) da Fausto sul concerto di Robbie Williams"
-    },
     {
       "quote": "Ti ha fatto cacare sotto. Ecco che.",
       "author": "Cosimo Nenciòni",
-      "context": "Commento sulla pressione di Alessio V. tornata normale dopo lo spavento"
+      "context": "Diagnosi medica alternativa per la pressione di Alessio"
     },
     {
-      "quote": "Manda qualche foto e soprattutto scrivici due righe sull'iter psiocologico che hai fatto per arrivare fino a Bologna a vedere Robbie.",
+      "quote": "Più invecchi, più ti inventi le cazzate",
+      "author": "Giacomo Dolfi",
+      "context": "Risposta epica a Fausto che gli attribuiva frasi mai dette"
+    },
+    {
+      "quote": "Guarda, é stato un iter molto complesso, non é facile da spiegare per messaggio",
+      "author": "Giacomo Dolfi",
+      "context": "Sull'iter psicologico che lo ha portato a vedere Robbie Williams"
+    },
+    {
+      "quote": "Perchè la madre dei cretini è sempre incinta, e il cretino cade sulla schiena e si sbuccia il naso",
+      "author": "Fausto Petrini",
+      "context": "Perla di saggezza popolare consolatoria"
+    },
+    {
+      "quote": "Orecchìni di cocco perso nel tuffo del giudizio di Dio",
       "author": "Adriano Sergio Lorenzo Facchini",
-      "context": "Interrogatorio goliardico a Giacomo"
+      "context": "Memoria epica di Ventotene 2006"
     }
   ],
   "pagelle": [
     {
-      "name": "Adriano Sergio Lorenzo Facchini",
+      "name": "Giacomo Dolfi",
       "voto": 8.5,
-      "giudizio": "Dominatore assoluto. Parte con l'ironia sulla Meloni e Messina Denaro, poi orchestra un interrogatorio epico su Giacomo e Robbie Williams. 'Ti sei scritto robbie sulle gote?' è poesia. Non molla finché non sa chi ha avuto l'idea del concerto.",
-      "messaggi": 22,
-      "mediaGiornaliera": 3.1,
+      "giudizio": "Il Lider Maximo e' stato il vero protagonista involontario della settimana. Beccato al concerto di Robbie Williams a Bologna, ha cercato di difendersi con dignita' da un gruppo che voleva video di balli, confessioni scritte sulle guance e spiegazioni psicologiche. La sua risposta sull'iter complesso e' poesia pura. Ha ammesso che il concerto era bello (Palazzetto super!) e che Lucia lo aveva convinto - ma ha anche smentito con classe le frasi inventate da Fausto.",
+      "messaggi": 11,
+      "mediaGiornaliera": 1.6,
       "highlights": [
-        "Interrogatorio su Giacomo e Robbie Williams",
-        "Ironia politica sulla cattura di Messina Denaro"
+        "Andato a vedere Robbie Williams a Bologna e sopravvissuto all'interrogatorio del gruppo",
+        "Smentito Fausto con una delle migliori frasi della settimana"
       ],
-      "citazioneTop": "Ti sei scritto robbie sulle gote?"
+      "citazioneTop": "Guarda, é stato un iter molto complesso, non é facile da spiegare per messaggio"
     },
     {
-      "name": "Alessio Valentini",
-      "voto": 7.5,
-      "giudizio": "Settimana complicata tra ospedale e pressione alle stelle. Ma il gruppo lo supporta e lui reagisce con ironia: 'Avere la minima come uno deve avere la massima'. Apprezza la cover degli Oasis di Robbie. Uomo di gusto anche sotto stress.",
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 8.0,
+      "giudizio": "Il fiume in piena ha guidato sia la discussione politica che l'interrogatorio su Robbie Williams con la dedizione di un pubblico ministero. Ha commentato sarcasticamente l'arresto di Messina Denaro, rispolverato ricordi mitici di Ventotene con orecchini di cocco, e non ha mollato Giacomo finche' non ha confessato chi fosse l'ideatore della trasferta bolognese. Instancabile anche alle 5 di mattina.",
       "messaggi": 18,
       "mediaGiornaliera": 2.6,
       "highlights": [
-        "Racconto dello spavento per la pressione",
-        "Commenti musicali pertinenti su Robbie"
+        "Ha guidato l'interrogatorio su Robbie Williams con determinazione",
+        "Ha evocato i mitici ricordi di Ventotene 2006"
       ],
-      "citazioneTop": "Avere la minima come uno deve avere la massima. Non male"
-    },
-    {
-      "name": "Giacomo Dolfi",
-      "voto": 7.0,
-      "giudizio": "Protagonista involontario. Va a vedere Robbie Williams e viene sottoposto a un terzo grado. Si difende con dignità: 'É stato un iter molto complesso, non é facile da spiegare per messaggio'. Ammette infine che l'idea era di Lucia. Caso chiuso.",
-      "messaggi": 14,
-      "mediaGiornaliera": 2.0,
-      "highlights": [
-        "Difesa eroica del concerto di Robbie",
-        "Confessione finale sull'idea di Lucia"
-      ],
-      "citazioneTop": "É stato un iter molto complesso, non é facile da spiegare per messaggio"
-    },
-    {
-      "name": "Fausto Petrini",
-      "voto": 7.0,
-      "giudizio": "Porta ChatGPT nel gruppo ('Matrix, le origini') e alimenta il fuoco su Giacomo: 'Vi dico solo che mi ha detto: tu non capici la grandezza di un concerto così'. Provocatore raffinato. Supporta Alessio V. con la pressione.",
-      "messaggi": 14,
-      "mediaGiornaliera": 2.0,
-      "highlights": [
-        "Introduce ChatGPT nel gruppo",
-        "Alimenta il caso Robbie Williams"
-      ],
-      "citazioneTop": "Aspetto solo vi dica quanto gli è costato"
+      "citazioneTop": "Manda qualche foto e soprattutto scrivici due righe sull'iter psiocologico che hai fatto per arrivare fino a Bologna a vedere Robbie"
     },
     {
       "name": "Cosimo Nenciòni",
-      "voto": 7.0,
-      "giudizio": "Pochi messaggi ma centrati. 'Ti ha fatto cacare sotto' ad Alessio V. è diagnosi perfetta. 'Giec sul pezzo' sul concerto. Chiede ad Alessio com'è andata dal dottore: empatico sotto la corazza sarcastica.",
+      "voto": 7.5,
+      "giudizio": "Con la solita efficienza chirurgica, ha piazzato la diagnosi della settimana quando Alessio ha raccontato dei problemi di pressione: 'Ti ha fatto cacare sotto. Ecco che.' Poche parole ma letali. Ha avuto una giornata dimmerda il giovedi' ma si e' ripreso per prendere in giro Giacomo con un lapidario 'Giec sul pezzo'. Il suo consiglio di rivolgersi ad Adriano per consigli medici e' puro veleno.",
       "messaggi": 9,
       "mediaGiornaliera": 1.3,
       "highlights": [
-        "Supporto ad Alessio V. per la pressione",
-        "Commenti secchi ma efficaci"
+        "Diagnosi alternativa memorabile per la pressione di Alessio",
+        "Ha suggerito sarcasticamente di chiedere consigli ad Adriano"
       ],
       "citazioneTop": "Ti ha fatto cacare sotto. Ecco che."
     },
     {
+      "name": "Fausto Petrini",
+      "voto": 7.0,
+      "giudizio": "Il trascinatore ha avuto una settimana variegata: ha dispensato proverbi popolari sulla madre dei cretini, ha condiviso l'articolo su ChatGPT annunciando 'Matrix, le origini', e ha fatto da informatore svelando il segreto di Giacomo su Robbie Williams. Peccato che si sia inventato frasi mai dette ('tu non capici la grandezza di un concerto cosi') - ma questo ha reso tutto piu' divertente.",
+      "messaggi": 11,
+      "mediaGiornaliera": 1.6,
+      "highlights": [
+        "Ha svelato il segreto del concerto di Robbie Williams",
+        "Ha condiviso il primo articolo su ChatGPT del gruppo - visionario"
+      ],
+      "citazioneTop": "E vi dico solo che mi ha detto: tu non capici la grandezza di un concerto così"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 6.5,
+      "giudizio": "Il giramondo ha spaventato tutti con la notizia dell'ospedale per la pressione troppo alta, ma poi si e' ripreso ('125/85 che per me e' super'). Ha esultato per l'arresto di Messina Denaro, partecipato alla presa in giro di Giacomo con genuino stupore, e ha fatto l'intenditore notando che Robbie ha fatto una cover degli Oasis. Tre giorni di malattia meritati, anche solo per lo spavento.",
+      "messaggi": 16,
+      "mediaGiornaliera": 2.3,
+      "highlights": [
+        "Ha raccontato del passaggio in ospedale per la pressione",
+        "Ha notato la cover degli Oasis al concerto di Robbie"
+      ],
+      "citazioneTop": "Avere la minima come uno deve avere la massima. Non male"
+    },
+    {
       "name": "Alessio Macalùso",
       "voto": 6.0,
-      "giudizio": "Zen come sempre. 'Nevica!' è il suo contributo meteorologico. Organizza la logistica per la cena del 3 febbraio. 'Mando turni' è il massimo dell'efficienza. Quando dice 'Assolutamente' sai che ha ragione.",
-      "messaggi": 4,
-      "mediaGiornaliera": 0.6,
+      "giudizio": "Lo zen master e' stato presente ma discreto, come sempre. Ha risposto con le sue classiche perle laconiche ('Assolutamente', 'Io ci sono'), ha annunciato la neve con l'entusiasmo di un bambino, e si e' subito attivato per organizzare una serata mandando i turni. Il suo contributo e' stato solido e affidabile, anche se meno appariscente di altri. La preghiera per l'arresto di Messina Denaro e' stata toccante.",
+      "messaggi": 7,
+      "mediaGiornaliera": 1.0,
       "highlights": [
-        "Organizzazione cena del 3 febbraio",
-        "Report neve a Siena"
+        "Ha organizzato la serata per il 3 febbraio",
+        "Ha annunciato la neve con entusiasmo"
       ],
       "citazioneTop": "Nevica!"
     }
   ],
   "awards": {
-    "mvp": "Adriano Sergio Lorenzo Facchini",
+    "mvp": "Giacomo Dolfi",
     "comico": "Cosimo Nenciòni",
     "cuore": "Fausto Petrini",
     "fantasma": null

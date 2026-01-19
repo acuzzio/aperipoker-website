@@ -4,106 +4,122 @@
   "startDate": "2023-10-30",
   "endDate": "2023-11-05",
   "stats": {
-    "totalMessages": 63,
+    "totalMessages": 65,
     "activeMembers": 6,
-    "avgPerMember": 10.5
+    "avgPerMember": 10.8
   },
-  "riassunto": "Settimana del compleanno di Pasquale e dell'alluvione! Fausto: 'Auguri al nostro grande amico Alessio. Buoni 42!'. Alessio V.: 'Auguri Pasquale, il tuo regno e' stato bellissimo. Audio salvato e messo nel mio server, leggendario'. Cocco: 'Anche mia suocera ringrazia. Auguri alecs! Er mejo pezzo!!! Daje cazzo!!!!!'. Anche il ricordo di Francesco Vivi: 'Oggi compie 41 anni. Pei morti'. Mac: 'Grazie ragazzi vi spompinei!'. Articolo OpenAI sulla guerra nucleare: Adriano: 'Io sono confidente in una bella estinzione'. Poi alluvione! Adriano: 'Ma che vento tira?'. Giacomo: 'Clamoroso, porta via'. Fausto: 'Fiumi che esondano a Firenze'. Mac: 'In azienda da me un disastro, acqua all'interno'. Cocco condivide Zerocalcare su Lucca Comics: 'Merita di perderci 5 minuti'. Discussione su Israele/Gaza: 'Situazione complessa da evitare posizioni tipo tifoseria'. Alessio V. racconta il video della cacata in Svezia: 'TITTA'!",
+  "riassunto": "Settimana memorabile dominata dal compleanno di Alessio Macaluso che compie 42 anni (l'eta' della risposta alla vita, all'universo e a tutto quanto). Si parte con Cosimo che celebra foto e prestazioni notturne, poi Fausto apre il dibattito sull'IA che potrebbe dare il via alla guerra nucleare, mentre Adriano risponde laconico 'sono confidente in una bella estinzione'. Il giorno dei morti porta una valanga di auguri al festeggiato e un commovente ricordo di Francesco Vivi. Alessio Valentini regala la storia epica del 'TITTA' svedese - un uomo che porta un addetto alle pulizie nel suo bagno per mostrargli la merda che non va giu'. Nel frattempo la Toscana viene flagellata dal maltempo: fiumi che esondano, aziende allagate, e il gruppo si stringe attorno ad Alessio Mac che ha l'acqua in ditta. La settimana si chiude con una riflessione collettiva su Zerocalcare e la geopolitica, con Fausto che preferisce parlarne di persona perche' 'il tema e' davvero troppo complesso'.",
   "bestQuotes": [
-    {
-      "quote": "Auguri Pasquale, il tuo regno e' stato bellissimo",
-      "author": "Alessio Valentini",
-      "context": "Compleanno Pasquale"
-    },
-    {
-      "quote": "Grazie ragazzi vi spompinei!",
-      "author": "Alessio Macalùso",
-      "context": "Ringraziamento compleanno"
-    },
     {
       "quote": "Io sono confidente in una bella estinzione",
       "author": "Adriano Sergio Lorenzo Facchini",
-      "context": "Su AI e guerra nucleare"
+      "context": "Risposta serafica all'articolo sull'IA che potrebbe scatenare la guerra nucleare"
+    },
+    {
+      "quote": "praticamente questo era in svezia in una crociera e sa poco svedese. Ha mangiato male e va a cacare ma quando tira lo sciacquone la merda non gli va giu'. Allora non sa cosa fare e disperato esce dalla sua camera, prende per mano uno che puliva le camere, lo porta nel suo bagno e gli dice 'guarda' 'TITTA', pigia il bottone, e la merda va giu' tranquillamente.",
+      "author": "Alessio Valentini",
+      "context": "La storia epica che ha fatto 'stiantare dal ridere' il gruppo per giorni"
+    },
+    {
+      "quote": "Grazie ragazzi vi spompinei!",
+      "author": "Alessio Macaluso",
+      "context": "Il festeggiato ringrazia con affetto profondo per gli auguri"
+    },
+    {
+      "quote": "Oggi, come sempre, nei miei pensieri anche Francesco Vivi c'e' compie 41 anni oggi. Pei morti.",
+      "author": "Cosimo Nencioni",
+      "context": "Momento toccante nel giorno dei morti, ricordando un amico scomparso"
+    },
+    {
+      "quote": "sono una montagna di dementi, a destra e a sinistra. Opinione sempliciotta, ma proprio non posso fare a meno di pensarlo.",
+      "author": "Alessio Valentini",
+      "context": "Chiusura lapidaria alla discussione geopolitica su Zerocalcare"
     }
   ],
   "pagelle": [
     {
-      "name": "Alessio Macalùso",
+      "name": "Alessio Valentini",
       "voto": 9.0,
-      "giudizio": "Il festeggiato! 'Grazie Fausto'. 'Grazie ragazzi vi spompinei!'. 'In azienda da me un disastro, acqua all'interno'. 'Ho seguito la situazione, complessa da evitare posizioni tipo tifoseria'. 'D'accordo quasi con tutto quello che dice Zerocalcare'. Compleanno e alluvione.",
-      "messaggi": 12,
-      "mediaGiornaliera": 1.7,
+      "giudizio": "MVP indiscusso della settimana. Ha fatto gli auguri a Pasquale con nostalgia poetica ('il tuo regno e' stato bellissimo'), ha salvato l'audio leggendario nel suo server, ma soprattutto ha regalato al gruppo la storia del TITTA svedese che vale da sola un anno di messaggi. Si preoccupa per gli amici durante l'alluvione, apprezza Zerocalcare e chiude il dibattito geopolitico con un 'sono una montagna di dementi' che e' poesia pura. Il giramondo questa settimana era presente, lucido e in forma smagliante.",
+      "messaggi": 14,
+      "mediaGiornaliera": 2.0,
       "highlights": [
-        "Compleanno 42",
-        "Alluvione azienda"
+        "Ha raccontato la storia epica del TITTA che fa ridere da giorni",
+        "Si preoccupa subito per gli amici durante il maltempo",
+        "Chiude il dibattito geopolitico con lucidita' disarmante"
+      ],
+      "citazioneTop": "prende per mano uno che puliva le camere, lo porta nel suo bagno e gli dice 'guarda' 'TITTA'"
+    },
+    {
+      "name": "Alessio Macaluso",
+      "voto": 8.5,
+      "giudizio": "Il festeggiato che compie 42 anni - l'eta' perfetta secondo la Guida Galattica per Autostoppisti. Riceve gli auguri con la sua solita grazia zen, ringrazia con un affettuosissimo 'vi spompinei', e affronta l'alluvione in azienda con stoicismo ('In azienda da me un disastro. Acqua all'interno'). Sulla questione Zerocalcare mostra maturita' intellettuale rifiutandosi di prendere posizioni da tifoseria. Il suo 'Troppo difficile per me' di fronte alla storia del TITTA e' understatement puro.",
+      "messaggi": 9,
+      "mediaGiornaliera": 1.3,
+      "highlights": [
+        "Ha compiuto 42 anni - la risposta alla vita, all'universo e a tutto quanto",
+        "Affronta l'alluvione in azienda con calma zen",
+        "Riflessione matura su Zerocalcare evitando le tifoserie"
       ],
       "citazioneTop": "Grazie ragazzi vi spompinei!"
     },
     {
-      "name": "Alessio Valentini",
-      "voto": 8.5,
-      "giudizio": "'Auguri Pasquale, il tuo regno e' stato bellissimo'. 'Audio salvato nel mio server, leggendario'. Racconta video TITTA: 'Va a cacare, la merda non va giu', prende uno che puliva, lo porta nel bagno e gli dice TITTA'. 'Come state ragazzi? So arrivati dei video da WhatsApp'. 'Sono una montagna di dementi, a destra e a sinistra'. Narratore.",
-      "messaggi": 14,
-      "mediaGiornaliera": 2.0,
-      "highlights": [
-        "Auguri Pasquale",
-        "Video TITTA"
-      ],
-      "citazioneTop": "Il tuo regno e' stato bellissimo"
-    },
-    {
       "name": "Fausto Petrini",
       "voto": 8.0,
-      "giudizio": "'Tributi al nostro caro lider Pasquale, ma soprattutto auguri al nostro grande amico Alessio. Buoni 42!'. 'Siamo famoso' sulla foto. Articolo OpenAI. 'Fiumi che esondano a Firenze'. 'Flutto'. 'Titt'. Articolo lavatrice Magnotta. 'A me torna tutto' su Zerocalcare. Informatore e amico.",
+      "giudizio": "Il trascinatore apre la settimana con l'articolo sull'IA apocalittica, fa gli auguri per primo al festeggiato con entusiasmo ('Buoni 42!!'), condivide l'articolo sulla lavatrice di Mario Magnotta, e durante il maltempo tiene informato il gruppo sui fiumi esondati. Sul fumetto di Zerocalcare ammette che 'il tema e' davvero troppo complesso' per parlarne in chat - rara dimostrazione di saggezza. Il suo 'Titt' in risposta alla storia svedese vale come endorsement ufficiale.",
       "messaggi": 14,
       "mediaGiornaliera": 2.0,
       "highlights": [
-        "Auguri Pasquale",
-        "Articoli interessanti"
+        "Primo a fare gli auguri ad Alessio con entusiasmo",
+        "Tiene informato il gruppo sul maltempo in Toscana",
+        "Preferisce discutere di persona i temi complessi - saggezza inattesa"
       ],
-      "citazioneTop": "Tributi al nostro caro lider Pasquale"
+      "citazioneTop": "Ma c'e' un unica cosa che purtroppo mi sta sul cazzo e non imputo a lui, ma ve la dico di persona"
     },
     {
-      "name": "Cosimo Nenciòni",
-      "voto": 8.0,
-      "giudizio": "'Anche mia suocera ringrazia. Auguri alecs! Er mejo pezzo!!!'. Ricorda Francesco Vivi: 'Oggi compie 41 anni. Pei morti'. 'Disastro' sull'alluvione. Condivide Zerocalcare: 'Merita di perderci 5 minuti'. 'Bellissime foto ragazzi'. Presente e riflessivo.",
-      "messaggi": 10,
-      "mediaGiornaliera": 1.4,
+      "name": "Cosimo Nencioni",
+      "voto": 8.5,
+      "giudizio": "Il provocatore raffinato questa settimana mostra anche il lato emotivo. Parte con i complimenti notturni ('Bellissime foto ragazzi'), poi fa gli auguri ad Alessio in modo epico ('Er mejo pezzo!!! Daje cazzo!!!!!') e nel giorno dei morti dedica un pensiero commovente a Francesco Vivi. Condivide l'articolo di Zerocalcare dimostrando ancora una volta di essere il curatore culturale del gruppo. Con pochi messaggi mirati, come sempre, centra tutti i bersagli.",
+      "messaggi": 8,
+      "mediaGiornaliera": 1.1,
       "highlights": [
-        "Ricordo Francesco Vivi",
-        "Zerocalcare"
+        "Auguri epici: 'Er mejo pezzo!!! Daje cazzo!!!!!'",
+        "Ricordo toccante di Francesco Vivi nel giorno dei morti",
+        "Condivide l'articolo di Zerocalcare che genera la discussione finale"
       ],
-      "citazioneTop": "Oggi, come sempre, nei miei pensieri anche Francesco Vivi"
+      "citazioneTop": "Oggi, come sempre, nei miei pensieri anche Francesco Vivi c'e' compie 41 anni oggi. Pei morti."
     },
     {
       "name": "Adriano Sergio Lorenzo Facchini",
       "voto": 7.5,
-      "giudizio": "'Io ti scomunicherei per falso in atto pubblico' a Fausto. 'Io sono confidente in una bella estinzione' su AI. 'Ma che vento tira?'. 'Auguri Alessio!! Auguri Pasquale!'. 'Stesso pensiero' su Francesco. 'E' veramente un grande artista' su Zerocalcare. Apocalittico e affettuoso.",
+      "giudizio": "Il Re della Chat questa settimana oscilla tra il nichilismo cosmico ('sono confidente in una bella estinzione') e l'affetto genuino per gli amici. Fa gli auguri con entusiasmo a mezzanotte passata, condivide il pensiero su Francesco Vivi, e chiude la settimana ringraziando Cocco per l'articolo di Zerocalcare con apprezzamento sincero. La sua domanda 'Ma che vento tira?' mentre la Toscana affogava mostra la solita capacita' di cogliere il momento.",
       "messaggi": 10,
       "mediaGiornaliera": 1.4,
       "highlights": [
-        "Auguri Mac",
-        "Apocalisse AI"
+        "Filosofia apocalittica di alto livello sull'estinzione",
+        "Condivide il pensiero su Francesco Vivi",
+        "Ringrazia Cosimo per gli articoli interessanti"
       ],
       "citazioneTop": "Io sono confidente in una bella estinzione"
     },
     {
       "name": "Giacomo Dolfi",
       "voto": 7.0,
-      "giudizio": "'Auguri al maximo lider Pasquale!'. 'Ahahah indimenticabile'. 'Clamoroso, anzi porta via' sull'alluvione. Presente e partecipe.",
-      "messaggi": 6,
-      "mediaGiornaliera": 0.9,
+      "giudizio": "Il Fondatore questa settimana interviene con precisione chirurgica. Gli auguri al 'maximo lider Pasquale' mostrano che conosce la storia del gruppo, il suo 'Ahahah indimenticabile' conferma la leggendarita' dell'audio. Durante il maltempo commenta con la tripla 'Clamoroso - Anzi - Porta via' che sintetizza perfettamente la situazione. Pochi messaggi, tutti sul pezzo.",
+      "messaggi": 5,
+      "mediaGiornaliera": 0.7,
       "highlights": [
-        "Auguri Pasquale",
-        "Commento alluvione"
+        "Auguri al 'maximo lider Pasquale' - conosce la lore",
+        "Commento sul maltempo sintetico ma efficace",
+        "Conferma che l'audio e' 'indimenticabile'"
       ],
       "citazioneTop": "Auguri al maximo lider Pasquale!"
     }
   ],
   "awards": {
-    "mvp": "Alessio Macalùso",
-    "comico": "Alessio Valentini",
-    "cuore": "Cosimo Nenciòni",
-    "fantasma": null
+    "mvp": "Alessio Valentini - La storia del TITTA svedese vale da sola l'Oscar alla carriera",
+    "comico": "Alessio Valentini - Ha fatto ridere il gruppo per giorni con un uomo che mostra la merda a uno svedese",
+    "cuore": "Cosimo Nencioni - Il ricordo di Francesco Vivi nel giorno dei morti commuove tutti",
+    "fantasma": "Giacomo Dolfi - Cinque messaggi perfetti poi il silenzio, come un ninja della chat"
   }
 }
