@@ -1,38 +1,146 @@
 {
   "years": [
     {
-      "year": 2019,
-      "totalWeeks": 39,
+      "year": 2013,
+      "totalWeeks": 3,
       "topPerformers": [
         {
-          "name": "Cosimo Nenciòni",
-          "mediaVoto": 7.61
-        },
-        {
-          "name": "Adriano Sergio Lorenzo Facchini",
-          "mediaVoto": 7.5
+          "name": "Alecs",
+          "mediaVoto": 8.0
         },
         {
           "name": "Alessio Valentini",
-          "mediaVoto": 7.36
+          "mediaVoto": 7.95
+        },
+        {
+          "name": "Giec",
+          "mediaVoto": 7.5
+        }
+      ]
+    },
+    {
+      "year": 2014,
+      "totalWeeks": 52,
+      "topPerformers": [
+        {
+          "name": "Alessio Valentini",
+          "mediaVoto": 7.74
+        },
+        {
+          "name": "+39 348 813 1011",
+          "mediaVoto": 7.59
+        },
+        {
+          "name": "Cocco",
+          "mediaVoto": 7.56
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "totalWeeks": 53,
+      "topPerformers": [
+        {
+          "name": "+39 348 813 1011",
+          "mediaVoto": 8.16
+        },
+        {
+          "name": "Cocco",
+          "mediaVoto": 7.73
+        },
+        {
+          "name": "Alessio Valentini",
+          "mediaVoto": 7.66
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "totalWeeks": 53,
+      "topPerformers": [
+        {
+          "name": "+39 348 813 1011",
+          "mediaVoto": 7.7
+        },
+        {
+          "name": "Fausto",
+          "mediaVoto": 7.66
+        },
+        {
+          "name": "Alessio Valentini",
+          "mediaVoto": 7.46
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "totalWeeks": 52,
+      "topPerformers": [
+        {
+          "name": "+39 348 813 1011",
+          "mediaVoto": 7.96
+        },
+        {
+          "name": "Cocco",
+          "mediaVoto": 7.45
+        },
+        {
+          "name": "Alessio Valentini",
+          "mediaVoto": 7.22
+        }
+      ]
+    },
+    {
+      "year": 2018,
+      "totalWeeks": 53,
+      "topPerformers": [
+        {
+          "name": "Cocco",
+          "mediaVoto": 7.73
+        },
+        {
+          "name": "Fausto",
+          "mediaVoto": 7.31
+        },
+        {
+          "name": "Adriano",
+          "mediaVoto": 7.16
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "totalWeeks": 52,
+      "topPerformers": [
+        {
+          "name": "Cocco",
+          "mediaVoto": 7.66
+        },
+        {
+          "name": "Adriano",
+          "mediaVoto": 7.64
+        },
+        {
+          "name": "Alessio Valentini",
+          "mediaVoto": 7.37
         }
       ]
     },
     {
       "year": 2020,
-      "totalWeeks": 48,
+      "totalWeeks": 52,
       "topPerformers": [
         {
-          "name": "Adriano Sergio Lorenzo Facchini",
-          "mediaVoto": 7.8
+          "name": "Adriano",
+          "mediaVoto": 7.81
         },
         {
-          "name": "Cosimo Nenciòni",
-          "mediaVoto": 7.66
+          "name": "Cocco",
+          "mediaVoto": 7.68
         },
         {
-          "name": "Alessio Valentini",
-          "mediaVoto": 7.55
+          "name": "Fausto",
+          "mediaVoto": 7.58
         }
       ]
     },
@@ -41,16 +149,16 @@
       "totalWeeks": 53,
       "topPerformers": [
         {
-          "name": "Adriano Sergio Lorenzo Facchini",
-          "mediaVoto": 7.82
+          "name": "Adriano",
+          "mediaVoto": 7.79
         },
         {
-          "name": "Fausto Petrini",
-          "mediaVoto": 7.72
+          "name": "Fausto",
+          "mediaVoto": 7.77
         },
         {
-          "name": "Cosimo Nenciòni",
-          "mediaVoto": 7.39
+          "name": "Cocco",
+          "mediaVoto": 7.46
         }
       ]
     },
@@ -59,16 +167,16 @@
       "totalWeeks": 53,
       "topPerformers": [
         {
-          "name": "Adriano Sergio Lorenzo Facchini",
-          "mediaVoto": 7.66
+          "name": "Adriano",
+          "mediaVoto": 7.67
         },
         {
-          "name": "Cosimo Nenciòni",
+          "name": "Cocco",
           "mediaVoto": 7.47
         },
         {
-          "name": "Alessio Valentini",
-          "mediaVoto": 7.26
+          "name": "Fausto",
+          "mediaVoto": 7.28
         }
       ]
     },
@@ -77,16 +185,16 @@
       "totalWeeks": 53,
       "topPerformers": [
         {
-          "name": "Adriano Sergio Lorenzo Facchini",
-          "mediaVoto": 7.74
+          "name": "Adriano",
+          "mediaVoto": 7.71
         },
         {
-          "name": "Alessio Valentini",
+          "name": "Cocco",
           "mediaVoto": 7.35
         },
         {
-          "name": "Cosimo Nenciòni",
-          "mediaVoto": 7.34
+          "name": "Alessio Valentini Giusto",
+          "mediaVoto": 7.33
         }
       ]
     },
@@ -95,16 +203,16 @@
       "totalWeeks": 53,
       "topPerformers": [
         {
-          "name": "Adriano Sergio Lorenzo Facchini",
-          "mediaVoto": 7.73
+          "name": "Adriano",
+          "mediaVoto": 7.72
         },
         {
-          "name": "Fausto Petrini",
-          "mediaVoto": 7.27
+          "name": "Fausto",
+          "mediaVoto": 7.29
         },
         {
-          "name": "Cosimo Nenciòni",
-          "mediaVoto": 7.24
+          "name": "Cocco",
+          "mediaVoto": 7.25
         }
       ]
     },
@@ -113,37 +221,37 @@
       "totalWeeks": 53,
       "topPerformers": [
         {
-          "name": "Adriano Sergio Lorenzo Facchini",
-          "mediaVoto": 7.88
+          "name": "Adriano",
+          "mediaVoto": 7.85
         },
         {
-          "name": "Cosimo Nenciòni",
-          "mediaVoto": 7.58
+          "name": "Cocco",
+          "mediaVoto": 7.61
         },
         {
-          "name": "Alessio Valentini",
-          "mediaVoto": 7.35
+          "name": "Alessio Valentini Giusto",
+          "mediaVoto": 7.3
         }
       ]
     },
     {
       "year": 2026,
-      "totalWeeks": 3,
+      "totalWeeks": 12,
       "topPerformers": [
         {
-          "name": "Adriano Sergio Lorenzo Facchini",
-          "mediaVoto": 8.37
+          "name": "Adriano",
+          "mediaVoto": 7.6
         },
         {
-          "name": "Alessio Macalùso",
-          "mediaVoto": 7.73
+          "name": "Alecs",
+          "mediaVoto": 7.39
         },
         {
-          "name": "Alessio Valentini",
-          "mediaVoto": 7.47
+          "name": "Alessio Valentini Giusto",
+          "mediaVoto": 7.32
         }
       ]
     }
   ],
-  "generatedAt": "2026-01-18T12:17:43.240230"
+  "generatedAt": "2026-01-19T17:11:18.845545"
 }
