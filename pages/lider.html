@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>I Lider - AperiPoker</title>
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="nav-brand">AperiPoker</div>
+        <ul class="nav-links">
+            <li><a href="../index.html">Home</a></li>
+            <li><a href="classifica.html">Classifica</a></li>
+            <li><a href="pagelle.html">Pagelle</a></li>
+            <li><a href="best-of.html">Best Of</a></li>
+            <li><a href="membri.html">Membri</a></li>
+            <li><a href="lider.html" class="active">Lider</a></li>
+            <li><a href="archivio.html">Archivio</a></li>
+            <li><a href="history.html">History</a></li>
+        </ul>
+    </nav>
+
+    <main class="container">
+        <header class="page-header">
+            <h1>La Storia dei Lider</h1>
+            <p id="lider-description">Il Lider organizza la prossima cena e nomina il suo successore</p>
+        </header>
+
+        <section class="lider-rules" id="lider-rules">
+            <h2>Le Regole del Lider</h2>
+            <ul id="rules-list">
+                <!-- Popolato da JS -->
+            </ul>
+        </section>
+
+        <section class="lider-current" id="lider-current">
+            <h2>Lider Attuale</h2>
+            <div id="current-lider-card">
+                <!-- Popolato da JS -->
+            </div>
+        </section>
+
+        <section class="lider-timeline" id="lider-timeline">
+            <h2>La Timeline dei Lider</h2>
+            <div id="timeline-container">
+                <!-- Popolato da JS con dati da data/lider.json -->
+                <div class="loading">Caricamento storia...</div>
+            </div>
+        </section>
+
+        <section class="lider-stats" id="lider-stats">
+            <h2>Statistiche</h2>
+            <div id="stats-container">
+                <!-- Popolato da JS -->
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>AperiPoker &copy; 2026 - Fatto con goliardia</p>
+    </footer>
+
+    <script src="../js/main.js"></script>
+    <script src="../js/lider.js"></script>
+</body>
+</html>
