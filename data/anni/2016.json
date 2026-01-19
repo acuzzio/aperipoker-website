@@ -3,12 +3,12 @@
   "stats": {
     "totalMessages": 6225,
     "totalMembers": 6,
-    "mvp": "+39 348 813 1011",
+    "mvp": "Adriano Sergio Lorenzo Facchini",
     "trend": -44.7
   },
   "classifica": [
     {
-      "name": "+39 348 813 1011",
+      "name": "Adriano Sergio Lorenzo Facchini",
       "messageCount": 1468,
       "wordCount": 10196,
       "avgWordsPerMessage": 6.9,
@@ -48,7 +48,7 @@
       }
     },
     {
-      "name": "Fausto",
+      "name": "Fausto Petrini",
       "messageCount": 1291,
       "wordCount": 16504,
       "avgWordsPerMessage": 12.8,
@@ -128,7 +128,7 @@
       }
     },
     {
-      "name": "Cocco",
+      "name": "Cosimo Nenciòni",
       "messageCount": 1045,
       "wordCount": 6858,
       "avgWordsPerMessage": 6.6,
@@ -167,7 +167,7 @@
       }
     },
     {
-      "name": "Giec",
+      "name": "Giacomo Dolfi",
       "messageCount": 709,
       "wordCount": 5168,
       "avgWordsPerMessage": 7.3,
@@ -202,7 +202,7 @@
       }
     },
     {
-      "name": "Alecs",
+      "name": "Alessio Macalùso",
       "messageCount": 576,
       "wordCount": 5175,
       "avgWordsPerMessage": 9.0,
@@ -291,5 +291,5 @@
   },
   "highlights": "",
   "bestOf": [],
-  "generatedAt": "2026-01-19T17:11:18.671496"
+  "generatedAt": "2026-01-19T17:14:58.832046"
 }

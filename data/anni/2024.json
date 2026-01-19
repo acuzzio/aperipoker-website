@@ -8,7 +8,7 @@
   },
   "classifica": [
     {
-      "name": "Adriano",
+      "name": "Adriano Sergio Lorenzo Facchini",
       "messageCount": 878,
       "wordCount": 6073,
       "avgWordsPerMessage": 6.9,
@@ -45,7 +45,7 @@
       }
     },
     {
-      "name": "Fausto",
+      "name": "Fausto Petrini",
       "messageCount": 636,
       "wordCount": 4978,
       "avgWordsPerMessage": 7.8,
@@ -82,7 +82,7 @@
       }
     },
     {
-      "name": "Cocco",
+      "name": "Cosimo Nenciòni",
       "messageCount": 608,
       "wordCount": 3914,
       "avgWordsPerMessage": 6.4,
@@ -119,7 +119,7 @@
       }
     },
     {
-      "name": "Alessio Valentini Giusto",
+      "name": "Alessio Valentini",
       "messageCount": 601,
       "wordCount": 4559,
       "avgWordsPerMessage": 7.6,
@@ -158,7 +158,7 @@
       }
     },
     {
-      "name": "Alecs",
+      "name": "Alessio Macalùso",
       "messageCount": 443,
       "wordCount": 2765,
       "avgWordsPerMessage": 6.2,
@@ -197,7 +197,7 @@
       }
     },
     {
-      "name": "Giec",
+      "name": "Giacomo Dolfi",
       "messageCount": 326,
       "wordCount": 2386,
       "avgWordsPerMessage": 7.3,
@@ -289,5 +289,5 @@
       "context": "Il gruppo va avanti"
     }
   ],
-  "generatedAt": "2026-01-19T17:11:18.706413"
+  "generatedAt": "2026-01-19T17:14:58.864272"
 }

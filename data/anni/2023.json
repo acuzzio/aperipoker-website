@@ -8,7 +8,7 @@
   },
   "classifica": [
     {
-      "name": "Adriano",
+      "name": "Adriano Sergio Lorenzo Facchini",
       "messageCount": 898,
       "wordCount": 8328,
       "avgWordsPerMessage": 9.3,
@@ -44,7 +44,7 @@
       }
     },
     {
-      "name": "Alessio Valentini Giusto",
+      "name": "Alessio Valentini",
       "messageCount": 738,
       "wordCount": 5608,
       "avgWordsPerMessage": 7.6,
@@ -85,7 +85,7 @@
       }
     },
     {
-      "name": "Cocco",
+      "name": "Cosimo Nenciòni",
       "messageCount": 730,
       "wordCount": 4784,
       "avgWordsPerMessage": 6.6,
@@ -121,7 +121,7 @@
       }
     },
     {
-      "name": "Fausto",
+      "name": "Fausto Petrini",
       "messageCount": 583,
       "wordCount": 5244,
       "avgWordsPerMessage": 9.0,
@@ -160,7 +160,7 @@
       }
     },
     {
-      "name": "Alecs",
+      "name": "Alessio Macalùso",
       "messageCount": 529,
       "wordCount": 3384,
       "avgWordsPerMessage": 6.4,
@@ -199,7 +199,7 @@
       }
     },
     {
-      "name": "Giec",
+      "name": "Giacomo Dolfi",
       "messageCount": 411,
       "wordCount": 3340,
       "avgWordsPerMessage": 8.1,
@@ -295,5 +295,5 @@
       "context": "Equilibrio ritrovato"
     }
   ],
-  "generatedAt": "2026-01-19T17:11:18.703091"
+  "generatedAt": "2026-01-19T17:14:58.860919"
 }

@@ -8,7 +8,7 @@
   },
   "classifica": [
     {
-      "name": "Adriano",
+      "name": "Adriano Sergio Lorenzo Facchini",
       "messageCount": 1497,
       "wordCount": 9783,
       "avgWordsPerMessage": 6.5,
@@ -46,7 +46,7 @@
       }
     },
     {
-      "name": "Cocco",
+      "name": "Cosimo Nenciòni",
       "messageCount": 1343,
       "wordCount": 9936,
       "avgWordsPerMessage": 7.4,
@@ -82,7 +82,7 @@
       }
     },
     {
-      "name": "Fausto",
+      "name": "Fausto Petrini",
       "messageCount": 1264,
       "wordCount": 13599,
       "avgWordsPerMessage": 10.8,
@@ -162,7 +162,7 @@
       }
     },
     {
-      "name": "Giec",
+      "name": "Giacomo Dolfi",
       "messageCount": 796,
       "wordCount": 6716,
       "avgWordsPerMessage": 8.4,
@@ -198,7 +198,7 @@
       }
     },
     {
-      "name": "Alecs",
+      "name": "Alessio Macalùso",
       "messageCount": 695,
       "wordCount": 3909,
       "avgWordsPerMessage": 5.6,
@@ -295,5 +295,5 @@
       "context": "L'anno del lockdown"
     }
   ],
-  "generatedAt": "2026-01-19T17:11:18.689476"
+  "generatedAt": "2026-01-19T17:14:58.849073"
 }

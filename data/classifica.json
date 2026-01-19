@@ -1,7 +1,7 @@
 {
   "members": [
     {
-      "name": "Adriano",
+      "name": "Adriano Sergio Lorenzo Facchini",
       "messageCount": 115,
       "wordCount": 735,
       "avgWordsPerMessage": 6.4,
@@ -35,7 +35,7 @@
       }
     },
     {
-      "name": "Alessio Valentini Giusto",
+      "name": "Alessio Valentini",
       "messageCount": 114,
       "wordCount": 1166,
       "avgWordsPerMessage": 10.2,
@@ -66,7 +66,7 @@
       }
     },
     {
-      "name": "Alecs",
+      "name": "Alessio Macalùso",
       "messageCount": 80,
       "wordCount": 551,
       "avgWordsPerMessage": 6.9,
@@ -101,7 +101,7 @@
       }
     },
     {
-      "name": "Fausto",
+      "name": "Fausto Petrini",
       "messageCount": 78,
       "wordCount": 740,
       "avgWordsPerMessage": 9.5,
@@ -134,7 +134,7 @@
       }
     },
     {
-      "name": "Cocco",
+      "name": "Cosimo Nenciòni",
       "messageCount": 57,
       "wordCount": 425,
       "avgWordsPerMessage": 7.5,
@@ -164,7 +164,7 @@
       }
     },
     {
-      "name": "Fede",
+      "name": "Federico Ceccuzzi",
       "messageCount": 50,
       "wordCount": 414,
       "avgWordsPerMessage": 8.3,
@@ -191,7 +191,7 @@
       }
     },
     {
-      "name": "Giec",
+      "name": "Giacomo Dolfi",
       "messageCount": 34,
       "wordCount": 252,
       "avgWordsPerMessage": 7.4,
@@ -262,5 +262,5 @@
     "2026-11": 3,
     "2026-12": 21
   },
-  "generatedAt": "2026-01-19T17:11:18.848294"
+  "generatedAt": "2026-01-19T17:14:59.306071"
 }

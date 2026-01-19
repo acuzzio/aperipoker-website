@@ -24,7 +24,7 @@
       }
     },
     {
-      "name": "Giec",
+      "name": "Giacomo Dolfi",
       "messageCount": 7,
       "wordCount": 25,
       "avgWordsPerMessage": 3.6,
@@ -41,7 +41,7 @@
       }
     },
     {
-      "name": "Alecs",
+      "name": "Alessio Macalùso",
       "messageCount": 5,
       "wordCount": 17,
       "avgWordsPerMessage": 3.4,
@@ -58,7 +58,7 @@
       }
     },
     {
-      "name": "Cocco",
+      "name": "Cosimo Nenciòni",
       "messageCount": 5,
       "wordCount": 22,
       "avgWordsPerMessage": 4.4,
@@ -77,7 +77,7 @@
       }
     },
     {
-      "name": "Fausto",
+      "name": "Fausto Petrini",
       "messageCount": 4,
       "wordCount": 30,
       "avgWordsPerMessage": 7.5,
@@ -114,5 +114,5 @@
   },
   "highlights": "",
   "bestOf": [],
-  "generatedAt": "2026-01-19T17:11:18.653106"
+  "generatedAt": "2026-01-19T17:14:58.814394"
 }

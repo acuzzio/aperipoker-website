@@ -6,28 +6,28 @@
       "endDate": "2020-01-05",
       "pagelle": [
         {
-          "name": "Alecs",
+          "name": "Alessio Macalùso",
           "voto": 8.5,
           "giudizio": "Settimana dominante con 48 messaggi. Protagonista assoluto.",
           "messaggi": 48,
           "mediaGiornaliera": 6.9
         },
         {
-          "name": "Giec",
+          "name": "Giacomo Dolfi",
           "voto": 7.9,
           "giudizio": "Buona presenza nel gruppo con 45 messaggi. Partecipazione attiva.",
           "messaggi": 45,
           "mediaGiornaliera": 6.4
         },
         {
-          "name": "Cocco",
+          "name": "Cosimo Nenciòni",
           "voto": 6.8,
           "giudizio": "Settimana nella media con 19 messaggi. Presente ma non protagonista.",
           "messaggi": 19,
           "mediaGiornaliera": 2.7
         },
         {
-          "name": "Fausto",
+          "name": "Fausto Petrini",
           "voto": 6.7,
           "giudizio": "Settimana nella media con 17 messaggi. Presente ma non protagonista.",
           "messaggi": 17,
@@ -41,7 +41,7 @@
           "mediaGiornaliera": 1.9
         },
         {
-          "name": "Adriano",
+          "name": "Adriano Sergio Lorenzo Facchini",
           "voto": 6.4,
           "giudizio": "Settimana nella media con 10 messaggi. Presente ma non protagonista.",
           "messaggi": 10,
@@ -50,9 +50,9 @@
       ],
       "riassunto": "Settimana con 152 messaggi totali. 6 membri attivi.",
       "awards": {
-        "mvp": "Alecs",
-        "chiacchierone": "Alecs",
-        "fantasma": "Adriano"
+        "mvp": "Alessio Macalùso",
+        "chiacchierone": "Alessio Macalùso",
+        "fantasma": "Adriano Sergio Lorenzo Facchini"
       },
       "stats": {
         "totalMessages": 152,
@@ -65,21 +65,21 @@
       "endDate": "2020-01-12",
       "pagelle": [
         {
-          "name": "Adriano",
+          "name": "Adriano Sergio Lorenzo Facchini",
           "voto": 8.3,
           "giudizio": "Settimana dominante con 32 messaggi. Protagonista assoluto.",
           "messaggi": 32,
           "mediaGiornaliera": 4.6
         },
         {
-          "name": "Cocco",
+          "name": "Cosimo Nenciòni",
           "voto": 7.8,
           "giudizio": "Buona presenza nel gruppo con 24 messaggi. Partecipazione attiva.",
           "messaggi": 24,
           "mediaGiornaliera": 3.4
         },
         {
-          "name": "Fausto",
+          "name": "Fausto Petrini",
           "voto": 7.8,
           "giudizio": "Buona presenza nel gruppo con 24 messaggi. Partecipazione attiva.",
           "messaggi": 24,
@@ -93,14 +93,14 @@
           "mediaGiornaliera": 2.9
         },
         {
-          "name": "Giec",
+          "name": "Giacomo Dolfi",
           "voto": 7.5,
           "giudizio": "Buona presenza nel gruppo con 17 messaggi. Partecipazione attiva.",
           "messaggi": 17,
           "mediaGiornaliera": 2.4
         },
         {
-          "name": "Alecs",
+          "name": "Alessio Macalùso",
           "voto": 6.4,
           "giudizio": "Settimana nella media con 7 messaggi. Presente ma non protagonista.",
           "messaggi": 7,
@@ -109,9 +109,9 @@
       ],
       "riassunto": "Settimana con 124 messaggi totali. 6 membri attivi.",
       "awards": {
-        "mvp": "Adriano",
-        "chiacchierone": "Adriano",
-        "fantasma": "Alecs"
+        "mvp": "Adriano Sergio Lorenzo Facchini",
+        "chiacchierone": "Adriano Sergio Lorenzo Facchini",
+        "fantasma": "Alessio Macalùso"
       },
       "stats": {
         "totalMessages": 124,
@@ -131,35 +131,35 @@
           "mediaGiornaliera": 5.4
         },
         {
-          "name": "Adriano",
+          "name": "Adriano Sergio Lorenzo Facchini",
           "voto": 8.0,
           "giudizio": "Settimana dominante con 37 messaggi. Protagonista assoluto.",
           "messaggi": 37,
           "mediaGiornaliera": 5.3
         },
         {
-          "name": "Fausto",
+          "name": "Fausto Petrini",
           "voto": 7.9,
           "giudizio": "Buona presenza nel gruppo con 33 messaggi. Partecipazione attiva.",
           "messaggi": 33,
           "mediaGiornaliera": 4.7
         },
         {
-          "name": "Cocco",
+          "name": "Cosimo Nenciòni",
           "voto": 7.8,
           "giudizio": "Buona presenza nel gruppo con 30 messaggi. Partecipazione attiva.",
           "messaggi": 30,
           "mediaGiornaliera": 4.3
         },
         {
-          "name": "Giec",
+          "name": "Giacomo Dolfi",
           "voto": 6.8,
           "giudizio": "Settimana nella media con 15 messaggi. Presente ma non protagonista.",
           "messaggi": 15,
           "mediaGiornaliera": 2.1
         },
         {
-          "name": "Alecs",
+          "name": "Alessio Macalùso",
           "voto": 6.5,
           "giudizio": "Settimana nella media con 10 messaggi. Presente ma non protagonista.",
           "messaggi": 10,
@@ -170,7 +170,7 @@
       "awards": {
         "mvp": "Alessio Valentini",
         "chiacchierone": "Alessio Valentini",
-        "fantasma": "Alecs"
+        "fantasma": "Alessio Macalùso"
       },
       "stats": {
         "totalMessages": 163,
@@ -183,7 +183,7 @@
       "endDate": "2020-01-26",
       "pagelle": [
         {
-          "name": "Cocco",
+          "name": "Cosimo Nenciòni",
           "voto": 8.2,
           "giudizio": "Settimana dominante con 16 messaggi. Protagonista assoluto.",
           "messaggi": 16,
@@ -197,28 +197,28 @@
           "mediaGiornaliera": 2.1
         },
         {
-          "name": "Alecs",
+          "name": "Alessio Macalùso",
           "voto": 7.8,
           "giudizio": "Buona presenza nel gruppo con 12 messaggi. Partecipazione attiva.",
           "messaggi": 12,
           "mediaGiornaliera": 1.7
         },
         {
-          "name": "Giec",
+          "name": "Giacomo Dolfi",
           "voto": 7.6,
           "giudizio": "Buona presenza nel gruppo con 10 messaggi. Partecipazione attiva.",
           "messaggi": 10,
           "mediaGiornaliera": 1.4
         },
         {
-          "name": "Fausto",
+          "name": "Fausto Petrini",
           "voto": 6.9,
           "giudizio": "Settimana nella media con 7 messaggi. Presente ma non protagonista.",
           "messaggi": 7,
           "mediaGiornaliera": 1.0
         },
         {
-          "name": "Adriano",
+          "name": "Adriano Sergio Lorenzo Facchini",
           "voto": 6.6,
           "giudizio": "Settimana nella media con 5 messaggi. Presente ma non protagonista.",
           "messaggi": 5,
@@ -227,9 +227,9 @@
       ],
       "riassunto": "Settimana con 65 messaggi totali. 6 membri attivi.",
       "awards": {
-        "mvp": "Cocco",
-        "chiacchierone": "Cocco",
-        "fantasma": "Adriano"
+        "mvp": "Cosimo Nenciòni",
+        "chiacchierone": "Cosimo Nenciòni",
+        "fantasma": "Adriano Sergio Lorenzo Facchini"
       },
       "stats": {
         "totalMessages": 65,
@@ -242,28 +242,28 @@
       "endDate": "2020-02-02",
       "pagelle": [
         {
-          "name": "Fausto",
+          "name": "Fausto Petrini",
           "voto": 8.2,
           "giudizio": "Settimana dominante con 22 messaggi. Protagonista assoluto.",
           "messaggi": 22,
           "mediaGiornaliera": 3.1
         },
         {
-          "name": "Cocco",
+          "name": "Cosimo Nenciòni",
           "voto": 7.7,
           "giudizio": "Buona presenza nel gruppo con 16 messaggi. Partecipazione attiva.",
           "messaggi": 16,
           "mediaGiornaliera": 2.3
         },
         {
-          "name": "Giec",
+          "name": "Giacomo Dolfi",
           "voto": 7.5,
           "giudizio": "Buona presenza nel gruppo con 12 messaggi. Partecipazione attiva.",
           "messaggi": 12,
           "mediaGiornaliera": 1.7
         },
         {
-          "name": "Adriano",
+          "name": "Adriano Sergio Lorenzo Facchini",
           "voto": 7.0,
           "giudizio": "Buona presenza nel gruppo con 11 messaggi. Partecipazione attiva.",
           "messaggi": 11,
@@ -277,7 +277,7 @@
           "mediaGiornaliera": 1.4
         },
         {
-          "name": "Alecs",
+          "name": "Alessio Macalùso",
           "voto": 6.5,
           "giudizio": "Settimana nella media con 6 messaggi. Presente ma non protagonista.",
           "messaggi": 6,
@@ -286,9 +286,9 @@
       ],
       "riassunto": "Settimana con 77 messaggi totali. 6 membri attivi.",
       "awards": {
-        "mvp": "Fausto",
-        "chiacchierone": "Fausto",
-        "fantasma": "Alecs"
+        "mvp": "Fausto Petrini",
+        "chiacchierone": "Fausto Petrini",
+        "fantasma": "Alessio Macalùso"
       },
       "stats": {
         "totalMessages": 77,
@@ -301,7 +301,7 @@
       "endDate": "2020-02-09",
       "pagelle": [
         {
-          "name": "Fausto",
+          "name": "Fausto Petrini",
           "voto": 8.2,
           "giudizio": "Settimana dominante con 25 messaggi. Protagonista assoluto.",
           "messaggi": 25,
@@ -315,28 +315,28 @@
           "mediaGiornaliera": 2.9
         },
         {
-          "name": "Cocco",
+          "name": "Cosimo Nenciòni",
           "voto": 7.6,
           "giudizio": "Buona presenza nel gruppo con 15 messaggi. Partecipazione attiva.",
           "messaggi": 15,
           "mediaGiornaliera": 2.1
         },
         {
-          "name": "Giec",
+          "name": "Giacomo Dolfi",
           "voto": 7.5,
           "giudizio": "Buona presenza nel gruppo con 13 messaggi. Partecipazione attiva.",
           "messaggi": 13,
           "mediaGiornaliera": 1.9
         },
         {
-          "name": "Alecs",
+          "name": "Alessio Macalùso",
           "voto": 6.9,
           "giudizio": "Settimana nella media con 11 messaggi. Presente ma non protagonista.",
           "messaggi": 11,
           "mediaGiornaliera": 1.6
         },
         {
-          "name": "Adriano",
+          "name": "Adriano Sergio Lorenzo Facchini",
           "voto": 6.6,
           "giudizio": "Settimana nella media con 7 messaggi. Presente ma non protagonista.",
           "messaggi": 7,
@@ -345,9 +345,9 @@
       ],
       "riassunto": "Settimana con 91 messaggi totali. 6 membri attivi.",
       "awards": {
-        "mvp": "Fausto",
-        "chiacchierone": "Fausto",
-        "fantasma": "Adriano"
+        "mvp": "Fausto Petrini",
+        "chiacchierone": "Fausto Petrini",
+        "fantasma": "Adriano Sergio Lorenzo Facchini"
       },
       "stats": {
         "totalMessages": 91,
@@ -367,35 +367,35 @@
           "mediaGiornaliera": 4.9
         },
         {
-          "name": "Cocco",
+          "name": "Cosimo Nenciòni",
           "voto": 7.9,
           "giudizio": "Buona presenza nel gruppo con 30 messaggi. Partecipazione attiva.",
           "messaggi": 30,
           "mediaGiornaliera": 4.3
         },
         {
-          "name": "Fausto",
+          "name": "Fausto Petrini",
           "voto": 7.7,
           "giudizio": "Buona presenza nel gruppo con 23 messaggi. Partecipazione attiva.",
           "messaggi": 23,
           "mediaGiornaliera": 3.3
         },
         {
-          "name": "Adriano",
+          "name": "Adriano Sergio Lorenzo Facchini",
           "voto": 7.6,
           "giudizio": "Buona presenza nel gruppo con 21 messaggi. Partecipazione attiva.",
           "messaggi": 21,
           "mediaGiornaliera": 3.0
         },
         {
-          "name": "Alecs",
+          "name": "Alessio Macalùso",
           "voto": 6.6,
           "giudizio": "Settimana nella media con 10 messaggi. Presente ma non protagonista.",
           "messaggi": 10,
           "mediaGiornaliera": 1.4
         },
         {
-          "name": "Giec",
+          "name": "Giacomo Dolfi",
           "voto": 5.9,
           "giudizio": "Settimana sottotono con solo 6 messaggi. Si può fare di più.",
           "messaggi": 6,
@@ -406,7 +406,7 @@
       "awards": {
         "mvp": "Alessio Valentini",
         "chiacchierone": "Alessio Valentini",
-        "fantasma": "Giec"
+        "fantasma": "Giacomo Dolfi"
       },
       "stats": {
         "totalMessages": 124,
@@ -426,35 +426,35 @@
           "mediaGiornaliera": 4.3
         },
         {
-          "name": "Adriano",
+          "name": "Adriano Sergio Lorenzo Facchini",
           "voto": 7.9,
           "giudizio": "Buona presenza nel gruppo con 27 messaggi. Partecipazione attiva.",
           "messaggi": 27,
           "mediaGiornaliera": 3.9
         },
         {
-          "name": "Cocco",
+          "name": "Cosimo Nenciòni",
           "voto": 7.7,
           "giudizio": "Buona presenza nel gruppo con 20 messaggi. Partecipazione attiva.",
           "messaggi": 20,
           "mediaGiornaliera": 2.9
         },
         {
-          "name": "Fausto",
+          "name": "Fausto Petrini",
           "voto": 6.9,
           "giudizio": "Settimana nella media con 14 messaggi. Presente ma non protagonista.",
           "messaggi": 14,
           "mediaGiornaliera": 2.0
         },
         {
-          "name": "Alecs",
+          "name": "Alessio Macalùso",
           "voto": 6.8,
           "giudizio": "Settimana nella media con 12 messaggi. Presente ma non protagonista.",
           "messaggi": 12,
           "mediaGiornaliera": 1.7
         },
         {
-          "name": "Giec",
+          "name": "Giacomo Dolfi",
           "voto": 6.0,
           "giudizio": "Settimana nella media con 6 messaggi. Presente ma non protagonista.",
           "messaggi": 6,
@@ -465,7 +465,7 @@
       "awards": {
         "mvp": "Alessio Valentini",
         "chiacchierone": "Alessio Valentini",
-        "fantasma": "Giec"
+        "fantasma": "Giacomo Dolfi"
       },
       "stats": {
         "totalMessages": 109,
@@ -478,21 +478,21 @@
       "endDate": "2020-03-01",
       "pagelle": [
         {
-          "name": "Cocco",
+          "name": "Cosimo Nenciòni",
           "voto": 8.6,
           "giudizio": "Settimana dominante con 58 messaggi. Protagonista assoluto.",
           "messaggi": 58,
           "mediaGiornaliera": 8.3
         },
         {
-          "name": "Fausto",
+          "name": "Fausto Petrini",
           "voto": 7.8,
           "giudizio": "Buona presenza nel gruppo con 44 messaggi. Partecipazione attiva.",
           "messaggi": 44,
           "mediaGiornaliera": 6.3
         },
         {
-          "name": "Adriano",
+          "name": "Adriano Sergio Lorenzo Facchini",
           "voto": 7.7,
           "giudizio": "Buona presenza nel gruppo con 39 messaggi. Partecipazione attiva.",
           "messaggi": 39,
@@ -506,14 +506,14 @@
           "mediaGiornaliera": 4.9
         },
         {
-          "name": "Alecs",
+          "name": "Alessio Macalùso",
           "voto": 7.6,
           "giudizio": "Buona presenza nel gruppo con 33 messaggi. Partecipazione attiva.",
           "messaggi": 33,
           "mediaGiornaliera": 4.7
         },
         {
-          "name": "Giec",
+          "name": "Giacomo Dolfi",
           "voto": 7.5,
           "giudizio": "Buona presenza nel gruppo con 31 messaggi. Partecipazione attiva.",
           "messaggi": 31,
@@ -522,9 +522,9 @@
       ],
       "riassunto": "Settimana con 239 messaggi totali. 6 membri attivi.",
       "awards": {
-        "mvp": "Cocco",
-        "chiacchierone": "Cocco",
-        "fantasma": "Giec"
+        "mvp": "Cosimo Nenciòni",
+        "chiacchierone": "Cosimo Nenciòni",
+        "fantasma": "Giacomo Dolfi"
       },
       "stats": {
         "totalMessages": 239,
@@ -537,7 +537,7 @@
       "endDate": "2020-03-08",
       "pagelle": [
         {
-          "name": "Fausto",
+          "name": "Fausto Petrini",
           "voto": 8.2,
           "giudizio": "Settimana dominante con 15 messaggi. Protagonista assoluto.",
           "messaggi": 15,
@@ -551,28 +551,28 @@
           "mediaGiornaliera": 2.0
         },
         {
-          "name": "Adriano",
+          "name": "Adriano Sergio Lorenzo Facchini",
           "voto": 7.9,
           "giudizio": "Buona presenza nel gruppo con 13 messaggi. Partecipazione attiva.",
           "messaggi": 13,
           "mediaGiornaliera": 1.9
         },
         {
-          "name": "Cocco",
+          "name": "Cosimo Nenciòni",
           "voto": 6.9,
           "giudizio": "Settimana nella media con 7 messaggi. Presente ma non protagonista.",
           "messaggi": 7,
           "mediaGiornaliera": 1.0
         },
         {
-          "name": "Alecs",
+          "name": "Alessio Macalùso",
           "voto": 6.8,
           "giudizio": "Settimana nella media con 6 messaggi. Presente ma non protagonista.",
           "messaggi": 6,
           "mediaGiornaliera": 0.9
         },
         {
-          "name": "Giec",
+          "name": "Giacomo Dolfi",
           "voto": 6.8,
           "giudizio": "Settimana nella media con 6 messaggi. Presente ma non protagonista.",
           "messaggi": 6,
@@ -581,9 +581,9 @@
       ],
       "riassunto": "Settimana con 61 messaggi totali. 6 membri attivi.",
       "awards": {
-        "mvp": "Fausto",
-        "chiacchierone": "Fausto",
-        "fantasma": "Giec"
+        "mvp": "Fausto Petrini",
+        "chiacchierone": "Fausto Petrini",
+        "fantasma": "Giacomo Dolfi"
       },
       "stats": {
         "totalMessages": 61,
@@ -596,21 +596,21 @@
       "endDate": "2020-03-15",
       "pagelle": [
         {
-          "name": "Fausto",
+          "name": "Fausto Petrini",
           "voto": 8.3,
           "giudizio": "Settimana dominante con 27 messaggi. Protagonista assoluto.",
           "messaggi": 27,
           "mediaGiornaliera": 3.9
         },
         {
-          "name": "Cocco",
+          "name": "Cosimo Nenciòni",
           "voto": 8.0,
           "giudizio": "Settimana dominante con 26 messaggi. Protagonista assoluto.",
           "messaggi": 26,
           "mediaGiornaliera": 3.7
         },
         {
-          "name": "Adriano",
+          "name": "Adriano Sergio Lorenzo Facchini",
           "voto": 7.9,
           "giudizio": "Buona presenza nel gruppo con 24 messaggi. Partecipazione attiva.",
           "messaggi": 24,
@@ -624,14 +624,14 @@
           "mediaGiornaliera": 1.6
         },
         {
-          "name": "Alecs",
+          "name": "Alessio Macalùso",
           "voto": 6.7,
           "giudizio": "Settimana nella media con 10 messaggi. Presente ma non protagonista.",
           "messaggi": 10,
           "mediaGiornaliera": 1.4
         },
         {
-          "name": "Giec",
+          "name": "Giacomo Dolfi",
           "voto": 6.5,
           "giudizio": "Settimana nella media con 7 messaggi. Presente ma non protagonista.",
           "messaggi": 7,
@@ -640,9 +640,9 @@
       ],
       "riassunto": "Settimana con 105 messaggi totali. 6 membri attivi.",
       "awards": {
-        "mvp": "Fausto",
-        "chiacchierone": "Fausto",
-        "fantasma": "Giec"
+        "mvp": "Fausto Petrini",
+        "chiacchierone": "Fausto Petrini",
+        "fantasma": "Giacomo Dolfi"
       },
       "stats": {
         "totalMessages": 105,
@@ -655,35 +655,35 @@
       "endDate": "2020-03-22",
       "pagelle": [
         {
-          "name": "Adriano",
+          "name": "Adriano Sergio Lorenzo Facchini",
           "voto": 8.6,
           "giudizio": "Settimana dominante con 57 messaggi. Protagonista assoluto.",
           "messaggi": 57,
           "mediaGiornaliera": 8.1
         },
         {
-          "name": "Cocco",
+          "name": "Cosimo Nenciòni",
           "voto": 8.0,
           "giudizio": "Settimana dominante con 55 messaggi. Protagonista assoluto.",
           "messaggi": 55,
           "mediaGiornaliera": 7.9
         },
         {
-          "name": "Fausto",
+          "name": "Fausto Petrini",
           "voto": 7.9,
           "giudizio": "Buona presenza nel gruppo con 49 messaggi. Partecipazione attiva.",
           "messaggi": 49,
           "mediaGiornaliera": 7.0
         },
         {
-          "name": "Alecs",
+          "name": "Alessio Macalùso",
           "voto": 7.6,
           "giudizio": "Buona presenza nel gruppo con 36 messaggi. Partecipazione attiva.",
           "messaggi": 36,
           "mediaGiornaliera": 5.1
         },
         {
-          "name": "Giec",
+          "name": "Giacomo Dolfi",
           "voto": 7.6,
           "giudizio": "Buona presenza nel gruppo con 32 messaggi. Partecipazione attiva.",
           "messaggi": 32,
@@ -699,8 +699,8 @@
       ],
       "riassunto": "Settimana con 253 messaggi totali. 6 membri attivi.",
       "awards": {
-        "mvp": "Adriano",
-        "chiacchierone": "Adriano",
+        "mvp": "Adriano Sergio Lorenzo Facchini",
+        "chiacchierone": "Adriano Sergio Lorenzo Facchini",
         "fantasma": "Alessio Valentini"
       },
       "stats": {
@@ -714,14 +714,14 @@
       "endDate": "2020-03-29",
       "pagelle": [
         {
-          "name": "Adriano",
+          "name": "Adriano Sergio Lorenzo Facchini",
           "voto": 8.5,
           "giudizio": "Settimana dominante con 48 messaggi. Protagonista assoluto.",
           "messaggi": 48,
           "mediaGiornaliera": 6.9
         },
         {
-          "name": "Cocco",
+          "name": "Cosimo Nenciòni",
           "voto": 7.8,
           "giudizio": "Buona presenza nel gruppo con 36 messaggi. Partecipazione attiva.",
           "messaggi": 36,
@@ -735,21 +735,21 @@
           "mediaGiornaliera": 4.6
         },
         {
-          "name": "Fausto",
+          "name": "Fausto Petrini",
           "voto": 7.5,
           "giudizio": "Buona presenza nel gruppo con 26 messaggi. Partecipazione attiva.",
           "messaggi": 26,
           "mediaGiornaliera": 3.7
         },
         {
-          "name": "Giec",
+          "name": "Giacomo Dolfi",
           "voto": 7.5,
           "giudizio": "Buona presenza nel gruppo con 25 messaggi. Partecipazione attiva.",
           "messaggi": 25,
           "mediaGiornaliera": 3.6
         },
         {
-          "name": "Alecs",
+          "name": "Alessio Macalùso",
           "voto": 6.9,
           "giudizio": "Settimana nella media con 21 messaggi. Presente ma non protagonista.",
           "messaggi": 21,
@@ -758,9 +758,9 @@
       ],
       "riassunto": "Settimana con 188 messaggi totali. 6 membri attivi.",
       "awards": {
-        "mvp": "Adriano",
-        "chiacchierone": "Adriano",
-        "fantasma": "Alecs"
+        "mvp": "Adriano Sergio Lorenzo Facchini",
+        "chiacchierone": "Adriano Sergio Lorenzo Facchini",
+        "fantasma": "Alessio Macalùso"
       },
       "stats": {
         "totalMessages": 188,
@@ -773,21 +773,21 @@
       "endDate": "2020-04-05",
       "pagelle": [
         {
-          "name": "Cocco",
+          "name": "Cosimo Nenciòni",
           "voto": 8.2,
           "giudizio": "Settimana dominante con 16 messaggi. Protagonista assoluto.",
           "messaggi": 16,
           "mediaGiornaliera": 2.3
         },
         {
-          "name": "Fausto",
+          "name": "Fausto Petrini",
           "voto": 7.8,
           "giudizio": "Buona presenza nel gruppo con 13 messaggi. Partecipazione attiva.",
           "messaggi": 13,
           "mediaGiornaliera": 1.9
         },
         {
-          "name": "Giec",
+          "name": "Giacomo Dolfi",
           "voto": 7.6,
           "giudizio": "Buona presenza nel gruppo con 10 messaggi. Partecipazione attiva.",
           "messaggi": 10,
@@ -801,14 +801,14 @@
           "mediaGiornaliera": 1.1
         },
         {
-          "name": "Alecs",
+          "name": "Alessio Macalùso",
           "voto": 7.0,
           "giudizio": "Buona presenza nel gruppo con 8 messaggi. Partecipazione attiva.",
           "messaggi": 8,
           "mediaGiornaliera": 1.1
         },
         {
-          "name": "Adriano",
+          "name": "Adriano Sergio Lorenzo Facchini",
           "voto": 6.9,
           "giudizio": "Settimana nella media con 7 messaggi. Presente ma non protagonista.",
           "messaggi": 7,
@@ -817,9 +817,9 @@
       ],
       "riassunto": "Settimana con 62 messaggi totali. 6 membri attivi.",
       "awards": {
-        "mvp": "Cocco",
-        "chiacchierone": "Cocco",
-        "fantasma": "Adriano"
+        "mvp": "Cosimo Nenciòni",
+        "chiacchierone": "Cosimo Nenciòni",
+        "fantasma": "Adriano Sergio Lorenzo Facchini"
       },
       "stats": {
         "totalMessages": 62,
@@ -832,35 +832,35 @@
       "endDate": "2020-04-12",
       "pagelle": [
         {
-          "name": "Adriano",
+          "name": "Adriano Sergio Lorenzo Facchini",
           "voto": 8.4,
           "giudizio": "Settimana dominante con 43 messaggi. Protagonista assoluto.",
           "messaggi": 43,
           "mediaGiornaliera": 6.1
         },
         {
-          "name": "Fausto",
+          "name": "Fausto Petrini",
           "voto": 7.8,
           "giudizio": "Buona presenza nel gruppo con 35 messaggi. Partecipazione attiva.",
           "messaggi": 35,
           "mediaGiornaliera": 5.0
         },
         {
-          "name": "Cocco",
+          "name": "Cosimo Nenciòni",
           "voto": 7.6,
           "giudizio": "Buona presenza nel gruppo con 27 messaggi. Partecipazione attiva.",
           "messaggi": 27,
           "mediaGiornaliera": 3.9
         },
         {
-          "name": "Giec",
+          "name": "Giacomo Dolfi",
           "voto": 7.5,
           "giudizio": "Buona presenza nel gruppo con 23 messaggi. Partecipazione attiva.",
           "messaggi": 23,
           "mediaGiornaliera": 3.3
         },
         {
-          "name": "Alecs",
+          "name": "Alessio Macalùso",
           "voto": 6.6,
           "giudizio": "Settimana nella media con 13 messaggi. Presente ma non protagonista.",
           "messaggi": 13,
@@ -876,8 +876,8 @@
       ],
       "riassunto": "Settimana con 150 messaggi totali. 6 membri attivi.",
       "awards": {
-        "mvp": "Adriano",
-        "chiacchierone": "Adriano",
+        "mvp": "Adriano Sergio Lorenzo Facchini",
+        "chiacchierone": "Adriano Sergio Lorenzo Facchini",
         "fantasma": "Alessio Valentini"
       },
       "stats": {
@@ -891,7 +891,7 @@
       "endDate": "2020-04-19",
       "pagelle": [
         {
-          "name": "Adriano",
+          "name": "Adriano Sergio Lorenzo Facchini",
           "voto": 8.2,
           "giudizio": "Settimana dominante con 16 messaggi. Protagonista assoluto.",
           "messaggi": 16,
@@ -905,28 +905,28 @@
           "mediaGiornaliera": 1.4
         },
         {
-          "name": "Fausto",
+          "name": "Fausto Petrini",
           "voto": 7.0,
           "giudizio": "Buona presenza nel gruppo con 8 messaggi. Partecipazione attiva.",
           "messaggi": 8,
           "mediaGiornaliera": 1.1
         },
         {
-          "name": "Cocco",
+          "name": "Cosimo Nenciòni",
           "voto": 6.9,
           "giudizio": "Settimana nella media con 7 messaggi. Presente ma non protagonista.",
           "messaggi": 7,
           "mediaGiornaliera": 1.0
         },
         {
-          "name": "Alecs",
+          "name": "Alessio Macalùso",
           "voto": 5.6,
           "giudizio": "Settimana sottotono con solo 2 messaggi. Si può fare di più.",
           "messaggi": 2,
           "mediaGiornaliera": 0.3
         },
         {
-          "name": "Giec",
+          "name": "Giacomo Dolfi",
           "voto": 5.6,
           "giudizio": "Settimana sottotono con solo 2 messaggi. Si può fare di più.",
           "messaggi": 2,
@@ -935,9 +935,9 @@
       ],
       "riassunto": "Settimana con 45 messaggi totali. 6 membri attivi.",
       "awards": {
-        "mvp": "Adriano",
-        "chiacchierone": "Adriano",
-        "fantasma": "Giec"
+        "mvp": "Adriano Sergio Lorenzo Facchini",
+        "chiacchierone": "Adriano Sergio Lorenzo Facchini",
+        "fantasma": "Giacomo Dolfi"
       },
       "stats": {
         "totalMessages": 45,
@@ -950,28 +950,28 @@
       "endDate": "2020-04-26",
       "pagelle": [
         {
-          "name": "Adriano",
+          "name": "Adriano Sergio Lorenzo Facchini",
           "voto": 8.7,
           "giudizio": "Settimana dominante con 70 messaggi. Protagonista assoluto.",
           "messaggi": 70,
           "mediaGiornaliera": 10.0
         },
         {
-          "name": "Cocco",
+          "name": "Cosimo Nenciòni",
           "voto": 7.7,
           "giudizio": "Buona presenza nel gruppo con 51 messaggi. Partecipazione attiva.",
           "messaggi": 51,
           "mediaGiornaliera": 7.3
         },
         {
-          "name": "Fausto",
+          "name": "Fausto Petrini",
           "voto": 7.6,
           "giudizio": "Buona presenza nel gruppo con 40 messaggi. Partecipazione attiva.",
           "messaggi": 40,
           "mediaGiornaliera": 5.7
         },
         {
-          "name": "Giec",
+          "name": "Giacomo Dolfi",
           "voto": 6.7,
           "giudizio": "Settimana nella media con 26 messaggi. Presente ma non protagonista.",
           "messaggi": 26,
@@ -985,7 +985,7 @@
           "mediaGiornaliera": 2.3
         },
         {
-          "name": "Alecs",
+          "name": "Alessio Macalùso",
           "voto": 6.4,
           "giudizio": "Settimana nella media con 15 messaggi. Presente ma non protagonista.",
           "messaggi": 15,
@@ -994,9 +994,9 @@
       ],
       "riassunto": "Settimana con 218 messaggi totali. 6 membri attivi.",
       "awards": {
-        "mvp": "Adriano",
-        "chiacchierone": "Adriano",
-        "fantasma": "Alecs"
+        "mvp": "Adriano Sergio Lorenzo Facchini",
+        "chiacchierone": "Adriano Sergio Lorenzo Facchini",
+        "fantasma": "Alessio Macalùso"
       },
       "stats": {
         "totalMessages": 218,
@@ -1009,21 +1009,21 @@
       "endDate": "2020-05-03",
       "pagelle": [
         {
-          "name": "Cocco",
+          "name": "Cosimo Nenciòni",
           "voto": 8.6,
           "giudizio": "Settimana dominante con 58 messaggi. Protagonista assoluto.",
           "messaggi": 58,
           "mediaGiornaliera": 8.3
         },
         {
-          "name": "Fausto",
+          "name": "Fausto Petrini",
           "voto": 7.7,
           "giudizio": "Buona presenza nel gruppo con 43 messaggi. Partecipazione attiva.",
           "messaggi": 43,
           "mediaGiornaliera": 6.1
         },
         {
-          "name": "Adriano",
+          "name": "Adriano Sergio Lorenzo Facchini",
           "voto": 7.7,
           "giudizio": "Buona presenza nel gruppo con 42 messaggi. Partecipazione attiva.",
           "messaggi": 42,
@@ -1037,14 +1037,14 @@
           "mediaGiornaliera": 3.0
         },
         {
-          "name": "Giec",
+          "name": "Giacomo Dolfi",
           "voto": 6.6,
           "giudizio": "Settimana nella media con 17 messaggi. Presente ma non protagonista.",
           "messaggi": 17,
           "mediaGiornaliera": 2.4
         },
         {
-          "name": "Alecs",
+          "name": "Alessio Macalùso",
           "voto": 6.6,
           "giudizio": "Settimana nella media con 16 messaggi. Presente ma non protagonista.",
           "messaggi": 16,
@@ -1053,9 +1053,9 @@
       ],
       "riassunto": "Settimana con 197 messaggi totali. 6 membri attivi.",
       "awards": {
-        "mvp": "Cocco",
-        "chiacchierone": "Cocco",
-        "fantasma": "Alecs"
+        "mvp": "Cosimo Nenciòni",
+        "chiacchierone": "Cosimo Nenciòni",
+        "fantasma": "Alessio Macalùso"
       },
       "stats": {
         "totalMessages": 197,
@@ -1068,7 +1068,7 @@
       "endDate": "2020-05-10",
       "pagelle": [
         {
-          "name": "Adriano",
+          "name": "Adriano Sergio Lorenzo Facchini",
           "voto": 8.4,
           "giudizio": "Settimana dominante con 40 messaggi. Protagonista assoluto.",
           "messaggi": 40,
@@ -1082,28 +1082,28 @@
           "mediaGiornaliera": 4.0
         },
         {
-          "name": "Cocco",
+          "name": "Cosimo Nenciòni",
           "voto": 7.0,
           "giudizio": "Buona presenza nel gruppo con 20 messaggi. Partecipazione attiva.",
           "messaggi": 20,
           "mediaGiornaliera": 2.9
         },
         {
-          "name": "Giec",
+          "name": "Giacomo Dolfi",
           "voto": 6.8,
           "giudizio": "Settimana nella media con 17 messaggi. Presente ma non protagonista.",
           "messaggi": 17,
           "mediaGiornaliera": 2.4
         },
         {
-          "name": "Fausto",
+          "name": "Fausto Petrini",
           "voto": 6.7,
           "giudizio": "Settimana nella media con 14 messaggi. Presente ma non protagonista.",
           "messaggi": 14,
           "mediaGiornaliera": 2.0
         },
         {
-          "name": "Alecs",
+          "name": "Alessio Macalùso",
           "voto": 6.5,
           "giudizio": "Settimana nella media con 11 messaggi. Presente ma non protagonista.",
           "messaggi": 11,
@@ -1112,9 +1112,9 @@
       ],
       "riassunto": "Settimana con 130 messaggi totali. 6 membri attivi.",
       "awards": {
-        "mvp": "Adriano",
-        "chiacchierone": "Adriano",
-        "fantasma": "Alecs"
+        "mvp": "Adriano Sergio Lorenzo Facchini",
+        "chiacchierone": "Adriano Sergio Lorenzo Facchini",
+        "fantasma": "Alessio Macalùso"
       },
       "stats": {
         "totalMessages": 130,
@@ -1127,35 +1127,35 @@
       "endDate": "2020-05-17",
       "pagelle": [
         {
-          "name": "Adriano",
+          "name": "Adriano Sergio Lorenzo Facchini",
           "voto": 9.1,
           "giudizio": "Settimana dominante con 109 messaggi. Protagonista assoluto.",
           "messaggi": 109,
           "mediaGiornaliera": 15.6
         },
         {
-          "name": "Cocco",
+          "name": "Cosimo Nenciòni",
           "voto": 7.8,
           "giudizio": "Buona presenza nel gruppo con 85 messaggi. Partecipazione attiva.",
           "messaggi": 85,
           "mediaGiornaliera": 12.1
         },
         {
-          "name": "Fausto",
+          "name": "Fausto Petrini",
           "voto": 7.6,
           "giudizio": "Buona presenza nel gruppo con 63 messaggi. Partecipazione attiva.",
           "messaggi": 63,
           "mediaGiornaliera": 9.0
         },
         {
-          "name": "Giec",
+          "name": "Giacomo Dolfi",
           "voto": 7.5,
           "giudizio": "Buona presenza nel gruppo con 57 messaggi. Partecipazione attiva.",
           "messaggi": 57,
           "mediaGiornaliera": 8.1
         },
         {
-          "name": "Alecs",
+          "name": "Alessio Macalùso",
           "voto": 5.9,
           "giudizio": "Settimana sottotono con solo 19 messaggi. Si può fare di più.",
           "messaggi": 19,
@@ -1171,8 +1171,8 @@
       ],
       "riassunto": "Settimana con 343 messaggi totali. 6 membri attivi.",
       "awards": {
-        "mvp": "Adriano",
-        "chiacchierone": "Adriano",
+        "mvp": "Adriano Sergio Lorenzo Facchini",
+        "chiacchierone": "Adriano Sergio Lorenzo Facchini",
         "fantasma": "Alessio Valentini"
       },
       "stats": {
@@ -1186,21 +1186,21 @@
       "endDate": "2020-05-24",
       "pagelle": [
         {
-          "name": "Adriano",
+          "name": "Adriano Sergio Lorenzo Facchini",
           "voto": 8.4,
           "giudizio": "Settimana dominante con 42 messaggi. Protagonista assoluto.",
           "messaggi": 42,
           "mediaGiornaliera": 6.0
         },
         {
-          "name": "Cocco",
+          "name": "Cosimo Nenciòni",
           "voto": 7.7,
           "giudizio": "Buona presenza nel gruppo con 30 messaggi. Partecipazione attiva.",
           "messaggi": 30,
           "mediaGiornaliera": 4.3
         },
         {
-          "name": "Fausto",
+          "name": "Fausto Petrini",
           "voto": 7.7,
           "giudizio": "Buona presenza nel gruppo con 30 messaggi. Partecipazione attiva.",
           "messaggi": 30,
@@ -1214,14 +1214,14 @@
           "mediaGiornaliera": 2.0
         },
         {
-          "name": "Giec",
+          "name": "Giacomo Dolfi",
           "voto": 6.6,
           "giudizio": "Settimana nella media con 13 messaggi. Presente ma non protagonista.",
           "messaggi": 13,
           "mediaGiornaliera": 1.9
         },
         {
-          "name": "Alecs",
+          "name": "Alessio Macalùso",
           "voto": 6.5,
           "giudizio": "Settimana nella media con 11 messaggi. Presente ma non protagonista.",
           "messaggi": 11,
@@ -1230,9 +1230,9 @@
       ],
       "riassunto": "Settimana con 140 messaggi totali. 6 membri attivi.",
       "awards": {
-        "mvp": "Adriano",
-        "chiacchierone": "Adriano",
-        "fantasma": "Alecs"
+        "mvp": "Adriano Sergio Lorenzo Facchini",
+        "chiacchierone": "Adriano Sergio Lorenzo Facchini",
+        "fantasma": "Alessio Macalùso"
       },
       "stats": {
         "totalMessages": 140,
@@ -1245,35 +1245,35 @@
       "endDate": "2020-05-31",
       "pagelle": [
         {
-          "name": "Cocco",
+          "name": "Cosimo Nenciòni",
           "voto": 8.5,
           "giudizio": "Settimana dominante con 47 messaggi. Protagonista assoluto.",
           "messaggi": 47,
           "mediaGiornaliera": 6.7
         },
         {
-          "name": "Fausto",
+          "name": "Fausto Petrini",
           "voto": 7.8,
           "giudizio": "Buona presenza nel gruppo con 38 messaggi. Partecipazione attiva.",
           "messaggi": 38,
           "mediaGiornaliera": 5.4
         },
         {
-          "name": "Adriano",
+          "name": "Adriano Sergio Lorenzo Facchini",
           "voto": 7.8,
           "giudizio": "Buona presenza nel gruppo con 37 messaggi. Partecipazione attiva.",
           "messaggi": 37,
           "mediaGiornaliera": 5.3
         },
         {
-          "name": "Alecs",
+          "name": "Alessio Macalùso",
           "voto": 6.6,
           "giudizio": "Settimana nella media con 13 messaggi. Presente ma non protagonista.",
           "messaggi": 13,
           "mediaGiornaliera": 1.9
         },
         {
-          "name": "Giec",
+          "name": "Giacomo Dolfi",
           "voto": 6.6,
           "giudizio": "Settimana nella media con 13 messaggi. Presente ma non protagonista.",
           "messaggi": 13,
@@ -1289,8 +1289,8 @@
       ],
       "riassunto": "Settimana con 160 messaggi totali. 6 membri attivi.",
       "awards": {
-        "mvp": "Cocco",
-        "chiacchierone": "Cocco",
+        "mvp": "Cosimo Nenciòni",
+        "chiacchierone": "Cosimo Nenciòni",
         "fantasma": "Alessio Valentini"
       },
       "stats": {
@@ -1304,21 +1304,21 @@
       "endDate": "2020-06-07",
       "pagelle": [
         {
-          "name": "Adriano",
+          "name": "Adriano Sergio Lorenzo Facchini",
           "voto": 8.2,
           "giudizio": "Settimana dominante con 25 messaggi. Protagonista assoluto.",
           "messaggi": 25,
           "mediaGiornaliera": 3.6
         },
         {
-          "name": "Cocco",
+          "name": "Cosimo Nenciòni",
           "voto": 8.2,
           "giudizio": "Settimana dominante con 25 messaggi. Protagonista assoluto.",
           "messaggi": 25,
           "mediaGiornaliera": 3.6
         },
         {
-          "name": "Fausto",
+          "name": "Fausto Petrini",
           "voto": 8.0,
           "giudizio": "Settimana dominante con 24 messaggi. Protagonista assoluto.",
           "messaggi": 24,
@@ -1332,14 +1332,14 @@
           "mediaGiornaliera": 2.6
         },
         {
-          "name": "Alecs",
+          "name": "Alessio Macalùso",
           "voto": 6.9,
           "giudizio": "Settimana nella media con 11 messaggi. Presente ma non protagonista.",
           "messaggi": 11,
           "mediaGiornaliera": 1.6
         },
         {
-          "name": "Giec",
+          "name": "Giacomo Dolfi",
           "voto": 6.7,
           "giudizio": "Settimana nella media con 9 messaggi. Presente ma non protagonista.",
           "messaggi": 9,
@@ -1348,9 +1348,9 @@
       ],
       "riassunto": "Settimana con 112 messaggi totali. 6 membri attivi.",
       "awards": {
-        "mvp": "Adriano",
-        "chiacchierone": "Adriano",
-        "fantasma": "Giec"
+        "mvp": "Adriano Sergio Lorenzo Facchini",
+        "chiacchierone": "Adriano Sergio Lorenzo Facchini",
+        "fantasma": "Giacomo Dolfi"
       },
       "stats": {
         "totalMessages": 112,
@@ -1363,14 +1363,14 @@
       "endDate": "2020-06-14",
       "pagelle": [
         {
-          "name": "Fausto",
+          "name": "Fausto Petrini",
           "voto": 8.3,
           "giudizio": "Settimana dominante con 26 messaggi. Protagonista assoluto.",
           "messaggi": 26,
           "mediaGiornaliera": 3.7
         },
         {
-          "name": "Adriano",
+          "name": "Adriano Sergio Lorenzo Facchini",
           "voto": 7.8,
           "giudizio": "Buona presenza nel gruppo con 21 messaggi. Partecipazione attiva.",
           "messaggi": 21,
@@ -1384,21 +1384,21 @@
           "mediaGiornaliera": 2.4
         },
         {
-          "name": "Cocco",
+          "name": "Cosimo Nenciòni",
           "voto": 7.5,
           "giudizio": "Buona presenza nel gruppo con 14 messaggi. Partecipazione attiva.",
           "messaggi": 14,
           "mediaGiornaliera": 2.0
         },
         {
-          "name": "Alecs",
+          "name": "Alessio Macalùso",
           "voto": 5.8,
           "giudizio": "Settimana sottotono con solo 4 messaggi. Si può fare di più.",
           "messaggi": 4,
           "mediaGiornaliera": 0.6
         },
         {
-          "name": "Giec",
+          "name": "Giacomo Dolfi",
           "voto": 5.8,
           "giudizio": "Settimana sottotono con solo 4 messaggi. Si può fare di più.",
           "messaggi": 4,
@@ -1407,9 +1407,9 @@
       ],
       "riassunto": "Settimana con 86 messaggi totali. 6 membri attivi.",
       "awards": {
-        "mvp": "Fausto",
-        "chiacchierone": "Fausto",
-        "fantasma": "Giec"
+        "mvp": "Fausto Petrini",
+        "chiacchierone": "Fausto Petrini",
+        "fantasma": "Giacomo Dolfi"
       },
       "stats": {
         "totalMessages": 86,
@@ -1422,21 +1422,21 @@
       "endDate": "2020-06-21",
       "pagelle": [
         {
-          "name": "Fausto",
+          "name": "Fausto Petrini",
           "voto": 8.5,
           "giudizio": "Settimana dominante con 50 messaggi. Protagonista assoluto.",
           "messaggi": 50,
           "mediaGiornaliera": 7.1
         },
         {
-          "name": "Adriano",
+          "name": "Adriano Sergio Lorenzo Facchini",
           "voto": 7.7,
           "giudizio": "Buona presenza nel gruppo con 33 messaggi. Partecipazione attiva.",
           "messaggi": 33,
           "mediaGiornaliera": 4.7
         },
         {
-          "name": "Cocco",
+          "name": "Cosimo Nenciòni",
           "voto": 7.6,
           "giudizio": "Buona presenza nel gruppo con 30 messaggi. Partecipazione attiva.",
           "messaggi": 30,
@@ -1450,14 +1450,14 @@
           "mediaGiornaliera": 2.7
         },
         {
-          "name": "Giec",
+          "name": "Giacomo Dolfi",
           "voto": 6.6,
           "giudizio": "Settimana nella media con 16 messaggi. Presente ma non protagonista.",
           "messaggi": 16,
           "mediaGiornaliera": 2.3
         },
         {
-          "name": "Alecs",
+          "name": "Alessio Macalùso",
           "voto": 6.4,
           "giudizio": "Settimana nella media con 11 messaggi. Presente ma non protagonista.",
           "messaggi": 11,
@@ -1466,9 +1466,9 @@
       ],
       "riassunto": "Settimana con 159 messaggi totali. 6 membri attivi.",
       "awards": {
-        "mvp": "Fausto",
-        "chiacchierone": "Fausto",
-        "fantasma": "Alecs"
+        "mvp": "Fausto Petrini",
+        "chiacchierone": "Fausto Petrini",
+        "fantasma": "Alessio Macalùso"
       },
       "stats": {
         "totalMessages": 159,
@@ -1488,35 +1488,35 @@
           "mediaGiornaliera": 3.6
         },
         {
-          "name": "Adriano",
+          "name": "Adriano Sergio Lorenzo Facchini",
           "voto": 7.9,
           "giudizio": "Buona presenza nel gruppo con 23 messaggi. Partecipazione attiva.",
           "messaggi": 23,
           "mediaGiornaliera": 3.3
         },
         {
-          "name": "Cocco",
+          "name": "Cosimo Nenciòni",
           "voto": 7.7,
           "giudizio": "Buona presenza nel gruppo con 17 messaggi. Partecipazione attiva.",
           "messaggi": 17,
           "mediaGiornaliera": 2.4
         },
         {
-          "name": "Alecs",
+          "name": "Alessio Macalùso",
           "voto": 7.6,
           "giudizio": "Buona presenza nel gruppo con 16 messaggi. Partecipazione attiva.",
           "messaggi": 16,
           "mediaGiornaliera": 2.3
         },
         {
-          "name": "Fausto",
+          "name": "Fausto Petrini",
           "voto": 7.6,
           "giudizio": "Buona presenza nel gruppo con 16 messaggi. Partecipazione attiva.",
           "messaggi": 16,
           "mediaGiornaliera": 2.3
         },
         {
-          "name": "Giec",
+          "name": "Giacomo Dolfi",
           "voto": 7.6,
           "giudizio": "Buona presenza nel gruppo con 15 messaggi. Partecipazione attiva.",
           "messaggi": 15,
@@ -1527,7 +1527,7 @@
       "awards": {
         "mvp": "Alessio Valentini",
         "chiacchierone": "Alessio Valentini",
-        "fantasma": "Giec"
+        "fantasma": "Giacomo Dolfi"
       },
       "stats": {
         "totalMessages": 112,
@@ -1540,35 +1540,35 @@
       "endDate": "2020-07-12",
       "pagelle": [
         {
-          "name": "Adriano",
+          "name": "Adriano Sergio Lorenzo Facchini",
           "voto": 8.2,
           "giudizio": "Settimana dominante con 16 messaggi. Protagonista assoluto.",
           "messaggi": 16,
           "mediaGiornaliera": 2.3
         },
         {
-          "name": "Fausto",
+          "name": "Fausto Petrini",
           "voto": 7.9,
           "giudizio": "Buona presenza nel gruppo con 15 messaggi. Partecipazione attiva.",
           "messaggi": 15,
           "mediaGiornaliera": 2.1
         },
         {
-          "name": "Cocco",
+          "name": "Cosimo Nenciòni",
           "voto": 7.0,
           "giudizio": "Buona presenza nel gruppo con 8 messaggi. Partecipazione attiva.",
           "messaggi": 8,
           "mediaGiornaliera": 1.1
         },
         {
-          "name": "Alecs",
+          "name": "Alessio Macalùso",
           "voto": 7.0,
           "giudizio": "Buona presenza nel gruppo con 8 messaggi. Partecipazione attiva.",
           "messaggi": 8,
           "mediaGiornaliera": 1.1
         },
         {
-          "name": "Giec",
+          "name": "Giacomo Dolfi",
           "voto": 6.8,
           "giudizio": "Settimana nella media con 6 messaggi. Presente ma non protagonista.",
           "messaggi": 6,
@@ -1584,8 +1584,8 @@
       ],
       "riassunto": "Settimana con 59 messaggi totali. 6 membri attivi.",
       "awards": {
-        "mvp": "Adriano",
-        "chiacchierone": "Adriano",
+        "mvp": "Adriano Sergio Lorenzo Facchini",
+        "chiacchierone": "Adriano Sergio Lorenzo Facchini",
         "fantasma": "Alessio Valentini"
       },
       "stats": {
@@ -1606,35 +1606,35 @@
           "mediaGiornaliera": 4.0
         },
         {
-          "name": "Cocco",
+          "name": "Cosimo Nenciòni",
           "voto": 7.8,
           "giudizio": "Buona presenza nel gruppo con 23 messaggi. Partecipazione attiva.",
           "messaggi": 23,
           "mediaGiornaliera": 3.3
         },
         {
-          "name": "Adriano",
+          "name": "Adriano Sergio Lorenzo Facchini",
           "voto": 7.6,
           "giudizio": "Buona presenza nel gruppo con 17 messaggi. Partecipazione attiva.",
           "messaggi": 17,
           "mediaGiornaliera": 2.4
         },
         {
-          "name": "Alecs",
+          "name": "Alessio Macalùso",
           "voto": 7.0,
           "giudizio": "Buona presenza nel gruppo con 14 messaggi. Partecipazione attiva.",
           "messaggi": 14,
           "mediaGiornaliera": 2.0
         },
         {
-          "name": "Giec",
+          "name": "Giacomo Dolfi",
           "voto": 6.6,
           "giudizio": "Settimana nella media con 9 messaggi. Presente ma non protagonista.",
           "messaggi": 9,
           "mediaGiornaliera": 1.3
         },
         {
-          "name": "Fausto",
+          "name": "Fausto Petrini",
           "voto": 6.6,
           "giudizio": "Settimana nella media con 8 messaggi. Presente ma non protagonista.",
           "messaggi": 8,
@@ -1645,7 +1645,7 @@
       "awards": {
         "mvp": "Alessio Valentini",
         "chiacchierone": "Alessio Valentini",
-        "fantasma": "Fausto"
+        "fantasma": "Fausto Petrini"
       },
       "stats": {
         "totalMessages": 99,
@@ -1665,14 +1665,14 @@
           "mediaGiornaliera": 1.1
         },
         {
-          "name": "Cocco",
+          "name": "Cosimo Nenciòni",
           "voto": 7.6,
           "giudizio": "Buona presenza nel gruppo con 5 messaggi. Partecipazione attiva.",
           "messaggi": 5,
           "mediaGiornaliera": 0.7
         },
         {
-          "name": "Adriano",
+          "name": "Adriano Sergio Lorenzo Facchini",
           "voto": 6.5,
           "giudizio": "Settimana nella media con 2 messaggi. Presente ma non protagonista.",
           "messaggi": 2,
@@ -1683,7 +1683,7 @@
       "awards": {
         "mvp": "Alessio Valentini",
         "chiacchierone": "Alessio Valentini",
-        "fantasma": "Adriano"
+        "fantasma": "Adriano Sergio Lorenzo Facchini"
       },
       "stats": {
         "totalMessages": 15,
@@ -1703,35 +1703,35 @@
           "mediaGiornaliera": 2.9
         },
         {
-          "name": "Fausto",
+          "name": "Fausto Petrini",
           "voto": 6.8,
           "giudizio": "Settimana nella media con 8 messaggi. Presente ma non protagonista.",
           "messaggi": 8,
           "mediaGiornaliera": 1.1
         },
         {
-          "name": "Adriano",
+          "name": "Adriano Sergio Lorenzo Facchini",
           "voto": 6.8,
           "giudizio": "Settimana nella media con 8 messaggi. Presente ma non protagonista.",
           "messaggi": 8,
           "mediaGiornaliera": 1.1
         },
         {
-          "name": "Cocco",
+          "name": "Cosimo Nenciòni",
           "voto": 6.7,
           "giudizio": "Settimana nella media con 7 messaggi. Presente ma non protagonista.",
           "messaggi": 7,
           "mediaGiornaliera": 1.0
         },
         {
-          "name": "Giec",
+          "name": "Giacomo Dolfi",
           "voto": 5.5,
           "giudizio": "Settimana sottotono con solo 2 messaggi. Si può fare di più.",
           "messaggi": 2,
           "mediaGiornaliera": 0.3
         },
         {
-          "name": "Alecs",
+          "name": "Alessio Macalùso",
           "voto": 5.5,
           "giudizio": "Settimana sottotono con solo 2 messaggi. Si può fare di più.",
           "messaggi": 2,
@@ -1742,7 +1742,7 @@
       "awards": {
         "mvp": "Alessio Valentini",
         "chiacchierone": "Alessio Valentini",
-        "fantasma": "Alecs"
+        "fantasma": "Alessio Macalùso"
       },
       "stats": {
         "totalMessages": 47,
@@ -1755,21 +1755,21 @@
       "endDate": "2020-08-09",
       "pagelle": [
         {
-          "name": "Adriano",
+          "name": "Adriano Sergio Lorenzo Facchini",
           "voto": 8.2,
           "giudizio": "Settimana dominante con 25 messaggi. Protagonista assoluto.",
           "messaggi": 25,
           "mediaGiornaliera": 3.6
         },
         {
-          "name": "Fausto",
+          "name": "Fausto Petrini",
           "voto": 7.9,
           "giudizio": "Buona presenza nel gruppo con 23 messaggi. Partecipazione attiva.",
           "messaggi": 23,
           "mediaGiornaliera": 3.3
         },
         {
-          "name": "Cocco",
+          "name": "Cosimo Nenciòni",
           "voto": 7.8,
           "giudizio": "Buona presenza nel gruppo con 21 messaggi. Partecipazione attiva.",
           "messaggi": 21,
@@ -1783,14 +1783,14 @@
           "mediaGiornaliera": 2.6
         },
         {
-          "name": "Giec",
+          "name": "Giacomo Dolfi",
           "voto": 7.6,
           "giudizio": "Buona presenza nel gruppo con 15 messaggi. Partecipazione attiva.",
           "messaggi": 15,
           "mediaGiornaliera": 2.1
         },
         {
-          "name": "Alecs",
+          "name": "Alessio Macalùso",
           "voto": 7.0,
           "giudizio": "Buona presenza nel gruppo con 12 messaggi. Partecipazione attiva.",
           "messaggi": 12,
@@ -1799,9 +1799,9 @@
       ],
       "riassunto": "Settimana con 114 messaggi totali. 6 membri attivi.",
       "awards": {
-        "mvp": "Adriano",
-        "chiacchierone": "Adriano",
-        "fantasma": "Alecs"
+        "mvp": "Adriano Sergio Lorenzo Facchini",
+        "chiacchierone": "Adriano Sergio Lorenzo Facchini",
+        "fantasma": "Alessio Macalùso"
       },
       "stats": {
         "totalMessages": 114,
@@ -1821,35 +1821,35 @@
           "mediaGiornaliera": 5.6
         },
         {
-          "name": "Adriano",
+          "name": "Adriano Sergio Lorenzo Facchini",
           "voto": 7.9,
           "giudizio": "Buona presenza nel gruppo con 37 messaggi. Partecipazione attiva.",
           "messaggi": 37,
           "mediaGiornaliera": 5.3
         },
         {
-          "name": "Cocco",
+          "name": "Cosimo Nenciòni",
           "voto": 7.8,
           "giudizio": "Buona presenza nel gruppo con 30 messaggi. Partecipazione attiva.",
           "messaggi": 30,
           "mediaGiornaliera": 4.3
         },
         {
-          "name": "Giec",
+          "name": "Giacomo Dolfi",
           "voto": 7.5,
           "giudizio": "Buona presenza nel gruppo con 21 messaggi. Partecipazione attiva.",
           "messaggi": 21,
           "mediaGiornaliera": 3.0
         },
         {
-          "name": "Fausto",
+          "name": "Fausto Petrini",
           "voto": 6.9,
           "giudizio": "Settimana nella media con 17 messaggi. Presente ma non protagonista.",
           "messaggi": 17,
           "mediaGiornaliera": 2.4
         },
         {
-          "name": "Alecs",
+          "name": "Alessio Macalùso",
           "voto": 6.7,
           "giudizio": "Settimana nella media con 14 messaggi. Presente ma non protagonista.",
           "messaggi": 14,
@@ -1860,7 +1860,7 @@
       "awards": {
         "mvp": "Alessio Valentini",
         "chiacchierone": "Alessio Valentini",
-        "fantasma": "Alecs"
+        "fantasma": "Alessio Macalùso"
       },
       "stats": {
         "totalMessages": 158,
@@ -1873,14 +1873,14 @@
       "endDate": "2020-08-23",
       "pagelle": [
         {
-          "name": "Cocco",
+          "name": "Cosimo Nenciòni",
           "voto": 8.5,
           "giudizio": "Settimana dominante con 48 messaggi. Protagonista assoluto.",
           "messaggi": 48,
           "mediaGiornaliera": 6.9
         },
         {
-          "name": "Fausto",
+          "name": "Fausto Petrini",
           "voto": 7.9,
           "giudizio": "Buona presenza nel gruppo con 41 messaggi. Partecipazione attiva.",
           "messaggi": 41,
@@ -1894,21 +1894,21 @@
           "mediaGiornaliera": 4.4
         },
         {
-          "name": "Adriano",
+          "name": "Adriano Sergio Lorenzo Facchini",
           "voto": 7.0,
           "giudizio": "Buona presenza nel gruppo con 23 messaggi. Partecipazione attiva.",
           "messaggi": 23,
           "mediaGiornaliera": 3.3
         },
         {
-          "name": "Alecs",
+          "name": "Alessio Macalùso",
           "voto": 6.5,
           "giudizio": "Settimana nella media con 13 messaggi. Presente ma non protagonista.",
           "messaggi": 13,
           "mediaGiornaliera": 1.9
         },
         {
-          "name": "Giec",
+          "name": "Giacomo Dolfi",
           "voto": 5.8,
           "giudizio": "Settimana sottotono con solo 8 messaggi. Si può fare di più.",
           "messaggi": 8,
@@ -1917,9 +1917,9 @@
       ],
       "riassunto": "Settimana con 164 messaggi totali. 6 membri attivi.",
       "awards": {
-        "mvp": "Cocco",
-        "chiacchierone": "Cocco",
-        "fantasma": "Giec"
+        "mvp": "Cosimo Nenciòni",
+        "chiacchierone": "Cosimo Nenciòni",
+        "fantasma": "Giacomo Dolfi"
       },
       "stats": {
         "totalMessages": 164,
@@ -1939,35 +1939,35 @@
           "mediaGiornaliera": 3.4
         },
         {
-          "name": "Cocco",
+          "name": "Cosimo Nenciòni",
           "voto": 7.9,
           "giudizio": "Buona presenza nel gruppo con 22 messaggi. Partecipazione attiva.",
           "messaggi": 22,
           "mediaGiornaliera": 3.1
         },
         {
-          "name": "Adriano",
+          "name": "Adriano Sergio Lorenzo Facchini",
           "voto": 7.7,
           "giudizio": "Buona presenza nel gruppo con 16 messaggi. Partecipazione attiva.",
           "messaggi": 16,
           "mediaGiornaliera": 2.3
         },
         {
-          "name": "Fausto",
+          "name": "Fausto Petrini",
           "voto": 7.5,
           "giudizio": "Buona presenza nel gruppo con 13 messaggi. Partecipazione attiva.",
           "messaggi": 13,
           "mediaGiornaliera": 1.9
         },
         {
-          "name": "Giec",
+          "name": "Giacomo Dolfi",
           "voto": 6.9,
           "giudizio": "Settimana nella media con 11 messaggi. Presente ma non protagonista.",
           "messaggi": 11,
           "mediaGiornaliera": 1.6
         },
         {
-          "name": "Alecs",
+          "name": "Alessio Macalùso",
           "voto": 6.8,
           "giudizio": "Settimana nella media con 9 messaggi. Presente ma non protagonista.",
           "messaggi": 9,
@@ -1978,7 +1978,7 @@
       "awards": {
         "mvp": "Alessio Valentini",
         "chiacchierone": "Alessio Valentini",
-        "fantasma": "Alecs"
+        "fantasma": "Alessio Macalùso"
       },
       "stats": {
         "totalMessages": 95,
@@ -1991,14 +1991,14 @@
       "endDate": "2020-09-06",
       "pagelle": [
         {
-          "name": "Adriano",
+          "name": "Adriano Sergio Lorenzo Facchini",
           "voto": 8.5,
           "giudizio": "Settimana dominante con 53 messaggi. Protagonista assoluto.",
           "messaggi": 53,
           "mediaGiornaliera": 7.6
         },
         {
-          "name": "Fausto",
+          "name": "Fausto Petrini",
           "voto": 8.0,
           "giudizio": "Settimana dominante con 52 messaggi. Protagonista assoluto.",
           "messaggi": 52,
@@ -2012,21 +2012,21 @@
           "mediaGiornaliera": 3.0
         },
         {
-          "name": "Cocco",
+          "name": "Cosimo Nenciòni",
           "voto": 6.8,
           "giudizio": "Settimana nella media con 20 messaggi. Presente ma non protagonista.",
           "messaggi": 20,
           "mediaGiornaliera": 2.9
         },
         {
-          "name": "Alecs",
+          "name": "Alessio Macalùso",
           "voto": 6.5,
           "giudizio": "Settimana nella media con 13 messaggi. Presente ma non protagonista.",
           "messaggi": 13,
           "mediaGiornaliera": 1.9
         },
         {
-          "name": "Giec",
+          "name": "Giacomo Dolfi",
           "voto": 6.5,
           "giudizio": "Settimana nella media con 12 messaggi. Presente ma non protagonista.",
           "messaggi": 12,
@@ -2035,9 +2035,9 @@
       ],
       "riassunto": "Settimana con 171 messaggi totali. 6 membri attivi.",
       "awards": {
-        "mvp": "Adriano",
-        "chiacchierone": "Adriano",
-        "fantasma": "Giec"
+        "mvp": "Adriano Sergio Lorenzo Facchini",
+        "chiacchierone": "Adriano Sergio Lorenzo Facchini",
+        "fantasma": "Giacomo Dolfi"
       },
       "stats": {
         "totalMessages": 171,
@@ -2050,7 +2050,7 @@
       "endDate": "2020-09-13",
       "pagelle": [
         {
-          "name": "Cocco",
+          "name": "Cosimo Nenciòni",
           "voto": 8.3,
           "giudizio": "Settimana dominante con 28 messaggi. Protagonista assoluto.",
           "messaggi": 28,
@@ -2064,28 +2064,28 @@
           "mediaGiornaliera": 3.7
         },
         {
-          "name": "Adriano",
+          "name": "Adriano Sergio Lorenzo Facchini",
           "voto": 7.8,
           "giudizio": "Buona presenza nel gruppo con 23 messaggi. Partecipazione attiva.",
           "messaggi": 23,
           "mediaGiornaliera": 3.3
         },
         {
-          "name": "Giec",
+          "name": "Giacomo Dolfi",
           "voto": 7.8,
           "giudizio": "Buona presenza nel gruppo con 21 messaggi. Partecipazione attiva.",
           "messaggi": 21,
           "mediaGiornaliera": 3.0
         },
         {
-          "name": "Fausto",
+          "name": "Fausto Petrini",
           "voto": 7.0,
           "giudizio": "Buona presenza nel gruppo con 14 messaggi. Partecipazione attiva.",
           "messaggi": 14,
           "mediaGiornaliera": 2.0
         },
         {
-          "name": "Alecs",
+          "name": "Alessio Macalùso",
           "voto": 6.9,
           "giudizio": "Settimana nella media con 12 messaggi. Presente ma non protagonista.",
           "messaggi": 12,
@@ -2094,9 +2094,9 @@
       ],
       "riassunto": "Settimana con 124 messaggi totali. 6 membri attivi.",
       "awards": {
-        "mvp": "Cocco",
-        "chiacchierone": "Cocco",
-        "fantasma": "Alecs"
+        "mvp": "Cosimo Nenciòni",
+        "chiacchierone": "Cosimo Nenciòni",
+        "fantasma": "Alessio Macalùso"
       },
       "stats": {
         "totalMessages": 124,
@@ -2116,35 +2116,35 @@
           "mediaGiornaliera": 5.1
         },
         {
-          "name": "Adriano",
+          "name": "Adriano Sergio Lorenzo Facchini",
           "voto": 7.8,
           "giudizio": "Buona presenza nel gruppo con 28 messaggi. Partecipazione attiva.",
           "messaggi": 28,
           "mediaGiornaliera": 4.0
         },
         {
-          "name": "Fausto",
+          "name": "Fausto Petrini",
           "voto": 7.7,
           "giudizio": "Buona presenza nel gruppo con 25 messaggi. Partecipazione attiva.",
           "messaggi": 25,
           "mediaGiornaliera": 3.6
         },
         {
-          "name": "Cocco",
+          "name": "Cosimo Nenciòni",
           "voto": 7.6,
           "giudizio": "Buona presenza nel gruppo con 22 messaggi. Partecipazione attiva.",
           "messaggi": 22,
           "mediaGiornaliera": 3.1
         },
         {
-          "name": "Giec",
+          "name": "Giacomo Dolfi",
           "voto": 6.7,
           "giudizio": "Settimana nella media con 12 messaggi. Presente ma non protagonista.",
           "messaggi": 12,
           "mediaGiornaliera": 1.7
         },
         {
-          "name": "Alecs",
+          "name": "Alessio Macalùso",
           "voto": 6.4,
           "giudizio": "Settimana nella media con 8 messaggi. Presente ma non protagonista.",
           "messaggi": 8,
@@ -2155,7 +2155,7 @@
       "awards": {
         "mvp": "Alessio Valentini",
         "chiacchierone": "Alessio Valentini",
-        "fantasma": "Alecs"
+        "fantasma": "Alessio Macalùso"
       },
       "stats": {
         "totalMessages": 131,
@@ -2168,7 +2168,7 @@
       "endDate": "2020-09-27",
       "pagelle": [
         {
-          "name": "Adriano",
+          "name": "Adriano Sergio Lorenzo Facchini",
           "voto": 8.4,
           "giudizio": "Settimana dominante con 37 messaggi. Protagonista assoluto.",
           "messaggi": 37,
@@ -2182,28 +2182,28 @@
           "mediaGiornaliera": 4.7
         },
         {
-          "name": "Fausto",
+          "name": "Fausto Petrini",
           "voto": 7.8,
           "giudizio": "Buona presenza nel gruppo con 31 messaggi. Partecipazione attiva.",
           "messaggi": 31,
           "mediaGiornaliera": 4.4
         },
         {
-          "name": "Cocco",
+          "name": "Cosimo Nenciòni",
           "voto": 7.8,
           "giudizio": "Buona presenza nel gruppo con 30 messaggi. Partecipazione attiva.",
           "messaggi": 30,
           "mediaGiornaliera": 4.3
         },
         {
-          "name": "Alecs",
+          "name": "Alessio Macalùso",
           "voto": 7.7,
           "giudizio": "Buona presenza nel gruppo con 26 messaggi. Partecipazione attiva.",
           "messaggi": 26,
           "mediaGiornaliera": 3.7
         },
         {
-          "name": "Giec",
+          "name": "Giacomo Dolfi",
           "voto": 7.7,
           "giudizio": "Buona presenza nel gruppo con 25 messaggi. Partecipazione attiva.",
           "messaggi": 25,
@@ -2212,9 +2212,9 @@
       ],
       "riassunto": "Settimana con 182 messaggi totali. 6 membri attivi.",
       "awards": {
-        "mvp": "Adriano",
-        "chiacchierone": "Adriano",
-        "fantasma": "Giec"
+        "mvp": "Adriano Sergio Lorenzo Facchini",
+        "chiacchierone": "Adriano Sergio Lorenzo Facchini",
+        "fantasma": "Giacomo Dolfi"
       },
       "stats": {
         "totalMessages": 182,
@@ -2227,14 +2227,14 @@
       "endDate": "2020-10-04",
       "pagelle": [
         {
-          "name": "Adriano",
+          "name": "Adriano Sergio Lorenzo Facchini",
           "voto": 8.6,
           "giudizio": "Settimana dominante con 59 messaggi. Protagonista assoluto.",
           "messaggi": 59,
           "mediaGiornaliera": 8.4
         },
         {
-          "name": "Alecs",
+          "name": "Alessio Macalùso",
           "voto": 7.9,
           "giudizio": "Buona presenza nel gruppo con 56 messaggi. Partecipazione attiva.",
           "messaggi": 56,
@@ -2248,21 +2248,21 @@
           "mediaGiornaliera": 7.3
         },
         {
-          "name": "Fausto",
+          "name": "Fausto Petrini",
           "voto": 7.8,
           "giudizio": "Buona presenza nel gruppo con 48 messaggi. Partecipazione attiva.",
           "messaggi": 48,
           "mediaGiornaliera": 6.9
         },
         {
-          "name": "Cocco",
+          "name": "Cosimo Nenciòni",
           "voto": 7.0,
           "giudizio": "Buona presenza nel gruppo con 29 messaggi. Partecipazione attiva.",
           "messaggi": 29,
           "mediaGiornaliera": 4.1
         },
         {
-          "name": "Giec",
+          "name": "Giacomo Dolfi",
           "voto": 6.7,
           "giudizio": "Settimana nella media con 21 messaggi. Presente ma non protagonista.",
           "messaggi": 21,
@@ -2271,9 +2271,9 @@
       ],
       "riassunto": "Settimana con 264 messaggi totali. 6 membri attivi.",
       "awards": {
-        "mvp": "Adriano",
-        "chiacchierone": "Adriano",
-        "fantasma": "Giec"
+        "mvp": "Adriano Sergio Lorenzo Facchini",
+        "chiacchierone": "Adriano Sergio Lorenzo Facchini",
+        "fantasma": "Giacomo Dolfi"
       },
       "stats": {
         "totalMessages": 264,
@@ -2286,7 +2286,7 @@
       "endDate": "2020-10-11",
       "pagelle": [
         {
-          "name": "Adriano",
+          "name": "Adriano Sergio Lorenzo Facchini",
           "voto": 8.2,
           "giudizio": "Settimana dominante con 25 messaggi. Protagonista assoluto.",
           "messaggi": 25,
@@ -2300,28 +2300,28 @@
           "mediaGiornaliera": 3.6
         },
         {
-          "name": "Fausto",
+          "name": "Fausto Petrini",
           "voto": 7.9,
           "giudizio": "Buona presenza nel gruppo con 22 messaggi. Partecipazione attiva.",
           "messaggi": 22,
           "mediaGiornaliera": 3.1
         },
         {
-          "name": "Alecs",
+          "name": "Alessio Macalùso",
           "voto": 7.6,
           "giudizio": "Buona presenza nel gruppo con 14 messaggi. Partecipazione attiva.",
           "messaggi": 14,
           "mediaGiornaliera": 2.0
         },
         {
-          "name": "Giec",
+          "name": "Giacomo Dolfi",
           "voto": 6.9,
           "giudizio": "Settimana nella media con 11 messaggi. Presente ma non protagonista.",
           "messaggi": 11,
           "mediaGiornaliera": 1.6
         },
         {
-          "name": "Cocco",
+          "name": "Cosimo Nenciòni",
           "voto": 6.7,
           "giudizio": "Settimana nella media con 9 messaggi. Presente ma non protagonista.",
           "messaggi": 9,
@@ -2330,9 +2330,9 @@
       ],
       "riassunto": "Settimana con 106 messaggi totali. 6 membri attivi.",
       "awards": {
-        "mvp": "Adriano",
-        "chiacchierone": "Adriano",
-        "fantasma": "Cocco"
+        "mvp": "Adriano Sergio Lorenzo Facchini",
+        "chiacchierone": "Adriano Sergio Lorenzo Facchini",
+        "fantasma": "Cosimo Nenciòni"
       },
       "stats": {
         "totalMessages": 106,
@@ -2352,35 +2352,35 @@
           "mediaGiornaliera": 6.6
         },
         {
-          "name": "Adriano",
+          "name": "Adriano Sergio Lorenzo Facchini",
           "voto": 7.7,
           "giudizio": "Buona presenza nel gruppo con 32 messaggi. Partecipazione attiva.",
           "messaggi": 32,
           "mediaGiornaliera": 4.6
         },
         {
-          "name": "Fausto",
+          "name": "Fausto Petrini",
           "voto": 7.7,
           "giudizio": "Buona presenza nel gruppo con 31 messaggi. Partecipazione attiva.",
           "messaggi": 31,
           "mediaGiornaliera": 4.4
         },
         {
-          "name": "Cocco",
+          "name": "Cosimo Nenciòni",
           "voto": 7.7,
           "giudizio": "Buona presenza nel gruppo con 30 messaggi. Partecipazione attiva.",
           "messaggi": 30,
           "mediaGiornaliera": 4.3
         },
         {
-          "name": "Giec",
+          "name": "Giacomo Dolfi",
           "voto": 7.0,
           "giudizio": "Buona presenza nel gruppo con 22 messaggi. Partecipazione attiva.",
           "messaggi": 22,
           "mediaGiornaliera": 3.1
         },
         {
-          "name": "Alecs",
+          "name": "Alessio Macalùso",
           "voto": 5.9,
           "giudizio": "Settimana sottotono con solo 8 messaggi. Si può fare di più.",
           "messaggi": 8,
@@ -2391,7 +2391,7 @@
       "awards": {
         "mvp": "Alessio Valentini",
         "chiacchierone": "Alessio Valentini",
-        "fantasma": "Alecs"
+        "fantasma": "Alessio Macalùso"
       },
       "stats": {
         "totalMessages": 169,
@@ -2404,21 +2404,21 @@
       "endDate": "2020-10-25",
       "pagelle": [
         {
-          "name": "Adriano",
+          "name": "Adriano Sergio Lorenzo Facchini",
           "voto": 8.4,
           "giudizio": "Settimana dominante con 36 messaggi. Protagonista assoluto.",
           "messaggi": 36,
           "mediaGiornaliera": 5.1
         },
         {
-          "name": "Cocco",
+          "name": "Cosimo Nenciòni",
           "voto": 7.7,
           "giudizio": "Buona presenza nel gruppo con 24 messaggi. Partecipazione attiva.",
           "messaggi": 24,
           "mediaGiornaliera": 3.4
         },
         {
-          "name": "Giec",
+          "name": "Giacomo Dolfi",
           "voto": 7.6,
           "giudizio": "Buona presenza nel gruppo con 21 messaggi. Partecipazione attiva.",
           "messaggi": 21,
@@ -2432,14 +2432,14 @@
           "mediaGiornaliera": 2.7
         },
         {
-          "name": "Fausto",
+          "name": "Fausto Petrini",
           "voto": 7.0,
           "giudizio": "Buona presenza nel gruppo con 18 messaggi. Partecipazione attiva.",
           "messaggi": 18,
           "mediaGiornaliera": 2.6
         },
         {
-          "name": "Alecs",
+          "name": "Alessio Macalùso",
           "voto": 6.7,
           "giudizio": "Settimana nella media con 12 messaggi. Presente ma non protagonista.",
           "messaggi": 12,
@@ -2448,9 +2448,9 @@
       ],
       "riassunto": "Settimana con 130 messaggi totali. 6 membri attivi.",
       "awards": {
-        "mvp": "Adriano",
-        "chiacchierone": "Adriano",
-        "fantasma": "Alecs"
+        "mvp": "Adriano Sergio Lorenzo Facchini",
+        "chiacchierone": "Adriano Sergio Lorenzo Facchini",
+        "fantasma": "Alessio Macalùso"
       },
       "stats": {
         "totalMessages": 130,
@@ -2470,35 +2470,35 @@
           "mediaGiornaliera": 3.1
         },
         {
-          "name": "Cocco",
+          "name": "Cosimo Nenciòni",
           "voto": 7.9,
           "giudizio": "Buona presenza nel gruppo con 20 messaggi. Partecipazione attiva.",
           "messaggi": 20,
           "mediaGiornaliera": 2.9
         },
         {
-          "name": "Alecs",
+          "name": "Alessio Macalùso",
           "voto": 7.8,
           "giudizio": "Buona presenza nel gruppo con 18 messaggi. Partecipazione attiva.",
           "messaggi": 18,
           "mediaGiornaliera": 2.6
         },
         {
-          "name": "Adriano",
+          "name": "Adriano Sergio Lorenzo Facchini",
           "voto": 7.7,
           "giudizio": "Buona presenza nel gruppo con 16 messaggi. Partecipazione attiva.",
           "messaggi": 16,
           "mediaGiornaliera": 2.3
         },
         {
-          "name": "Fausto",
+          "name": "Fausto Petrini",
           "voto": 7.5,
           "giudizio": "Buona presenza nel gruppo con 12 messaggi. Partecipazione attiva.",
           "messaggi": 12,
           "mediaGiornaliera": 1.7
         },
         {
-          "name": "Giec",
+          "name": "Giacomo Dolfi",
           "voto": 5.7,
           "giudizio": "Settimana sottotono con solo 3 messaggi. Si può fare di più.",
           "messaggi": 3,
@@ -2509,7 +2509,7 @@
       "awards": {
         "mvp": "Alessio Valentini",
         "chiacchierone": "Alessio Valentini",
-        "fantasma": "Giec"
+        "fantasma": "Giacomo Dolfi"
       },
       "stats": {
         "totalMessages": 91,
@@ -2522,28 +2522,28 @@
       "endDate": "2020-11-08",
       "pagelle": [
         {
-          "name": "Cocco",
+          "name": "Cosimo Nenciòni",
           "voto": 8.2,
           "giudizio": "Settimana dominante con 24 messaggi. Protagonista assoluto.",
           "messaggi": 24,
           "mediaGiornaliera": 3.4
         },
         {
-          "name": "Fausto",
+          "name": "Fausto Petrini",
           "voto": 8.0,
           "giudizio": "Settimana dominante con 23 messaggi. Protagonista assoluto.",
           "messaggi": 23,
           "mediaGiornaliera": 3.3
         },
         {
-          "name": "Adriano",
+          "name": "Adriano Sergio Lorenzo Facchini",
           "voto": 7.7,
           "giudizio": "Buona presenza nel gruppo con 17 messaggi. Partecipazione attiva.",
           "messaggi": 17,
           "mediaGiornaliera": 2.4
         },
         {
-          "name": "Giec",
+          "name": "Giacomo Dolfi",
           "voto": 7.6,
           "giudizio": "Buona presenza nel gruppo con 15 messaggi. Partecipazione attiva.",
           "messaggi": 15,
@@ -2557,7 +2557,7 @@
           "mediaGiornaliera": 1.3
         },
         {
-          "name": "Alecs",
+          "name": "Alessio Macalùso",
           "voto": 6.6,
           "giudizio": "Settimana nella media con 7 messaggi. Presente ma non protagonista.",
           "messaggi": 7,
@@ -2566,9 +2566,9 @@
       ],
       "riassunto": "Settimana con 95 messaggi totali. 6 membri attivi.",
       "awards": {
-        "mvp": "Cocco",
-        "chiacchierone": "Cocco",
-        "fantasma": "Alecs"
+        "mvp": "Cosimo Nenciòni",
+        "chiacchierone": "Cosimo Nenciòni",
+        "fantasma": "Alessio Macalùso"
       },
       "stats": {
         "totalMessages": 95,
@@ -2588,35 +2588,35 @@
           "mediaGiornaliera": 6.7
         },
         {
-          "name": "Adriano",
+          "name": "Adriano Sergio Lorenzo Facchini",
           "voto": 7.6,
           "giudizio": "Buona presenza nel gruppo con 30 messaggi. Partecipazione attiva.",
           "messaggi": 30,
           "mediaGiornaliera": 4.3
         },
         {
-          "name": "Giec",
+          "name": "Giacomo Dolfi",
           "voto": 6.7,
           "giudizio": "Settimana nella media con 16 messaggi. Presente ma non protagonista.",
           "messaggi": 16,
           "mediaGiornaliera": 2.3
         },
         {
-          "name": "Cocco",
+          "name": "Cosimo Nenciòni",
           "voto": 6.6,
           "giudizio": "Settimana nella media con 15 messaggi. Presente ma non protagonista.",
           "messaggi": 15,
           "mediaGiornaliera": 2.1
         },
         {
-          "name": "Fausto",
+          "name": "Fausto Petrini",
           "voto": 6.5,
           "giudizio": "Settimana nella media con 12 messaggi. Presente ma non protagonista.",
           "messaggi": 12,
           "mediaGiornaliera": 1.7
         },
         {
-          "name": "Alecs",
+          "name": "Alessio Macalùso",
           "voto": 5.7,
           "giudizio": "Settimana sottotono con solo 7 messaggi. Si può fare di più.",
           "messaggi": 7,
@@ -2627,7 +2627,7 @@
       "awards": {
         "mvp": "Alessio Valentini",
         "chiacchierone": "Alessio Valentini",
-        "fantasma": "Alecs"
+        "fantasma": "Alessio Macalùso"
       },
       "stats": {
         "totalMessages": 127,
@@ -2647,35 +2647,35 @@
           "mediaGiornaliera": 3.6
         },
         {
-          "name": "Fausto",
+          "name": "Fausto Petrini",
           "voto": 7.6,
           "giudizio": "Buona presenza nel gruppo con 16 messaggi. Partecipazione attiva.",
           "messaggi": 16,
           "mediaGiornaliera": 2.3
         },
         {
-          "name": "Cocco",
+          "name": "Cosimo Nenciòni",
           "voto": 7.6,
           "giudizio": "Buona presenza nel gruppo con 15 messaggi. Partecipazione attiva.",
           "messaggi": 15,
           "mediaGiornaliera": 2.1
         },
         {
-          "name": "Giec",
+          "name": "Giacomo Dolfi",
           "voto": 7.6,
           "giudizio": "Buona presenza nel gruppo con 14 messaggi. Partecipazione attiva.",
           "messaggi": 14,
           "mediaGiornaliera": 2.0
         },
         {
-          "name": "Adriano",
+          "name": "Adriano Sergio Lorenzo Facchini",
           "voto": 7.0,
           "giudizio": "Buona presenza nel gruppo con 12 messaggi. Partecipazione attiva.",
           "messaggi": 12,
           "mediaGiornaliera": 1.7
         },
         {
-          "name": "Alecs",
+          "name": "Alessio Macalùso",
           "voto": 6.9,
           "giudizio": "Settimana nella media con 11 messaggi. Presente ma non protagonista.",
           "messaggi": 11,
@@ -2686,7 +2686,7 @@
       "awards": {
         "mvp": "Alessio Valentini",
         "chiacchierone": "Alessio Valentini",
-        "fantasma": "Alecs"
+        "fantasma": "Alessio Macalùso"
       },
       "stats": {
         "totalMessages": 93,
@@ -2699,28 +2699,28 @@
       "endDate": "2020-11-29",
       "pagelle": [
         {
-          "name": "Fausto",
+          "name": "Fausto Petrini",
           "voto": 8.3,
           "giudizio": "Settimana dominante con 30 messaggi. Protagonista assoluto.",
           "messaggi": 30,
           "mediaGiornaliera": 4.3
         },
         {
-          "name": "Adriano",
+          "name": "Adriano Sergio Lorenzo Facchini",
           "voto": 7.6,
           "giudizio": "Buona presenza nel gruppo con 19 messaggi. Partecipazione attiva.",
           "messaggi": 19,
           "mediaGiornaliera": 2.7
         },
         {
-          "name": "Giec",
+          "name": "Giacomo Dolfi",
           "voto": 7.5,
           "giudizio": "Buona presenza nel gruppo con 16 messaggi. Partecipazione attiva.",
           "messaggi": 16,
           "mediaGiornaliera": 2.3
         },
         {
-          "name": "Cocco",
+          "name": "Cosimo Nenciòni",
           "voto": 6.7,
           "giudizio": "Settimana nella media con 11 messaggi. Presente ma non protagonista.",
           "messaggi": 11,
@@ -2734,7 +2734,7 @@
           "mediaGiornaliera": 1.3
         },
         {
-          "name": "Alecs",
+          "name": "Alessio Macalùso",
           "voto": 6.6,
           "giudizio": "Settimana nella media con 9 messaggi. Presente ma non protagonista.",
           "messaggi": 9,
@@ -2743,9 +2743,9 @@
       ],
       "riassunto": "Settimana con 94 messaggi totali. 6 membri attivi.",
       "awards": {
-        "mvp": "Fausto",
-        "chiacchierone": "Fausto",
-        "fantasma": "Alecs"
+        "mvp": "Fausto Petrini",
+        "chiacchierone": "Fausto Petrini",
+        "fantasma": "Alessio Macalùso"
       },
       "stats": {
         "totalMessages": 94,
@@ -2758,28 +2758,28 @@
       "endDate": "2020-12-06",
       "pagelle": [
         {
-          "name": "Cocco",
+          "name": "Cosimo Nenciòni",
           "voto": 8.2,
           "giudizio": "Settimana dominante con 22 messaggi. Protagonista assoluto.",
           "messaggi": 22,
           "mediaGiornaliera": 3.1
         },
         {
-          "name": "Giec",
+          "name": "Giacomo Dolfi",
           "voto": 7.6,
           "giudizio": "Buona presenza nel gruppo con 14 messaggi. Partecipazione attiva.",
           "messaggi": 14,
           "mediaGiornaliera": 2.0
         },
         {
-          "name": "Alecs",
+          "name": "Alessio Macalùso",
           "voto": 6.9,
           "giudizio": "Settimana nella media con 10 messaggi. Presente ma non protagonista.",
           "messaggi": 10,
           "mediaGiornaliera": 1.4
         },
         {
-          "name": "Adriano",
+          "name": "Adriano Sergio Lorenzo Facchini",
           "voto": 6.8,
           "giudizio": "Settimana nella media con 9 messaggi. Presente ma non protagonista.",
           "messaggi": 9,
@@ -2793,7 +2793,7 @@
           "mediaGiornaliera": 1.0
         },
         {
-          "name": "Fausto",
+          "name": "Fausto Petrini",
           "voto": 6.5,
           "giudizio": "Settimana nella media con 6 messaggi. Presente ma non protagonista.",
           "messaggi": 6,
@@ -2802,9 +2802,9 @@
       ],
       "riassunto": "Settimana con 68 messaggi totali. 6 membri attivi.",
       "awards": {
-        "mvp": "Cocco",
-        "chiacchierone": "Cocco",
-        "fantasma": "Fausto"
+        "mvp": "Cosimo Nenciòni",
+        "chiacchierone": "Cosimo Nenciòni",
+        "fantasma": "Fausto Petrini"
       },
       "stats": {
         "totalMessages": 68,
@@ -2817,7 +2817,7 @@
       "endDate": "2020-12-13",
       "pagelle": [
         {
-          "name": "Adriano",
+          "name": "Adriano Sergio Lorenzo Facchini",
           "voto": 8.3,
           "giudizio": "Settimana dominante con 33 messaggi. Protagonista assoluto.",
           "messaggi": 33,
@@ -2831,28 +2831,28 @@
           "mediaGiornaliera": 4.4
         },
         {
-          "name": "Cocco",
+          "name": "Cosimo Nenciòni",
           "voto": 7.6,
           "giudizio": "Buona presenza nel gruppo con 20 messaggi. Partecipazione attiva.",
           "messaggi": 20,
           "mediaGiornaliera": 2.9
         },
         {
-          "name": "Fausto",
+          "name": "Fausto Petrini",
           "voto": 7.6,
           "giudizio": "Buona presenza nel gruppo con 19 messaggi. Partecipazione attiva.",
           "messaggi": 19,
           "mediaGiornaliera": 2.7
         },
         {
-          "name": "Giec",
+          "name": "Giacomo Dolfi",
           "voto": 6.7,
           "giudizio": "Settimana nella media con 11 messaggi. Presente ma non protagonista.",
           "messaggi": 11,
           "mediaGiornaliera": 1.6
         },
         {
-          "name": "Alecs",
+          "name": "Alessio Macalùso",
           "voto": 6.4,
           "giudizio": "Settimana nella media con 7 messaggi. Presente ma non protagonista.",
           "messaggi": 7,
@@ -2861,9 +2861,9 @@
       ],
       "riassunto": "Settimana con 121 messaggi totali. 6 membri attivi.",
       "awards": {
-        "mvp": "Adriano",
-        "chiacchierone": "Adriano",
-        "fantasma": "Alecs"
+        "mvp": "Adriano Sergio Lorenzo Facchini",
+        "chiacchierone": "Adriano Sergio Lorenzo Facchini",
+        "fantasma": "Alessio Macalùso"
       },
       "stats": {
         "totalMessages": 121,
@@ -2876,14 +2876,14 @@
       "endDate": "2020-12-20",
       "pagelle": [
         {
-          "name": "Adriano",
+          "name": "Adriano Sergio Lorenzo Facchini",
           "voto": 8.4,
           "giudizio": "Settimana dominante con 39 messaggi. Protagonista assoluto.",
           "messaggi": 39,
           "mediaGiornaliera": 5.6
         },
         {
-          "name": "Cocco",
+          "name": "Cosimo Nenciòni",
           "voto": 8.4,
           "giudizio": "Settimana dominante con 39 messaggi. Protagonista assoluto.",
           "messaggi": 39,
@@ -2897,21 +2897,21 @@
           "mediaGiornaliera": 5.6
         },
         {
-          "name": "Fausto",
+          "name": "Fausto Petrini",
           "voto": 7.8,
           "giudizio": "Buona presenza nel gruppo con 32 messaggi. Partecipazione attiva.",
           "messaggi": 32,
           "mediaGiornaliera": 4.6
         },
         {
-          "name": "Alecs",
+          "name": "Alessio Macalùso",
           "voto": 6.7,
           "giudizio": "Settimana nella media con 13 messaggi. Presente ma non protagonista.",
           "messaggi": 13,
           "mediaGiornaliera": 1.9
         },
         {
-          "name": "Giec",
+          "name": "Giacomo Dolfi",
           "voto": 6.6,
           "giudizio": "Settimana nella media con 11 messaggi. Presente ma non protagonista.",
           "messaggi": 11,
@@ -2920,9 +2920,9 @@
       ],
       "riassunto": "Settimana con 173 messaggi totali. 6 membri attivi.",
       "awards": {
-        "mvp": "Adriano",
-        "chiacchierone": "Adriano",
-        "fantasma": "Giec"
+        "mvp": "Adriano Sergio Lorenzo Facchini",
+        "chiacchierone": "Adriano Sergio Lorenzo Facchini",
+        "fantasma": "Giacomo Dolfi"
       },
       "stats": {
         "totalMessages": 173,
@@ -2942,35 +2942,35 @@
           "mediaGiornaliera": 6.7
         },
         {
-          "name": "Adriano",
+          "name": "Adriano Sergio Lorenzo Facchini",
           "voto": 7.8,
           "giudizio": "Buona presenza nel gruppo con 38 messaggi. Partecipazione attiva.",
           "messaggi": 38,
           "mediaGiornaliera": 5.4
         },
         {
-          "name": "Cocco",
+          "name": "Cosimo Nenciòni",
           "voto": 7.6,
           "giudizio": "Buona presenza nel gruppo con 29 messaggi. Partecipazione attiva.",
           "messaggi": 29,
           "mediaGiornaliera": 4.1
         },
         {
-          "name": "Giec",
+          "name": "Giacomo Dolfi",
           "voto": 7.6,
           "giudizio": "Buona presenza nel gruppo con 26 messaggi. Partecipazione attiva.",
           "messaggi": 26,
           "mediaGiornaliera": 3.7
         },
         {
-          "name": "Fausto",
+          "name": "Fausto Petrini",
           "voto": 6.6,
           "giudizio": "Settimana nella media con 15 messaggi. Presente ma non protagonista.",
           "messaggi": 15,
           "mediaGiornaliera": 2.1
         },
         {
-          "name": "Alecs",
+          "name": "Alessio Macalùso",
           "voto": 6.6,
           "giudizio": "Settimana nella media con 14 messaggi. Presente ma non protagonista.",
           "messaggi": 14,
@@ -2981,7 +2981,7 @@
       "awards": {
         "mvp": "Alessio Valentini",
         "chiacchierone": "Alessio Valentini",
-        "fantasma": "Alecs"
+        "fantasma": "Alessio Macalùso"
       },
       "stats": {
         "totalMessages": 169,
@@ -2994,14 +2994,14 @@
       "endDate": "2021-01-03",
       "pagelle": [
         {
-          "name": "Cocco",
+          "name": "Cosimo Nenciòni",
           "voto": 8.1,
           "giudizio": "Settimana dominante con 13 messaggi. Protagonista assoluto.",
           "messaggi": 13,
           "mediaGiornaliera": 1.9
         },
         {
-          "name": "Adriano",
+          "name": "Adriano Sergio Lorenzo Facchini",
           "voto": 7.6,
           "giudizio": "Buona presenza nel gruppo con 8 messaggi. Partecipazione attiva.",
           "messaggi": 8,
@@ -3015,21 +3015,21 @@
           "mediaGiornaliera": 1.0
         },
         {
-          "name": "Fausto",
+          "name": "Fausto Petrini",
           "voto": 7.5,
           "giudizio": "Buona presenza nel gruppo con 7 messaggi. Partecipazione attiva.",
           "messaggi": 7,
           "mediaGiornaliera": 1.0
         },
         {
-          "name": "Giec",
+          "name": "Giacomo Dolfi",
           "voto": 6.9,
           "giudizio": "Settimana nella media con 6 messaggi. Presente ma non protagonista.",
           "messaggi": 6,
           "mediaGiornaliera": 0.9
         },
         {
-          "name": "Alecs",
+          "name": "Alessio Macalùso",
           "voto": 6.9,
           "giudizio": "Settimana nella media con 6 messaggi. Presente ma non protagonista.",
           "messaggi": 6,
@@ -3038,9 +3038,9 @@
       ],
       "riassunto": "Settimana con 47 messaggi totali. 6 membri attivi.",
       "awards": {
-        "mvp": "Cocco",
-        "chiacchierone": "Cocco",
-        "fantasma": "Alecs"
+        "mvp": "Cosimo Nenciòni",
+        "chiacchierone": "Cosimo Nenciòni",
+        "fantasma": "Alessio Macalùso"
       },
       "stats": {
         "totalMessages": 47,
@@ -3051,7 +3051,7 @@
   ],
   "cumulative": [
     {
-      "name": "Adriano",
+      "name": "Adriano Sergio Lorenzo Facchini",
       "mediaVoto": 7.81,
       "totalMessaggi": 1497,
       "settimaneAttive": 52,
@@ -3061,7 +3061,7 @@
       "worstWeek": "2019-12-30"
     },
     {
-      "name": "Cocco",
+      "name": "Cosimo Nenciòni",
       "mediaVoto": 7.68,
       "totalMessaggi": 1343,
       "settimaneAttive": 52,
@@ -3071,7 +3071,7 @@
       "worstWeek": "2020-11-09"
     },
     {
-      "name": "Fausto",
+      "name": "Fausto Petrini",
       "mediaVoto": 7.58,
       "totalMessaggi": 1264,
       "settimaneAttive": 51,
@@ -3091,7 +3091,7 @@
       "worstWeek": "2020-05-11"
     },
     {
-      "name": "Giec",
+      "name": "Giacomo Dolfi",
       "mediaVoto": 6.96,
       "totalMessaggi": 796,
       "settimaneAttive": 51,
@@ -3101,7 +3101,7 @@
       "worstWeek": "2020-07-27"
     },
     {
-      "name": "Alecs",
+      "name": "Alessio Macalùso",
       "mediaVoto": 6.77,
       "totalMessaggi": 695,
       "settimaneAttive": 51,
@@ -3112,5 +3112,5 @@
     }
   ],
   "totalWeeks": 52,
-  "generatedAt": "2026-01-19T17:11:18.791636"
+  "generatedAt": "2026-01-19T17:14:58.945722"
 }

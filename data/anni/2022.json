@@ -8,7 +8,7 @@
   },
   "classifica": [
     {
-      "name": "Adriano",
+      "name": "Adriano Sergio Lorenzo Facchini",
       "messageCount": 848,
       "wordCount": 6916,
       "avgWordsPerMessage": 8.2,
@@ -44,7 +44,7 @@
       }
     },
     {
-      "name": "Cocco",
+      "name": "Cosimo Nenciòni",
       "messageCount": 702,
       "wordCount": 4693,
       "avgWordsPerMessage": 6.7,
@@ -80,7 +80,7 @@
       }
     },
     {
-      "name": "Alessio Valentini Giusto",
+      "name": "Alessio Valentini",
       "messageCount": 630,
       "wordCount": 4496,
       "avgWordsPerMessage": 7.1,
@@ -119,7 +119,7 @@
       }
     },
     {
-      "name": "Fausto",
+      "name": "Fausto Petrini",
       "messageCount": 603,
       "wordCount": 4945,
       "avgWordsPerMessage": 8.2,
@@ -156,7 +156,7 @@
       }
     },
     {
-      "name": "Alecs",
+      "name": "Alessio Macalùso",
       "messageCount": 384,
       "wordCount": 1778,
       "avgWordsPerMessage": 4.6,
@@ -195,7 +195,7 @@
       }
     },
     {
-      "name": "Giec",
+      "name": "Giacomo Dolfi",
       "messageCount": 350,
       "wordCount": 2511,
       "avgWordsPerMessage": 7.2,
@@ -288,5 +288,5 @@
       "context": "Post-pandemia"
     }
   ],
-  "generatedAt": "2026-01-19T17:11:18.699204"
+  "generatedAt": "2026-01-19T17:14:58.857315"
 }

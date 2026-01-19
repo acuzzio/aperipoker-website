@@ -6,21 +6,21 @@
       "endDate": "2013-12-22",
       "pagelle": [
         {
-          "name": "Alecs",
+          "name": "Alessio Macalùso",
           "voto": 8.0,
           "giudizio": "Settimana dominante con 1 messaggi. Protagonista assoluto.",
           "messaggi": 1,
           "mediaGiornaliera": 0.1
         },
         {
-          "name": "Giec",
+          "name": "Giacomo Dolfi",
           "voto": 8.0,
           "giudizio": "Settimana dominante con 1 messaggi. Protagonista assoluto.",
           "messaggi": 1,
           "mediaGiornaliera": 0.1
         },
         {
-          "name": "Cocco",
+          "name": "Cosimo Nenciòni",
           "voto": 8.0,
           "giudizio": "Settimana dominante con 1 messaggi. Protagonista assoluto.",
           "messaggi": 1,
@@ -29,9 +29,9 @@
       ],
       "riassunto": "Settimana con 3 messaggi totali. 3 membri attivi.",
       "awards": {
-        "mvp": "Alecs",
-        "chiacchierone": "Alecs",
-        "fantasma": "Cocco"
+        "mvp": "Alessio Macalùso",
+        "chiacchierone": "Alessio Macalùso",
+        "fantasma": "Cosimo Nenciòni"
       },
       "stats": {
         "totalMessages": 3,
@@ -51,21 +51,21 @@
           "mediaGiornaliera": 1.3
         },
         {
-          "name": "Giec",
+          "name": "Giacomo Dolfi",
           "voto": 6.7,
           "giudizio": "Settimana nella media con 3 messaggi. Presente ma non protagonista.",
           "messaggi": 3,
           "mediaGiornaliera": 0.4
         },
         {
-          "name": "Cocco",
+          "name": "Cosimo Nenciòni",
           "voto": 6.4,
           "giudizio": "Settimana nella media con 2 messaggi. Presente ma non protagonista.",
           "messaggi": 2,
           "mediaGiornaliera": 0.3
         },
         {
-          "name": "Fausto",
+          "name": "Fausto Petrini",
           "voto": 6.4,
           "giudizio": "Settimana nella media con 2 messaggi. Presente ma non protagonista.",
           "messaggi": 2,
@@ -76,7 +76,7 @@
       "awards": {
         "mvp": "Alessio Valentini",
         "chiacchierone": "Alessio Valentini",
-        "fantasma": "Fausto"
+        "fantasma": "Fausto Petrini"
       },
       "stats": {
         "totalMessages": 16,
@@ -89,14 +89,14 @@
       "endDate": "2014-01-05",
       "pagelle": [
         {
-          "name": "Alecs",
+          "name": "Alessio Macalùso",
           "voto": 8.0,
           "giudizio": "Settimana dominante con 4 messaggi. Protagonista assoluto.",
           "messaggi": 4,
           "mediaGiornaliera": 0.6
         },
         {
-          "name": "Giec",
+          "name": "Giacomo Dolfi",
           "voto": 7.8,
           "giudizio": "Buona presenza nel gruppo con 3 messaggi. Partecipazione attiva.",
           "messaggi": 3,
@@ -110,14 +110,14 @@
           "mediaGiornaliera": 0.4
         },
         {
-          "name": "Cocco",
+          "name": "Cosimo Nenciòni",
           "voto": 7.0,
           "giudizio": "Buona presenza nel gruppo con 2 messaggi. Partecipazione attiva.",
           "messaggi": 2,
           "mediaGiornaliera": 0.3
         },
         {
-          "name": "Fausto",
+          "name": "Fausto Petrini",
           "voto": 7.0,
           "giudizio": "Buona presenza nel gruppo con 2 messaggi. Partecipazione attiva.",
           "messaggi": 2,
@@ -126,9 +126,9 @@
       ],
       "riassunto": "Settimana con 14 messaggi totali. 5 membri attivi.",
       "awards": {
-        "mvp": "Alecs",
-        "chiacchierone": "Alecs",
-        "fantasma": "Fausto"
+        "mvp": "Alessio Macalùso",
+        "chiacchierone": "Alessio Macalùso",
+        "fantasma": "Fausto Petrini"
       },
       "stats": {
         "totalMessages": 14,
@@ -139,7 +139,7 @@
   ],
   "cumulative": [
     {
-      "name": "Alecs",
+      "name": "Alessio Macalùso",
       "mediaVoto": 8.0,
       "totalMessaggi": 5,
       "settimaneAttive": 2,
@@ -159,7 +159,7 @@
       "worstWeek": "2013-12-30"
     },
     {
-      "name": "Giec",
+      "name": "Giacomo Dolfi",
       "mediaVoto": 7.5,
       "totalMessaggi": 7,
       "settimaneAttive": 3,
@@ -169,7 +169,7 @@
       "worstWeek": "2013-12-23"
     },
     {
-      "name": "Cocco",
+      "name": "Cosimo Nenciòni",
       "mediaVoto": 7.13,
       "totalMessaggi": 5,
       "settimaneAttive": 3,
@@ -179,7 +179,7 @@
       "worstWeek": "2013-12-23"
     },
     {
-      "name": "Fausto",
+      "name": "Fausto Petrini",
       "mediaVoto": 6.7,
       "totalMessaggi": 4,
       "settimaneAttive": 2,
@@ -190,5 +190,5 @@
     }
   ],
   "totalWeeks": 3,
-  "generatedAt": "2026-01-19T17:11:18.715000"
+  "generatedAt": "2026-01-19T17:14:58.871968"
 }

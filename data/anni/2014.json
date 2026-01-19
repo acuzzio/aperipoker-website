@@ -47,7 +47,7 @@
       }
     },
     {
-      "name": "Cocco",
+      "name": "Cosimo Nenciòni",
       "messageCount": 689,
       "wordCount": 4661,
       "avgWordsPerMessage": 6.8,
@@ -86,7 +86,7 @@
       }
     },
     {
-      "name": "Alecs",
+      "name": "Alessio Macalùso",
       "messageCount": 425,
       "wordCount": 2470,
       "avgWordsPerMessage": 5.8,
@@ -124,7 +124,7 @@
       }
     },
     {
-      "name": "Giec",
+      "name": "Giacomo Dolfi",
       "messageCount": 404,
       "wordCount": 2232,
       "avgWordsPerMessage": 5.5,
@@ -161,7 +161,7 @@
       }
     },
     {
-      "name": "Fausto",
+      "name": "Fausto Petrini",
       "messageCount": 387,
       "wordCount": 3650,
       "avgWordsPerMessage": 9.4,
@@ -198,7 +198,7 @@
       }
     },
     {
-      "name": "+39 348 813 1011",
+      "name": "Adriano Sergio Lorenzo Facchini",
       "messageCount": 330,
       "wordCount": 2107,
       "avgWordsPerMessage": 6.4,
@@ -285,5 +285,5 @@
   },
   "highlights": "",
   "bestOf": [],
-  "generatedAt": "2026-01-19T17:11:18.656947"
+  "generatedAt": "2026-01-19T17:14:58.817496"
 }

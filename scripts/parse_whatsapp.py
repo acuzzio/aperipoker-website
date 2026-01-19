@@ -31,6 +31,28 @@ PATTERNS = [
     re.compile(r'^(\d{1,2}/\d{1,2}/\d{2,4}),?\s+(\d{1,2}:\d{2})\s*[-–]\s*([^:]+):\s*(.*)$'),
 ]
 
+# Normalizzazione nomi (nickname -> nome completo)
+NAME_MAP = {
+    'Alecs': 'Alessio Macalùso',
+    'Alessio Mac': 'Alessio Macalùso',
+    'Alessio Macaluso': 'Alessio Macalùso',
+    'Cocco': 'Cosimo Nenciòni',
+    'Cosimo Nencioni': 'Cosimo Nenciòni',
+    'Giec': 'Giacomo Dolfi',
+    'Adriano 2': 'Adriano Sergio Lorenzo Facchini',
+    'Adriano': 'Adriano Sergio Lorenzo Facchini',
+    '+39 348 813 1011': 'Adriano Sergio Lorenzo Facchini',
+    'Fausto': 'Fausto Petrini',
+    'Alessio Valentini Giusto': 'Alessio Valentini',
+    'Fede': 'Federico Ceccuzzi',
+}
+
+
+def normalize_name(name):
+    """Normalizza il nome usando la mappa dei nomi."""
+    return NAME_MAP.get(name, name)
+
+
 # Messaggi di sistema da ignorare
 SYSTEM_KEYWORDS = [
     'created group',
@@ -122,7 +144,7 @@ def parse_message_line(line):
             return {
                 'timestamp': timestamp.isoformat(),
                 'year': timestamp.year,
-                'author': author.strip(),
+                'author': normalize_name(author.strip()),
                 'text': text.strip(),
                 'date': date_str,
                 'time': time_str,
@@ -577,48 +599,34 @@ def main():
         }, f, indent=2, ensure_ascii=False)
     print(f"Salvato: pagelle-overview.json")
 
-    # Separa per anno (2025 e 2026 per retrocompatibilità)
-    messages_2025 = [m for m in messages if m['year'] == 2025]
-    messages_2026 = [m for m in messages if m['year'] == 2026]
+    # Salva raw_messages per tutti gli anni
+    print("\n--- Salvataggio raw_messages per anno ---")
+    for year in years:
+        year_messages = [m for m in messages if m['year'] == year]
+        _, _, members_data = analyze_messages(year_messages)
+        with open(data_dir / f'raw_messages_{year}.json', 'w', encoding='utf-8') as f:
+            json.dump({
+                'messages': year_messages,
+                'members': members_data,
+                'year': year,
+                'parsedAt': datetime.now().isoformat(),
+            }, f, indent=2, ensure_ascii=False)
+        print(f"  Salvato: raw_messages_{year}.json ({len(year_messages)} messaggi)")
 
-    print(f"\n  - 2025: {len(messages_2025)} messaggi")
-    print(f"  - 2026: {len(messages_2026)} messaggi")
+    # Analizza anno corrente per stats e classifica
+    current_year = max(years)
+    messages_current = [m for m in messages if m['year'] == current_year]
+    stats, classifica, _ = analyze_messages(messages_current)
 
-    # Analizza solo 2026 per stats e classifica correnti
-    stats, classifica, members_data_2026 = analyze_messages(messages_2026)
-
-    # Analizza 2025 per profili membri
-    _, _, members_data_2025 = analyze_messages(messages_2025)
-
-    # Salva stats.json (da 2026)
+    # Salva stats.json (anno corrente)
     with open(data_dir / 'stats.json', 'w', encoding='utf-8') as f:
         json.dump(stats, f, indent=2, ensure_ascii=False)
-    print(f"Salvato: stats.json (2026)")
+    print(f"Salvato: stats.json ({current_year})")
 
-    # Salva classifica.json (da 2026)
+    # Salva classifica.json (anno corrente)
     with open(data_dir / 'classifica.json', 'w', encoding='utf-8') as f:
         json.dump(classifica, f, indent=2, ensure_ascii=False)
-    print(f"Salvato: classifica.json (2026)")
-
-    # Salva raw_messages_2025.json (per profili membri)
-    with open(data_dir / 'raw_messages_2025.json', 'w', encoding='utf-8') as f:
-        json.dump({
-            'messages': messages_2025,
-            'members': members_data_2025,
-            'year': 2025,
-            'parsedAt': datetime.now().isoformat(),
-        }, f, indent=2, ensure_ascii=False)
-    print(f"Salvato: raw_messages_2025.json ({len(messages_2025)} messaggi)")
-
-    # Salva raw_messages_2026.json (per pagelle/best-of)
-    with open(data_dir / 'raw_messages_2026.json', 'w', encoding='utf-8') as f:
-        json.dump({
-            'messages': messages_2026,
-            'members': members_data_2026,
-            'year': 2026,
-            'parsedAt': datetime.now().isoformat(),
-        }, f, indent=2, ensure_ascii=False)
-    print(f"Salvato: raw_messages_2026.json ({len(messages_2026)} messaggi)")
+    print(f"Salvato: classifica.json ({current_year})")
 
     # Analizza TUTTA la chat per profili membri e history
     _, _, members_data_all = analyze_messages(messages)

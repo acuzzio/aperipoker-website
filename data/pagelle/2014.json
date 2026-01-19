@@ -13,28 +13,28 @@
           "mediaGiornaliera": 1.1
         },
         {
-          "name": "Alecs",
+          "name": "Alessio Macalùso",
           "voto": 8.1,
           "giudizio": "Settimana dominante con 8 messaggi. Protagonista assoluto.",
           "messaggi": 8,
           "mediaGiornaliera": 1.1
         },
         {
-          "name": "Fausto",
+          "name": "Fausto Petrini",
           "voto": 8.1,
           "giudizio": "Settimana dominante con 8 messaggi. Protagonista assoluto.",
           "messaggi": 8,
           "mediaGiornaliera": 1.1
         },
         {
-          "name": "Giec",
+          "name": "Giacomo Dolfi",
           "voto": 6.8,
           "giudizio": "Settimana nella media con 3 messaggi. Presente ma non protagonista.",
           "messaggi": 3,
           "mediaGiornaliera": 0.4
         },
         {
-          "name": "Cocco",
+          "name": "Cosimo Nenciòni",
           "voto": 5.6,
           "giudizio": "Settimana sottotono con solo 1 messaggi. Si può fare di più.",
           "messaggi": 1,
@@ -45,7 +45,7 @@
       "awards": {
         "mvp": "Alessio Valentini",
         "chiacchierone": "Alessio Valentini",
-        "fantasma": "Cocco"
+        "fantasma": "Cosimo Nenciòni"
       },
       "stats": {
         "totalMessages": 28,
@@ -58,21 +58,21 @@
       "endDate": "2014-01-12",
       "pagelle": [
         {
-          "name": "Alecs",
+          "name": "Alessio Macalùso",
           "voto": 8.1,
           "giudizio": "Settimana dominante con 11 messaggi. Protagonista assoluto.",
           "messaggi": 11,
           "mediaGiornaliera": 1.6
         },
         {
-          "name": "Fausto",
+          "name": "Fausto Petrini",
           "voto": 7.7,
           "giudizio": "Buona presenza nel gruppo con 8 messaggi. Partecipazione attiva.",
           "messaggi": 8,
           "mediaGiornaliera": 1.1
         },
         {
-          "name": "Giec",
+          "name": "Giacomo Dolfi",
           "voto": 7.5,
           "giudizio": "Buona presenza nel gruppo con 6 messaggi. Partecipazione attiva.",
           "messaggi": 6,
@@ -86,14 +86,14 @@
           "mediaGiornaliera": 0.9
         },
         {
-          "name": "+39 348 813 1011",
+          "name": "Adriano Sergio Lorenzo Facchini",
           "voto": 7.5,
           "giudizio": "Buona presenza nel gruppo con 6 messaggi. Partecipazione attiva.",
           "messaggi": 6,
           "mediaGiornaliera": 0.9
         },
         {
-          "name": "Cocco",
+          "name": "Cosimo Nenciòni",
           "voto": 6.7,
           "giudizio": "Settimana nella media con 4 messaggi. Presente ma non protagonista.",
           "messaggi": 4,
@@ -102,9 +102,9 @@
       ],
       "riassunto": "Settimana con 41 messaggi totali. 6 membri attivi.",
       "awards": {
-        "mvp": "Alecs",
-        "chiacchierone": "Alecs",
-        "fantasma": "Cocco"
+        "mvp": "Alessio Macalùso",
+        "chiacchierone": "Alessio Macalùso",
+        "fantasma": "Cosimo Nenciòni"
       },
       "stats": {
         "totalMessages": 41,
@@ -124,28 +124,28 @@
           "mediaGiornaliera": 4.0
         },
         {
-          "name": "Giec",
+          "name": "Giacomo Dolfi",
           "voto": 7.8,
           "giudizio": "Buona presenza nel gruppo con 23 messaggi. Partecipazione attiva.",
           "messaggi": 23,
           "mediaGiornaliera": 3.3
         },
         {
-          "name": "Cocco",
+          "name": "Cosimo Nenciòni",
           "voto": 7.8,
           "giudizio": "Buona presenza nel gruppo con 21 messaggi. Partecipazione attiva.",
           "messaggi": 21,
           "mediaGiornaliera": 3.0
         },
         {
-          "name": "Alecs",
+          "name": "Alessio Macalùso",
           "voto": 7.8,
           "giudizio": "Buona presenza nel gruppo con 21 messaggi. Partecipazione attiva.",
           "messaggi": 21,
           "mediaGiornaliera": 3.0
         },
         {
-          "name": "Fausto",
+          "name": "Fausto Petrini",
           "voto": 6.6,
           "giudizio": "Settimana nella media con 8 messaggi. Presente ma non protagonista.",
           "messaggi": 8,
@@ -156,7 +156,7 @@
       "awards": {
         "mvp": "Alessio Valentini",
         "chiacchierone": "Alessio Valentini",
-        "fantasma": "Fausto"
+        "fantasma": "Fausto Petrini"
       },
       "stats": {
         "totalMessages": 101,
@@ -169,7 +169,7 @@
       "endDate": "2014-01-26",
       "pagelle": [
         {
-          "name": "Cocco",
+          "name": "Cosimo Nenciòni",
           "voto": 8.4,
           "giudizio": "Settimana dominante con 41 messaggi. Protagonista assoluto.",
           "messaggi": 41,
@@ -183,21 +183,21 @@
           "mediaGiornaliera": 4.6
         },
         {
-          "name": "Alecs",
+          "name": "Alessio Macalùso",
           "voto": 7.7,
           "giudizio": "Buona presenza nel gruppo con 29 messaggi. Partecipazione attiva.",
           "messaggi": 29,
           "mediaGiornaliera": 4.1
         },
         {
-          "name": "Giec",
+          "name": "Giacomo Dolfi",
           "voto": 7.6,
           "giudizio": "Buona presenza nel gruppo con 23 messaggi. Partecipazione attiva.",
           "messaggi": 23,
           "mediaGiornaliera": 3.3
         },
         {
-          "name": "Fausto",
+          "name": "Fausto Petrini",
           "voto": 6.9,
           "giudizio": "Settimana nella media con 18 messaggi. Presente ma non protagonista.",
           "messaggi": 18,
@@ -206,9 +206,9 @@
       ],
       "riassunto": "Settimana con 143 messaggi totali. 5 membri attivi.",
       "awards": {
-        "mvp": "Cocco",
-        "chiacchierone": "Cocco",
-        "fantasma": "Fausto"
+        "mvp": "Cosimo Nenciòni",
+        "chiacchierone": "Cosimo Nenciòni",
+        "fantasma": "Fausto Petrini"
       },
       "stats": {
         "totalMessages": 143,
@@ -221,28 +221,28 @@
       "endDate": "2014-02-02",
       "pagelle": [
         {
-          "name": "Fausto",
+          "name": "Fausto Petrini",
           "voto": 8.1,
           "giudizio": "Settimana dominante con 5 messaggi. Protagonista assoluto.",
           "messaggi": 5,
           "mediaGiornaliera": 0.7
         },
         {
-          "name": "Cocco",
+          "name": "Cosimo Nenciòni",
           "voto": 7.8,
           "giudizio": "Buona presenza nel gruppo con 4 messaggi. Partecipazione attiva.",
           "messaggi": 4,
           "mediaGiornaliera": 0.6
         },
         {
-          "name": "Giec",
+          "name": "Giacomo Dolfi",
           "voto": 7.8,
           "giudizio": "Buona presenza nel gruppo con 4 messaggi. Partecipazione attiva.",
           "messaggi": 4,
           "mediaGiornaliera": 0.6
         },
         {
-          "name": "Alecs",
+          "name": "Alessio Macalùso",
           "voto": 6.8,
           "giudizio": "Settimana nella media con 2 messaggi. Presente ma non protagonista.",
           "messaggi": 2,
@@ -258,8 +258,8 @@
       ],
       "riassunto": "Settimana con 16 messaggi totali. 5 membri attivi.",
       "awards": {
-        "mvp": "Fausto",
-        "chiacchierone": "Fausto",
+        "mvp": "Fausto Petrini",
+        "chiacchierone": "Fausto Petrini",
         "fantasma": "Alessio Valentini"
       },
       "stats": {
@@ -273,14 +273,14 @@
       "endDate": "2014-02-09",
       "pagelle": [
         {
-          "name": "Giec",
+          "name": "Giacomo Dolfi",
           "voto": 8.2,
           "giudizio": "Settimana dominante con 17 messaggi. Protagonista assoluto.",
           "messaggi": 17,
           "mediaGiornaliera": 2.4
         },
         {
-          "name": "Cocco",
+          "name": "Cosimo Nenciòni",
           "voto": 7.9,
           "giudizio": "Buona presenza nel gruppo con 15 messaggi. Partecipazione attiva.",
           "messaggi": 15,
@@ -294,14 +294,14 @@
           "mediaGiornaliera": 1.3
         },
         {
-          "name": "Fausto",
+          "name": "Fausto Petrini",
           "voto": 7.5,
           "giudizio": "Buona presenza nel gruppo con 9 messaggi. Partecipazione attiva.",
           "messaggi": 9,
           "mediaGiornaliera": 1.3
         },
         {
-          "name": "Alecs",
+          "name": "Alessio Macalùso",
           "voto": 5.6,
           "giudizio": "Settimana sottotono con solo 2 messaggi. Si può fare di più.",
           "messaggi": 2,
@@ -310,9 +310,9 @@
       ],
       "riassunto": "Settimana con 52 messaggi totali. 5 membri attivi.",
       "awards": {
-        "mvp": "Giec",
-        "chiacchierone": "Giec",
-        "fantasma": "Alecs"
+        "mvp": "Giacomo Dolfi",
+        "chiacchierone": "Giacomo Dolfi",
+        "fantasma": "Alessio Macalùso"
       },
       "stats": {
         "totalMessages": 52,
@@ -325,21 +325,21 @@
       "endDate": "2014-02-16",
       "pagelle": [
         {
-          "name": "Alecs",
+          "name": "Alessio Macalùso",
           "voto": 8.1,
           "giudizio": "Settimana dominante con 8 messaggi. Protagonista assoluto.",
           "messaggi": 8,
           "mediaGiornaliera": 1.1
         },
         {
-          "name": "Cocco",
+          "name": "Cosimo Nenciòni",
           "voto": 7.6,
           "giudizio": "Buona presenza nel gruppo con 5 messaggi. Partecipazione attiva.",
           "messaggi": 5,
           "mediaGiornaliera": 0.7
         },
         {
-          "name": "Giec",
+          "name": "Giacomo Dolfi",
           "voto": 7.0,
           "giudizio": "Buona presenza nel gruppo con 4 messaggi. Partecipazione attiva.",
           "messaggi": 4,
@@ -353,14 +353,14 @@
           "mediaGiornaliera": 0.3
         },
         {
-          "name": "Fausto",
+          "name": "Fausto Petrini",
           "voto": 5.6,
           "giudizio": "Settimana sottotono con solo 1 messaggi. Si può fare di più.",
           "messaggi": 1,
           "mediaGiornaliera": 0.1
         },
         {
-          "name": "+39 348 813 1011",
+          "name": "Adriano Sergio Lorenzo Facchini",
           "voto": 5.6,
           "giudizio": "Settimana sottotono con solo 1 messaggi. Si può fare di più.",
           "messaggi": 1,
@@ -369,9 +369,9 @@
       ],
       "riassunto": "Settimana con 21 messaggi totali. 6 membri attivi.",
       "awards": {
-        "mvp": "Alecs",
-        "chiacchierone": "Alecs",
-        "fantasma": "+39 348 813 1011"
+        "mvp": "Alessio Macalùso",
+        "chiacchierone": "Alessio Macalùso",
+        "fantasma": "Adriano Sergio Lorenzo Facchini"
       },
       "stats": {
         "totalMessages": 21,
@@ -391,28 +391,28 @@
           "mediaGiornaliera": 8.3
         },
         {
-          "name": "Cocco",
+          "name": "Cosimo Nenciòni",
           "voto": 6.8,
           "giudizio": "Settimana nella media con 24 messaggi. Presente ma non protagonista.",
           "messaggi": 24,
           "mediaGiornaliera": 3.4
         },
         {
-          "name": "Fausto",
+          "name": "Fausto Petrini",
           "voto": 6.6,
           "giudizio": "Settimana nella media con 17 messaggi. Presente ma non protagonista.",
           "messaggi": 17,
           "mediaGiornaliera": 2.4
         },
         {
-          "name": "Alecs",
+          "name": "Alessio Macalùso",
           "voto": 6.6,
           "giudizio": "Settimana nella media con 17 messaggi. Presente ma non protagonista.",
           "messaggi": 17,
           "mediaGiornaliera": 2.4
         },
         {
-          "name": "Giec",
+          "name": "Giacomo Dolfi",
           "voto": 6.4,
           "giudizio": "Settimana nella media con 12 messaggi. Presente ma non protagonista.",
           "messaggi": 12,
@@ -423,7 +423,7 @@
       "awards": {
         "mvp": "Alessio Valentini",
         "chiacchierone": "Alessio Valentini",
-        "fantasma": "Giec"
+        "fantasma": "Giacomo Dolfi"
       },
       "stats": {
         "totalMessages": 128,
@@ -443,28 +443,28 @@
           "mediaGiornaliera": 1.0
         },
         {
-          "name": "Fausto",
+          "name": "Fausto Petrini",
           "voto": 7.6,
           "giudizio": "Buona presenza nel gruppo con 4 messaggi. Partecipazione attiva.",
           "messaggi": 4,
           "mediaGiornaliera": 0.6
         },
         {
-          "name": "Cocco",
+          "name": "Cosimo Nenciòni",
           "voto": 6.9,
           "giudizio": "Settimana nella media con 3 messaggi. Presente ma non protagonista.",
           "messaggi": 3,
           "mediaGiornaliera": 0.4
         },
         {
-          "name": "Giec",
+          "name": "Giacomo Dolfi",
           "voto": 6.6,
           "giudizio": "Settimana nella media con 2 messaggi. Presente ma non protagonista.",
           "messaggi": 2,
           "mediaGiornaliera": 0.3
         },
         {
-          "name": "Alecs",
+          "name": "Alessio Macalùso",
           "voto": 5.7,
           "giudizio": "Settimana sottotono con solo 1 messaggi. Si può fare di più.",
           "messaggi": 1,
@@ -475,7 +475,7 @@
       "awards": {
         "mvp": "Alessio Valentini",
         "chiacchierone": "Alessio Valentini",
-        "fantasma": "Alecs"
+        "fantasma": "Alessio Macalùso"
       },
       "stats": {
         "totalMessages": 17,
@@ -488,14 +488,14 @@
       "endDate": "2014-03-09",
       "pagelle": [
         {
-          "name": "Giec",
+          "name": "Giacomo Dolfi",
           "voto": 8.1,
           "giudizio": "Settimana dominante con 8 messaggi. Protagonista assoluto.",
           "messaggi": 8,
           "mediaGiornaliera": 1.1
         },
         {
-          "name": "Cocco",
+          "name": "Cosimo Nenciòni",
           "voto": 8.1,
           "giudizio": "Settimana dominante con 8 messaggi. Protagonista assoluto.",
           "messaggi": 8,
@@ -509,14 +509,14 @@
           "mediaGiornaliera": 0.7
         },
         {
-          "name": "Fausto",
+          "name": "Fausto Petrini",
           "voto": 7.0,
           "giudizio": "Buona presenza nel gruppo con 4 messaggi. Partecipazione attiva.",
           "messaggi": 4,
           "mediaGiornaliera": 0.6
         },
         {
-          "name": "Alecs",
+          "name": "Alessio Macalùso",
           "voto": 6.5,
           "giudizio": "Settimana nella media con 2 messaggi. Presente ma non protagonista.",
           "messaggi": 2,
@@ -525,9 +525,9 @@
       ],
       "riassunto": "Settimana con 27 messaggi totali. 5 membri attivi.",
       "awards": {
-        "mvp": "Giec",
-        "chiacchierone": "Giec",
-        "fantasma": "Alecs"
+        "mvp": "Giacomo Dolfi",
+        "chiacchierone": "Giacomo Dolfi",
+        "fantasma": "Alessio Macalùso"
       },
       "stats": {
         "totalMessages": 27,
@@ -540,7 +540,7 @@
       "endDate": "2014-03-16",
       "pagelle": [
         {
-          "name": "+39 348 813 1011",
+          "name": "Adriano Sergio Lorenzo Facchini",
           "voto": 8.2,
           "giudizio": "Settimana dominante con 18 messaggi. Protagonista assoluto.",
           "messaggi": 18,
@@ -554,28 +554,28 @@
           "mediaGiornaliera": 2.1
         },
         {
-          "name": "Cocco",
+          "name": "Cosimo Nenciòni",
           "voto": 7.0,
           "giudizio": "Buona presenza nel gruppo con 9 messaggi. Partecipazione attiva.",
           "messaggi": 9,
           "mediaGiornaliera": 1.3
         },
         {
-          "name": "Fausto",
+          "name": "Fausto Petrini",
           "voto": 6.9,
           "giudizio": "Settimana nella media con 8 messaggi. Presente ma non protagonista.",
           "messaggi": 8,
           "mediaGiornaliera": 1.1
         },
         {
-          "name": "Giec",
+          "name": "Giacomo Dolfi",
           "voto": 6.6,
           "giudizio": "Settimana nella media con 5 messaggi. Presente ma non protagonista.",
           "messaggi": 5,
           "mediaGiornaliera": 0.7
         },
         {
-          "name": "Alecs",
+          "name": "Alessio Macalùso",
           "voto": 6.6,
           "giudizio": "Settimana nella media con 5 messaggi. Presente ma non protagonista.",
           "messaggi": 5,
@@ -584,9 +584,9 @@
       ],
       "riassunto": "Settimana con 60 messaggi totali. 6 membri attivi.",
       "awards": {
-        "mvp": "+39 348 813 1011",
-        "chiacchierone": "+39 348 813 1011",
-        "fantasma": "Alecs"
+        "mvp": "Adriano Sergio Lorenzo Facchini",
+        "chiacchierone": "Adriano Sergio Lorenzo Facchini",
+        "fantasma": "Alessio Macalùso"
       },
       "stats": {
         "totalMessages": 60,
@@ -599,21 +599,21 @@
       "endDate": "2014-03-23",
       "pagelle": [
         {
-          "name": "Cocco",
+          "name": "Cosimo Nenciòni",
           "voto": 8.0,
           "giudizio": "Settimana dominante con 2 messaggi. Protagonista assoluto.",
           "messaggi": 2,
           "mediaGiornaliera": 0.3
         },
         {
-          "name": "Alecs",
+          "name": "Alessio Macalùso",
           "voto": 7.0,
           "giudizio": "Buona presenza nel gruppo con 1 messaggi. Partecipazione attiva.",
           "messaggi": 1,
           "mediaGiornaliera": 0.1
         },
         {
-          "name": "Giec",
+          "name": "Giacomo Dolfi",
           "voto": 7.0,
           "giudizio": "Buona presenza nel gruppo con 1 messaggi. Partecipazione attiva.",
           "messaggi": 1,
@@ -622,9 +622,9 @@
       ],
       "riassunto": "Settimana con 4 messaggi totali. 3 membri attivi.",
       "awards": {
-        "mvp": "Cocco",
-        "chiacchierone": "Cocco",
-        "fantasma": "Giec"
+        "mvp": "Cosimo Nenciòni",
+        "chiacchierone": "Cosimo Nenciòni",
+        "fantasma": "Giacomo Dolfi"
       },
       "stats": {
         "totalMessages": 4,
@@ -637,21 +637,21 @@
       "endDate": "2014-03-30",
       "pagelle": [
         {
-          "name": "Cocco",
+          "name": "Cosimo Nenciòni",
           "voto": 8.1,
           "giudizio": "Settimana dominante con 9 messaggi. Protagonista assoluto.",
           "messaggi": 9,
           "mediaGiornaliera": 1.3
         },
         {
-          "name": "Giec",
+          "name": "Giacomo Dolfi",
           "voto": 7.7,
           "giudizio": "Buona presenza nel gruppo con 6 messaggi. Partecipazione attiva.",
           "messaggi": 6,
           "mediaGiornaliera": 0.9
         },
         {
-          "name": "Alecs",
+          "name": "Alessio Macalùso",
           "voto": 7.6,
           "giudizio": "Buona presenza nel gruppo con 5 messaggi. Partecipazione attiva.",
           "messaggi": 5,
@@ -665,7 +665,7 @@
           "mediaGiornaliera": 0.1
         },
         {
-          "name": "Fausto",
+          "name": "Fausto Petrini",
           "voto": 5.6,
           "giudizio": "Settimana sottotono con solo 1 messaggi. Si può fare di più.",
           "messaggi": 1,
@@ -674,9 +674,9 @@
       ],
       "riassunto": "Settimana con 22 messaggi totali. 5 membri attivi.",
       "awards": {
-        "mvp": "Cocco",
-        "chiacchierone": "Cocco",
-        "fantasma": "Fausto"
+        "mvp": "Cosimo Nenciòni",
+        "chiacchierone": "Cosimo Nenciòni",
+        "fantasma": "Fausto Petrini"
       },
       "stats": {
         "totalMessages": 22,
@@ -696,21 +696,21 @@
           "mediaGiornaliera": 1.1
         },
         {
-          "name": "Cocco",
+          "name": "Cosimo Nenciòni",
           "voto": 7.8,
           "giudizio": "Buona presenza nel gruppo con 6 messaggi. Partecipazione attiva.",
           "messaggi": 6,
           "mediaGiornaliera": 0.9
         },
         {
-          "name": "Giec",
+          "name": "Giacomo Dolfi",
           "voto": 7.0,
           "giudizio": "Buona presenza nel gruppo con 4 messaggi. Partecipazione attiva.",
           "messaggi": 4,
           "mediaGiornaliera": 0.6
         },
         {
-          "name": "Fausto",
+          "name": "Fausto Petrini",
           "voto": 6.5,
           "giudizio": "Settimana nella media con 2 messaggi. Presente ma non protagonista.",
           "messaggi": 2,
@@ -721,7 +721,7 @@
       "awards": {
         "mvp": "Alessio Valentini",
         "chiacchierone": "Alessio Valentini",
-        "fantasma": "Fausto"
+        "fantasma": "Fausto Petrini"
       },
       "stats": {
         "totalMessages": 20,
@@ -734,7 +734,7 @@
       "endDate": "2014-04-13",
       "pagelle": [
         {
-          "name": "Alecs",
+          "name": "Alessio Macalùso",
           "voto": 8.1,
           "giudizio": "Settimana dominante con 8 messaggi. Protagonista assoluto.",
           "messaggi": 8,
@@ -748,28 +748,28 @@
           "mediaGiornaliera": 0.9
         },
         {
-          "name": "Cocco",
+          "name": "Cosimo Nenciòni",
           "voto": 7.6,
           "giudizio": "Buona presenza nel gruppo con 5 messaggi. Partecipazione attiva.",
           "messaggi": 5,
           "mediaGiornaliera": 0.7
         },
         {
-          "name": "+39 348 813 1011",
+          "name": "Adriano Sergio Lorenzo Facchini",
           "voto": 6.8,
           "giudizio": "Settimana nella media con 3 messaggi. Presente ma non protagonista.",
           "messaggi": 3,
           "mediaGiornaliera": 0.4
         },
         {
-          "name": "Fausto",
+          "name": "Fausto Petrini",
           "voto": 6.8,
           "giudizio": "Settimana nella media con 3 messaggi. Presente ma non protagonista.",
           "messaggi": 3,
           "mediaGiornaliera": 0.4
         },
         {
-          "name": "Giec",
+          "name": "Giacomo Dolfi",
           "voto": 5.6,
           "giudizio": "Settimana sottotono con solo 1 messaggi. Si può fare di più.",
           "messaggi": 1,
@@ -778,9 +778,9 @@
       ],
       "riassunto": "Settimana con 26 messaggi totali. 6 membri attivi.",
       "awards": {
-        "mvp": "Alecs",
-        "chiacchierone": "Alecs",
-        "fantasma": "Giec"
+        "mvp": "Alessio Macalùso",
+        "chiacchierone": "Alessio Macalùso",
+        "fantasma": "Giacomo Dolfi"
       },
       "stats": {
         "totalMessages": 26,
@@ -793,14 +793,14 @@
       "endDate": "2014-04-27",
       "pagelle": [
         {
-          "name": "Cocco",
+          "name": "Cosimo Nenciòni",
           "voto": 8.0,
           "giudizio": "Settimana dominante con 2 messaggi. Protagonista assoluto.",
           "messaggi": 2,
           "mediaGiornaliera": 0.3
         },
         {
-          "name": "Fausto",
+          "name": "Fausto Petrini",
           "voto": 7.0,
           "giudizio": "Buona presenza nel gruppo con 1 messaggi. Partecipazione attiva.",
           "messaggi": 1,
@@ -814,14 +814,14 @@
           "mediaGiornaliera": 0.1
         },
         {
-          "name": "Alecs",
+          "name": "Alessio Macalùso",
           "voto": 7.0,
           "giudizio": "Buona presenza nel gruppo con 1 messaggi. Partecipazione attiva.",
           "messaggi": 1,
           "mediaGiornaliera": 0.1
         },
         {
-          "name": "Giec",
+          "name": "Giacomo Dolfi",
           "voto": 7.0,
           "giudizio": "Buona presenza nel gruppo con 1 messaggi. Partecipazione attiva.",
           "messaggi": 1,
@@ -830,9 +830,9 @@
       ],
       "riassunto": "Settimana con 6 messaggi totali. 5 membri attivi.",
       "awards": {
-        "mvp": "Cocco",
-        "chiacchierone": "Cocco",
-        "fantasma": "Giec"
+        "mvp": "Cosimo Nenciòni",
+        "chiacchierone": "Cosimo Nenciòni",
+        "fantasma": "Giacomo Dolfi"
       },
       "stats": {
         "totalMessages": 6,
@@ -852,28 +852,28 @@
           "mediaGiornaliera": 3.3
         },
         {
-          "name": "Fausto",
+          "name": "Fausto Petrini",
           "voto": 7.6,
           "giudizio": "Buona presenza nel gruppo con 13 messaggi. Partecipazione attiva.",
           "messaggi": 13,
           "mediaGiornaliera": 1.9
         },
         {
-          "name": "Cocco",
+          "name": "Cosimo Nenciòni",
           "voto": 6.9,
           "giudizio": "Settimana nella media con 10 messaggi. Presente ma non protagonista.",
           "messaggi": 10,
           "mediaGiornaliera": 1.4
         },
         {
-          "name": "Giec",
+          "name": "Giacomo Dolfi",
           "voto": 5.7,
           "giudizio": "Settimana sottotono con solo 3 messaggi. Si può fare di più.",
           "messaggi": 3,
           "mediaGiornaliera": 0.4
         },
         {
-          "name": "Alecs",
+          "name": "Alessio Macalùso",
           "voto": 5.2,
           "giudizio": "Settimana sottotono con solo 1 messaggi. Si può fare di più.",
           "messaggi": 1,
@@ -884,7 +884,7 @@
       "awards": {
         "mvp": "Alessio Valentini",
         "chiacchierone": "Alessio Valentini",
-        "fantasma": "Alecs"
+        "fantasma": "Alessio Macalùso"
       },
       "stats": {
         "totalMessages": 50,
@@ -904,21 +904,21 @@
           "mediaGiornaliera": 0.9
         },
         {
-          "name": "Fausto",
+          "name": "Fausto Petrini",
           "voto": 8.1,
           "giudizio": "Settimana dominante con 6 messaggi. Protagonista assoluto.",
           "messaggi": 6,
           "mediaGiornaliera": 0.9
         },
         {
-          "name": "Giec",
+          "name": "Giacomo Dolfi",
           "voto": 7.8,
           "giudizio": "Buona presenza nel gruppo con 5 messaggi. Partecipazione attiva.",
           "messaggi": 5,
           "mediaGiornaliera": 0.7
         },
         {
-          "name": "Cocco",
+          "name": "Cosimo Nenciòni",
           "voto": 5.8,
           "giudizio": "Settimana sottotono con solo 1 messaggi. Si può fare di più.",
           "messaggi": 1,
@@ -929,7 +929,7 @@
       "awards": {
         "mvp": "Alessio Valentini",
         "chiacchierone": "Alessio Valentini",
-        "fantasma": "Cocco"
+        "fantasma": "Cosimo Nenciòni"
       },
       "stats": {
         "totalMessages": 18,
@@ -949,35 +949,35 @@
           "mediaGiornaliera": 2.1
         },
         {
-          "name": "+39 348 813 1011",
+          "name": "Adriano Sergio Lorenzo Facchini",
           "voto": 7.9,
           "giudizio": "Buona presenza nel gruppo con 13 messaggi. Partecipazione attiva.",
           "messaggi": 13,
           "mediaGiornaliera": 1.9
         },
         {
-          "name": "Cocco",
+          "name": "Cosimo Nenciòni",
           "voto": 7.7,
           "giudizio": "Buona presenza nel gruppo con 11 messaggi. Partecipazione attiva.",
           "messaggi": 11,
           "mediaGiornaliera": 1.6
         },
         {
-          "name": "Fausto",
+          "name": "Fausto Petrini",
           "voto": 6.9,
           "giudizio": "Settimana nella media con 7 messaggi. Presente ma non protagonista.",
           "messaggi": 7,
           "mediaGiornaliera": 1.0
         },
         {
-          "name": "Giec",
+          "name": "Giacomo Dolfi",
           "voto": 6.0,
           "giudizio": "Settimana nella media con 3 messaggi. Presente ma non protagonista.",
           "messaggi": 3,
           "mediaGiornaliera": 0.4
         },
         {
-          "name": "Alecs",
+          "name": "Alessio Macalùso",
           "voto": 5.3,
           "giudizio": "Settimana sottotono con solo 1 messaggi. Si può fare di più.",
           "messaggi": 1,
@@ -988,7 +988,7 @@
       "awards": {
         "mvp": "Alessio Valentini",
         "chiacchierone": "Alessio Valentini",
-        "fantasma": "Alecs"
+        "fantasma": "Alessio Macalùso"
       },
       "stats": {
         "totalMessages": 50,
@@ -1008,28 +1008,28 @@
           "mediaGiornaliera": 1.0
         },
         {
-          "name": "Fausto",
+          "name": "Fausto Petrini",
           "voto": 7.9,
           "giudizio": "Buona presenza nel gruppo con 6 messaggi. Partecipazione attiva.",
           "messaggi": 6,
           "mediaGiornaliera": 0.9
         },
         {
-          "name": "Cocco",
+          "name": "Cosimo Nenciòni",
           "voto": 7.6,
           "giudizio": "Buona presenza nel gruppo con 4 messaggi. Partecipazione attiva.",
           "messaggi": 4,
           "mediaGiornaliera": 0.6
         },
         {
-          "name": "Giec",
+          "name": "Giacomo Dolfi",
           "voto": 6.9,
           "giudizio": "Settimana nella media con 3 messaggi. Presente ma non protagonista.",
           "messaggi": 3,
           "mediaGiornaliera": 0.4
         },
         {
-          "name": "Alecs",
+          "name": "Alessio Macalùso",
           "voto": 6.6,
           "giudizio": "Settimana nella media con 2 messaggi. Presente ma non protagonista.",
           "messaggi": 2,
@@ -1040,7 +1040,7 @@
       "awards": {
         "mvp": "Alessio Valentini",
         "chiacchierone": "Alessio Valentini",
-        "fantasma": "Alecs"
+        "fantasma": "Alessio Macalùso"
       },
       "stats": {
         "totalMessages": 22,
@@ -1053,7 +1053,7 @@
       "endDate": "2014-06-01",
       "pagelle": [
         {
-          "name": "Giec",
+          "name": "Giacomo Dolfi",
           "voto": 8.2,
           "giudizio": "Settimana dominante con 19 messaggi. Protagonista assoluto.",
           "messaggi": 19,
@@ -1067,21 +1067,21 @@
           "mediaGiornaliera": 2.3
         },
         {
-          "name": "Cocco",
+          "name": "Cosimo Nenciòni",
           "voto": 7.6,
           "giudizio": "Buona presenza nel gruppo con 12 messaggi. Partecipazione attiva.",
           "messaggi": 12,
           "mediaGiornaliera": 1.7
         },
         {
-          "name": "Alecs",
+          "name": "Alessio Macalùso",
           "voto": 6.9,
           "giudizio": "Settimana nella media con 9 messaggi. Presente ma non protagonista.",
           "messaggi": 9,
           "mediaGiornaliera": 1.3
         },
         {
-          "name": "Fausto",
+          "name": "Fausto Petrini",
           "voto": 5.8,
           "giudizio": "Settimana sottotono con solo 3 messaggi. Si può fare di più.",
           "messaggi": 3,
@@ -1090,9 +1090,9 @@
       ],
       "riassunto": "Settimana con 59 messaggi totali. 5 membri attivi.",
       "awards": {
-        "mvp": "Giec",
-        "chiacchierone": "Giec",
-        "fantasma": "Fausto"
+        "mvp": "Giacomo Dolfi",
+        "chiacchierone": "Giacomo Dolfi",
+        "fantasma": "Fausto Petrini"
       },
       "stats": {
         "totalMessages": 59,
@@ -1112,21 +1112,21 @@
           "mediaGiornaliera": 1.1
         },
         {
-          "name": "Fausto",
+          "name": "Fausto Petrini",
           "voto": 7.6,
           "giudizio": "Buona presenza nel gruppo con 5 messaggi. Partecipazione attiva.",
           "messaggi": 5,
           "mediaGiornaliera": 0.7
         },
         {
-          "name": "Cocco",
+          "name": "Cosimo Nenciòni",
           "voto": 7.0,
           "giudizio": "Buona presenza nel gruppo con 4 messaggi. Partecipazione attiva.",
           "messaggi": 4,
           "mediaGiornaliera": 0.6
         },
         {
-          "name": "Alecs",
+          "name": "Alessio Macalùso",
           "voto": 5.6,
           "giudizio": "Settimana sottotono con solo 1 messaggi. Si può fare di più.",
           "messaggi": 1,
@@ -1137,7 +1137,7 @@
       "awards": {
         "mvp": "Alessio Valentini",
         "chiacchierone": "Alessio Valentini",
-        "fantasma": "Alecs"
+        "fantasma": "Alessio Macalùso"
       },
       "stats": {
         "totalMessages": 18,
@@ -1150,7 +1150,7 @@
       "endDate": "2014-06-15",
       "pagelle": [
         {
-          "name": "+39 348 813 1011",
+          "name": "Adriano Sergio Lorenzo Facchini",
           "voto": 8.1,
           "giudizio": "Settimana dominante con 14 messaggi. Protagonista assoluto.",
           "messaggi": 14,
@@ -1164,21 +1164,21 @@
           "mediaGiornaliera": 1.3
         },
         {
-          "name": "Cocco",
+          "name": "Cosimo Nenciòni",
           "voto": 7.6,
           "giudizio": "Buona presenza nel gruppo con 8 messaggi. Partecipazione attiva.",
           "messaggi": 8,
           "mediaGiornaliera": 1.1
         },
         {
-          "name": "Alecs",
+          "name": "Alessio Macalùso",
           "voto": 6.7,
           "giudizio": "Settimana nella media con 5 messaggi. Presente ma non protagonista.",
           "messaggi": 5,
           "mediaGiornaliera": 0.7
         },
         {
-          "name": "Giec",
+          "name": "Giacomo Dolfi",
           "voto": 5.7,
           "giudizio": "Settimana sottotono con solo 2 messaggi. Si può fare di più.",
           "messaggi": 2,
@@ -1187,9 +1187,9 @@
       ],
       "riassunto": "Settimana con 38 messaggi totali. 5 membri attivi.",
       "awards": {
-        "mvp": "+39 348 813 1011",
-        "chiacchierone": "+39 348 813 1011",
-        "fantasma": "Giec"
+        "mvp": "Adriano Sergio Lorenzo Facchini",
+        "chiacchierone": "Adriano Sergio Lorenzo Facchini",
+        "fantasma": "Giacomo Dolfi"
       },
       "stats": {
         "totalMessages": 38,
@@ -1209,21 +1209,21 @@
           "mediaGiornaliera": 1.0
         },
         {
-          "name": "Fausto",
+          "name": "Fausto Petrini",
           "voto": 6.9,
           "giudizio": "Settimana nella media con 3 messaggi. Presente ma non protagonista.",
           "messaggi": 3,
           "mediaGiornaliera": 0.4
         },
         {
-          "name": "Cocco",
+          "name": "Cosimo Nenciòni",
           "voto": 6.9,
           "giudizio": "Settimana nella media con 3 messaggi. Presente ma non protagonista.",
           "messaggi": 3,
           "mediaGiornaliera": 0.4
         },
         {
-          "name": "Alecs",
+          "name": "Alessio Macalùso",
           "voto": 6.6,
           "giudizio": "Settimana nella media con 2 messaggi. Presente ma non protagonista.",
           "messaggi": 2,
@@ -1234,7 +1234,7 @@
       "awards": {
         "mvp": "Alessio Valentini",
         "chiacchierone": "Alessio Valentini",
-        "fantasma": "Alecs"
+        "fantasma": "Alessio Macalùso"
       },
       "stats": {
         "totalMessages": 15,
@@ -1254,28 +1254,28 @@
           "mediaGiornaliera": 3.6
         },
         {
-          "name": "Giec",
+          "name": "Giacomo Dolfi",
           "voto": 7.9,
           "giudizio": "Buona presenza nel gruppo con 22 messaggi. Partecipazione attiva.",
           "messaggi": 22,
           "mediaGiornaliera": 3.1
         },
         {
-          "name": "Alecs",
+          "name": "Alessio Macalùso",
           "voto": 7.7,
           "giudizio": "Buona presenza nel gruppo con 17 messaggi. Partecipazione attiva.",
           "messaggi": 17,
           "mediaGiornaliera": 2.4
         },
         {
-          "name": "Cocco",
+          "name": "Cosimo Nenciòni",
           "voto": 7.7,
           "giudizio": "Buona presenza nel gruppo con 17 messaggi. Partecipazione attiva.",
           "messaggi": 17,
           "mediaGiornaliera": 2.4
         },
         {
-          "name": "Fausto",
+          "name": "Fausto Petrini",
           "voto": 6.7,
           "giudizio": "Settimana nella media con 9 messaggi. Presente ma non protagonista.",
           "messaggi": 9,
@@ -1286,7 +1286,7 @@
       "awards": {
         "mvp": "Alessio Valentini",
         "chiacchierone": "Alessio Valentini",
-        "fantasma": "Fausto"
+        "fantasma": "Fausto Petrini"
       },
       "stats": {
         "totalMessages": 90,
@@ -1299,21 +1299,21 @@
       "endDate": "2014-07-06",
       "pagelle": [
         {
-          "name": "Cocco",
+          "name": "Cosimo Nenciòni",
           "voto": 8.4,
           "giudizio": "Settimana dominante con 43 messaggi. Protagonista assoluto.",
           "messaggi": 43,
           "mediaGiornaliera": 6.1
         },
         {
-          "name": "Fausto",
+          "name": "Fausto Petrini",
           "voto": 7.5,
           "giudizio": "Buona presenza nel gruppo con 22 messaggi. Partecipazione attiva.",
           "messaggi": 22,
           "mediaGiornaliera": 3.1
         },
         {
-          "name": "Giec",
+          "name": "Giacomo Dolfi",
           "voto": 6.9,
           "giudizio": "Settimana nella media con 20 messaggi. Presente ma non protagonista.",
           "messaggi": 20,
@@ -1327,7 +1327,7 @@
           "mediaGiornaliera": 2.3
         },
         {
-          "name": "Alecs",
+          "name": "Alessio Macalùso",
           "voto": 6.6,
           "giudizio": "Settimana nella media con 12 messaggi. Presente ma non protagonista.",
           "messaggi": 12,
@@ -1336,9 +1336,9 @@
       ],
       "riassunto": "Settimana con 113 messaggi totali. 5 membri attivi.",
       "awards": {
-        "mvp": "Cocco",
-        "chiacchierone": "Cocco",
-        "fantasma": "Alecs"
+        "mvp": "Cosimo Nenciòni",
+        "chiacchierone": "Cosimo Nenciòni",
+        "fantasma": "Alessio Macalùso"
       },
       "stats": {
         "totalMessages": 113,
@@ -1351,14 +1351,14 @@
       "endDate": "2014-07-13",
       "pagelle": [
         {
-          "name": "Cocco",
+          "name": "Cosimo Nenciòni",
           "voto": 8.5,
           "giudizio": "Settimana dominante con 50 messaggi. Protagonista assoluto.",
           "messaggi": 50,
           "mediaGiornaliera": 7.1
         },
         {
-          "name": "+39 348 813 1011",
+          "name": "Adriano Sergio Lorenzo Facchini",
           "voto": 7.8,
           "giudizio": "Buona presenza nel gruppo con 41 messaggi. Partecipazione attiva.",
           "messaggi": 41,
@@ -1372,21 +1372,21 @@
           "mediaGiornaliera": 3.9
         },
         {
-          "name": "Alecs",
+          "name": "Alessio Macalùso",
           "voto": 6.8,
           "giudizio": "Settimana nella media con 19 messaggi. Presente ma non protagonista.",
           "messaggi": 19,
           "mediaGiornaliera": 2.7
         },
         {
-          "name": "Fausto",
+          "name": "Fausto Petrini",
           "voto": 6.8,
           "giudizio": "Settimana nella media con 19 messaggi. Presente ma non protagonista.",
           "messaggi": 19,
           "mediaGiornaliera": 2.7
         },
         {
-          "name": "Giec",
+          "name": "Giacomo Dolfi",
           "voto": 6.0,
           "giudizio": "Settimana nella media con 10 messaggi. Presente ma non protagonista.",
           "messaggi": 10,
@@ -1395,9 +1395,9 @@
       ],
       "riassunto": "Settimana con 166 messaggi totali. 6 membri attivi.",
       "awards": {
-        "mvp": "Cocco",
-        "chiacchierone": "Cocco",
-        "fantasma": "Giec"
+        "mvp": "Cosimo Nenciòni",
+        "chiacchierone": "Cosimo Nenciòni",
+        "fantasma": "Giacomo Dolfi"
       },
       "stats": {
         "totalMessages": 166,
@@ -1410,28 +1410,28 @@
       "endDate": "2014-07-20",
       "pagelle": [
         {
-          "name": "Cocco",
+          "name": "Cosimo Nenciòni",
           "voto": 8.1,
           "giudizio": "Settimana dominante con 5 messaggi. Protagonista assoluto.",
           "messaggi": 5,
           "mediaGiornaliera": 0.7
         },
         {
-          "name": "Giec",
+          "name": "Giacomo Dolfi",
           "voto": 7.8,
           "giudizio": "Buona presenza nel gruppo con 4 messaggi. Partecipazione attiva.",
           "messaggi": 4,
           "mediaGiornaliera": 0.6
         },
         {
-          "name": "Fausto",
+          "name": "Fausto Petrini",
           "voto": 6.8,
           "giudizio": "Settimana nella media con 2 messaggi. Presente ma non protagonista.",
           "messaggi": 2,
           "mediaGiornaliera": 0.3
         },
         {
-          "name": "Alecs",
+          "name": "Alessio Macalùso",
           "voto": 6.0,
           "giudizio": "Settimana nella media con 1 messaggi. Presente ma non protagonista.",
           "messaggi": 1,
@@ -1440,9 +1440,9 @@
       ],
       "riassunto": "Settimana con 12 messaggi totali. 4 membri attivi.",
       "awards": {
-        "mvp": "Cocco",
-        "chiacchierone": "Cocco",
-        "fantasma": "Alecs"
+        "mvp": "Cosimo Nenciòni",
+        "chiacchierone": "Cosimo Nenciòni",
+        "fantasma": "Alessio Macalùso"
       },
       "stats": {
         "totalMessages": 12,
@@ -1455,7 +1455,7 @@
       "endDate": "2014-07-27",
       "pagelle": [
         {
-          "name": "Giec",
+          "name": "Giacomo Dolfi",
           "voto": 8.1,
           "giudizio": "Settimana dominante con 14 messaggi. Protagonista assoluto.",
           "messaggi": 14,
@@ -1469,21 +1469,21 @@
           "mediaGiornaliera": 1.4
         },
         {
-          "name": "Cocco",
+          "name": "Cosimo Nenciòni",
           "voto": 7.6,
           "giudizio": "Buona presenza nel gruppo con 8 messaggi. Partecipazione attiva.",
           "messaggi": 8,
           "mediaGiornaliera": 1.1
         },
         {
-          "name": "Alecs",
+          "name": "Alessio Macalùso",
           "voto": 7.0,
           "giudizio": "Buona presenza nel gruppo con 7 messaggi. Partecipazione attiva.",
           "messaggi": 7,
           "mediaGiornaliera": 1.0
         },
         {
-          "name": "Fausto",
+          "name": "Fausto Petrini",
           "voto": 6.7,
           "giudizio": "Settimana nella media con 5 messaggi. Presente ma non protagonista.",
           "messaggi": 5,
@@ -1492,9 +1492,9 @@
       ],
       "riassunto": "Settimana con 44 messaggi totali. 5 membri attivi.",
       "awards": {
-        "mvp": "Giec",
-        "chiacchierone": "Giec",
-        "fantasma": "Fausto"
+        "mvp": "Giacomo Dolfi",
+        "chiacchierone": "Giacomo Dolfi",
+        "fantasma": "Fausto Petrini"
       },
       "stats": {
         "totalMessages": 44,
@@ -1507,21 +1507,21 @@
       "endDate": "2014-08-03",
       "pagelle": [
         {
-          "name": "Cocco",
+          "name": "Cosimo Nenciòni",
           "voto": 8.1,
           "giudizio": "Settimana dominante con 7 messaggi. Protagonista assoluto.",
           "messaggi": 7,
           "mediaGiornaliera": 1.0
         },
         {
-          "name": "Alecs",
+          "name": "Alessio Macalùso",
           "voto": 8.1,
           "giudizio": "Settimana dominante con 7 messaggi. Protagonista assoluto.",
           "messaggi": 7,
           "mediaGiornaliera": 1.0
         },
         {
-          "name": "Fausto",
+          "name": "Fausto Petrini",
           "voto": 7.9,
           "giudizio": "Buona presenza nel gruppo con 6 messaggi. Partecipazione attiva.",
           "messaggi": 6,
@@ -1535,7 +1535,7 @@
           "mediaGiornaliera": 0.6
         },
         {
-          "name": "Giec",
+          "name": "Giacomo Dolfi",
           "voto": 6.6,
           "giudizio": "Settimana nella media con 2 messaggi. Presente ma non protagonista.",
           "messaggi": 2,
@@ -1544,9 +1544,9 @@
       ],
       "riassunto": "Settimana con 26 messaggi totali. 5 membri attivi.",
       "awards": {
-        "mvp": "Cocco",
-        "chiacchierone": "Cocco",
-        "fantasma": "Giec"
+        "mvp": "Cosimo Nenciòni",
+        "chiacchierone": "Cosimo Nenciòni",
+        "fantasma": "Giacomo Dolfi"
       },
       "stats": {
         "totalMessages": 26,
@@ -1559,7 +1559,7 @@
       "endDate": "2014-08-10",
       "pagelle": [
         {
-          "name": "Giec",
+          "name": "Giacomo Dolfi",
           "voto": 8.0,
           "giudizio": "Settimana dominante con 2 messaggi. Protagonista assoluto.",
           "messaggi": 2,
@@ -1573,14 +1573,14 @@
           "mediaGiornaliera": 0.3
         },
         {
-          "name": "Alecs",
+          "name": "Alessio Macalùso",
           "voto": 7.0,
           "giudizio": "Buona presenza nel gruppo con 1 messaggi. Partecipazione attiva.",
           "messaggi": 1,
           "mediaGiornaliera": 0.1
         },
         {
-          "name": "Fausto",
+          "name": "Fausto Petrini",
           "voto": 7.0,
           "giudizio": "Buona presenza nel gruppo con 1 messaggi. Partecipazione attiva.",
           "messaggi": 1,
@@ -1589,9 +1589,9 @@
       ],
       "riassunto": "Settimana con 6 messaggi totali. 4 membri attivi.",
       "awards": {
-        "mvp": "Giec",
-        "chiacchierone": "Giec",
-        "fantasma": "Fausto"
+        "mvp": "Giacomo Dolfi",
+        "chiacchierone": "Giacomo Dolfi",
+        "fantasma": "Fausto Petrini"
       },
       "stats": {
         "totalMessages": 6,
@@ -1604,7 +1604,7 @@
       "endDate": "2014-08-17",
       "pagelle": [
         {
-          "name": "Cocco",
+          "name": "Cosimo Nenciòni",
           "voto": 8.3,
           "giudizio": "Settimana dominante con 34 messaggi. Protagonista assoluto.",
           "messaggi": 34,
@@ -1618,28 +1618,28 @@
           "mediaGiornaliera": 3.6
         },
         {
-          "name": "Giec",
+          "name": "Giacomo Dolfi",
           "voto": 7.6,
           "giudizio": "Buona presenza nel gruppo con 21 messaggi. Partecipazione attiva.",
           "messaggi": 21,
           "mediaGiornaliera": 3.0
         },
         {
-          "name": "Fausto",
+          "name": "Fausto Petrini",
           "voto": 6.6,
           "giudizio": "Settimana nella media con 10 messaggi. Presente ma non protagonista.",
           "messaggi": 10,
           "mediaGiornaliera": 1.4
         },
         {
-          "name": "+39 348 813 1011",
+          "name": "Adriano Sergio Lorenzo Facchini",
           "voto": 6.5,
           "giudizio": "Settimana nella media con 8 messaggi. Presente ma non protagonista.",
           "messaggi": 8,
           "mediaGiornaliera": 1.1
         },
         {
-          "name": "Alecs",
+          "name": "Alessio Macalùso",
           "voto": 5.9,
           "giudizio": "Settimana sottotono con solo 6 messaggi. Si può fare di più.",
           "messaggi": 6,
@@ -1648,9 +1648,9 @@
       ],
       "riassunto": "Settimana con 104 messaggi totali. 6 membri attivi.",
       "awards": {
-        "mvp": "Cocco",
-        "chiacchierone": "Cocco",
-        "fantasma": "Alecs"
+        "mvp": "Cosimo Nenciòni",
+        "chiacchierone": "Cosimo Nenciòni",
+        "fantasma": "Alessio Macalùso"
       },
       "stats": {
         "totalMessages": 104,
@@ -1670,7 +1670,7 @@
           "mediaGiornaliera": 0.6
         },
         {
-          "name": "Fausto",
+          "name": "Fausto Petrini",
           "voto": 6.5,
           "giudizio": "Settimana nella media con 1 messaggi. Presente ma non protagonista.",
           "messaggi": 1,
@@ -1681,7 +1681,7 @@
       "awards": {
         "mvp": "Alessio Valentini",
         "chiacchierone": "Alessio Valentini",
-        "fantasma": "Fausto"
+        "fantasma": "Fausto Petrini"
       },
       "stats": {
         "totalMessages": 5,
@@ -1701,28 +1701,28 @@
           "mediaGiornaliera": 3.4
         },
         {
-          "name": "Cocco",
+          "name": "Cosimo Nenciòni",
           "voto": 7.6,
           "giudizio": "Buona presenza nel gruppo con 15 messaggi. Partecipazione attiva.",
           "messaggi": 15,
           "mediaGiornaliera": 2.1
         },
         {
-          "name": "Giec",
+          "name": "Giacomo Dolfi",
           "voto": 6.8,
           "giudizio": "Settimana nella media con 10 messaggi. Presente ma non protagonista.",
           "messaggi": 10,
           "mediaGiornaliera": 1.4
         },
         {
-          "name": "Alecs",
+          "name": "Alessio Macalùso",
           "voto": 6.7,
           "giudizio": "Settimana nella media con 8 messaggi. Presente ma non protagonista.",
           "messaggi": 8,
           "mediaGiornaliera": 1.1
         },
         {
-          "name": "Fausto",
+          "name": "Fausto Petrini",
           "voto": 6.6,
           "giudizio": "Settimana nella media con 7 messaggi. Presente ma non protagonista.",
           "messaggi": 7,
@@ -1733,7 +1733,7 @@
       "awards": {
         "mvp": "Alessio Valentini",
         "chiacchierone": "Alessio Valentini",
-        "fantasma": "Fausto"
+        "fantasma": "Fausto Petrini"
       },
       "stats": {
         "totalMessages": 64,
@@ -1746,14 +1746,14 @@
       "endDate": "2014-09-07",
       "pagelle": [
         {
-          "name": "Fausto",
+          "name": "Fausto Petrini",
           "voto": 8.0,
           "giudizio": "Settimana dominante con 2 messaggi. Protagonista assoluto.",
           "messaggi": 2,
           "mediaGiornaliera": 0.3
         },
         {
-          "name": "Cocco",
+          "name": "Cosimo Nenciòni",
           "voto": 7.0,
           "giudizio": "Buona presenza nel gruppo con 1 messaggi. Partecipazione attiva.",
           "messaggi": 1,
@@ -1762,9 +1762,9 @@
       ],
       "riassunto": "Settimana con 3 messaggi totali. 2 membri attivi.",
       "awards": {
-        "mvp": "Fausto",
-        "chiacchierone": "Fausto",
-        "fantasma": "Cocco"
+        "mvp": "Fausto Petrini",
+        "chiacchierone": "Fausto Petrini",
+        "fantasma": "Cosimo Nenciòni"
       },
       "stats": {
         "totalMessages": 3,
@@ -1784,35 +1784,35 @@
           "mediaGiornaliera": 1.4
         },
         {
-          "name": "Alecs",
+          "name": "Alessio Macalùso",
           "voto": 7.7,
           "giudizio": "Buona presenza nel gruppo con 7 messaggi. Partecipazione attiva.",
           "messaggi": 7,
           "mediaGiornaliera": 1.0
         },
         {
-          "name": "Fausto",
+          "name": "Fausto Petrini",
           "voto": 6.6,
           "giudizio": "Settimana nella media con 3 messaggi. Presente ma non protagonista.",
           "messaggi": 3,
           "mediaGiornaliera": 0.4
         },
         {
-          "name": "Cocco",
+          "name": "Cosimo Nenciòni",
           "voto": 6.6,
           "giudizio": "Settimana nella media con 3 messaggi. Presente ma non protagonista.",
           "messaggi": 3,
           "mediaGiornaliera": 0.4
         },
         {
-          "name": "+39 348 813 1011",
+          "name": "Adriano Sergio Lorenzo Facchini",
           "voto": 6.6,
           "giudizio": "Settimana nella media con 3 messaggi. Presente ma non protagonista.",
           "messaggi": 3,
           "mediaGiornaliera": 0.4
         },
         {
-          "name": "Giec",
+          "name": "Giacomo Dolfi",
           "voto": 5.5,
           "giudizio": "Settimana sottotono con solo 1 messaggi. Si può fare di più.",
           "messaggi": 1,
@@ -1823,7 +1823,7 @@
       "awards": {
         "mvp": "Alessio Valentini",
         "chiacchierone": "Alessio Valentini",
-        "fantasma": "Giec"
+        "fantasma": "Giacomo Dolfi"
       },
       "stats": {
         "totalMessages": 27,
@@ -1843,28 +1843,28 @@
           "mediaGiornaliera": 3.1
         },
         {
-          "name": "Cocco",
+          "name": "Cosimo Nenciòni",
           "voto": 7.9,
           "giudizio": "Buona presenza nel gruppo con 19 messaggi. Partecipazione attiva.",
           "messaggi": 19,
           "mediaGiornaliera": 2.7
         },
         {
-          "name": "Alecs",
+          "name": "Alessio Macalùso",
           "voto": 7.6,
           "giudizio": "Buona presenza nel gruppo con 14 messaggi. Partecipazione attiva.",
           "messaggi": 14,
           "mediaGiornaliera": 2.0
         },
         {
-          "name": "Giec",
+          "name": "Giacomo Dolfi",
           "voto": 6.5,
           "giudizio": "Settimana nella media con 6 messaggi. Presente ma non protagonista.",
           "messaggi": 6,
           "mediaGiornaliera": 0.9
         },
         {
-          "name": "Fausto",
+          "name": "Fausto Petrini",
           "voto": 6.5,
           "giudizio": "Settimana nella media con 5 messaggi. Presente ma non protagonista.",
           "messaggi": 5,
@@ -1875,7 +1875,7 @@
       "awards": {
         "mvp": "Alessio Valentini",
         "chiacchierone": "Alessio Valentini",
-        "fantasma": "Fausto"
+        "fantasma": "Fausto Petrini"
       },
       "stats": {
         "totalMessages": 66,
@@ -1888,21 +1888,21 @@
       "endDate": "2014-09-28",
       "pagelle": [
         {
-          "name": "Cocco",
+          "name": "Cosimo Nenciòni",
           "voto": 8.3,
           "giudizio": "Settimana dominante con 29 messaggi. Protagonista assoluto.",
           "messaggi": 29,
           "mediaGiornaliera": 4.1
         },
         {
-          "name": "Alecs",
+          "name": "Alessio Macalùso",
           "voto": 7.7,
           "giudizio": "Buona presenza nel gruppo con 19 messaggi. Partecipazione attiva.",
           "messaggi": 19,
           "mediaGiornaliera": 2.7
         },
         {
-          "name": "Giec",
+          "name": "Giacomo Dolfi",
           "voto": 7.0,
           "giudizio": "Buona presenza nel gruppo con 14 messaggi. Partecipazione attiva.",
           "messaggi": 14,
@@ -1916,7 +1916,7 @@
           "mediaGiornaliera": 1.7
         },
         {
-          "name": "Fausto",
+          "name": "Fausto Petrini",
           "voto": 6.8,
           "giudizio": "Settimana nella media con 11 messaggi. Presente ma non protagonista.",
           "messaggi": 11,
@@ -1925,9 +1925,9 @@
       ],
       "riassunto": "Settimana con 85 messaggi totali. 5 membri attivi.",
       "awards": {
-        "mvp": "Cocco",
-        "chiacchierone": "Cocco",
-        "fantasma": "Fausto"
+        "mvp": "Cosimo Nenciòni",
+        "chiacchierone": "Cosimo Nenciòni",
+        "fantasma": "Fausto Petrini"
       },
       "stats": {
         "totalMessages": 85,
@@ -1947,28 +1947,28 @@
           "mediaGiornaliera": 1.3
         },
         {
-          "name": "Cocco",
+          "name": "Cosimo Nenciòni",
           "voto": 7.6,
           "giudizio": "Buona presenza nel gruppo con 5 messaggi. Partecipazione attiva.",
           "messaggi": 5,
           "mediaGiornaliera": 0.7
         },
         {
-          "name": "Fausto",
+          "name": "Fausto Petrini",
           "voto": 6.9,
           "giudizio": "Settimana nella media con 4 messaggi. Presente ma non protagonista.",
           "messaggi": 4,
           "mediaGiornaliera": 0.6
         },
         {
-          "name": "Alecs",
+          "name": "Alessio Macalùso",
           "voto": 6.7,
           "giudizio": "Settimana nella media con 3 messaggi. Presente ma non protagonista.",
           "messaggi": 3,
           "mediaGiornaliera": 0.4
         },
         {
-          "name": "Giec",
+          "name": "Giacomo Dolfi",
           "voto": 6.4,
           "giudizio": "Settimana nella media con 2 messaggi. Presente ma non protagonista.",
           "messaggi": 2,
@@ -1979,7 +1979,7 @@
       "awards": {
         "mvp": "Alessio Valentini",
         "chiacchierone": "Alessio Valentini",
-        "fantasma": "Giec"
+        "fantasma": "Giacomo Dolfi"
       },
       "stats": {
         "totalMessages": 23,
@@ -1999,35 +1999,35 @@
           "mediaGiornaliera": 4.3
         },
         {
-          "name": "+39 348 813 1011",
+          "name": "Adriano Sergio Lorenzo Facchini",
           "voto": 7.8,
           "giudizio": "Buona presenza nel gruppo con 23 messaggi. Partecipazione attiva.",
           "messaggi": 23,
           "mediaGiornaliera": 3.3
         },
         {
-          "name": "Cocco",
+          "name": "Cosimo Nenciòni",
           "voto": 7.6,
           "giudizio": "Buona presenza nel gruppo con 19 messaggi. Partecipazione attiva.",
           "messaggi": 19,
           "mediaGiornaliera": 2.7
         },
         {
-          "name": "Alecs",
+          "name": "Alessio Macalùso",
           "voto": 7.6,
           "giudizio": "Buona presenza nel gruppo con 19 messaggi. Partecipazione attiva.",
           "messaggi": 19,
           "mediaGiornaliera": 2.7
         },
         {
-          "name": "Giec",
+          "name": "Giacomo Dolfi",
           "voto": 6.7,
           "giudizio": "Settimana nella media con 10 messaggi. Presente ma non protagonista.",
           "messaggi": 10,
           "mediaGiornaliera": 1.4
         },
         {
-          "name": "Fausto",
+          "name": "Fausto Petrini",
           "voto": 6.5,
           "giudizio": "Settimana nella media con 7 messaggi. Presente ma non protagonista.",
           "messaggi": 7,
@@ -2038,7 +2038,7 @@
       "awards": {
         "mvp": "Alessio Valentini",
         "chiacchierone": "Alessio Valentini",
-        "fantasma": "Fausto"
+        "fantasma": "Fausto Petrini"
       },
       "stats": {
         "totalMessages": 108,
@@ -2051,14 +2051,14 @@
       "endDate": "2014-10-19",
       "pagelle": [
         {
-          "name": "+39 348 813 1011",
+          "name": "Adriano Sergio Lorenzo Facchini",
           "voto": 8.3,
           "giudizio": "Settimana dominante con 35 messaggi. Protagonista assoluto.",
           "messaggi": 35,
           "mediaGiornaliera": 5.0
         },
         {
-          "name": "Cocco",
+          "name": "Cosimo Nenciòni",
           "voto": 8.0,
           "giudizio": "Settimana dominante con 34 messaggi. Protagonista assoluto.",
           "messaggi": 34,
@@ -2072,21 +2072,21 @@
           "mediaGiornaliera": 3.9
         },
         {
-          "name": "Alecs",
+          "name": "Alessio Macalùso",
           "voto": 6.9,
           "giudizio": "Settimana nella media con 16 messaggi. Presente ma non protagonista.",
           "messaggi": 16,
           "mediaGiornaliera": 2.3
         },
         {
-          "name": "Giec",
+          "name": "Giacomo Dolfi",
           "voto": 6.7,
           "giudizio": "Settimana nella media con 12 messaggi. Presente ma non protagonista.",
           "messaggi": 12,
           "mediaGiornaliera": 1.7
         },
         {
-          "name": "Fausto",
+          "name": "Fausto Petrini",
           "voto": 6.6,
           "giudizio": "Settimana nella media con 11 messaggi. Presente ma non protagonista.",
           "messaggi": 11,
@@ -2095,9 +2095,9 @@
       ],
       "riassunto": "Settimana con 135 messaggi totali. 6 membri attivi.",
       "awards": {
-        "mvp": "+39 348 813 1011",
-        "chiacchierone": "+39 348 813 1011",
-        "fantasma": "Fausto"
+        "mvp": "Adriano Sergio Lorenzo Facchini",
+        "chiacchierone": "Adriano Sergio Lorenzo Facchini",
+        "fantasma": "Fausto Petrini"
       },
       "stats": {
         "totalMessages": 135,
@@ -2117,35 +2117,35 @@
           "mediaGiornaliera": 1.7
         },
         {
-          "name": "Cocco",
+          "name": "Cosimo Nenciòni",
           "voto": 7.8,
           "giudizio": "Buona presenza nel gruppo con 10 messaggi. Partecipazione attiva.",
           "messaggi": 10,
           "mediaGiornaliera": 1.4
         },
         {
-          "name": "Alecs",
+          "name": "Alessio Macalùso",
           "voto": 7.8,
           "giudizio": "Buona presenza nel gruppo con 10 messaggi. Partecipazione attiva.",
           "messaggi": 10,
           "mediaGiornaliera": 1.4
         },
         {
-          "name": "+39 348 813 1011",
+          "name": "Adriano Sergio Lorenzo Facchini",
           "voto": 7.6,
           "giudizio": "Buona presenza nel gruppo con 7 messaggi. Partecipazione attiva.",
           "messaggi": 7,
           "mediaGiornaliera": 1.0
         },
         {
-          "name": "Fausto",
+          "name": "Fausto Petrini",
           "voto": 7.0,
           "giudizio": "Buona presenza nel gruppo con 6 messaggi. Partecipazione attiva.",
           "messaggi": 6,
           "mediaGiornaliera": 0.9
         },
         {
-          "name": "Giec",
+          "name": "Giacomo Dolfi",
           "voto": 6.7,
           "giudizio": "Settimana nella media con 4 messaggi. Presente ma non protagonista.",
           "messaggi": 4,
@@ -2156,7 +2156,7 @@
       "awards": {
         "mvp": "Alessio Valentini",
         "chiacchierone": "Alessio Valentini",
-        "fantasma": "Giec"
+        "fantasma": "Giacomo Dolfi"
       },
       "stats": {
         "totalMessages": 49,
@@ -2169,21 +2169,21 @@
       "endDate": "2014-11-02",
       "pagelle": [
         {
-          "name": "Cocco",
+          "name": "Cosimo Nenciòni",
           "voto": 8.1,
           "giudizio": "Settimana dominante con 13 messaggi. Protagonista assoluto.",
           "messaggi": 13,
           "mediaGiornaliera": 1.9
         },
         {
-          "name": "Fausto",
+          "name": "Fausto Petrini",
           "voto": 7.7,
           "giudizio": "Buona presenza nel gruppo con 9 messaggi. Partecipazione attiva.",
           "messaggi": 9,
           "mediaGiornaliera": 1.3
         },
         {
-          "name": "+39 348 813 1011",
+          "name": "Adriano Sergio Lorenzo Facchini",
           "voto": 7.7,
           "giudizio": "Buona presenza nel gruppo con 9 messaggi. Partecipazione attiva.",
           "messaggi": 9,
@@ -2197,14 +2197,14 @@
           "mediaGiornaliera": 1.0
         },
         {
-          "name": "Giec",
+          "name": "Giacomo Dolfi",
           "voto": 6.8,
           "giudizio": "Settimana nella media con 5 messaggi. Presente ma non protagonista.",
           "messaggi": 5,
           "mediaGiornaliera": 0.7
         },
         {
-          "name": "Alecs",
+          "name": "Alessio Macalùso",
           "voto": 5.8,
           "giudizio": "Settimana sottotono con solo 2 messaggi. Si può fare di più.",
           "messaggi": 2,
@@ -2213,9 +2213,9 @@
       ],
       "riassunto": "Settimana con 45 messaggi totali. 6 membri attivi.",
       "awards": {
-        "mvp": "Cocco",
-        "chiacchierone": "Cocco",
-        "fantasma": "Alecs"
+        "mvp": "Cosimo Nenciòni",
+        "chiacchierone": "Cosimo Nenciòni",
+        "fantasma": "Alessio Macalùso"
       },
       "stats": {
         "totalMessages": 45,
@@ -2228,7 +2228,7 @@
       "endDate": "2014-11-09",
       "pagelle": [
         {
-          "name": "Fausto",
+          "name": "Fausto Petrini",
           "voto": 8.2,
           "giudizio": "Settimana dominante con 15 messaggi. Protagonista assoluto.",
           "messaggi": 15,
@@ -2242,21 +2242,21 @@
           "mediaGiornaliera": 2.1
         },
         {
-          "name": "Giec",
+          "name": "Giacomo Dolfi",
           "voto": 6.7,
           "giudizio": "Settimana nella media con 5 messaggi. Presente ma non protagonista.",
           "messaggi": 5,
           "mediaGiornaliera": 0.7
         },
         {
-          "name": "Cocco",
+          "name": "Cosimo Nenciòni",
           "voto": 5.3,
           "giudizio": "Settimana sottotono con solo 1 messaggi. Si può fare di più.",
           "messaggi": 1,
           "mediaGiornaliera": 0.1
         },
         {
-          "name": "Alecs",
+          "name": "Alessio Macalùso",
           "voto": 5.3,
           "giudizio": "Settimana sottotono con solo 1 messaggi. Si può fare di più.",
           "messaggi": 1,
@@ -2265,9 +2265,9 @@
       ],
       "riassunto": "Settimana con 37 messaggi totali. 5 membri attivi.",
       "awards": {
-        "mvp": "Fausto",
-        "chiacchierone": "Fausto",
-        "fantasma": "Alecs"
+        "mvp": "Fausto Petrini",
+        "chiacchierone": "Fausto Petrini",
+        "fantasma": "Alessio Macalùso"
       },
       "stats": {
         "totalMessages": 37,
@@ -2280,7 +2280,7 @@
       "endDate": "2014-11-16",
       "pagelle": [
         {
-          "name": "+39 348 813 1011",
+          "name": "Adriano Sergio Lorenzo Facchini",
           "voto": 8.3,
           "giudizio": "Settimana dominante con 28 messaggi. Protagonista assoluto.",
           "messaggi": 28,
@@ -2294,28 +2294,28 @@
           "mediaGiornaliera": 3.7
         },
         {
-          "name": "Fausto",
+          "name": "Fausto Petrini",
           "voto": 7.6,
           "giudizio": "Buona presenza nel gruppo con 17 messaggi. Partecipazione attiva.",
           "messaggi": 17,
           "mediaGiornaliera": 2.4
         },
         {
-          "name": "Cocco",
+          "name": "Cosimo Nenciòni",
           "voto": 7.6,
           "giudizio": "Buona presenza nel gruppo con 17 messaggi. Partecipazione attiva.",
           "messaggi": 17,
           "mediaGiornaliera": 2.4
         },
         {
-          "name": "Giec",
+          "name": "Giacomo Dolfi",
           "voto": 7.6,
           "giudizio": "Buona presenza nel gruppo con 17 messaggi. Partecipazione attiva.",
           "messaggi": 17,
           "mediaGiornaliera": 2.4
         },
         {
-          "name": "Alecs",
+          "name": "Alessio Macalùso",
           "voto": 6.8,
           "giudizio": "Settimana nella media con 11 messaggi. Presente ma non protagonista.",
           "messaggi": 11,
@@ -2324,9 +2324,9 @@
       ],
       "riassunto": "Settimana con 116 messaggi totali. 6 membri attivi.",
       "awards": {
-        "mvp": "+39 348 813 1011",
-        "chiacchierone": "+39 348 813 1011",
-        "fantasma": "Alecs"
+        "mvp": "Adriano Sergio Lorenzo Facchini",
+        "chiacchierone": "Adriano Sergio Lorenzo Facchini",
+        "fantasma": "Alessio Macalùso"
       },
       "stats": {
         "totalMessages": 116,
@@ -2339,7 +2339,7 @@
       "endDate": "2014-11-23",
       "pagelle": [
         {
-          "name": "+39 348 813 1011",
+          "name": "Adriano Sergio Lorenzo Facchini",
           "voto": 8.3,
           "giudizio": "Settimana dominante con 31 messaggi. Protagonista assoluto.",
           "messaggi": 31,
@@ -2353,28 +2353,28 @@
           "mediaGiornaliera": 3.6
         },
         {
-          "name": "Cocco",
+          "name": "Cosimo Nenciòni",
           "voto": 7.5,
           "giudizio": "Buona presenza nel gruppo con 17 messaggi. Partecipazione attiva.",
           "messaggi": 17,
           "mediaGiornaliera": 2.4
         },
         {
-          "name": "Fausto",
+          "name": "Fausto Petrini",
           "voto": 6.7,
           "giudizio": "Settimana nella media con 11 messaggi. Presente ma non protagonista.",
           "messaggi": 11,
           "mediaGiornaliera": 1.6
         },
         {
-          "name": "Giec",
+          "name": "Giacomo Dolfi",
           "voto": 6.6,
           "giudizio": "Settimana nella media con 10 messaggi. Presente ma non protagonista.",
           "messaggi": 10,
           "mediaGiornaliera": 1.4
         },
         {
-          "name": "Alecs",
+          "name": "Alessio Macalùso",
           "voto": 5.8,
           "giudizio": "Settimana sottotono con solo 5 messaggi. Si può fare di più.",
           "messaggi": 5,
@@ -2383,9 +2383,9 @@
       ],
       "riassunto": "Settimana con 99 messaggi totali. 6 membri attivi.",
       "awards": {
-        "mvp": "+39 348 813 1011",
-        "chiacchierone": "+39 348 813 1011",
-        "fantasma": "Alecs"
+        "mvp": "Adriano Sergio Lorenzo Facchini",
+        "chiacchierone": "Adriano Sergio Lorenzo Facchini",
+        "fantasma": "Alessio Macalùso"
       },
       "stats": {
         "totalMessages": 99,
@@ -2398,14 +2398,14 @@
       "endDate": "2014-11-30",
       "pagelle": [
         {
-          "name": "+39 348 813 1011",
+          "name": "Adriano Sergio Lorenzo Facchini",
           "voto": 8.3,
           "giudizio": "Settimana dominante con 34 messaggi. Protagonista assoluto.",
           "messaggi": 34,
           "mediaGiornaliera": 4.9
         },
         {
-          "name": "Cocco",
+          "name": "Cosimo Nenciòni",
           "voto": 7.9,
           "giudizio": "Buona presenza nel gruppo con 30 messaggi. Partecipazione attiva.",
           "messaggi": 30,
@@ -2419,21 +2419,21 @@
           "mediaGiornaliera": 3.7
         },
         {
-          "name": "Giec",
+          "name": "Giacomo Dolfi",
           "voto": 7.6,
           "giudizio": "Buona presenza nel gruppo con 20 messaggi. Partecipazione attiva.",
           "messaggi": 20,
           "mediaGiornaliera": 2.9
         },
         {
-          "name": "Alecs",
+          "name": "Alessio Macalùso",
           "voto": 6.9,
           "giudizio": "Settimana nella media con 15 messaggi. Presente ma non protagonista.",
           "messaggi": 15,
           "mediaGiornaliera": 2.1
         },
         {
-          "name": "Fausto",
+          "name": "Fausto Petrini",
           "voto": 6.8,
           "giudizio": "Settimana nella media con 14 messaggi. Presente ma non protagonista.",
           "messaggi": 14,
@@ -2442,9 +2442,9 @@
       ],
       "riassunto": "Settimana con 139 messaggi totali. 6 membri attivi.",
       "awards": {
-        "mvp": "+39 348 813 1011",
-        "chiacchierone": "+39 348 813 1011",
-        "fantasma": "Fausto"
+        "mvp": "Adriano Sergio Lorenzo Facchini",
+        "chiacchierone": "Adriano Sergio Lorenzo Facchini",
+        "fantasma": "Fausto Petrini"
       },
       "stats": {
         "totalMessages": 139,
@@ -2457,14 +2457,14 @@
       "endDate": "2014-12-07",
       "pagelle": [
         {
-          "name": "Cocco",
+          "name": "Cosimo Nenciòni",
           "voto": 8.1,
           "giudizio": "Settimana dominante con 9 messaggi. Protagonista assoluto.",
           "messaggi": 9,
           "mediaGiornaliera": 1.3
         },
         {
-          "name": "Alecs",
+          "name": "Alessio Macalùso",
           "voto": 7.8,
           "giudizio": "Buona presenza nel gruppo con 7 messaggi. Partecipazione attiva.",
           "messaggi": 7,
@@ -2478,14 +2478,14 @@
           "mediaGiornaliera": 0.6
         },
         {
-          "name": "Fausto",
+          "name": "Fausto Petrini",
           "voto": 6.7,
           "giudizio": "Settimana nella media con 3 messaggi. Presente ma non protagonista.",
           "messaggi": 3,
           "mediaGiornaliera": 0.4
         },
         {
-          "name": "Giec",
+          "name": "Giacomo Dolfi",
           "voto": 6.4,
           "giudizio": "Settimana nella media con 2 messaggi. Presente ma non protagonista.",
           "messaggi": 2,
@@ -2494,9 +2494,9 @@
       ],
       "riassunto": "Settimana con 25 messaggi totali. 5 membri attivi.",
       "awards": {
-        "mvp": "Cocco",
-        "chiacchierone": "Cocco",
-        "fantasma": "Giec"
+        "mvp": "Cosimo Nenciòni",
+        "chiacchierone": "Cosimo Nenciòni",
+        "fantasma": "Giacomo Dolfi"
       },
       "stats": {
         "totalMessages": 25,
@@ -2509,7 +2509,7 @@
       "endDate": "2014-12-14",
       "pagelle": [
         {
-          "name": "Cocco",
+          "name": "Cosimo Nenciòni",
           "voto": 8.4,
           "giudizio": "Settimana dominante con 40 messaggi. Protagonista assoluto.",
           "messaggi": 40,
@@ -2523,28 +2523,28 @@
           "mediaGiornaliera": 5.1
         },
         {
-          "name": "Alecs",
+          "name": "Alessio Macalùso",
           "voto": 7.8,
           "giudizio": "Buona presenza nel gruppo con 31 messaggi. Partecipazione attiva.",
           "messaggi": 31,
           "mediaGiornaliera": 4.4
         },
         {
-          "name": "Fausto",
+          "name": "Fausto Petrini",
           "voto": 7.7,
           "giudizio": "Buona presenza nel gruppo con 28 messaggi. Partecipazione attiva.",
           "messaggi": 28,
           "mediaGiornaliera": 4.0
         },
         {
-          "name": "+39 348 813 1011",
+          "name": "Adriano Sergio Lorenzo Facchini",
           "voto": 7.5,
           "giudizio": "Buona presenza nel gruppo con 21 messaggi. Partecipazione attiva.",
           "messaggi": 21,
           "mediaGiornaliera": 3.0
         },
         {
-          "name": "Giec",
+          "name": "Giacomo Dolfi",
           "voto": 5.9,
           "giudizio": "Settimana sottotono con solo 7 messaggi. Si può fare di più.",
           "messaggi": 7,
@@ -2553,9 +2553,9 @@
       ],
       "riassunto": "Settimana con 163 messaggi totali. 6 membri attivi.",
       "awards": {
-        "mvp": "Cocco",
-        "chiacchierone": "Cocco",
-        "fantasma": "Giec"
+        "mvp": "Cosimo Nenciòni",
+        "chiacchierone": "Cosimo Nenciòni",
+        "fantasma": "Giacomo Dolfi"
       },
       "stats": {
         "totalMessages": 163,
@@ -2568,21 +2568,21 @@
       "endDate": "2014-12-21",
       "pagelle": [
         {
-          "name": "Cocco",
+          "name": "Cosimo Nenciòni",
           "voto": 8.2,
           "giudizio": "Settimana dominante con 25 messaggi. Protagonista assoluto.",
           "messaggi": 25,
           "mediaGiornaliera": 3.6
         },
         {
-          "name": "Alecs",
+          "name": "Alessio Macalùso",
           "voto": 7.9,
           "giudizio": "Buona presenza nel gruppo con 23 messaggi. Partecipazione attiva.",
           "messaggi": 23,
           "mediaGiornaliera": 3.3
         },
         {
-          "name": "+39 348 813 1011",
+          "name": "Adriano Sergio Lorenzo Facchini",
           "voto": 7.8,
           "giudizio": "Buona presenza nel gruppo con 20 messaggi. Partecipazione attiva.",
           "messaggi": 20,
@@ -2596,14 +2596,14 @@
           "mediaGiornaliera": 2.7
         },
         {
-          "name": "Giec",
+          "name": "Giacomo Dolfi",
           "voto": 7.0,
           "giudizio": "Buona presenza nel gruppo con 12 messaggi. Partecipazione attiva.",
           "messaggi": 12,
           "mediaGiornaliera": 1.7
         },
         {
-          "name": "Fausto",
+          "name": "Fausto Petrini",
           "voto": 6.6,
           "giudizio": "Settimana nella media con 7 messaggi. Presente ma non protagonista.",
           "messaggi": 7,
@@ -2612,9 +2612,9 @@
       ],
       "riassunto": "Settimana con 106 messaggi totali. 6 membri attivi.",
       "awards": {
-        "mvp": "Cocco",
-        "chiacchierone": "Cocco",
-        "fantasma": "Fausto"
+        "mvp": "Cosimo Nenciòni",
+        "chiacchierone": "Cosimo Nenciòni",
+        "fantasma": "Fausto Petrini"
       },
       "stats": {
         "totalMessages": 106,
@@ -2627,14 +2627,14 @@
       "endDate": "2014-12-28",
       "pagelle": [
         {
-          "name": "Cocco",
+          "name": "Cosimo Nenciòni",
           "voto": 8.2,
           "giudizio": "Settimana dominante con 22 messaggi. Protagonista assoluto.",
           "messaggi": 22,
           "mediaGiornaliera": 3.1
         },
         {
-          "name": "+39 348 813 1011",
+          "name": "Adriano Sergio Lorenzo Facchini",
           "voto": 7.7,
           "giudizio": "Buona presenza nel gruppo con 15 messaggi. Partecipazione attiva.",
           "messaggi": 15,
@@ -2648,21 +2648,21 @@
           "mediaGiornaliera": 2.1
         },
         {
-          "name": "Giec",
+          "name": "Giacomo Dolfi",
           "voto": 6.9,
           "giudizio": "Settimana nella media con 10 messaggi. Presente ma non protagonista.",
           "messaggi": 10,
           "mediaGiornaliera": 1.4
         },
         {
-          "name": "Alecs",
+          "name": "Alessio Macalùso",
           "voto": 6.9,
           "giudizio": "Settimana nella media con 10 messaggi. Presente ma non protagonista.",
           "messaggi": 10,
           "mediaGiornaliera": 1.4
         },
         {
-          "name": "Fausto",
+          "name": "Fausto Petrini",
           "voto": 6.6,
           "giudizio": "Settimana nella media con 7 messaggi. Presente ma non protagonista.",
           "messaggi": 7,
@@ -2671,9 +2671,9 @@
       ],
       "riassunto": "Settimana con 79 messaggi totali. 6 membri attivi.",
       "awards": {
-        "mvp": "Cocco",
-        "chiacchierone": "Cocco",
-        "fantasma": "Fausto"
+        "mvp": "Cosimo Nenciòni",
+        "chiacchierone": "Cosimo Nenciòni",
+        "fantasma": "Fausto Petrini"
       },
       "stats": {
         "totalMessages": 79,
@@ -2693,28 +2693,28 @@
           "mediaGiornaliera": 2.7
         },
         {
-          "name": "Alecs",
+          "name": "Alessio Macalùso",
           "voto": 7.6,
           "giudizio": "Buona presenza nel gruppo con 12 messaggi. Partecipazione attiva.",
           "messaggi": 12,
           "mediaGiornaliera": 1.7
         },
         {
-          "name": "Giec",
+          "name": "Giacomo Dolfi",
           "voto": 6.7,
           "giudizio": "Settimana nella media con 7 messaggi. Presente ma non protagonista.",
           "messaggi": 7,
           "mediaGiornaliera": 1.0
         },
         {
-          "name": "Fausto",
+          "name": "Fausto Petrini",
           "voto": 6.5,
           "giudizio": "Settimana nella media con 5 messaggi. Presente ma non protagonista.",
           "messaggi": 5,
           "mediaGiornaliera": 0.7
         },
         {
-          "name": "Cocco",
+          "name": "Cosimo Nenciòni",
           "voto": 6.4,
           "giudizio": "Settimana nella media con 4 messaggi. Presente ma non protagonista.",
           "messaggi": 4,
@@ -2725,7 +2725,7 @@
       "awards": {
         "mvp": "Alessio Valentini",
         "chiacchierone": "Alessio Valentini",
-        "fantasma": "Cocco"
+        "fantasma": "Cosimo Nenciòni"
       },
       "stats": {
         "totalMessages": 47,
@@ -2746,7 +2746,7 @@
       "worstWeek": "2014-03-24"
     },
     {
-      "name": "+39 348 813 1011",
+      "name": "Adriano Sergio Lorenzo Facchini",
       "mediaVoto": 7.59,
       "totalMessaggi": 330,
       "settimaneAttive": 19,
@@ -2756,7 +2756,7 @@
       "worstWeek": "2014-02-10"
     },
     {
-      "name": "Cocco",
+      "name": "Cosimo Nenciòni",
       "mediaVoto": 7.56,
       "totalMessaggi": 689,
       "settimaneAttive": 50,
@@ -2766,7 +2766,7 @@
       "worstWeek": "2014-11-03"
     },
     {
-      "name": "Fausto",
+      "name": "Fausto Petrini",
       "mediaVoto": 7.01,
       "totalMessaggi": 387,
       "settimaneAttive": 50,
@@ -2776,7 +2776,7 @@
       "worstWeek": "2014-02-10"
     },
     {
-      "name": "Giec",
+      "name": "Giacomo Dolfi",
       "mediaVoto": 6.97,
       "totalMessaggi": 404,
       "settimaneAttive": 48,
@@ -2786,7 +2786,7 @@
       "worstWeek": "2014-09-08"
     },
     {
-      "name": "Alecs",
+      "name": "Alessio Macalùso",
       "mediaVoto": 6.93,
       "totalMessaggi": 425,
       "settimaneAttive": 48,
@@ -2797,5 +2797,5 @@
     }
   ],
   "totalWeeks": 52,
-  "generatedAt": "2026-01-19T17:11:18.721563"
+  "generatedAt": "2026-01-19T17:14:58.877729"
 }
