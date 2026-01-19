@@ -1,0 +1,109 @@
+{
+  "anno": 2023,
+  "settimana": 51,
+  "startDate": "2023-12-18",
+  "endDate": "2023-12-24",
+  "stats": {
+    "totalMessages": 41,
+    "activeMembers": 6,
+    "avgPerMember": 6.8
+  },
+  "riassunto": "SETTIMANA NATALIZIA: sondaggi cena e LUCIA E' NATA! Adriano al nuovo Lider: 'Sei tu il lider'. Fausto: 'Ma chiaramente se poi il lider decide, noi ci adatteremo cmq'. 'Ho fussato in alto il messaggio'. Organizzazione cena tra Natale e Capodanno. Adriano: 'Quindi vuoi pilotare il voto a tuo favore?'. Cocco: 'Non mi ero accorto del sondaggione'. Adriano: 'Io porcaccia della madonna ho votato sempre adattandomi porco dio. Ora tolgo i voti'. Fausto: 'Tanto poi ci pensa Jack a metterne solo una, il giorno prima'. Giacomo: 'Il mio problema e' che ad oggi non lo so. Ho i biglietti per andare a Milano'. POI LA NOTIZIA: Cocco condivide foto di bimbo: 'Questo ha 1 settimana. Nome?'. Alessio V.: 'Lucia. Nata Lunedi''. E' NATA LA FIGLIA DI ALESSIO V.! Cocco: 'Siete certamente molto belli'. 'Mi devi far stare male' sui taglieri. Alessio V.: 'Divertitevi e mandate foto'. Fausto: 'Ma te quando torni?'. Alessio: 'Domani'.",
+  "bestQuotes": [
+    {
+      "quote": "Lucia. Nata Lunedi'",
+      "author": "Alessio Valentini",
+      "context": "Annuncio nascita figlia"
+    },
+    {
+      "quote": "Io porcaccia della madonna ho votato sempre adattandomi porco dio. Ora tolgo i voti",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Sul sondaggio cena"
+    },
+    {
+      "quote": "Ma chiaramente se poi il lider decide, noi ci adatteremo cmq",
+      "author": "Fausto Petrini",
+      "context": "Rispetto per Adriano lider"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Fausto Petrini",
+      "voto": 8.5,
+      "giudizio": "L'organizzatore! 'Maaaaa la cena aperipoker? Si potrebbe stabilire il giorno?'. 'C'ho delle case li'' a Sambuca. 'Ho fussato in alto il messaggio'. 'Ma chiaramente se poi il lider decide, noi ci adatteremo'. 'Certo, se anche gli ultimi due dessero il loro voto sarebbe piu' facile'. 'Magari invece cerchiamo tutti di mettere il massimo delle disponibilita''. 'Tanto poi ci pensa Jack a metterne solo una, il giorno prima'. 'Ma te quando torni?' ad Alessio. Efficiente.",
+      "messaggi": 14,
+      "mediaGiornaliera": 2.0,
+      "highlights": [
+        "Organizza cena",
+        "Possidente Sambuca"
+      ],
+      "citazioneTop": "Ho fussato in alto il messaggio"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 8.0,
+      "giudizio": "'Scusate, non mi ero accorto del sondaggione. Ora voto'. 'Ho votato il certo ma potrei aggiustarmi anche per uno degli altri giorni'. 'Mi devi far stare male' sui taglieri. 'Ashehshsh. Questo ha 1 settimana. Nome?' - chiede della figlia di Alessio! 'Siete certamente molto belli' sulla foto famiglia Valentini. Curioso e presente.",
+      "messaggi": 10,
+      "mediaGiornaliera": 1.4,
+      "highlights": [
+        "Chiede di Lucia",
+        "Sondaggio cena"
+      ],
+      "citazioneTop": "Questo ha 1 settimana. Nome?"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 8.0,
+      "giudizio": "Il nuovo Lider! 'Macelleria Francini. Sambuca'. 'Che possidente' a Fausto. 'Sei tu il lider'. 'Quindi vuoi pilotare il voto a tuo favore?'. 'Male molto male malissimo' su Cocco che non aveva votato. 'Io porcaccia della madonna ho votato sempre adattandomi porco dio. Ora tolgo i voti'. Ironico e presente.",
+      "messaggi": 8,
+      "mediaGiornaliera": 1.1,
+      "highlights": [
+        "E' il Lider",
+        "Voti adattandomi"
+      ],
+      "citazioneTop": "Io porcaccia della madonna ho votato sempre adattandomi porco dio"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 8.5,
+      "giudizio": "IL PAPA'! 'Qua' - presente. 'Divertitevi e mandate foto'. E poi l'annuncio: 'Lucia. Nata Lunedi''. LA FIGLIA E' NATA! 'Domani' - quando torna. Momento speciale per Alessio.",
+      "messaggi": 6,
+      "mediaGiornaliera": 0.9,
+      "highlights": [
+        "Lucia nata!",
+        "Torna domani"
+      ],
+      "citazioneTop": "Lucia. Nata Lunedi'"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 7.5,
+      "giudizio": "Il mediatore! 'Fino al 6 sono in ferie si potrebbe fare dall'1 al 6 se Alessio e' tornato e ci siete tutti'. 'Ho votato i giorni che sono in ferie ma alle brutte mi adatto anche all'8'. Disponibile e flessibile.",
+      "messaggi": 4,
+      "mediaGiornaliera": 0.6,
+      "highlights": [
+        "Ferie disponibile",
+        "Si adatta"
+      ],
+      "citazioneTop": "Fino al 6 sono in ferie si potrebbe fare dall'1 al 6"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 7.0,
+      "giudizio": "'Il mio problema e' che ad oggi non lo so. Ho i biglietti per andare a Milano i primi di gennaio'. 'Ho comunque votato i giorni in cui ci sono ad oggi'. Incerto ma presente.",
+      "messaggi": 4,
+      "mediaGiornaliera": 0.6,
+      "highlights": [
+        "Milano incerto",
+        "Vota sondaggio"
+      ],
+      "citazioneTop": "Ho i biglietti per andare a Milano, ma ancora non so se andiamo"
+    }
+  ],
+  "awards": {
+    "mvp": "Alessio Valentini",
+    "comico": "Adriano Sergio Lorenzo Facchini",
+    "cuore": "Fausto Petrini",
+    "fantasma": null
+  }
+}

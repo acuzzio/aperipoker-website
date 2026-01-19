@@ -1,0 +1,118 @@
+{
+  "anno": 2022,
+  "settimana": 50,
+  "startDate": "2022-12-13",
+  "endDate": "2022-12-18",
+  "stats": {
+    "totalMessages": 49,
+    "activeMembers": 6,
+    "avgPerMember": 8.2
+  },
+  "riassunto": "Jacopo e Bernadette vengono il 23! 'La prima cosa che mi ha chiesto e' se doveva venire da solo. Gli ho risposto che avevo gia' chiamato Bernadette prima di lui'. Cosimo mangia trapizzino a Roma ('Pollo alla cacciatora, non ve lo sto manco a di''). Fausto a teatro con Stefano Massini. 'Giulio a toccare le pocce alla tata Laura a letto'.",
+  "bestQuotes": [
+    {
+      "quote": "La prima cosa che mi ha chiesto e' se doveva venire da solo. Gli ho risposto che avevo gia' chiamato Bernadette prima di lui",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Sull'invito a Jacopo"
+    },
+    {
+      "quote": "Ho mangiato il trapizzino ripieno di pollo alla cacciatora. Non ve lo sto manco a di'",
+      "author": "Cosimo Nenciòni",
+      "context": "Sul cibo a Roma"
+    },
+    {
+      "quote": "Giulio a toccare le pocce alla tata Laura a letto. Tutti soddisfatti",
+      "author": "Fausto Petrini",
+      "context": "Sui bambini"
+    },
+    {
+      "quote": "Mai dimenticare",
+      "author": "Alessio Valentini",
+      "context": "Su una storia"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 8.0,
+      "giudizio": "Ha invitato Jacopo e Bernadette. 'Avevo gia' chiamato Bernadette prima di lui' e' tattica perfetta. Ha confermato la cena del 23. Organizzatore strategico.",
+      "messaggi": 13,
+      "mediaGiornaliera": 2.2,
+      "highlights": [
+        "Jacopo e Bernadette",
+        "Chiamato Bernadette prima",
+        "Cena confermata"
+      ],
+      "citazioneTop": "Avevo gia' chiamato Bernadette prima di lui"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 7.5,
+      "giudizio": "'Giulio a toccare le pocce alla tata Laura' e' genitorialita'. A teatro con Stefano Massini in prima fila. Ha condiviso articolo sull'hashish del ponte Morandi. Padre e intellettuale.",
+      "messaggi": 11,
+      "mediaGiornaliera": 1.8,
+      "highlights": [
+        "Pocce alla tata",
+        "Teatro Massini",
+        "Hashish ponte Morandi"
+      ],
+      "citazioneTop": "Giulio a toccare le pocce alla tata Laura"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 7.0,
+      "giudizio": "'Mai dimenticare' e 'Come sta Pasqualino nostro?'. Ha dormito 11 ore ('Le 10, mica male'). 'Eroi veri' sui partecipanti alla cena. Presente con affetto.",
+      "messaggi": 10,
+      "mediaGiornaliera": 1.7,
+      "highlights": [
+        "Mai dimenticare",
+        "Pasqualino",
+        "11 ore di sonno"
+      ],
+      "citazioneTop": "Mai dimenticare"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 7.5,
+      "giudizio": "Trapizzino con pollo alla cacciatora e suppli' coi broccoli a Roma. 'Non ve lo sto manco a di'' e' orgoglio culinario. 'Iessss' su Massini. Foodie romano.",
+      "messaggi": 9,
+      "mediaGiornaliera": 1.5,
+      "highlights": [
+        "Trapizzino",
+        "Pollo alla cacciatora",
+        "Non ve lo dico"
+      ],
+      "citazioneTop": "Non ve lo sto manco a di'"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 6.5,
+      "giudizio": "'Alemanno non era nella foto?' e' curiosita'. Ha chiesto se Jacopo era polemico. Presente e curioso.",
+      "messaggi": 4,
+      "mediaGiornaliera": 0.7,
+      "highlights": [
+        "Alemanno",
+        "Era polemico?"
+      ],
+      "citazioneTop": "Ma era polemico?"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 6.0,
+      "giudizio": "'Una storia incredibile ci dovrebbero fare un film'. 'Pasqualino sta bene anche lui'. Due messaggi ma partecipi.",
+      "messaggi": 2,
+      "mediaGiornaliera": 0.3,
+      "highlights": [
+        "Storia da film",
+        "Pasqualino sta bene"
+      ],
+      "citazioneTop": "Una storia incredibile ci dovrebbero fare un film"
+    }
+  ],
+  "awards": {
+    "mvp": "Adriano Sergio Lorenzo Facchini - Ha chiamato Bernadette prima di Jacopo",
+    "comico": "Fausto Petrini - Giulio a toccare le pocce alla tata",
+    "cuore": "Alessio Valentini - Come sta Pasqualino nostro?",
+    "fantasma": "Alessio Macalùso - Solo 2 messaggi"
+  }
+}

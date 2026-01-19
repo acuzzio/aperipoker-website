@@ -1,0 +1,119 @@
+{
+  "anno": 2022,
+  "settimana": 8,
+  "startDate": "2022-02-21",
+  "endDate": "2022-02-27",
+  "stats": {
+    "totalMessages": 40,
+    "activeMembers": 6,
+    "avgPerMember": 6.7
+  },
+  "riassunto": "Putin invade l'Ucraina. Il gruppo reagisce con sgomento: 'Putin andrebbe preso a calci in bocca', 'Pare un discorso di Hitler'. Cosimo condivide link e analisi. Nel frattempo si ricordano le truffe di Adriano a Starquest (non Starcraft!) e si propone uno Yahtzee online. Alessio Mac non ha fatto Yahtzee. L'atmosfera e' cupa, la guerra domina tutto.",
+  "bestQuotes": [
+    {
+      "quote": "Cmq Putin andrebbe preso a calci in bocca.",
+      "author": "Cosimo Nenciòni",
+      "context": "Prima reazione all'invasione dell'Ucraina"
+    },
+    {
+      "quote": "Adriano ladrerebbe. Va sorvegliato",
+      "author": "Cosimo Nenciòni",
+      "context": "Sullo Yahtzee online proposto"
+    },
+    {
+      "quote": "Quando mi dissero per la prima volta 'quello e' un fascio sotto mentite spoglie' non ci credetti",
+      "author": "Alessio Valentini",
+      "context": "Su Salvini e i 5 stelle"
+    },
+    {
+      "quote": "Cmq si chiama starquest. Vergogna",
+      "author": "Fausto Petrini",
+      "context": "Correggendo Alessio V. sul nome del gioco"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 8.0,
+      "giudizio": "L'analista della guerra. Ha aperto con 'Putin andrebbe preso a calci in bocca' e non si e' fermato. Link, analisi, paragoni con Hitler. Ha anche ricordato che Adriano 'ladrerebbe' allo Yahtzee. Completo.",
+      "messaggi": 11,
+      "mediaGiornaliera": 1.6,
+      "highlights": [
+        "Prima reazione all'invasione",
+        "Ha condiviso link informativi",
+        "Ha ricordato le truffe di Adriano"
+      ],
+      "citazioneTop": "Cmq Putin andrebbe preso a calci in bocca"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 7.5,
+      "giudizio": "Ha ammesso di non seguire la politica ultimamente, poi ha fatto autocritica sui 5 stelle e Salvini. Il ricordo di Starquest con Adriano che trucca e' leggendario. 'Mamma mia che roba' sulla guerra.",
+      "messaggi": 10,
+      "mediaGiornaliera": 1.4,
+      "highlights": [
+        "Autocritica sui 5 stelle",
+        "Ricordo epico di Starquest",
+        "Ha chiesto link per informarsi"
+      ],
+      "citazioneTop": "Ma diiiio can se avevano ragione"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 7.0,
+      "giudizio": "Non ha fatto Yahtzee ma propone di farlo online. 'E' imbarazzante sentire dire queste cose' sulla guerra. Pochi messaggi ma sempre al punto. Ha ricordato anche lui le truffe di Adriano.",
+      "messaggi": 7,
+      "mediaGiornaliera": 1.0,
+      "highlights": [
+        "Ha proposto Yahtzee online",
+        "Commento sulla guerra",
+        "Non ha fatto Yahtzee"
+      ],
+      "citazioneTop": "Un giorno potremmo fare uno yahtzee online. In videochiamata."
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 7.0,
+      "giudizio": "Ha corretto Alessio su Starquest/Starcraft con 'Vergogna'. Si offre di fare il cattivo nella partita online. L'analisi sulla strategia russa ('rovesciamento del governo') e' lucida.",
+      "messaggi": 7,
+      "mediaGiornaliera": 1.0,
+      "highlights": [
+        "Ha corretto il nome del gioco",
+        "Analisi sulla strategia russa",
+        "Si offre come game master"
+      ],
+      "citazioneTop": "Cmq si chiama starquest. Vergogna"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 6.5,
+      "giudizio": "Pochi messaggi ma incisivi: 'Da manate' su Putin, 'Grande statista' sarcastico. Ha condiviso un video. Il Lider osserva la situazione con preoccupazione.",
+      "messaggi": 4,
+      "mediaGiornaliera": 0.6,
+      "highlights": [
+        "Commento sarcastico su Putin",
+        "Ha condiviso video",
+        "Preoccupazione espressa"
+      ],
+      "citazioneTop": "Spero di essere pessimista ma so cazzi amari"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 5.0,
+      "giudizio": "Un solo messaggio (un media). Si difende dalle accuse di truffe a Starquest con un laconico 'Non e' vero'. Settimana fantasma per lui, assorbito da altro.",
+      "messaggi": 1,
+      "mediaGiornaliera": 0.1,
+      "highlights": [
+        "Ha condiviso un media",
+        "Si e' difeso dalle accuse"
+      ],
+      "citazioneTop": "Non e' vero."
+    }
+  ],
+  "awards": {
+    "mvp": "Cosimo Nenciòni - Analista della guerra e custode della memoria del gruppo",
+    "comico": "Fausto Petrini - La correzione su Starquest con 'Vergogna'",
+    "cuore": "Alessio Valentini - Ha ammesso i suoi errori di valutazione politica",
+    "fantasma": "Adriano Sergio Lorenzo Facchini - Un solo messaggio in tutta la settimana"
+  }
+}

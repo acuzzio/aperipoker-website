@@ -1,0 +1,103 @@
+{
+  "anno": 2021,
+  "settimana": 37,
+  "startDate": "2021-09-13",
+  "endDate": "2021-09-19",
+  "stats": {
+    "totalMessages": 39,
+    "activeMembers": 6,
+    "avgPerMember": 6.5
+  },
+  "riassunto": "Una settimana di ordinaria follia con 39 messaggi. Adriano in testa alla classifica.",
+  "bestQuotes": [
+    {
+      "quote": "Peccato che nessuno si sia accorto di qualcosa di strano..",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "A me fa impazzire il fatto che la bestemmia italiana sia internazionale",
+      "author": "Fausto Petrini",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Spakkano! Veramente mitici.",
+      "author": "Cosimo Nenciòni",
+      "context": "Momento memorabile della settimana"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 8.0,
+      "giudizio": "Ha scritto piu' lui che il resto del gruppo messo insieme. E per una volta aveva senso.",
+      "messaggi": 13,
+      "mediaGiornaliera": 1.9,
+      "highlights": [
+        "Ha dominato la conversazione con il 33% dei messaggi"
+      ],
+      "citazioneTop": "Peccato che nessuno si sia accorto di qualcosa di strano.."
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 7.4,
+      "giudizio": "Il Trascinatore ha proposto, organizzato, coordinato. Come sempre nessuno l'ha seguito.",
+      "messaggi": 11,
+      "mediaGiornaliera": 1.6,
+      "highlights": [
+        "Ha dominato la conversazione con il 28% dei messaggi"
+      ],
+      "citazioneTop": "A me fa impazzire il fatto che la bestemmia italiana sia internazionale"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 5.5,
+      "giudizio": "Contributo equilibrato, con qualche perla sarcastica.",
+      "messaggi": 5,
+      "mediaGiornaliera": 0.7,
+      "highlights": [
+        "Ha contribuito con 5 messaggi"
+      ],
+      "citazioneTop": "Spakkano! Veramente mitici."
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 6.7,
+      "giudizio": "Presente con la solita parsimonia. Zen master della settimana.",
+      "messaggi": 4,
+      "mediaGiornaliera": 0.6,
+      "highlights": [
+        "Ha contribuito con 4 messaggi"
+      ],
+      "citazioneTop": ""
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 4.9,
+      "giudizio": "Il Lider si e' eclissato. Chi guida il gruppo?",
+      "messaggi": 3,
+      "mediaGiornaliera": 0.4,
+      "highlights": [
+        "Ha contribuito con 3 messaggi"
+      ],
+      "citazioneTop": ""
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 4.9,
+      "giudizio": "Disperso in qualche angolo del mondo. Internet troppo di merda.",
+      "messaggi": 3,
+      "mediaGiornaliera": 0.4,
+      "highlights": [
+        "Ha contribuito con 3 messaggi"
+      ],
+      "citazioneTop": ""
+    }
+  ],
+  "awards": {
+    "mvp": "Adriano Sergio Lorenzo Facchini - Miglior voto della settimana con 8.0",
+    "comico": "Adriano Sergio Lorenzo Facchini - Il piu' divertente della settimana",
+    "cuore": "Cosimo Nenciòni - Presenza equilibrata e costante",
+    "fantasma": "Giacomo Dolfi - Il piu' silenzioso con 3 messaggi"
+  }
+}

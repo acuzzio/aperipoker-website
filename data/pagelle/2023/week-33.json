@@ -1,0 +1,109 @@
+{
+  "anno": 2023,
+  "settimana": 33,
+  "startDate": "2023-08-14",
+  "endDate": "2023-08-20",
+  "stats": {
+    "totalMessages": 80,
+    "activeMembers": 6,
+    "avgPerMember": 13.3
+  },
+  "riassunto": "Settimana del Palio drammatico e della reunion a Firenze! Palio di Agosto il 16: Alessio V. chiede 'Fra 3 ore?'. Fausto: 'Ore sette escono dall'entrone'. Cocco: 'Un palio deammatico'. Giacomo: 'Da sentirsi male'. Adriano condivide link sul Palio: 'Antonio Degortes travolto dal cavallo della Torre'. Reunion a Firenze organizzata! Cocco, Fausto e Adriano si vedono il 17. Cocco: 'The only day is today'. Adriano: 'Facciamo che se vengo vengo diretto a Firenze'. 'Pizza e birra e ciao?'. Cocco: 'Dove vuoi, basta che ci sia un po' di fresco'. 'Sta la fregna'. Adriano in vacanza nelle Dolomiti vicino Chiusa: 'Forse ho un po' esagerato..ma vabbè'. Mac: 'Sembra una casa top di gamma'. Adriano: 'Hotel. Gnollhof camera Mountain Spirit'. Fausto chiede il nome per prenotare l'anno prossimo. Mac tornato a Siena dopo 2 mesi tra ferie e malattia. Foto di Napoli con Renata che ha fatto 40 anni. Adriano: 'Pensavo 39!'.",
+  "bestQuotes": [
+    {
+      "quote": "Un palio veramente drammatico",
+      "author": "Cosimo Nenciòni",
+      "context": "Sul Palio di Agosto"
+    },
+    {
+      "quote": "Forse ho un po' esagerato..ma vabbè",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Hotel nelle Dolomiti"
+    },
+    {
+      "quote": "Perche' sei una sola. Te devi vederti solo con il tuo vicino di casa. Amico a kilometro zero",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "A Giacomo che non puo' venire"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 8.5,
+      "giudizio": "Organizzatore e vacanziero! A Giacomo: 'Sei una sola. Amico a kilometro zero'. 'Voglio aprire un canale Instagram: trova il tuo amico a kilometro zero!'. Dalle Dolomiti: 'Forse ho un po' esagerato..ma vabbè'. 'Gnollhof camera Mountain Spirit'. 'Ho perso un minuto e 33 secondi della mia vita' sul video di Fausto. Partecipa alla reunion a Firenze. Ironico e presente.",
+      "messaggi": 22,
+      "mediaGiornaliera": 3.1,
+      "highlights": [
+        "Dolomiti",
+        "Reunion Firenze"
+      ],
+      "citazioneTop": "Forse ho un po' esagerato..ma vabbè"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 8.0,
+      "giudizio": "'Un palio deammatico'. Organizza la reunion: 'Con Giec ci si pole vedere anche la prox ma con te no. The only day is today'. 'Dove vuoi, basta che ci sia un po' di fresco'. 'Sta la fregna'. 'Veramente super' sulle Dolomiti. 'Bella Napoli!' sulla foto. Coordinatore e partecipe.",
+      "messaggi": 16,
+      "mediaGiornaliera": 2.3,
+      "highlights": [
+        "Palio drammatico",
+        "Organizza reunion"
+      ],
+      "citazioneTop": "Un palio veramente drammatico"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 8.0,
+      "giudizio": "'Ore sette escono dall'entrone'. Organizza la serata: 'Jack, allora serata programmata per domani sera'. 'Io e Cocco ci si vedra' uguale'. 'Ele vuole il nome per prenotare anno prossimo' sull'hotel di Adriano. Condivide video idiota: 'Scusate, e' idiota ma a me ha fatto ridere'. Informativo e presente.",
+      "messaggi": 14,
+      "mediaGiornaliera": 2.0,
+      "highlights": [
+        "Info Palio",
+        "Organizza serata"
+      ],
+      "citazioneTop": "Ele vuole il nome per prenotare anno prossimo"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 7.5,
+      "giudizio": "'Finalmente' sul Palio. 'Do siete stati al cigno?'. 'Sembra una casa top di gamma' sulle Dolomiti. 'Io so tornato ieri a Siena, domani torno a lavoro che fra ferie e malattia e' quasi 2 mesi che non lavoro'. 'A me ha fatto ridere' sul video. Presente e curioso.",
+      "messaggi": 10,
+      "mediaGiornaliera": 1.4,
+      "highlights": [
+        "Ritorno al lavoro",
+        "Commenti Dolomiti"
+      ],
+      "citazioneTop": "Fra ferie e malattia e' quasi 2 mesi che non lavoro"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 7.5,
+      "giudizio": "'Il palio quando c'e'? Fra 3 ore?'. 'Madonna che palio'. 'Chissa' cosa staranno architettando queste due megere al piano di sopra' - citazione. 'AAAAAAAO Spettacolo' sulle Dolomiti. 'Lo guardo dopo' sul video. Partecipe a distanza.",
+      "messaggi": 10,
+      "mediaGiornaliera": 1.4,
+      "highlights": [
+        "Segue Palio",
+        "Entusiasmo Dolomiti"
+      ],
+      "citazioneTop": "Madonna che palio"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 7.0,
+      "giudizio": "'Da sentirsi male' sul Palio. 'Buongiorno, stasera purtroppo non ce la faccio a venire'. Condivide articolo su Degortes. 'Bello' sul Lercio. Non riesce a partecipare alla reunion ma segue da lontano.",
+      "messaggi": 8,
+      "mediaGiornaliera": 1.1,
+      "highlights": [
+        "Commento Palio",
+        "Impossibilitato reunion"
+      ],
+      "citazioneTop": "Da sentirsi male"
+    }
+  ],
+  "awards": {
+    "mvp": "Adriano Sergio Lorenzo Facchini",
+    "comico": "Cosimo Nenciòni",
+    "cuore": "Fausto Petrini",
+    "fantasma": null
+  }
+}

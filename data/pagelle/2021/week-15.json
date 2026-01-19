@@ -1,0 +1,106 @@
+{
+  "anno": 2021,
+  "settimana": 15,
+  "startDate": "2021-04-12",
+  "endDate": "2021-04-18",
+  "stats": {
+    "totalMessages": 214,
+    "activeMembers": 6,
+    "avgPerMember": 35.7
+  },
+  "riassunto": "Settimana 15 con 214 messaggi. Adriano guida le danze con 66 contributi.",
+  "bestQuotes": [
+    {
+      "quote": "Ma che dite? Guarda che io dicevo vedersi di persona!! So a siena!!",
+      "author": "Fausto Petrini",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "il dottore ha detto: \"ma come cazzo hai fatto ad arrivare a 40 anni con sto cazzo di naso\"",
+      "author": "Alessio Valentini",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Già che ci sei raddrizzalo o fallo alla francese no?",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Momento memorabile della settimana"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 8.0,
+      "giudizio": "Ha scritto piu' lui che il resto del gruppo messo insieme. E per una volta aveva senso.",
+      "messaggi": 66,
+      "mediaGiornaliera": 9.4,
+      "highlights": [
+        "Ha dominato la conversazione con il 31% dei messaggi"
+      ],
+      "citazioneTop": "Già che ci sei raddrizzalo o fallo alla francese no?"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 7.6,
+      "giudizio": "Internet di merda ma contributo d'oro. Ha illuminato la settimana.",
+      "messaggi": 56,
+      "mediaGiornaliera": 8.0,
+      "highlights": [
+        "Ha dominato la conversazione con il 26% dei messaggi",
+        "Ha stimolato la discussione con molte domande"
+      ],
+      "citazioneTop": "il dottore ha detto: \"ma come cazzo hai fatto ad arrivare a 40 anni con sto cazzo di naso\""
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 6.7,
+      "giudizio": "Contributo equilibrato, con qualche perla sarcastica.",
+      "messaggi": 41,
+      "mediaGiornaliera": 5.9,
+      "highlights": [
+        "Tra i piu' attivi con 41 messaggi"
+      ],
+      "citazioneTop": ""
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 5.0,
+      "giudizio": "Contributo misurato, come nel suo stile. Ogni parola al suo posto.",
+      "messaggi": 18,
+      "mediaGiornaliera": 2.6,
+      "highlights": [
+        "Ha contribuito con 18 messaggi"
+      ],
+      "citazioneTop": ""
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 6.0,
+      "giudizio": "Il Lider si e' eclissato. Chi guida il gruppo?",
+      "messaggi": 17,
+      "mediaGiornaliera": 2.4,
+      "highlights": [
+        "Ha contribuito con 17 messaggi",
+        "Ha stimolato la discussione con molte domande"
+      ],
+      "citazioneTop": ""
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 6.0,
+      "giudizio": "Ha mollato la presa questa settimana. Niente bollore.",
+      "messaggi": 16,
+      "mediaGiornaliera": 2.3,
+      "highlights": [
+        "Ha contribuito con 16 messaggi",
+        "Ha stimolato la discussione con molte domande"
+      ],
+      "citazioneTop": "Ma che dite? Guarda che io dicevo vedersi di persona!! So a siena!!"
+    }
+  ],
+  "awards": {
+    "mvp": "Adriano Sergio Lorenzo Facchini - Miglior voto della settimana con 8.0",
+    "comico": "Alessio Valentini - Il piu' divertente della settimana",
+    "cuore": "Cosimo Nenciòni - Presenza equilibrata e costante",
+    "fantasma": null
+  }
+}

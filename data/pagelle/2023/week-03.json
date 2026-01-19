@@ -1,0 +1,109 @@
+{
+  "anno": 2023,
+  "settimana": 3,
+  "startDate": "2023-01-16",
+  "endDate": "2023-01-22",
+  "stats": {
+    "totalMessages": 81,
+    "activeMembers": 6,
+    "avgPerMember": 13.5
+  },
+  "riassunto": "Cattura di Messina Denaro e ironia sulla Meloni. Alessio V. finisce in ospedale per la pressione alta ma poi tutto rientra. Grande discussione sul concerto di Robbie Williams a Bologna: Giacomo ci va con Lucia e viene interrogato sul 'percorso psicologico' che lo ha portato fin lì. ChatGPT fa la sua prima apparizione nel gruppo. Nevica a Siena.",
+  "bestQuotes": [
+    {
+      "quote": "Tu non capici la grandezza di un concerto così",
+      "author": "Giacomo Dolfi",
+      "context": "Frase attribuita (falsamente secondo lui) da Fausto sul concerto di Robbie Williams"
+    },
+    {
+      "quote": "Ti ha fatto cacare sotto. Ecco che.",
+      "author": "Cosimo Nenciòni",
+      "context": "Commento sulla pressione di Alessio V. tornata normale dopo lo spavento"
+    },
+    {
+      "quote": "Manda qualche foto e soprattutto scrivici due righe sull'iter psiocologico che hai fatto per arrivare fino a Bologna a vedere Robbie.",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Interrogatorio goliardico a Giacomo"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 8.5,
+      "giudizio": "Dominatore assoluto. Parte con l'ironia sulla Meloni e Messina Denaro, poi orchestra un interrogatorio epico su Giacomo e Robbie Williams. 'Ti sei scritto robbie sulle gote?' è poesia. Non molla finché non sa chi ha avuto l'idea del concerto.",
+      "messaggi": 22,
+      "mediaGiornaliera": 3.1,
+      "highlights": [
+        "Interrogatorio su Giacomo e Robbie Williams",
+        "Ironia politica sulla cattura di Messina Denaro"
+      ],
+      "citazioneTop": "Ti sei scritto robbie sulle gote?"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 7.5,
+      "giudizio": "Settimana complicata tra ospedale e pressione alle stelle. Ma il gruppo lo supporta e lui reagisce con ironia: 'Avere la minima come uno deve avere la massima'. Apprezza la cover degli Oasis di Robbie. Uomo di gusto anche sotto stress.",
+      "messaggi": 18,
+      "mediaGiornaliera": 2.6,
+      "highlights": [
+        "Racconto dello spavento per la pressione",
+        "Commenti musicali pertinenti su Robbie"
+      ],
+      "citazioneTop": "Avere la minima come uno deve avere la massima. Non male"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 7.0,
+      "giudizio": "Protagonista involontario. Va a vedere Robbie Williams e viene sottoposto a un terzo grado. Si difende con dignità: 'É stato un iter molto complesso, non é facile da spiegare per messaggio'. Ammette infine che l'idea era di Lucia. Caso chiuso.",
+      "messaggi": 14,
+      "mediaGiornaliera": 2.0,
+      "highlights": [
+        "Difesa eroica del concerto di Robbie",
+        "Confessione finale sull'idea di Lucia"
+      ],
+      "citazioneTop": "É stato un iter molto complesso, non é facile da spiegare per messaggio"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 7.0,
+      "giudizio": "Porta ChatGPT nel gruppo ('Matrix, le origini') e alimenta il fuoco su Giacomo: 'Vi dico solo che mi ha detto: tu non capici la grandezza di un concerto così'. Provocatore raffinato. Supporta Alessio V. con la pressione.",
+      "messaggi": 14,
+      "mediaGiornaliera": 2.0,
+      "highlights": [
+        "Introduce ChatGPT nel gruppo",
+        "Alimenta il caso Robbie Williams"
+      ],
+      "citazioneTop": "Aspetto solo vi dica quanto gli è costato"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 7.0,
+      "giudizio": "Pochi messaggi ma centrati. 'Ti ha fatto cacare sotto' ad Alessio V. è diagnosi perfetta. 'Giec sul pezzo' sul concerto. Chiede ad Alessio com'è andata dal dottore: empatico sotto la corazza sarcastica.",
+      "messaggi": 9,
+      "mediaGiornaliera": 1.3,
+      "highlights": [
+        "Supporto ad Alessio V. per la pressione",
+        "Commenti secchi ma efficaci"
+      ],
+      "citazioneTop": "Ti ha fatto cacare sotto. Ecco che."
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 6.0,
+      "giudizio": "Zen come sempre. 'Nevica!' è il suo contributo meteorologico. Organizza la logistica per la cena del 3 febbraio. 'Mando turni' è il massimo dell'efficienza. Quando dice 'Assolutamente' sai che ha ragione.",
+      "messaggi": 4,
+      "mediaGiornaliera": 0.6,
+      "highlights": [
+        "Organizzazione cena del 3 febbraio",
+        "Report neve a Siena"
+      ],
+      "citazioneTop": "Nevica!"
+    }
+  ],
+  "awards": {
+    "mvp": "Adriano Sergio Lorenzo Facchini",
+    "comico": "Cosimo Nenciòni",
+    "cuore": "Fausto Petrini",
+    "fantasma": null
+  }
+}

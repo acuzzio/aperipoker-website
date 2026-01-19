@@ -1,0 +1,109 @@
+{
+  "anno": 2020,
+  "settimana": 32,
+  "startDate": "2020-08-03",
+  "endDate": "2020-08-09",
+  "stats": {
+    "totalMessages": 202,
+    "activeMembers": 6,
+    "avgPerMember": 33.7
+  },
+  "riassunto": "Settimana normale con 202 messaggi e 6 membri attivi nella fase di riapertura. Si è parlato principalmente di viaggi, calcio, uscite/cene. Il gruppo ha mantenuto il suo ritmo consueto tra battute e organizzazione di uscite.",
+  "bestQuotes": [
+    {
+      "quote": "Ahahahah. E cmq anche se arriva in cima, non sarà stato mai con due figlioli sulle spalle",
+      "author": "Fausto Petrini",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Bellissime foto cazzo. E mitico Giuliano gattonatore..",
+      "author": "Cosimo Nenciòni",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "eccezionale. La porca madonna è il vero motivo dell'apertura del barattolo",
+      "author": "Alessio Valentini",
+      "context": "Momento memorabile della settimana"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Fausto Petrini",
+      "voto": 8.5,
+      "giudizio": "L'anima organizzativa del gruppo ha brillato. Quante uscite proposte? Quante andate in porto? Non importa.",
+      "messaggi": 45,
+      "mediaGiornaliera": 6.4,
+      "highlights": [
+        "Molto attivo, tra i più presenti della settimana",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "È uno che non si fa la barba da troppo tempo"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 8.0,
+      "giudizio": "Ha scritto più lui in tre giorni che alcuni in un mese. Ma almeno era divertente.",
+      "messaggi": 52,
+      "mediaGiornaliera": 7.4,
+      "highlights": [
+        "Molto attivo, tra i più presenti della settimana",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "Il bambino più alto ha l’x factor. Per me è un si."
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 8.0,
+      "giudizio": "Maestro del sarcasmo, questa settimana era in forma smagliante. Nessuno è stato risparmiato.",
+      "messaggi": 31,
+      "mediaGiornaliera": 4.4,
+      "highlights": [
+        "Molto attivo, tra i più presenti della settimana",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "È una catastrofe. Se quelli so fuochi d'artificio allora io ho la fica."
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 7.5,
+      "giudizio": "Ha portato freschezza e prospettive esotiche nelle discussioni. Bravo nomade digitale.",
+      "messaggi": 46,
+      "mediaGiornaliera": 6.6,
+      "highlights": [
+        "Molto attivo, tra i più presenti della settimana",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "mi sono piaciute molte cose, ma l'olio \"abbondante\"."
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 7.0,
+      "giudizio": "Ha contribuito con la saggezza del fondatore. Pochi messaggi, tutti significativi.",
+      "messaggi": 19,
+      "mediaGiornaliera": 3.2,
+      "highlights": [
+        "Buona partecipazione alle discussioni",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "I preservativi ci sono, quella finita"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 6.0,
+      "giudizio": "Il solito Alessio Mac: pacato, presente, essenziale. Niente sprechi di parole.",
+      "messaggi": 9,
+      "mediaGiornaliera": 1.8,
+      "highlights": [
+        "Presente ma non dominante",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "Siete solo degli aristocratici che guidano le ruspe"
+    }
+  ],
+  "awards": {
+    "mvp": "Adriano Sergio Lorenzo Facchini",
+    "comico": "Cosimo Nenciòni",
+    "cuore": "Alessio Valentini",
+    "fantasma": "Alessio Macalùso"
+  }
+}

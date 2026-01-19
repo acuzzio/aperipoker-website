@@ -1,0 +1,109 @@
+{
+  "anno": 2023,
+  "settimana": 34,
+  "startDate": "2023-08-21",
+  "endDate": "2023-08-27",
+  "stats": {
+    "totalMessages": 122,
+    "activeMembers": 6,
+    "avgPerMember": 20.3
+  },
+  "riassunto": "Settimana di Oppenheimer al cinema e della morte di Toto Cutugno! Cinema a Firenze organizzato da Cocco: Oppenheimer al Principe in piazza della Liberta'. Mac e Cocco si vedono. Giacomo al mare con Lucia: 'Questi giorni sto con Lucia'. Cocco: 'Porco' e 'Porco 2.0'. Grande discussione sul ferro da stiro! Alessio V.: 'Ma stirare a che cosa cazzo serve? Prendi energia elettrica e la converti in calore per... stirare le fibre di un vestito?'. Mac: 'Esiste un movimento contro l'utilizzo del ferro da stiro'. Cocco: 'Io non mai stirato nemmeno un calzino'. Fausto: 'Le camicie purtroppo vanno stirate, se no sembri un barbone'. Giacomo: 'Senza la suocera che stira non saprei come fare'. Fausto annuncia: 'E' morto Toto Cutugno'. Condivide documentario sulla droga in America. Mac vede Youness ai Due Ponti. Alessio V.: 'Quando lo vedi devi urlargli mooooooongoloide'. 'Matti a Firenze' video condiviso. Mac ottiene annullamento multa: 'M'hanno tolto la multa sti stronzi'. Fausto dalla sagra di Pitigliano.",
+  "bestQuotes": [
+    {
+      "quote": "Ma stirare a che cosa cazzo serve? Prendi energia elettrica e la converti in calore per... stirare le fibre di un vestito? Per?",
+      "author": "Alessio Valentini",
+      "context": "Filosofia anti-stiratura"
+    },
+    {
+      "quote": "Le camicie purtroppo vanno stirate. Se no sembri un barbone, e per quanto sia ingiusto e poco bello che sia così, d'altra parte è così",
+      "author": "Fausto Petrini",
+      "context": "Difesa della stiratura"
+    },
+    {
+      "quote": "Per le occasioni speciali servono stirate e le porto a mia mamma ma solo perché la società mi giudicherebbe",
+      "author": "Alessio Macalùso",
+      "context": "Compromesso con la società"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 8.5,
+      "giudizio": "Organizzatore del cinema! 'Ci vieni al cinema domani? A FIRENZE!!' 'Porco' e 'Porco 2.0' a Giacomo che sta con Lucia. 'Allora lasceremo che il Giec si ficchi'. Prenota al Principe: 'Spettacolo ore 21'. 'Una manica di pervertiti' sulla donnina. 'Io non mai stirato nemmeno un calzino'. 'Non c'avrei scommesso un euro' sulla multa di Mac. L'impennatore condiviso. Coordinatore sociale.",
+      "messaggi": 30,
+      "mediaGiornaliera": 4.3,
+      "highlights": [
+        "Organizza cinema",
+        "Porco 2.0"
+      ],
+      "citazioneTop": "Io non mai stirato nemmeno un calzino"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 8.5,
+      "giudizio": "Presente e filosofico! 'Fra 23 e 24 meglio 23'. 'Ho visto Youness ai due ponti'. 'Esiste un movimento contro l'utilizzo del ferro da stiro'. 'Ricordo che nel 2015 comprai il ferro da stiro'. 'Queste sono cose che si dicono solo per nobilitare il lavoro della donna'. 'Per le occasioni speciali le porto a mia mamma'. 'M'hanno tolto la multa sti stronzi, ausiliari di merda'. 'Nicola di Empoli' - l'impennatore. Protagonista.",
+      "messaggi": 26,
+      "mediaGiornaliera": 3.7,
+      "highlights": [
+        "Filosofia stiro",
+        "Multa annullata"
+      ],
+      "citazioneTop": "Esiste un movimento contro l'utilizzo del ferro da stiro"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 8.0,
+      "giudizio": "'E' morto Toto Cutugno'. Documentario sulla droga in America: 'Alcune scene sono allucinanti'. 'A me appena finisce la donnina di stirare posso uscire'. 'Le camicie purtroppo vanno stirate, se no sembri un barbone'. '#Stacce'. Articolo su Jean Tatlock: 'Studiare prima'. Splitwise per cine e cena. 'La Sicilia tradisce lo stereotipo'. 'La calda estate pituglianese non delude mai'. Informativo e presente.",
+      "messaggi": 22,
+      "mediaGiornaliera": 3.1,
+      "highlights": [
+        "Morte Cutugno",
+        "Sagra Pitigliano"
+      ],
+      "citazioneTop": "Le camicie purtroppo vanno stirate, se no sembri un barbone"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 8.0,
+      "giudizio": "Il filosofo anti-stiro! 'Ciao Adri'. 'Quando lo vedi devi urlargli mooooooongoloide'. 'Ma stirare a che cosa cazzo serve?'. 'Io non l'ho mai capito e mai lo capiro''. 'Pasquale meno male ci sei te'. 'Belli e basta'. 'Sta roba e' MERAVIGLIOSA' sui matti a Firenze. 'Questo e' Youness da vecchio'. Pensatore ribelle.",
+      "messaggi": 14,
+      "mediaGiornaliera": 2.0,
+      "highlights": [
+        "Filosofia anti-stiro",
+        "Youness battute"
+      ],
+      "citazioneTop": "Ma stirare a che cosa cazzo serve?"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 7.0,
+      "giudizio": "'Io questa settimana sono solo con Lucia con i bambini al mare, sono messo male... anzi, bene'. 'Not, c'ho da fa'. 'Io per fortuna ho piu' di 10 camicie perche' senza la suocera che stira non saprei davvero piu' come fare'. 'Fichi'. Assente giustificato per vacanza romantica.",
+      "messaggi": 12,
+      "mediaGiornaliera": 1.7,
+      "highlights": [
+        "Vacanza con Lucia",
+        "Suocera stiratrice"
+      ],
+      "citazioneTop": "Senza la suocera che stira non saprei davvero piu' come fare"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 7.0,
+      "giudizio": "'Professionisti del divertimento' sulle foto. 'Te si che sei una persona fortunata' a Fausto a Pitigliano. Presente ma in secondo piano questa settimana.",
+      "messaggi": 6,
+      "mediaGiornaliera": 0.9,
+      "highlights": [
+        "Commenti foto",
+        "Sagra Pitigliano"
+      ],
+      "citazioneTop": "Professionisti del divertimento"
+    }
+  ],
+  "awards": {
+    "mvp": "Cosimo Nenciòni",
+    "comico": "Alessio Valentini",
+    "cuore": "Alessio Macalùso",
+    "fantasma": null
+  }
+}

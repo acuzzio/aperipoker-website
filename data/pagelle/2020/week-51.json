@@ -1,0 +1,108 @@
+{
+  "anno": 2020,
+  "settimana": 51,
+  "startDate": "2020-12-14",
+  "endDate": "2020-12-20",
+  "stats": {
+    "totalMessages": 172,
+    "activeMembers": 6,
+    "avgPerMember": 28.7
+  },
+  "riassunto": "Una settimana all'insegna di uscite/cene, poker, viaggi con le restrizioni autunnali. 172 messaggi scambiati tra i 6 membri attivi, con il solito mix di ironia e discussioni serie.",
+  "bestQuotes": [
+    {
+      "quote": "MA IL CANE DI CHI?!?!?!? AHAHAH di questo passo farai anche il babysitter.",
+      "author": "Fausto Petrini",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "In realtà non l’ho proposta!!!😂😂😂",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Ahahah sarebbe anche meglio",
+      "author": "Giacomo Dolfi",
+      "context": "Momento memorabile della settimana"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Fausto Petrini",
+      "voto": 8.0,
+      "giudizio": "L'anima organizzativa del gruppo ha brillato. Quante uscite proposte? Quante andate in porto? Non importa.",
+      "messaggi": 32,
+      "mediaGiornaliera": 6.4,
+      "highlights": [
+        "Molto attivo, tra i più presenti della settimana",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "Articolo bello per chiunque ami uno sport, non parla di ciclismo (solo un pò)"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 7.5,
+      "giudizio": "Fiume in piena come sempre, ma questa settimana i suoi monologhi avevano un senso. Miracolo natalizio?",
+      "messaggi": 39,
+      "mediaGiornaliera": 6.5,
+      "highlights": [
+        "Molto attivo, tra i più presenti della settimana",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "Invecchiando si acquisiscono abitudini nuove e inimmaginabili fino a poco tempo prima."
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 7.5,
+      "giudizio": "Il Provocatore Raffinato colpisce ancora. Con tre frasi ha detto più di altri in venti messaggi.",
+      "messaggi": 39,
+      "mediaGiornaliera": 7.8,
+      "highlights": [
+        "Molto attivo, tra i più presenti della settimana",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "Io ho app finito 2 ore e mezzo di corso preparto"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 7.5,
+      "giudizio": "Il Giramondo ha scritto da qualche angolo del mondo con entusiasmo contagioso.",
+      "messaggi": 39,
+      "mediaGiornaliera": 6.5,
+      "highlights": [
+        "Molto attivo, tra i più presenti della settimana",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "sai che mi stai facendo venire voglia di farci un pensierino? potrei fare del bel cable management"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 6.5,
+      "giudizio": "Presente senza eccessi. L'equilibratore fa il suo lavoro in silenzio.",
+      "messaggi": 12,
+      "mediaGiornaliera": 2.4,
+      "highlights": [
+        "Presente ma non dominante",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "Se ti getti in Arno fra un po’ ti vedo passare"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 5.5,
+      "giudizio": "Il Lider ha supervisionato con discrezione. Interventi mirati, niente sprechi.",
+      "messaggi": 11,
+      "mediaGiornaliera": 5.5,
+      "highlights": [
+        "Presente ma non dominante"
+      ],
+      "citazioneTop": "Io quando si può ci vengo"
+    }
+  ],
+  "awards": {
+    "mvp": "Adriano Sergio Lorenzo Facchini",
+    "comico": "Fausto Petrini",
+    "cuore": "Fausto Petrini",
+    "fantasma": "Giacomo Dolfi"
+  }
+}

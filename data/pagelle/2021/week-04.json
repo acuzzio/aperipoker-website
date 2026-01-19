@@ -1,0 +1,103 @@
+{
+  "anno": 2021,
+  "settimana": 4,
+  "startDate": "2021-01-25",
+  "endDate": "2021-01-31",
+  "stats": {
+    "totalMessages": 90,
+    "activeMembers": 6,
+    "avgPerMember": 15.0
+  },
+  "riassunto": "Una settimana di ordinaria follia con 90 messaggi. Adriano in testa alla classifica.",
+  "bestQuotes": [
+    {
+      "quote": "Cocco comunque invece di pensare sempre a Luna ci potevi anche far comprare le azioni di game stop eh!",
+      "author": "Giacomo Dolfi",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Fausto fatto vaccino?",
+      "author": "Alessio Macalùso",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Mi sorprende che tu consumi inutilmente tutte quelle bottiglie di acqua quando potresti evitare di inquinare gli oceani con altri sistemi più ecologici",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Momento memorabile della settimana"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 7.5,
+      "giudizio": "Ha scritto piu' lui che il resto del gruppo messo insieme. E per una volta aveva senso.",
+      "messaggi": 25,
+      "mediaGiornaliera": 3.6,
+      "highlights": [
+        "Ha dominato la conversazione con il 28% dei messaggi"
+      ],
+      "citazioneTop": "Mi sorprende che tu consumi inutilmente tutte quelle bottiglie di acqua quando potresti evitare di inquinare gli oceani con altri sistemi più ecologici"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 6.4,
+      "giudizio": "Non la sua settimana migliore, ma c'era quando serviva.",
+      "messaggi": 17,
+      "mediaGiornaliera": 2.4,
+      "highlights": [
+        "Tra i piu' attivi con 17 messaggi"
+      ],
+      "citazioneTop": ""
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 6.2,
+      "giudizio": "Il solito Fausto: ci prova, ogni tanto ci riesce.",
+      "messaggi": 15,
+      "mediaGiornaliera": 2.1,
+      "highlights": [
+        "Tra i piu' attivi con 15 messaggi"
+      ],
+      "citazioneTop": ""
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 6.4,
+      "giudizio": "Presente con la solita parsimonia. Zen master della settimana.",
+      "messaggi": 13,
+      "mediaGiornaliera": 1.9,
+      "highlights": [
+        "Ha contribuito con 13 messaggi"
+      ],
+      "citazioneTop": "Fausto fatto vaccino?"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 6.0,
+      "giudizio": "Non ha brillato, ma neanche deluso. Il suo 'mah' valeva mille parole.",
+      "messaggi": 13,
+      "mediaGiornaliera": 1.9,
+      "highlights": [
+        "Ha contribuito con 13 messaggi"
+      ],
+      "citazioneTop": ""
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 5.8,
+      "giudizio": "Silenzio da Poggibonsi. Niente domande innocue questa settimana.",
+      "messaggi": 7,
+      "mediaGiornaliera": 1.0,
+      "highlights": [
+        "Ha contribuito con 7 messaggi"
+      ],
+      "citazioneTop": "Cocco comunque invece di pensare sempre a Luna ci potevi anche far comprare le azioni di game stop eh!"
+    }
+  ],
+  "awards": {
+    "mvp": "Adriano Sergio Lorenzo Facchini - Miglior voto della settimana con 7.5",
+    "comico": "Alessio Macalùso - Il piu' divertente della settimana",
+    "cuore": "Fausto Petrini - Presenza equilibrata e costante",
+    "fantasma": "Giacomo Dolfi - Il piu' silenzioso con 7 messaggi"
+  }
+}

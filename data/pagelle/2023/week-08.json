@@ -1,0 +1,109 @@
+{
+  "anno": 2023,
+  "settimana": 8,
+  "startDate": "2023-02-20",
+  "endDate": "2023-02-26",
+  "stats": {
+    "totalMessages": 69,
+    "activeMembers": 6,
+    "avgPerMember": 11.5
+  },
+  "riassunto": "Settimana delle bestemmie (legali o no?) e della pipì seduti. Fausto condivide articoli del Post su entrambi. Prima carbonara per Luna, celebrata da Cosimo con scaramanzia ('Stanotte muore e la su ma mi incula'). Adriano alla partita di pallavolo si lamenta dei tifosi. Primarie PD: Giacomo vota, Cosimo lo chiama democristiano. Discussione politica accesa.",
+  "bestQuotes": [
+    {
+      "quote": "È il tennis che è uno sport da finocchi che se uno starnutisce sembra che gli hanno ammazzato la mamma",
+      "author": "Cosimo Nenciòni",
+      "context": "Difesa della tifoseria rumorosa"
+    },
+    {
+      "quote": "Prima carbonara va celebrata. Come la prima sega",
+      "author": "Alessio Valentini",
+      "context": "Filosofia di vita"
+    },
+    {
+      "quote": "Se rinasco voglio rinascere Francese..",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Delusione politica italiana"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Fausto Petrini",
+      "voto": 8.0,
+      "giudizio": "Settimana da curatore culturale: bestemmie, pipì seduti, riso alle noccioline. Propone uscita a Siena, invita alle primarie PD. 'Inutili, andate a votare alle primarie eh...' - il trascinatore civico.",
+      "messaggi": 18,
+      "mediaGiornaliera": 2.6,
+      "highlights": [
+        "Articoli culturali del Post",
+        "Invito alle primarie"
+      ],
+      "citazioneTop": "Mi meraviglio ogni volta di come si possa riuscire a scrivere articoli così lunghi a partiren da un tema così esiziale"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 8.0,
+      "giudizio": "Sfogo epico sui tifosi di pallavolo ('Spero stiantino tutti'), dibattito politico, sogno francese. 410 calorie a tennis! Polemica costruttiva su ogni fronte. 'Ma i più mongoli di tutti siamo noi..'",
+      "messaggi": 22,
+      "mediaGiornaliera": 3.1,
+      "highlights": [
+        "Polemica sui tifosi di pallavolo",
+        "Dibattito primarie PD"
+      ],
+      "citazioneTop": "Spero stiantino tutti."
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 7.5,
+      "giudizio": "Prima carbonara per Luna, difende i tifosi rumorosi contro Adriano, chiama Giacomo democristiano. 'È il tennis che è uno sport da finocchi' - controcorrente come sempre.",
+      "messaggi": 14,
+      "mediaGiornaliera": 2.0,
+      "highlights": [
+        "Prima carbonara di Luna",
+        "Difesa tifosi rumorosi"
+      ],
+      "citazioneTop": "Sei il solito democristiano"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 7.0,
+      "giudizio": "Va alle primarie PD stamani, vota Bona, viene chiamato democristiano. 'Ma siete strulli?' si difende. 'Gilet giallo' ad Adriano. Il Fondatore politicamente attivo.",
+      "messaggi": 10,
+      "mediaGiornaliera": 1.4,
+      "highlights": [
+        "Voto alle primarie",
+        "Difesa dalle accuse"
+      ],
+      "citazioneTop": "Ovvio che hai votato la ragazza giovane.."
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 6.5,
+      "giudizio": "'Prima carbonara va celebrata. Come la prima sega' - filosofia di vita. 'Ahabha' per una foto. Pochi messaggi ma qualitativamente alti.",
+      "messaggi": 4,
+      "mediaGiornaliera": 0.6,
+      "highlights": [
+        "Filosofia carbonara/sega",
+        "Risate"
+      ],
+      "citazioneTop": "Come la prima sega"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 5.5,
+      "giudizio": "Presente ma silenzioso. 'Ci sono ma devo andare a letto presto'. 'Non sanno fare i tifosi' - opinione lapidarìa. Settimana zen.",
+      "messaggi": 3,
+      "mediaGiornaliera": 0.4,
+      "highlights": [
+        "Disponibilità condizionata",
+        "Opinione sui tifosi"
+      ],
+      "citazioneTop": "Ci sono ma devo andare a letto presto"
+    }
+  ],
+  "awards": {
+    "mvp": "Fausto Petrini",
+    "comico": "Cosimo Nenciòni",
+    "cuore": "Giacomo Dolfi",
+    "fantasma": null
+  }
+}

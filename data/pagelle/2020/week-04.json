@@ -1,0 +1,108 @@
+{
+  "anno": 2020,
+  "settimana": 4,
+  "startDate": "2020-01-20",
+  "endDate": "2020-01-26",
+  "stats": {
+    "totalMessages": 65,
+    "activeMembers": 6,
+    "avgPerMember": 10.8
+  },
+  "riassunto": "Settimana normale con 65 messaggi e 6 membri attivi. Si è parlato principalmente di politica, uscite/cene. Il gruppo ha mantenuto il suo ritmo consueto tra battute e organizzazione di uscite.",
+  "bestQuotes": [
+    {
+      "quote": "Ma domenica che programmi avete? Ancora tutto da pensare, ma intanto per capire se ci siete",
+      "author": "Giacomo Dolfi",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Ahahahah da Oscar",
+      "author": "Alessio Macalùso",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Io esco alle 13 da scuola psico, nel pome se volete ...",
+      "author": "Fausto Petrini",
+      "context": "Momento memorabile della settimana"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Fausto Petrini",
+      "voto": 7.5,
+      "giudizio": "L'anima organizzativa del gruppo ha brillato. Quante uscite proposte? Quante andate in porto? Non importa.",
+      "messaggi": 7,
+      "mediaGiornaliera": 1.4,
+      "highlights": [
+        "Presente ma non dominante",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "Io esco alle 13 da scuola psico, nel pome se volete ..."
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 7.0,
+      "giudizio": "Ha contribuito con il suo stile minimalista. Efficace, anche se non memorabile.",
+      "messaggi": 16,
+      "mediaGiornaliera": 5.3,
+      "highlights": [
+        "Buona partecipazione alle discussioni",
+        "Presente per buona parte della settimana"
+      ],
+      "citazioneTop": "Noi siamo a Pitigliano giec..😞"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 7.0,
+      "giudizio": "Contributi sporadici ma sempre affettuosi. Il Giramondo mantiene i contatti.",
+      "messaggi": 15,
+      "mediaGiornaliera": 3.8,
+      "highlights": [
+        "Presente ma non dominante",
+        "Presente per buona parte della settimana"
+      ],
+      "citazioneTop": "assolutamente spettacolare"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 7.0,
+      "giudizio": "Ha contribuito con la sua calma zen. Pochi messaggi ma sempre pertinenti.",
+      "messaggi": 12,
+      "mediaGiornaliera": 3.0,
+      "highlights": [
+        "Presente ma non dominante",
+        "Presente per buona parte della settimana"
+      ],
+      "citazioneTop": "Quando l’ho saputo avevo già fatto cena"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 7.0,
+      "giudizio": "Ha contribuito con la saggezza del fondatore. Pochi messaggi, tutti significativi.",
+      "messaggi": 10,
+      "mediaGiornaliera": 3.3,
+      "highlights": [
+        "Presente ma non dominante",
+        "Presente per buona parte della settimana"
+      ],
+      "citazioneTop": "Ma domenica che programmi avete? Ancora tutto da pensare, ma intanto per capire se ci siete"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 5.5,
+      "giudizio": "Contributi costanti, ma questa settimana il Re ha mantenuto un profilo insolitamente basso.",
+      "messaggi": 5,
+      "mediaGiornaliera": 5.0,
+      "highlights": [
+        "Interventi sporadici ma mirati"
+      ],
+      "citazioneTop": "Mi serviresti a casa mia Dio santo"
+    }
+  ],
+  "awards": {
+    "mvp": "Alessio Valentini",
+    "comico": "Alessio Valentini",
+    "cuore": "Alessio Valentini",
+    "fantasma": "Adriano Sergio Lorenzo Facchini"
+  }
+}

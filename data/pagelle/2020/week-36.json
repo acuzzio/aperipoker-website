@@ -1,0 +1,105 @@
+{
+  "anno": 2020,
+  "settimana": 36,
+  "startDate": "2020-08-31",
+  "endDate": "2020-09-06",
+  "stats": {
+    "totalMessages": 51,
+    "activeMembers": 6,
+    "avgPerMember": 8.5
+  },
+  "riassunto": "Una settimana all'insegna di uscite/cene, covid/virus con le restrizioni autunnali. 51 messaggi scambiati tra i 6 membri attivi, con il solito mix di ironia e discussioni serie.",
+  "bestQuotes": [
+    {
+      "quote": "Io non so voi ma di lavore così mi sono rotto il cazzo",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "queste mega terronate le ho sempre amate!",
+      "author": "Giacomo Dolfi",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Anche l'amico tennista livornese dice che galileo sia il numero uno!",
+      "author": "Giacomo Dolfi",
+      "context": "Momento memorabile della settimana"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 7.5,
+      "giudizio": "Ha scritto più lui in tre giorni che alcuni in un mese. Ma almeno era divertente.",
+      "messaggi": 13,
+      "mediaGiornaliera": 4.3,
+      "highlights": [
+        "Presente ma non dominante",
+        "Presente per buona parte della settimana"
+      ],
+      "citazioneTop": "Io non so voi ma di lavore così mi sono rotto il cazzo"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 7.5,
+      "giudizio": "Il Provocatore Raffinato colpisce ancora. Con tre frasi ha detto più di altri in venti messaggi.",
+      "messaggi": 13,
+      "mediaGiornaliera": 6.5,
+      "highlights": [
+        "Presente ma non dominante"
+      ],
+      "citazioneTop": "Ne farei un manifesto. La prima soluzione che viene in mente è per forza la migliore."
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 7.0,
+      "giudizio": "Ha partecipato con i suoi orari improbabili. Niente di nuovo sotto il sole (tropicale).",
+      "messaggi": 10,
+      "mediaGiornaliera": 5.0,
+      "highlights": [
+        "Presente ma non dominante"
+      ],
+      "citazioneTop": "hehehe essai che e' vero."
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 7.0,
+      "giudizio": "Presente come un patriarca benevolo: osserva, ogni tanto commenta, sempre con ironia.",
+      "messaggi": 9,
+      "mediaGiornaliera": 3.0,
+      "highlights": [
+        "Presente ma non dominante",
+        "Presente per buona parte della settimana"
+      ],
+      "citazioneTop": "Che brutta notizia quella di Silvio che ha preso il virus"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 5.5,
+      "giudizio": "Il solito Fausto: propositivo, ottimista, e leggermente frustrato dalle mancate risposte.",
+      "messaggi": 5,
+      "mediaGiornaliera": 2.5,
+      "highlights": [
+        "Interventi sporadici ma mirati"
+      ],
+      "citazioneTop": "L'estci regala notizie incredibili oggi"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 5.0,
+      "giudizio": "Il laconico è diventato quasi muto. Un 'Credo' avrebbe fatto comodo.",
+      "messaggi": 1,
+      "mediaGiornaliera": 1.0,
+      "highlights": [
+        "Interventi sporadici ma mirati"
+      ],
+      "citazioneTop": "Sembra un bicchiere di uovo"
+    }
+  ],
+  "awards": {
+    "mvp": "Adriano Sergio Lorenzo Facchini",
+    "comico": "Adriano Sergio Lorenzo Facchini",
+    "cuore": "Cosimo Nenciòni",
+    "fantasma": "Alessio Macalùso"
+  }
+}

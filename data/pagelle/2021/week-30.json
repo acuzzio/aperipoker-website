@@ -1,0 +1,103 @@
+{
+  "anno": 2021,
+  "settimana": 30,
+  "startDate": "2021-07-26",
+  "endDate": "2021-08-01",
+  "stats": {
+    "totalMessages": 134,
+    "activeMembers": 6,
+    "avgPerMember": 22.3
+  },
+  "riassunto": "Una settimana di ordinaria follia con 134 messaggi. Adriano in testa alla classifica.",
+  "bestQuotes": [
+    {
+      "quote": "con la mia presentazione ad una conferenza. Sono arrivato primo, ahahhah, a 39 anni mi devono succedere queste cose...",
+      "author": "Alessio Valentini",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Gnamo Mac. Non hai modo di acchittarla un po'? Adri? ci sono anche Dave&Pat che sarebbero felici di rivedervi",
+      "author": "Cosimo Nenciòni",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Io lo faccio sempre, ma al contrario: mi schiaccio la ciccina alla base del cazzo per farlo sporgere un paio di centimetri",
+      "author": "Fausto Petrini",
+      "context": "Momento memorabile della settimana"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 8.0,
+      "giudizio": "Ha scritto piu' lui che il resto del gruppo messo insieme. E per una volta aveva senso.",
+      "messaggi": 41,
+      "mediaGiornaliera": 5.9,
+      "highlights": [
+        "Ha dominato la conversazione con il 31% dei messaggi"
+      ],
+      "citazioneTop": ""
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 6.1,
+      "giudizio": "Non ha brillato, ma neanche deluso. Il suo 'mah' valeva mille parole.",
+      "messaggi": 22,
+      "mediaGiornaliera": 3.1,
+      "highlights": [
+        "Tra i piu' attivi con 22 messaggi"
+      ],
+      "citazioneTop": "Gnamo Mac. Non hai modo di acchittarla un po'? Adri? ci sono anche Dave&Pat che sarebbero felici di rivedervi"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 6.5,
+      "giudizio": "Il solito Fausto: ci prova, ogni tanto ci riesce.",
+      "messaggi": 21,
+      "mediaGiornaliera": 3.0,
+      "highlights": [
+        "Tra i piu' attivi con 21 messaggi"
+      ],
+      "citazioneTop": "Io lo faccio sempre, ma al contrario: mi schiaccio la ciccina alla base del cazzo per farlo sporgere un paio di centimetri"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 6.3,
+      "giudizio": "Contributo misurato, come nel suo stile. Ogni parola al suo posto.",
+      "messaggi": 19,
+      "mediaGiornaliera": 2.7,
+      "highlights": [
+        "Ha contribuito con 19 messaggi"
+      ],
+      "citazioneTop": ""
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 5.6,
+      "giudizio": "Presente con il suo solito stile: curioso, ironico, pungente.",
+      "messaggi": 16,
+      "mediaGiornaliera": 2.3,
+      "highlights": [
+        "Ha contribuito con 16 messaggi"
+      ],
+      "citazioneTop": ""
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 5.7,
+      "giudizio": "Presente nonostante i fusi orari avversi. Sempre affidabile.",
+      "messaggi": 15,
+      "mediaGiornaliera": 2.1,
+      "highlights": [
+        "Ha contribuito con 15 messaggi"
+      ],
+      "citazioneTop": "con la mia presentazione ad una conferenza. Sono arrivato primo, ahahhah, a 39 anni mi devono succedere queste cose..."
+    }
+  ],
+  "awards": {
+    "mvp": "Adriano Sergio Lorenzo Facchini - Miglior voto della settimana con 8.0",
+    "comico": "Alessio Macalùso - Il piu' divertente della settimana",
+    "cuore": "Cosimo Nenciòni - Presenza equilibrata e costante",
+    "fantasma": null
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "anno": 2022,
+  "settimana": 29,
+  "startDate": "2022-07-18",
+  "endDate": "2022-07-24",
+  "stats": {
+    "totalMessages": 146,
+    "activeMembers": 6,
+    "avgPerMember": 24.3
+  },
+  "riassunto": "Settimana politica: cade il governo Draghi. 'Finalmente si conclude l'esperienza di un parlamento di inetti'. Adriano: 'Se la Meloni va a palazzo Chigi mi incateno'. Giacomo risponde: 'Inizia ad andare alla ferramenta vai'. Cosimina e' bellissima in foto ('Mi fa stianta''). A Parigi si bolle, a Firenze si frescheggia ('Mutande di lana'). Tour de France: Vingegaard vs Pogacar.",
+  "bestQuotes": [
+    {
+      "quote": "Se la Meloni va a palazzo Chigi mi incateno",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Sulla possibile vittoria di Meloni"
+    },
+    {
+      "quote": "Inizia ad andare alla ferramenta vai",
+      "author": "Giacomo Dolfi",
+      "context": "Risposta ad Adriano"
+    },
+    {
+      "quote": "Finalmente si conclude l'esperienza di un parlamento di inetti come mai si era visto",
+      "author": "Cosimo Nenciòni",
+      "context": "Sulla caduta del governo"
+    },
+    {
+      "quote": "Mi fa stianta'",
+      "author": "Cosimo Nenciòni",
+      "context": "Su Cosimina in foto"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 8.5,
+      "giudizio": "Ha dominato la settimana politica ('parlamento di inetti'). Cosimina e' bellissima ('Mi fa stianta''). A Firenze si frescheggia con mutande di lana. Ha condiviso il video storico italiano.",
+      "messaggi": 44,
+      "mediaGiornaliera": 6.3,
+      "highlights": [
+        "Analisi politica",
+        "Cosimina bellissima",
+        "Mutande di lana"
+      ],
+      "citazioneTop": "Finalmente si conclude l'esperienza di un parlamento di inetti"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 7.5,
+      "giudizio": "Ha chiesto cosa succede in Italia, ha commentato Cosimina ('meravigliosa'), ha condiviso video. Presente da lontano sulla politica italiana.",
+      "messaggi": 27,
+      "mediaGiornaliera": 3.9,
+      "highlights": [
+        "Ha chiesto della crisi",
+        "Ha apprezzato Cosimina",
+        "Video condivisi"
+      ],
+      "citazioneTop": "che succede oggi?"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 8.0,
+      "giudizio": "'Se la Meloni va a palazzo Chigi mi incateno' e' una promessa. A Siena 28 gradi costanti ('estate mite e temperata'). Fake news e analisi politiche. Ha chiamato Cosimina bellissima.",
+      "messaggi": 25,
+      "mediaGiornaliera": 3.6,
+      "highlights": [
+        "Promessa di incatenarsi",
+        "28 gradi costanti",
+        "Cosimina bellissima"
+      ],
+      "citazioneTop": "Se la Meloni va a palazzo Chigi mi incateno"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 7.5,
+      "giudizio": "A Parigi si bolle/bollisce. 'Inizia ad andare alla ferramenta' ad Adriano e' perfetta. Ha condiviso foto dei figlioli che si cociono. Tirreno-Adriatica corretta.",
+      "messaggi": 22,
+      "mediaGiornaliera": 3.1,
+      "highlights": [
+        "Parigi si bolle",
+        "Ferramenta per Adriano",
+        "Figlioli che si cociono"
+      ],
+      "citazioneTop": "Inizia ad andare alla ferramenta vai"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 7.0,
+      "giudizio": "Ha chiesto 'Davvero?!' sulla crisi, ha salutato Cosimina ('Ciaooooo'), ha partecipato alle discussioni. Presente ma contenuto.",
+      "messaggi": 17,
+      "mediaGiornaliera": 2.4,
+      "highlights": [
+        "Ha chiesto della crisi",
+        "Ha salutato Cosimina",
+        "Presente alle discussioni"
+      ],
+      "citazioneTop": "Ahhhh cosimina! Ciaooooo"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 6.5,
+      "giudizio": "Ha analizzato le possibilita' elettorali ('chi non vota ci andra' col rischio Meloni'). Ha condiviso video del Tour. Analista politico cauto.",
+      "messaggi": 11,
+      "mediaGiornaliera": 1.6,
+      "highlights": [
+        "Analisi elettorale",
+        "Tour de France",
+        "Cauto ottimismo"
+      ],
+      "citazioneTop": "Secondo me non ci va"
+    }
+  ],
+  "awards": {
+    "mvp": "Cosimo Nenciòni - Analisi politica e Cosimina bellissima",
+    "comico": "Giacomo Dolfi - 'Inizia ad andare alla ferramenta vai'",
+    "cuore": "Cosimo Nenciòni - Cosimina mi fa stianta'",
+    "fantasma": "Nessuno - Tutti presenti per la crisi politica"
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "anno": 2023,
+  "settimana": 14,
+  "startDate": "2023-04-03",
+  "endDate": "2023-04-09",
+  "stats": {
+    "totalMessages": 41,
+    "activeMembers": 6,
+    "avgPerMember": 6.8
+  },
+  "riassunto": "Settimana delle grandi notizie e del grande lutto. Alessio V. annuncia: CONTRATTO FIRMATO! Esce dall'universita, entra nel mondo del lavoro come software engineer in una startup californiana con lavoro remoto. Purtroppo bloccato in USA senza travel permit. Tragedia: muore la cagnolina di Cosimo (probabilmente Mia). Il gruppo si stringe intorno a lui. 'Le volevate bene anche voi. Io non ho parole.'",
+  "bestQuotes": [
+    {
+      "quote": "CONTRATTO FIRMATO. Cari aperiamici, il mio periodo di studio è finito. Sono fuori dall'università adesso.",
+      "author": "Alessio Valentini",
+      "context": "L'annuncio del nuovo lavoro"
+    },
+    {
+      "quote": "Manca solo la figa! Ma quella tanto ormai è vintage",
+      "author": "Cosimo Nenciòni",
+      "context": "Commento sul nuovo lavoro di Alessio V."
+    },
+    {
+      "quote": "Le volevate bene anche voi. Io non ho parole.",
+      "author": "Cosimo Nenciòni",
+      "context": "Annuncio della morte della cagnolina"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Alessio Valentini",
+      "voto": 9.0,
+      "giudizio": "BOMBA: contratto firmato! Software engineer con stipendio californiano in North Carolina. Lavoro remoto, scienza e chimica, gente ganza. Bloccato in USA dai 'MAIALI BASTARDI dell'USCIS'. 'Ho fatto quello che volevo fare' - missione compiuta.",
+      "messaggi": 16,
+      "mediaGiornaliera": 2.3,
+      "highlights": [
+        "Annuncio contratto firmato",
+        "Descrizione del lavoro dei sogni"
+      ],
+      "citazioneTop": "Cmq il lavoro è troppo bello per essere vero"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 8.0,
+      "giudizio": "Settimana di alti e bassi devastanti. Felicissimo per Alessio V. ('Manca solo la figa, ma quella è vintage'). Poi il dramma: muore la cagnolina. 'Le volevate bene anche voi'. Momento di grande umanita del gruppo.",
+      "messaggi": 14,
+      "mediaGiornaliera": 2.0,
+      "highlights": [
+        "Supporto entusiasta ad Alessio V.",
+        "Condivisione del lutto"
+      ],
+      "citazioneTop": "Ora ci vorranno altri 6/7 anni per capire in cosa effettivamente consista il lavoro"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 7.0,
+      "giudizio": "'Felicitazioni' ad Alessio V. 'Non ci posso credere... Mi dispiace tantissimo' per la cagnolina. 'Momenti devastanti'. Presente nei momenti importanti, sia di gioia che di dolore.",
+      "messaggi": 6,
+      "mediaGiornaliera": 0.9,
+      "highlights": [
+        "Supporto nei momenti chiave",
+        "Condoglianze sentite"
+      ],
+      "citazioneTop": "Mi spiace veramente tanto Cocco"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 6.0,
+      "giudizio": "'Mi dispiace tanto' per la cagnolina. Presente e solidale ma con pochi messaggi. Settimana emotivamente intensa.",
+      "messaggi": 2,
+      "mediaGiornaliera": 0.3,
+      "highlights": [
+        "Solidarieta al gruppo"
+      ],
+      "citazioneTop": "Mi dispiace tanto"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 6.0,
+      "giudizio": "'No cavolo, brutta notizia' per la cagnolina. Presente nei momenti difficili. Il Fondatore silenzioso ma partecipe.",
+      "messaggi": 2,
+      "mediaGiornaliera": 0.3,
+      "highlights": [
+        "Solidarieta"
+      ],
+      "citazioneTop": "No cavolo, brutta notizia"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 5.5,
+      "giudizio": "Presente solo con media condivisi. Settimana silenziosa per il professore.",
+      "messaggi": 2,
+      "mediaGiornaliera": 0.3,
+      "highlights": [
+        "Media condivisi"
+      ],
+      "citazioneTop": null
+    }
+  ],
+  "awards": {
+    "mvp": "Alessio Valentini",
+    "comico": "Cosimo Nenciòni",
+    "cuore": "Cosimo Nenciòni",
+    "fantasma": null
+  }
+}

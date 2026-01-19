@@ -1,0 +1,113 @@
+{
+  "anno": 2022,
+  "settimana": 37,
+  "startDate": "2022-09-12",
+  "endDate": "2022-09-18",
+  "stats": {
+    "totalMessages": 19,
+    "activeMembers": 5,
+    "avgPerMember": 3.8
+  },
+  "riassunto": "Alessio V. e' andato al manicomio con Stable Diffusion! Ha installato la neural network in locale e genera immagini da due settimane ('Ci ho perso la testa'). Il papa che ride con uccelli tropicali, un uomo che nuota nella pizza. Adriano votera' Renzi e dopo si fara' una pasta a fuoco spento. Cosimo capisce un 10% di quello che dice Alessio.",
+  "bestQuotes": [
+    {
+      "quote": "Ci sto andando al manicomio. Ho installato la neural network in locale e ho generato centinaia di immagini",
+      "author": "Alessio Valentini",
+      "context": "Su Stable Diffusion"
+    },
+    {
+      "quote": "A questo punto penso che votero' direttamente Renzi. E dopo mi faro' una pasta con la cottura a fuoco spento",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Decisione elettorale e culinaria"
+    },
+    {
+      "quote": "Conta che io capisco un 10% di quello di cui parli",
+      "author": "Cosimo Nenciòni",
+      "context": "A Alessio sulla AI"
+    },
+    {
+      "quote": "Sei bravo. Mi piace!",
+      "author": "Cosimo Nenciòni",
+      "context": "Sulle immagini AI"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Alessio Valentini",
+      "voto": 9.0,
+      "giudizio": "E' andato al manicomio con la AI! Ha installato Stable Diffusion in locale e genera immagini assurde da due settimane. Il papa con uccelli tropicali, uomo che nuota nella pizza. Ha rimosso Adriano da una foto. Genio della tecnologia.",
+      "messaggi": 10,
+      "mediaGiornaliera": 1.4,
+      "highlights": [
+        "Stable Diffusion in locale",
+        "Papa con uccelli",
+        "Manicomio AI"
+      ],
+      "citazioneTop": "Ci sto andando al manicomio"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 7.0,
+      "giudizio": "Ha deciso di votare Renzi E di fare la pasta a fuoco spento. Due scelte coraggiose nello stesso messaggio. Presente con ironia.",
+      "messaggi": 3,
+      "mediaGiornaliera": 0.4,
+      "highlights": [
+        "Votera' Renzi",
+        "Pasta a fuoco spento",
+        "Ironia combinata"
+      ],
+      "citazioneTop": "Votero' direttamente Renzi"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 7.0,
+      "giudizio": "'Capisco un 10%' e' onesta' intellettuale. 'Sei bravo, mi piace!' su Alessio. Presente e apprezzante.",
+      "messaggi": 3,
+      "mediaGiornaliera": 0.4,
+      "highlights": [
+        "Capisco 10%",
+        "Sei bravo",
+        "Mi piace"
+      ],
+      "citazioneTop": "Conta che io capisco un 10% di quello di cui parli"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 6.0,
+      "giudizio": "'Di Giuseppe spira fiducia' e 'Ma cosa e'?' sulla AI. Pochi messaggi ma curiosi.",
+      "messaggi": 2,
+      "mediaGiornaliera": 0.3,
+      "highlights": [
+        "Giuseppe spira fiducia",
+        "Ha chiesto della AI"
+      ],
+      "citazioneTop": "Ma cosa e'?"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 5.5,
+      "giudizio": "'Colpo di scena' su Adriano che vota Renzi. Un solo messaggio ma appropriato.",
+      "messaggi": 1,
+      "mediaGiornaliera": 0.1,
+      "highlights": [
+        "Colpo di scena"
+      ],
+      "citazioneTop": "Colpo di scena"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 4.0,
+      "giudizio": "Zero messaggi questa settimana. Pausa pre-elettorale.",
+      "messaggi": 0,
+      "mediaGiornaliera": 0.0,
+      "highlights": [],
+      "citazioneTop": ""
+    }
+  ],
+  "awards": {
+    "mvp": "Alessio Valentini - Manicomio con Stable Diffusion",
+    "comico": "Adriano Sergio Lorenzo Facchini - Votera' Renzi e fara' pasta a fuoco spento",
+    "cuore": "Cosimo Nenciòni - Ha apprezzato le immagini AI",
+    "fantasma": "Giacomo Dolfi - Zero messaggi"
+  }
+}

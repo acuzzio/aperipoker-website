@@ -1,0 +1,109 @@
+{
+  "anno": 2020,
+  "settimana": 46,
+  "startDate": "2020-11-09",
+  "endDate": "2020-11-15",
+  "stats": {
+    "totalMessages": 86,
+    "activeMembers": 6,
+    "avgPerMember": 14.3
+  },
+  "riassunto": "Una settimana all'insegna di lavoro, covid/virus con le restrizioni autunnali. 86 messaggi scambiati tra i 6 membri attivi, con il solito mix di ironia e discussioni serie.",
+  "bestQuotes": [
+    {
+      "quote": "Ahahah. Sempre il n.1",
+      "author": "Cosimo Nenciòni",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "domanda seria. Come fa uno a distinguere cosa è vero e cosa non è vero?",
+      "author": "Alessio Valentini",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Fausto le pocce di Elena dove le hai messe?",
+      "author": "Giacomo Dolfi",
+      "context": "Momento memorabile della settimana"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Alessio Valentini",
+      "voto": 8.5,
+      "giudizio": "Ha portato freschezza e prospettive esotiche nelle discussioni. Bravo nomade digitale.",
+      "messaggi": 33,
+      "mediaGiornaliera": 6.6,
+      "highlights": [
+        "Molto attivo, tra i più presenti della settimana",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "la vecchia curva esponenziale"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 7.5,
+      "giudizio": "Maestro del sarcasmo, questa settimana era in forma smagliante. Nessuno è stato risparmiato.",
+      "messaggi": 19,
+      "mediaGiornaliera": 4.8,
+      "highlights": [
+        "Buona partecipazione alle discussioni",
+        "Presente per buona parte della settimana"
+      ],
+      "citazioneTop": "Nsomma siamo stati zona gialla parecchio.. con la giallitudine è stata una vera storia d'amore.. breve e piena di passione."
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 6.5,
+      "giudizio": "Ha partecipato con la consueta costanza. Niente di eclatante, ma neanche assenze ingiustificate.",
+      "messaggi": 8,
+      "mediaGiornaliera": 2.7,
+      "highlights": [
+        "Presente ma non dominante",
+        "Presente per buona parte della settimana"
+      ],
+      "citazioneTop": "Non recita, il suo è un canto"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 6.5,
+      "giudizio": "Presente e attivo, anche se questa settimana le sue proposte hanno avuto fortuna alterna.",
+      "messaggi": 9,
+      "mediaGiornaliera": 2.2,
+      "highlights": [
+        "Presente ma non dominante",
+        "Presente per buona parte della settimana"
+      ],
+      "citazioneTop": "Io ho anche conosciuto il grande, irreprensibile, carmelo"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 6.5,
+      "giudizio": "Il Lider ha supervisionato con discrezione. Interventi mirati, niente sprechi.",
+      "messaggi": 11,
+      "mediaGiornaliera": 3.7,
+      "highlights": [
+        "Presente ma non dominante",
+        "Presente per buona parte della settimana"
+      ],
+      "citazioneTop": "Spero domattina, sennò nel pomeriggio"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 6.0,
+      "giudizio": "Ha contribuito con la sua calma zen. Pochi messaggi ma sempre pertinenti.",
+      "messaggi": 6,
+      "mediaGiornaliera": 1.5,
+      "highlights": [
+        "Presente ma non dominante",
+        "Presente per buona parte della settimana"
+      ],
+      "citazioneTop": null
+    }
+  ],
+  "awards": {
+    "mvp": "Alessio Valentini",
+    "comico": "Cosimo Nenciòni",
+    "cuore": "Fausto Petrini",
+    "fantasma": "Alessio Macalùso"
+  }
+}

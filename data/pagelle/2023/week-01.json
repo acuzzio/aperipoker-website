@@ -1,0 +1,109 @@
+{
+  "anno": 2023,
+  "settimana": 1,
+  "startDate": "2023-01-02",
+  "endDate": "2023-01-08",
+  "stats": {
+    "totalMessages": 55,
+    "activeMembers": 6,
+    "avgPerMember": 9.2
+  },
+  "riassunto": "Settimana di inizio anno tra auguri e nostalgia. Alessio V. racconta le tempeste a San Francisco e la magia della musica live a Dallas. La morte di Vialli unisce il gruppo nel ricordo. Festa a casa di Alessio M. sabato sera con 'bella gente'. Giacomo torna da Roma proponendo uscite nel weekend.",
+  "bestQuotes": [
+    {
+      "quote": "Non vale la pena visitare un posto così dall'europa. Ma io non ho mai visto niente del genere. Se a uno piace la musica dal vivo questa città non ha rivali.",
+      "author": "Alessio Valentini",
+      "context": "Racconto entusiasta di Dallas e la sua scena musicale"
+    },
+    {
+      "quote": "Il pancreas non perdona. Solitamente ti porta via in 6 mesi… lui era 5 anni che ci combatteva",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Commento sulla morte di Vialli"
+    },
+    {
+      "quote": "Eri a casa mia?",
+      "author": "Alessio Valentini",
+      "context": "Risposta confusa quando parlano della festa a casa di Alessio (M.)"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Alessio Valentini",
+      "voto": 8.0,
+      "giudizio": "Il giramondo apre l'anno con racconti mozzafiato da Dallas. Musicisti all'aeroporto, tempeste a San Francisco, e la battuta 'Speriamo di ritrovarci la casa' che sdrammatizza tutto. Presente emotivamente nonostante il fuso orario.",
+      "messaggi": 18,
+      "mediaGiornaliera": 2.6,
+      "highlights": [
+        "Racconto appassionato della scena musicale di Dallas",
+        "Partecipazione emotiva alla notizia di Vialli"
+      ],
+      "citazioneTop": "160 anni. Erano fantastici."
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 7.5,
+      "giudizio": "Parte piano ma poi si scalda. Il commento su Vialli e il pancreas è sentito e informato. Organizza la prima uscita dell'anno e chiude in bellezza commentando la 'bella festa' da Alessio.",
+      "messaggi": 12,
+      "mediaGiornaliera": 1.7,
+      "highlights": [
+        "Riflessione toccante sulla morte di Vialli",
+        "Report della festa a casa di Alessio M."
+      ],
+      "citazioneTop": "Bella festa bella gente"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 6.5,
+      "giudizio": "Presente ma contenuto. Il 'Naaaaaaa' notturno e il 'Burraco con tre mazzi di carte' sono i suoi contributi principali. Riconosce la miticità di Vialli 'fin da bambino pur non interessandomi'. Onesto.",
+      "messaggi": 8,
+      "mediaGiornaliera": 1.1,
+      "highlights": [
+        "Spiega il burraco con tre mazzi",
+        "Ricordo di Vialli"
+      ],
+      "citazioneTop": "Perchè qui mettono insieme le carte a cazzo"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 6.0,
+      "giudizio": "Apre con un link Twitter della Gialappa's, commenta laconico 'Grossa tristezza' per Vialli, e chiude con il classico 'Dicco dicci' quando sente parlare di feste. Efficiente ma minimalista.",
+      "messaggi": 6,
+      "mediaGiornaliera": 0.9,
+      "highlights": [
+        "Link di qualità dalla Gialappa's",
+        "Curiosità sulle feste altrui"
+      ],
+      "citazioneTop": "Dicco dicci"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 6.5,
+      "giudizio": "L'host della settimana. Ospita la festa, propone 'quest'anno andiamo vero?' per un viaggio di gruppo, e ricorda Vialli come 'idolo di quando ero bambino'. Zen ma partecipe.",
+      "messaggi": 6,
+      "mediaGiornaliera": 0.9,
+      "highlights": [
+        "Host della festa di sabato",
+        "Proposta di viaggio di gruppo"
+      ],
+      "citazioneTop": "Davvero deliziosa"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 6.0,
+      "giudizio": "Torna da Roma con la primavera e propone subito uscite. 'C'è qualcuno nel fine settimana?' è il classico tentativo del Fondatore di tenere unito il gruppo. Vialli era 'davvero un idolo da sempre'.",
+      "messaggi": 5,
+      "mediaGiornaliera": 0.7,
+      "highlights": [
+        "Proposta di uscite per il weekend",
+        "Omaggio a Vialli"
+      ],
+      "citazioneTop": "Io nel frattempo sono tornato a Roma dove é appena arrivata la primavera"
+    }
+  ],
+  "awards": {
+    "mvp": "Alessio Valentini",
+    "comico": "Fausto Petrini",
+    "cuore": "Adriano Sergio Lorenzo Facchini",
+    "fantasma": null
+  }
+}

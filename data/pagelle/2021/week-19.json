@@ -1,0 +1,105 @@
+{
+  "anno": 2021,
+  "settimana": 19,
+  "startDate": "2021-05-10",
+  "endDate": "2021-05-16",
+  "stats": {
+    "totalMessages": 187,
+    "activeMembers": 6,
+    "avgPerMember": 31.2
+  },
+  "riassunto": "Una settimana di ordinaria follia con 187 messaggi. Adriano in testa alla classifica.",
+  "bestQuotes": [
+    {
+      "quote": "https://twitter.com/LILtestadicazzo/status/1393225489767141378?s=08",
+      "author": "Cosimo Nenciòni",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Ma stasera ape in casa o fuori? Per capire se portarmi un cambio di vesti",
+      "author": "Fausto Petrini",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Ahahah la tuta sta imbarazzando Adriano",
+      "author": "Giacomo Dolfi",
+      "context": "Momento memorabile della settimana"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 7.9,
+      "giudizio": "Ha scritto piu' lui che il resto del gruppo messo insieme. E per una volta aveva senso.",
+      "messaggi": 50,
+      "mediaGiornaliera": 7.1,
+      "highlights": [
+        "Ha dominato la conversazione con il 27% dei messaggi",
+        "Ha stimolato la discussione con molte domande"
+      ],
+      "citazioneTop": ""
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 7.1,
+      "giudizio": "Il solito Fausto: ci prova, ogni tanto ci riesce.",
+      "messaggi": 38,
+      "mediaGiornaliera": 5.4,
+      "highlights": [
+        "Tra i piu' attivi con 38 messaggi",
+        "Ha stimolato la discussione con molte domande"
+      ],
+      "citazioneTop": "Ma stasera ape in casa o fuori? Per capire se portarmi un cambio di vesti"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 6.2,
+      "giudizio": "Non la sua settimana migliore, ma c'era quando serviva.",
+      "messaggi": 28,
+      "mediaGiornaliera": 4.0,
+      "highlights": [
+        "Ha contribuito con 28 messaggi"
+      ],
+      "citazioneTop": ""
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 6.4,
+      "giudizio": "Presente con il suo solito stile: curioso, ironico, pungente.",
+      "messaggi": 27,
+      "mediaGiornaliera": 3.9,
+      "highlights": [
+        "Ha contribuito con 27 messaggi"
+      ],
+      "citazioneTop": "Ahahah la tuta sta imbarazzando Adriano"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 6.1,
+      "giudizio": "Presente con il suo solito stile minimale ma incisivo.",
+      "messaggi": 26,
+      "mediaGiornaliera": 3.7,
+      "highlights": [
+        "Ha contribuito con 26 messaggi"
+      ],
+      "citazioneTop": "https://twitter.com/LILtestadicazzo/status/1393225489767141378?s=08"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 5.3,
+      "giudizio": "Contributo misurato, come nel suo stile. Ogni parola al suo posto.",
+      "messaggi": 18,
+      "mediaGiornaliera": 2.6,
+      "highlights": [
+        "Ha contribuito con 18 messaggi"
+      ],
+      "citazioneTop": ""
+    }
+  ],
+  "awards": {
+    "mvp": "Adriano Sergio Lorenzo Facchini - Miglior voto della settimana con 7.9",
+    "comico": "Cosimo Nenciòni - Il piu' divertente della settimana",
+    "cuore": "Alessio Valentini - Presenza equilibrata e costante",
+    "fantasma": null
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "anno": 2022,
+  "settimana": 27,
+  "startDate": "2022-07-04",
+  "endDate": "2022-07-10",
+  "stats": {
+    "totalMessages": 38,
+    "activeMembers": 5,
+    "avgPerMember": 7.6
+  },
+  "riassunto": "Nessuno c'e' per il 7 luglio: Alessio Mac non c'e', Giacomo dura, Cosimo ha 'cena fisting a Forte dei Marmi' (upgrade dalla serata rimming). 'Prossimo anno Golden shower'. Si parla di nucleare vs solare ('Il solare e' troppo democratico'). Giacomo parte per la Francia. Al Palio esce la Selva ('Palio relax'). 'Prossimo anno vengo con te a Merano e ti fo il culo a tennis'.",
+  "bestQuotes": [
+    {
+      "quote": "Confermo assenza. Il 7 ho cena fisting a Forte dei marmi",
+      "author": "Cosimo Nenciòni",
+      "context": "Sull'assenza al 7 luglio"
+    },
+    {
+      "quote": "Tra fisting e rimming mi sembra ci sia una leggera differenza. Piu' che altro per il culo",
+      "author": "Fausto Petrini",
+      "context": "Correzione anatomica"
+    },
+    {
+      "quote": "Prossimo anno Golden shower",
+      "author": "Cosimo Nenciòni",
+      "context": "Sul prossimo upgrade"
+    },
+    {
+      "quote": "Prossimo anno vengo con te a Merano e ti fo il culo a tennis anche li' vai",
+      "author": "Giacomo Dolfi",
+      "context": "Ad Adriano sulle vacanze"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 7.5,
+      "giudizio": "Ha commentato il Palio ('La selva va bene sempre'), ha parlato di nucleare vs solare, ha dato il benvenuto a Giacomo come 'brava persona di mezza eta''. Non c'e' il 7.",
+      "messaggi": 11,
+      "mediaGiornaliera": 1.6,
+      "highlights": [
+        "Commento Palio",
+        "Nucleare vs solare",
+        "Brava persona di mezza eta'"
+      ],
+      "citazioneTop": "Il solare non va bene perche' e' troppo democratico"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 7.5,
+      "giudizio": "Parte per la Francia (Camargue, Loira, Parigi). Sfida Adriano a tennis a Merano. 'Gaudeamus igitur' per il Palio. Vacanze ben programmate.",
+      "messaggi": 10,
+      "mediaGiornaliera": 1.4,
+      "highlights": [
+        "Parte per la Francia",
+        "Sfida a tennis a Merano",
+        "Vacanze programmate"
+      ],
+      "citazioneTop": "Prossimo anno vengo con te a Merano e ti fo il culo a tennis"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 8.5,
+      "giudizio": "'Cena fisting a Forte dei Marmi' e 'Prossimo anno Golden shower' sono leggendarie. 'Chi bello vuole apparire qualche pena deve soffrire'. Ha upgradata la serata rimming. Maestro dell'assurdo.",
+      "messaggi": 9,
+      "mediaGiornaliera": 1.3,
+      "highlights": [
+        "Cena fisting",
+        "Golden shower",
+        "Upgrade dalla serata rimming"
+      ],
+      "citazioneTop": "Il 7 ho cena fisting a Forte dei marmi"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 6.0,
+      "giudizio": "Non c'e' il 7 sera, ha chiesto del prossimo upgrade. 'Subirai del fisting?' a Cosimo. Presente ma assente alla cena.",
+      "messaggi": 4,
+      "mediaGiornaliera": 0.6,
+      "highlights": [
+        "Non c'e' il 7",
+        "Ha chiesto del fisting"
+      ],
+      "citazioneTop": "Subirai del fisting?"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 6.5,
+      "giudizio": "Ha precisato la differenza tra fisting e rimming con competenza anatomica. Ha chiesto chi e' uscito al Palio. 'Godo' per l'estrazione.",
+      "messaggi": 4,
+      "mediaGiornaliera": 0.6,
+      "highlights": [
+        "Precisazione anatomica",
+        "Ha goduto per il Palio"
+      ],
+      "citazioneTop": "Tra fisting e rimming mi sembra ci sia una leggera differenza"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 4.0,
+      "giudizio": "Zero messaggi questa settimana. Il giramondo in pausa.",
+      "messaggi": 0,
+      "mediaGiornaliera": 0.0,
+      "highlights": [],
+      "citazioneTop": ""
+    }
+  ],
+  "awards": {
+    "mvp": "Cosimo Nenciòni - Cena fisting e prossimo anno Golden shower",
+    "comico": "Fausto Petrini - Precisazione anatomica fisting/rimming",
+    "cuore": "Giacomo Dolfi - Programma vacanze per tutta la famiglia",
+    "fantasma": "Alessio Valentini - Zero messaggi"
+  }
+}

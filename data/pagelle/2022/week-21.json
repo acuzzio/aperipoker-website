@@ -1,0 +1,116 @@
+{
+  "anno": 2022,
+  "settimana": 21,
+  "startDate": "2022-05-23",
+  "endDate": "2022-05-29",
+  "stats": {
+    "totalMessages": 53,
+    "activeMembers": 5,
+    "avgPerMember": 10.6
+  },
+  "riassunto": "Fausto riceve una caricatura che non gli somiglia per niente ('Soldi buttati' dice Adriano). Cosimo e' a Bologna. Adriano va a un matrimonio in Calabria a Squillace Lido, torna fradicio e senza video. Alessio V. commenta le foto del matrimonio: 'Adriano e le 7 mogli'. Esce la Chiocciola al Palio. BeReal viene finalmente installato ma Fausto si era gia' dimenticato.",
+  "bestQuotes": [
+    {
+      "quote": "Sfruttamento di incapace via. Bravo fausto. Prima i finti fioretti e poi te ne approfitti della povera gente",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Sulla caricatura regalata"
+    },
+    {
+      "quote": "Adriano e le 7 mogli",
+      "author": "Alessio Valentini",
+      "context": "Sulla foto del matrimonio"
+    },
+    {
+      "quote": "Il matrimonio era ieri e non ho video perche' ero fradicio",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Sul matrimonio in Calabria"
+    },
+    {
+      "quote": "Te ricorda sempre che quando hai bisogno di aiuto io ci sono",
+      "author": "Fausto Petrini",
+      "context": "Risposta alle accuse di Adriano"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Fausto Petrini",
+      "voto": 7.5,
+      "giudizio": "Ha ricevuto una caricatura che non gli somiglia, si e' difeso da Adriano con eleganza ('A caval donato...'). Si era dimenticato di BeReal ma lo installa su ordine del Lider. Apprende le contrade estratte da Adriano.",
+      "messaggi": 17,
+      "mediaGiornaliera": 2.4,
+      "highlights": [
+        "Ha ricevuto la caricatura",
+        "Si e' difeso dalle accuse",
+        "Ha installato BeReal"
+      ],
+      "citazioneTop": "Te ricorda sempre che quando hai bisogno di aiuto io ci sono"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 7.5,
+      "giudizio": "Matrimonio in Calabria, fradicio, niente video. Le foto con le frecce hanno confuso tutti. Ha comunicato le contrade estratte. 'Sfruttamento di incapace' a Fausto e' brutale.",
+      "messaggi": 16,
+      "mediaGiornaliera": 2.3,
+      "highlights": [
+        "Matrimonio in Calabria fradicio",
+        "Ha comunicato le contrade",
+        "Ha attaccato Fausto"
+      ],
+      "citazioneTop": "Il matrimonio era ieri e non ho video perche' ero fradicio"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 6.5,
+      "giudizio": "Ha chiesto a Fausto di BeReal, ha chiesto cosa fa Adriano a Polla, ha interpretato le frecce nelle foto. Sempre curioso e presente.",
+      "messaggi": 8,
+      "mediaGiornaliera": 1.1,
+      "highlights": [
+        "Ha ricordato BeReal a Fausto",
+        "Ha interpretato le foto",
+        "Ha chiesto di Polla"
+      ],
+      "citazioneTop": "Allora perche' metti le frecce?"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 6.5,
+      "giudizio": "E' a Bologna, commenta le foto di Adriano ('Come darti torto'), chiede delle regole del Palio. Pochi messaggi ma sempre sul pezzo.",
+      "messaggi": 6,
+      "mediaGiornaliera": 0.9,
+      "highlights": [
+        "Era a Bologna",
+        "Ha chiesto delle regole del Palio",
+        "Ha apprezzato le foto"
+      ],
+      "citazioneTop": "Come darti torto"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 7.0,
+      "giudizio": "'Adriano e le 7 mogli' e' la battuta della settimana. Ha interpretato le foto: 'Uno e' dove guarda la faccia, una e' dove guardano gli occhi'. Presente da lontano ma incisivo.",
+      "messaggi": 6,
+      "mediaGiornaliera": 0.9,
+      "highlights": [
+        "Adriano e le 7 mogli",
+        "Ha interpretato le foto",
+        "Commento sulle pieghe"
+      ],
+      "citazioneTop": "Adriano e le 7 mogli"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 4.0,
+      "giudizio": "Zero messaggi questa settimana. Il Lider in pausa.",
+      "messaggi": 0,
+      "mediaGiornaliera": 0.0,
+      "highlights": [],
+      "citazioneTop": ""
+    }
+  ],
+  "awards": {
+    "mvp": "Adriano Sergio Lorenzo Facchini - Matrimonio calabrese fradicio",
+    "comico": "Alessio Valentini - 'Adriano e le 7 mogli'",
+    "cuore": "Fausto Petrini - Ha offerto aiuto nonostante gli attacchi",
+    "fantasma": "Giacomo Dolfi - Zero messaggi"
+  }
+}

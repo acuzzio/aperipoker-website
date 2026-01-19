@@ -1,0 +1,103 @@
+{
+  "anno": 2021,
+  "settimana": 48,
+  "startDate": "2021-11-29",
+  "endDate": "2021-12-05",
+  "stats": {
+    "totalMessages": 40,
+    "activeMembers": 6,
+    "avgPerMember": 6.7
+  },
+  "riassunto": "Settimana 48 con 40 messaggi. Adriano guida le danze con 14 contributi.",
+  "bestQuotes": [
+    {
+      "quote": "Hahaha la volevo postare io ieri",
+      "author": "Alessio Valentini",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "A momenti mi controllavano anche la lunghezza del cazzo.",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Hai già capito tutto ahahahaaha",
+      "author": "Alessio Macalùso",
+      "context": "Momento memorabile della settimana"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 8.2,
+      "giudizio": "Il fiume in piena ha esondato questa settimana, ma almeno ha irrigato bene la chat.",
+      "messaggi": 14,
+      "mediaGiornaliera": 2.0,
+      "highlights": [
+        "Ha dominato la conversazione con il 35% dei messaggi"
+      ],
+      "citazioneTop": "A momenti mi controllavano anche la lunghezza del cazzo."
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 7.3,
+      "giudizio": "Poche parole, massimo impatto. Il cecchino colpisce ancora.",
+      "messaggi": 11,
+      "mediaGiornaliera": 1.6,
+      "highlights": [
+        "Ha dominato la conversazione con il 28% dei messaggi"
+      ],
+      "citazioneTop": ""
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 6.8,
+      "giudizio": "Ha partecipato con il suo solito stile affettuoso e diretto.",
+      "messaggi": 6,
+      "mediaGiornaliera": 0.9,
+      "highlights": [
+        "Ha contribuito con 6 messaggi"
+      ],
+      "citazioneTop": "Hahaha la volevo postare io ieri"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 5.9,
+      "giudizio": "Ha mollato la presa questa settimana. Niente bollore.",
+      "messaggi": 3,
+      "mediaGiornaliera": 0.4,
+      "highlights": [
+        "Ha contribuito con 3 messaggi"
+      ],
+      "citazioneTop": "Spero non sia un fake, se interessati magari verificate prima"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 5.9,
+      "giudizio": "Il Laconico e' diventato muto. Nemmeno un 'Credo'.",
+      "messaggi": 3,
+      "mediaGiornaliera": 0.4,
+      "highlights": [
+        "Ha contribuito con 3 messaggi"
+      ],
+      "citazioneTop": "Hai già capito tutto ahahahaaha"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 5.9,
+      "giudizio": "Silenzio da Poggibonsi. Niente domande innocue questa settimana.",
+      "messaggi": 3,
+      "mediaGiornaliera": 0.4,
+      "highlights": [
+        "Ha contribuito con 3 messaggi"
+      ],
+      "citazioneTop": ""
+    }
+  ],
+  "awards": {
+    "mvp": "Adriano Sergio Lorenzo Facchini - Miglior voto della settimana con 8.2",
+    "comico": "Alessio Valentini - Il piu' divertente della settimana",
+    "cuore": "Alessio Valentini - Presenza equilibrata e costante",
+    "fantasma": "Fausto Petrini - Il piu' silenzioso con 3 messaggi"
+  }
+}

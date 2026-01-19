@@ -1,0 +1,116 @@
+{
+  "anno": 2022,
+  "settimana": 47,
+  "startDate": "2022-11-22",
+  "endDate": "2022-11-26",
+  "stats": {
+    "totalMessages": 15,
+    "activeMembers": 6,
+    "avgPerMember": 2.5
+  },
+  "riassunto": "Muore Maroni: Fausto e' cinico ('Un cretino in meno'), Giacomo lo insulta ('Che merda sei'). Baggio parla del rigore del 94: 'Siamo tutti con te', 'Per me perdonato fin da subito'. 'Anche Baresi sbaglio' ma nessuno se l'e' inculato'. Settimana di ricordi calcistici e di morte.",
+  "bestQuotes": [
+    {
+      "quote": "E' morto Maroni. E' da vigliacchi lo so, ma a me viene solo in mente che un cretino in meno",
+      "author": "Fausto Petrini",
+      "context": "Sulla morte di Maroni"
+    },
+    {
+      "quote": "Che merda sei",
+      "author": "Giacomo Dolfi",
+      "context": "A Fausto su Maroni"
+    },
+    {
+      "quote": "Per me perdonato fin da subito. Anche Baresi sbaglio' un rigore ma non se l'e' inculato nessuno",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Su Baggio"
+    },
+    {
+      "quote": "Ha acquisito skill in leggendarieta'",
+      "author": "Cosimo Nenciòni",
+      "context": "Sul rigore di Baggio"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 7.0,
+      "giudizio": "'Se non lo sbagliava era meglio' su Baggio e' pragmatismo. 'Ha acquisito skill in leggendarieta'' e' analisi perfetta. 'Il divertimento proprio..' sulla foto. Presente con ironia.",
+      "messaggi": 4,
+      "mediaGiornaliera": 0.8,
+      "highlights": [
+        "Skill in leggendarieta'",
+        "Se non sbagliava meglio",
+        "Il divertimento proprio"
+      ],
+      "citazioneTop": "Ha acquisito skill in leggendarieta'"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 6.5,
+      "giudizio": "'Succede di essere cinici ogni tanto' difende Fausto. 'Perche' Massaro no?' sul rigore. 'Eccezionale' sulla foto. Mediatore e critico.",
+      "messaggi": 3,
+      "mediaGiornaliera": 0.6,
+      "highlights": [
+        "Difende il cinismo",
+        "Perche' Massaro no",
+        "Eccezionale"
+      ],
+      "citazioneTop": "Succede di essere cinici ogni tanto"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 7.0,
+      "giudizio": "Ha condiviso l'intervista di Baggio. 'Siamo tutti con te' e 'Per me e' perdonato'. Empatico con il Divin Codino.",
+      "messaggi": 3,
+      "mediaGiornaliera": 0.6,
+      "highlights": [
+        "Intervista Baggio",
+        "Siamo con te",
+        "Perdonato"
+      ],
+      "citazioneTop": "Baggio siamo tutti con te"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 7.0,
+      "giudizio": "'Perdonato fin da subito, anche Baresi sbaglio' ma non se l'e' inculato nessuno'. 'La drammaticita' dell'opera' sulla foto. Difensore di Baggio.",
+      "messaggi": 3,
+      "mediaGiornaliera": 0.6,
+      "highlights": [
+        "Perdonato da subito",
+        "Baresi non inculato",
+        "Drammaticita'"
+      ],
+      "citazioneTop": "Anche Baresi sbaglio' ma non se l'e' inculato nessuno"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 6.0,
+      "giudizio": "'Un cretino in meno' su Maroni e' cinismo puro. Un solo messaggio ma memorabile.",
+      "messaggi": 1,
+      "mediaGiornaliera": 0.2,
+      "highlights": [
+        "Cretino in meno"
+      ],
+      "citazioneTop": "Un cretino in meno"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 6.0,
+      "giudizio": "'Che merda sei' a Fausto. 'Poro citto' su Baggio. Un messaggio diretto.",
+      "messaggi": 1,
+      "mediaGiornaliera": 0.2,
+      "highlights": [
+        "Che merda sei"
+      ],
+      "citazioneTop": "Che merda sei"
+    }
+  ],
+  "awards": {
+    "mvp": "Cosimo Nenciòni - Skill in leggendarieta' su Baggio",
+    "comico": "Fausto Petrini - Un cretino in meno (cinico ma onesto)",
+    "cuore": "Alessio Macalùso - Siamo tutti con te Baggio",
+    "fantasma": "Nessuno - Settimana corta ma tutti presenti"
+  }
+}

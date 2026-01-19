@@ -1,0 +1,103 @@
+{
+  "anno": 2021,
+  "settimana": 34,
+  "startDate": "2021-08-23",
+  "endDate": "2021-08-29",
+  "stats": {
+    "totalMessages": 70,
+    "activeMembers": 6,
+    "avgPerMember": 11.7
+  },
+  "riassunto": "Il gruppo si fa sentire con 70 messaggi. Adriano il piu' loquace con 18 messaggi.",
+  "bestQuotes": [
+    {
+      "quote": "ma te sei Enzo gambelli? L'artista? Archeologia contemporanea?",
+      "author": "Alessio Valentini",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "https://www.gazzettadisiena.it/alvalenti-lancia-unaltra-provocazione-faro-uno-spettacolo-solo-per-coloro-che-hanno-capelli/?fbclid=IwAR0ebTh_SGE20D4NLa8Wepn6pTxE8n1eMdXK28UxBsIDH__ywK_B1UJV5_I",
+      "author": "Fausto Petrini",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Maremma cane!!! Oggi è il compleanno del mitico Cocco Cosimo Nencioni!!!",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Momento memorabile della settimana"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 7.3,
+      "giudizio": "Il Re della Chat ha regnato con mano ferma e tastiera fumante.",
+      "messaggi": 18,
+      "mediaGiornaliera": 2.6,
+      "highlights": [
+        "Ha dominato la conversazione con il 26% dei messaggi"
+      ],
+      "citazioneTop": "Maremma cane!!! Oggi è il compleanno del mitico Cocco Cosimo Nencioni!!!"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 6.6,
+      "giudizio": "Presente con il suo solito stile minimale ma incisivo.",
+      "messaggi": 14,
+      "mediaGiornaliera": 2.0,
+      "highlights": [
+        "Tra i piu' attivi con 14 messaggi"
+      ],
+      "citazioneTop": ""
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 6.5,
+      "giudizio": "Ha fatto il suo, tra proposte e organizzazione. Qualcuno l'ha pure ascoltato.",
+      "messaggi": 13,
+      "mediaGiornaliera": 1.9,
+      "highlights": [
+        "Tra i piu' attivi con 13 messaggi"
+      ],
+      "citazioneTop": "https://www.gazzettadisiena.it/alvalenti-lancia-unaltra-provocazione-faro-uno-spettacolo-solo-per-coloro-che-hanno-capelli/?fbclid=IwAR0ebTh_SGE20D4NLa8Wepn6pTxE8n1eMdXK28UxBsIDH__ywK_B1UJV5_I"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 6.8,
+      "giudizio": "Ha partecipato con il suo solito stile affettuoso e diretto.",
+      "messaggi": 12,
+      "mediaGiornaliera": 1.7,
+      "highlights": [
+        "Tra i piu' attivi con 12 messaggi"
+      ],
+      "citazioneTop": "ma te sei Enzo gambelli? L'artista? Archeologia contemporanea?"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 5.2,
+      "giudizio": "Contributo equilibrato del patriarca benevolo.",
+      "messaggi": 7,
+      "mediaGiornaliera": 1.0,
+      "highlights": [
+        "Ha contribuito con 7 messaggi"
+      ],
+      "citazioneTop": "I 6 di aperipoker sarebbero perfetti per un gommone!"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 5.5,
+      "giudizio": "Contributo misurato, come nel suo stile. Ogni parola al suo posto.",
+      "messaggi": 6,
+      "mediaGiornaliera": 0.9,
+      "highlights": [
+        "Ha contribuito con 6 messaggi"
+      ],
+      "citazioneTop": ""
+    }
+  ],
+  "awards": {
+    "mvp": "Adriano Sergio Lorenzo Facchini - Miglior voto della settimana con 7.3",
+    "comico": "Cosimo Nenciòni - Il piu' divertente della settimana",
+    "cuore": "Alessio Valentini - Presenza equilibrata e costante",
+    "fantasma": "Alessio Macalùso - Il piu' silenzioso con 6 messaggi"
+  }
+}

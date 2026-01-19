@@ -1,0 +1,120 @@
+{
+  "anno": 2022,
+  "settimana": 16,
+  "startDate": "2022-04-19",
+  "endDate": "2022-04-24",
+  "stats": {
+    "totalMessages": 172,
+    "activeMembers": 6,
+    "avgPerMember": 28.7
+  },
+  "riassunto": "SETTIMANA EPICA! Il 19 Alessio V. compie 40 anni. Il 21 pranzo aperipoker a Firenze da Zocchi con tennis la mattina. Adriano fornisce racchette e scarpe 44 per piedi 42. Tutti insieme, foto di gruppo, vino, polpette. Poi la bomba: Adriano positivo al Covid. 'Tralasciando il fatto che sono positivo al COVID e' stata una bella giornata.' Alessio V. fa tamponi in macchina, rischia di non poter tornare in USA.",
+  "bestQuotes": [
+    {
+      "quote": "Tralasciando il fatto che sono positivo al COVID e' stata una bella giornata.",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Annuncio del Covid post-pranzo"
+    },
+    {
+      "quote": "Siete dei fradici. E te sei un untore",
+      "author": "Alessio Macalùso",
+      "context": "Commento sul pranzo e sul Covid"
+    },
+    {
+      "quote": "Io ho perso sempre. Ogni volta che qualcuno giocava contro di me, ha vinto",
+      "author": "Alessio Valentini",
+      "context": "Sul tennis"
+    },
+    {
+      "quote": "Perfetto, ho un 44. Andra' benissimo",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Sulle scarpe da tennis per Alessio V. che ha il 42"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 8.0,
+      "giudizio": "Ha organizzato tennis, fornito attrezzatura, giocato, mangiato, bevuto. Poi ha scoperto di essere positivo. 'Tralasciando il fatto che sono positivo' e' una frase leggendaria. Si e' scusato mille volte con Alessio V. e Pasquale. Untore involontario.",
+      "messaggi": 67,
+      "mediaGiornaliera": 9.6,
+      "highlights": [
+        "Ha organizzato tutto il tennis",
+        "E' risultato positivo post-pranzo",
+        "Si e' scusato profusamente"
+      ],
+      "citazioneTop": "Tralasciando il fatto che sono positivo al COVID e' stata una bella giornata"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 9.0,
+      "giudizio": "Ha compiuto 40 anni! Ha giocato a tennis con scarpe due taglie piu' grandi, ha perso sempre, ha fatto tamponi in macchina, ha rischiato di non tornare in USA. 'Dio ghen' riassume tutto. 30 episodi di Attack on Titan in un giorno.",
+      "messaggi": 44,
+      "mediaGiornaliera": 6.3,
+      "highlights": [
+        "Ha compiuto 40 anni",
+        "Ha giocato a tennis perdendo sempre",
+        "Ha fatto tamponi in macchina"
+      ],
+      "citazioneTop": "Io ho perso sempre. Ogni volta che qualcuno giocava contro di me, ha vinto"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 7.5,
+      "giudizio": "Presente al pranzo, piegato dai postumi, quasi rigozzato alla vista delle polpette. Eleonora lezza perche' era a lavoro. Ha augurato buon aperipoker a tutti la mattina.",
+      "messaggi": 19,
+      "mediaGiornaliera": 2.7,
+      "highlights": [
+        "Presente al pranzo",
+        "Piegato dai postumi",
+        "Quasi rigozzato dalle polpette"
+      ],
+      "citazioneTop": "Unico neo: non ricordavo quanto fosse dura superare i postumi da sveglio"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 7.5,
+      "giudizio": "Ha raggiunto il gruppo al tennis, ha chiesto foto dei piatti per la mamma, ha commentato 'Siete dei fradici. E te sei un untore'. Ha anche apprezzato Squid Game e Attack on Titan.",
+      "messaggi": 15,
+      "mediaGiornaliera": 2.1,
+      "highlights": [
+        "E' venuto al tennis",
+        "Ha chiesto foto per la mamma",
+        "Ha diagnosticato l'untore"
+      ],
+      "citazioneTop": "Siete dei fradici. E te sei un untore"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 7.0,
+      "giudizio": "Ha giocato a tennis coperto, ha pranzato, e' dovuto tornare alle 17. Ha commentato che Adriano doveva fare il tampone prima di partire. Squid Game anche garbata.",
+      "messaggi": 14,
+      "mediaGiornaliera": 2.0,
+      "highlights": [
+        "Ha giocato a tennis",
+        "Ha pranzato col gruppo",
+        "Ha suggerito tampone preventivo"
+      ],
+      "citazioneTop": "Te lo dovevi fare stamani prima di partire da casa"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 7.0,
+      "giudizio": "Ha fatto gli auguri, ha chiesto foto, ha fatto admin Alessio Mac per cambiare l'immagine del gruppo. Ha chiesto aggiornamenti sul Covid di Adriano. Ha mollato Squid Game dopo due puntate.",
+      "messaggi": 13,
+      "mediaGiornaliera": 1.9,
+      "highlights": [
+        "Ha fatto gli auguri",
+        "Ha gestito l'admin",
+        "Ha chiesto aggiornamenti Covid"
+      ],
+      "citazioneTop": "Ora esci e ammazzi qualcuno"
+    }
+  ],
+  "awards": {
+    "mvp": "Alessio Valentini - 40 anni, tennis, tamponi, Attack on Titan",
+    "comico": "Adriano Sergio Lorenzo Facchini - 'Tralasciando il fatto che sono positivo'",
+    "cuore": "Adriano Sergio Lorenzo Facchini - Si e' scusato mille volte per il contagio",
+    "fantasma": "Nessuno - Tutti presenti alla giornata epica"
+  }
+}

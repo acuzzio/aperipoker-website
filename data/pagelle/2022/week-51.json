@@ -1,0 +1,115 @@
+{
+  "anno": 2022,
+  "settimana": 51,
+  "startDate": "2022-12-19",
+  "endDate": "2022-12-19",
+  "stats": {
+    "totalMessages": 19,
+    "activeMembers": 5,
+    "avgPerMember": 3.8
+  },
+  "riassunto": "Parrucchiere spacciatore a Siena! 'Il mio e' napoletano ma non vende' dice Alessio Mac. 'Io chiederei, comunque' risponde Alessio V. Cosimo si guarda Il Marchese del Grillo per la 24esima volta ('Continua a farmi pisciare addosso'). Adriano si rifiuta di vederlo su Rete 4 ('Lo scarico poi me lo riguardo').",
+  "bestQuotes": [
+    {
+      "quote": "Il mio parrucchiere e' napoletano ma non vende",
+      "author": "Alessio Macalùso",
+      "context": "Sul parrucchiere spacciatore"
+    },
+    {
+      "quote": "Io chiederei, comunque",
+      "author": "Alessio Valentini",
+      "context": "Consiglio al parrucchiere"
+    },
+    {
+      "quote": "Il Marchese del Grillo per la 24esima volta e continua a farmi pisciare addosso",
+      "author": "Cosimo Nenciòni",
+      "context": "Sul film"
+    },
+    {
+      "quote": "Mi rifiuto (di vederlo su Rete 4)",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Sulla rete governativa"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 8.0,
+      "giudizio": "Il Marchese del Grillo per la 24esima volta! 'Continua a farmi pisciare addosso'. 'Ci sono finito per caso, e' troppo divertente'. Cinefilo devoto.",
+      "messaggi": 5,
+      "mediaGiornaliera": 5.0,
+      "highlights": [
+        "Marchese del Grillo",
+        "24esima volta",
+        "Pisciare addosso"
+      ],
+      "citazioneTop": "Per la 24esima volta e continua a farmi pisciare addosso"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 7.5,
+      "giudizio": "Ha condiviso la notizia del parrucchiere spacciatore. 'Io chiederei, comunque' e' consiglio pratico. 'Eccezionale e basta' sul Marchese. Curioso e pratico.",
+      "messaggi": 4,
+      "mediaGiornaliera": 4.0,
+      "highlights": [
+        "Parrucchiere spacciatore",
+        "Io chiederei",
+        "Eccezionale"
+      ],
+      "citazioneTop": "Io chiederei, comunque"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 7.5,
+      "giudizio": "'Il mio e' napoletano ma non vende' e' la risposta perfetta. 'Gasperino il carbonaro eccezionale' sul Marchese. Presente con umorismo.",
+      "messaggi": 4,
+      "mediaGiornaliera": 4.0,
+      "highlights": [
+        "Napoletano non vende",
+        "Gasperino carbonaro",
+        "Eccezionale"
+      ],
+      "citazioneTop": "Il mio e' napoletano ma non vende"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 7.0,
+      "giudizio": "'Mi rifiuto' di vedere su Rete 4 e' principio. 'Secondo me si e' sfatto'. 'Lo scarico e poi me lo riguardo'. Principi televisivi.",
+      "messaggi": 4,
+      "mediaGiornaliera": 4.0,
+      "highlights": [
+        "Mi rifiuto Rete 4",
+        "Si e' sfatto",
+        "Lo scarico"
+      ],
+      "citazioneTop": "Mi rifiuto"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 6.5,
+      "giudizio": "Ha condiviso tweet di Dio. 'Bella'. Due messaggi ma presenti.",
+      "messaggi": 2,
+      "mediaGiornaliera": 2.0,
+      "highlights": [
+        "Tweet di Dio",
+        "Bella"
+      ],
+      "citazioneTop": "Bella"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 4.0,
+      "giudizio": "Zero messaggi questa settimana.",
+      "messaggi": 0,
+      "mediaGiornaliera": 0.0,
+      "highlights": [],
+      "citazioneTop": ""
+    }
+  ],
+  "awards": {
+    "mvp": "Cosimo Nenciòni - 24esima visione del Marchese del Grillo",
+    "comico": "Alessio Macalùso - Il mio parrucchiere napoletano non vende",
+    "cuore": "Alessio Valentini - Io chiederei, comunque",
+    "fantasma": "Giacomo Dolfi - Zero messaggi"
+  }
+}

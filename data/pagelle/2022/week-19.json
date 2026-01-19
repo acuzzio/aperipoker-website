@@ -1,0 +1,118 @@
+{
+  "anno": 2022,
+  "settimana": 19,
+  "startDate": "2022-05-09",
+  "endDate": "2022-05-15",
+  "stats": {
+    "totalMessages": 69,
+    "activeMembers": 6,
+    "avgPerMember": 11.5
+  },
+  "riassunto": "Adriano e Fausto partono per una scampagnata di 3 tappe da 20/25 km con Lenzi Claudio. Cosimo commenta: 'Avoja. Ma la fregna? Sta? Non sta?' Crash epico delle crypto (Terra perde il 98%). Fausto manda foto e commenta 'Ghiozziiiii questo non lo sapete fareeee'. Cosimo risponde: 'Belli non siete. Ma goderecci si dai'. Alessio V. aveva investito in Cardano poco prima del crash.",
+  "bestQuotes": [
+    {
+      "quote": "Belli non siete. Ma goderecci si dai",
+      "author": "Cosimo Nenciòni",
+      "context": "Sulle foto della scampagnata"
+    },
+    {
+      "quote": "Ghiozziiiii questo non lo sapete fareeee",
+      "author": "Fausto Petrini",
+      "context": "Sui commenti alle foto"
+    },
+    {
+      "quote": "Non confondere Bukowski e lebowski",
+      "author": "Alessio Macalùso",
+      "context": "Correggendo Fausto"
+    },
+    {
+      "quote": "Te smascelli come un dromedario",
+      "author": "Cosimo Nenciòni",
+      "context": "Su Alessio V. che non ce la faceva piu'"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 8.5,
+      "giudizio": "Commentatore ufficiale della scampagnata. 'Belli non siete. Ma goderecci si dai' e' poesia. Ha chiesto della fregna, ha condiviso il crash di Terra, ha consigliato bicarbonato. 'Te smascelli come un dromedario' e' top.",
+      "messaggi": 24,
+      "mediaGiornaliera": 3.4,
+      "highlights": [
+        "Commenti memorabili sulla scampagnata",
+        "Ha chiesto della fregna",
+        "Ha condiviso il crash crypto"
+      ],
+      "citazioneTop": "Belli non siete. Ma goderecci si dai"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 7.0,
+      "giudizio": "Ha chiesto come seguire la scampagnata, ha ammesso di aver investito in Cardano prima del crash. 'Non posso capire' la sofferenza dei camminatori. Osservatore a distanza.",
+      "messaggi": 15,
+      "mediaGiornaliera": 2.1,
+      "highlights": [
+        "Ha investito in Cardano prima del crash",
+        "Ha osservato la scampagnata",
+        "Non ce la faceva piu' a guardare"
+      ],
+      "citazioneTop": "io avevo investito in Cardano poco prima del crash"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 7.5,
+      "giudizio": "Ha organizzato la scampagnata, ha condiviso foto, ha sofferto. 'Ci s'e' fatta, ma che sofferenza non potete capire' riassume tutto. Tre tappe da 20/25 km completate.",
+      "messaggi": 12,
+      "mediaGiornaliera": 1.7,
+      "highlights": [
+        "Ha organizzato la scampagnata",
+        "Ha completato le 3 tappe",
+        "Ha sofferto"
+      ],
+      "citazioneTop": "Ci s'e' fatta, ma che sofferenza non potete capire"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 7.5,
+      "giudizio": "Ha camminato, ha mandato foto, ha confuso Bukowski con Lebowski. 'Ghiozziiiii questo non lo sapete fareeee' e' la sfida ai sedentari. Ciccia baffina e fica a stufo.",
+      "messaggi": 10,
+      "mediaGiornaliera": 1.4,
+      "highlights": [
+        "Ha camminato 60+ km",
+        "Ha confuso Bukowski/Lebowski",
+        "Ciccia baffina"
+      ],
+      "citazioneTop": "Ghiozziiiii questo non lo sapete fareeee"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 6.5,
+      "giudizio": "Ha corretto Fausto su Bukowski/Lebowski con eleganza. Pochi messaggi ma quello conta. Ha apprezzato le foto della scampagnata.",
+      "messaggi": 5,
+      "mediaGiornaliera": 0.7,
+      "highlights": [
+        "Ha corretto Bukowski/Lebowski",
+        "Ha apprezzato le foto"
+      ],
+      "citazioneTop": "Non confondere Bukowski e lebowski"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 6.0,
+      "giudizio": "Tre messaggi: 'Bel giro!', 'Grandi', e la speranza che la foto sia incorniciata. Il Lider apprezza da lontano.",
+      "messaggi": 3,
+      "mediaGiornaliera": 0.4,
+      "highlights": [
+        "Ha apprezzato il giro",
+        "Ha chiesto se la foto e' incorniciata"
+      ],
+      "citazioneTop": "Fantastica! Spero sia incorniciata e appesa in sala"
+    }
+  ],
+  "awards": {
+    "mvp": "Cosimo Nenciòni - Commentatore della scampagnata con battute memorabili",
+    "comico": "Fausto Petrini - Ha confuso Bukowski con Lebowski",
+    "cuore": "Adriano Sergio Lorenzo Facchini - Ha sofferto 60+ km per la scampagnata",
+    "fantasma": "Nessuno - Tutti presenti anche se da divano"
+  }
+}

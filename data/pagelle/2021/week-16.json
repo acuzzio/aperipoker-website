@@ -1,0 +1,105 @@
+{
+  "anno": 2021,
+  "settimana": 16,
+  "startDate": "2021-04-19",
+  "endDate": "2021-04-25",
+  "stats": {
+    "totalMessages": 124,
+    "activeMembers": 6,
+    "avgPerMember": 20.7
+  },
+  "riassunto": "Settimana 16 con 124 messaggi. Adriano guida le danze con 37 contributi.",
+  "bestQuotes": [
+    {
+      "quote": "Venerdì sera ci sarebbe nessuno a Siena? Per vedersi?",
+      "author": "Fausto Petrini",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Nessun altro? Mac si fa nulla? Vi va di venire a usare per l'ultima volta il forno a legna?",
+      "author": "Fausto Petrini",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Ieri ho visto l'arrivo della freccia vallone e mi sono gasato!",
+      "author": "Giacomo Dolfi",
+      "context": "Momento memorabile della settimana"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 8.3,
+      "giudizio": "Il Re della Chat ha regnato con mano ferma e tastiera fumante.",
+      "messaggi": 37,
+      "mediaGiornaliera": 5.3,
+      "highlights": [
+        "Ha dominato la conversazione con il 30% dei messaggi",
+        "Ha stimolato la discussione con molte domande"
+      ],
+      "citazioneTop": "Comunque ti ripeto, mi va bene anche alle ville. Quindi deciso. Ville sia.. ci vediamo alle 20.15!"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 7.1,
+      "giudizio": "Non la sua settimana migliore, ma c'era quando serviva.",
+      "messaggi": 27,
+      "mediaGiornaliera": 3.9,
+      "highlights": [
+        "Tra i piu' attivi con 27 messaggi"
+      ],
+      "citazioneTop": "Ho una presentazione imoortante fra 2 ore. Ci sentiamo più tardi."
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 7.1,
+      "giudizio": "Il solito Fausto: ci prova, ogni tanto ci riesce.",
+      "messaggi": 24,
+      "mediaGiornaliera": 3.4,
+      "highlights": [
+        "Tra i piu' attivi con 24 messaggi",
+        "Ha stimolato la discussione con molte domande"
+      ],
+      "citazioneTop": "Venerdì sera ci sarebbe nessuno a Siena? Per vedersi?"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 6.4,
+      "giudizio": "Presente con la solita parsimonia. Zen master della settimana.",
+      "messaggi": 13,
+      "mediaGiornaliera": 1.9,
+      "highlights": [
+        "Ha contribuito con 13 messaggi"
+      ],
+      "citazioneTop": ""
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 5.4,
+      "giudizio": "Presente con il suo solito stile minimale ma incisivo.",
+      "messaggi": 12,
+      "mediaGiornaliera": 1.7,
+      "highlights": [
+        "Ha contribuito con 12 messaggi"
+      ],
+      "citazioneTop": ""
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 5.1,
+      "giudizio": "Contributo equilibrato del patriarca benevolo.",
+      "messaggi": 11,
+      "mediaGiornaliera": 1.6,
+      "highlights": [
+        "Ha contribuito con 11 messaggi"
+      ],
+      "citazioneTop": "Ieri ho visto l'arrivo della freccia vallone e mi sono gasato!"
+    }
+  ],
+  "awards": {
+    "mvp": "Adriano Sergio Lorenzo Facchini - Miglior voto della settimana con 8.3",
+    "comico": "Alessio Valentini - Il piu' divertente della settimana",
+    "cuore": "Fausto Petrini - Presenza equilibrata e costante",
+    "fantasma": null
+  }
+}

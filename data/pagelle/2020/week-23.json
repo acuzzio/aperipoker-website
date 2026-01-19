@@ -1,0 +1,109 @@
+{
+  "anno": 2020,
+  "settimana": 23,
+  "startDate": "2020-06-01",
+  "endDate": "2020-06-07",
+  "stats": {
+    "totalMessages": 79,
+    "activeMembers": 6,
+    "avgPerMember": 13.2
+  },
+  "riassunto": "Una settimana all'insegna di lavoro, uscite/cene, covid/virus nella fase di riapertura. 79 messaggi scambiati tra i 6 membri attivi, con il solito mix di ironia e discussioni serie.",
+  "bestQuotes": [
+    {
+      "quote": "Maaaa.... l'8 o 9 si fa una cena?",
+      "author": "Fausto Petrini",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Quindi mercole siamo 4, giusto? Dove si va adri?",
+      "author": "Fausto Petrini",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Gli ha fatti proprio incazzare",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Momento memorabile della settimana"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Fausto Petrini",
+      "voto": 8.0,
+      "giudizio": "L'anima organizzativa del gruppo ha brillato. Quante uscite proposte? Quante andate in porto? Non importa.",
+      "messaggi": 22,
+      "mediaGiornaliera": 4.4,
+      "highlights": [
+        "Buona partecipazione alle discussioni",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "Maaaa.... l'8 o 9 si fa una cena?"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 7.5,
+      "giudizio": "Maestro del sarcasmo, questa settimana era in forma smagliante. Nessuno è stato risparmiato.",
+      "messaggi": 18,
+      "mediaGiornaliera": 3.6,
+      "highlights": [
+        "Buona partecipazione alle discussioni",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "La casa Bianca co le luci spente"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 7.5,
+      "giudizio": "Giacomo in grande spolvero. Le sue osservazioni hanno acceso la chat.",
+      "messaggi": 9,
+      "mediaGiornaliera": 1.8,
+      "highlights": [
+        "Presente ma non dominante",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "Per me settimana prossima va sempre bene"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 7.0,
+      "giudizio": "Presente e loquace, ma senza picchi memorabili. L'Adriano ordinario, che è già tanto.",
+      "messaggi": 17,
+      "mediaGiornaliera": 4.2,
+      "highlights": [
+        "Buona partecipazione alle discussioni",
+        "Presente per buona parte della settimana"
+      ],
+      "citazioneTop": "Gli ha fatti proprio incazzare"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 6.5,
+      "giudizio": "Presente senza eccessi. L'equilibratore fa il suo lavoro in silenzio.",
+      "messaggi": 9,
+      "mediaGiornaliera": 2.2,
+      "highlights": [
+        "Presente ma non dominante",
+        "Presente per buona parte della settimana"
+      ],
+      "citazioneTop": "8 faccio notte a lavoro e il 9 alla mise magari vengo prima di andare"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 6.0,
+      "giudizio": "Ha partecipato con i suoi orari improbabili. Niente di nuovo sotto il sole (tropicale).",
+      "messaggi": 4,
+      "mediaGiornaliera": 1.3,
+      "highlights": [
+        "Interventi sporadici ma mirati",
+        "Presente per buona parte della settimana"
+      ],
+      "citazioneTop": "ottima se raccontata da Adriano"
+    }
+  ],
+  "awards": {
+    "mvp": "Fausto Petrini",
+    "comico": "Giacomo Dolfi",
+    "cuore": "Giacomo Dolfi",
+    "fantasma": "Alessio Valentini"
+  }
+}

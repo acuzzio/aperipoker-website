@@ -1,0 +1,103 @@
+{
+  "anno": 2021,
+  "settimana": 21,
+  "startDate": "2021-05-24",
+  "endDate": "2021-05-30",
+  "stats": {
+    "totalMessages": 112,
+    "activeMembers": 6,
+    "avgPerMember": 18.7
+  },
+  "riassunto": "Una settimana di ordinaria follia con 112 messaggi. Fausto in testa alla classifica.",
+  "bestQuotes": [
+    {
+      "quote": "Ma avete capito chi mi aveva mandato quei messaggi? Possibile?",
+      "author": "Giacomo Dolfi",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Bella luna..",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Chi c'è mercoledi a siena che veniamo a trovare i miei?",
+      "author": "Fausto Petrini",
+      "context": "Momento memorabile della settimana"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Fausto Petrini",
+      "voto": 8.4,
+      "giudizio": "W il bollore! Fausto on fire questa settimana, peccato per gli altri.",
+      "messaggi": 37,
+      "mediaGiornaliera": 5.3,
+      "highlights": [
+        "Ha dominato la conversazione con il 33% dei messaggi"
+      ],
+      "citazioneTop": "Chi c'è mercoledi a siena che veniamo a trovare i miei?"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 6.7,
+      "giudizio": "Il solito Adriano: affidabile, verboso, immancabile.",
+      "messaggi": 19,
+      "mediaGiornaliera": 2.7,
+      "highlights": [
+        "Tra i piu' attivi con 19 messaggi"
+      ],
+      "citazioneTop": "Bella luna.."
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 6.2,
+      "giudizio": "Presente con il suo solito stile: curioso, ironico, pungente.",
+      "messaggi": 17,
+      "mediaGiornaliera": 2.4,
+      "highlights": [
+        "Tra i piu' attivi con 17 messaggi"
+      ],
+      "citazioneTop": "Ma avete capito chi mi aveva mandato quei messaggi? Possibile?"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 6.1,
+      "giudizio": "Non ha brillato, ma neanche deluso. Il suo 'mah' valeva mille parole.",
+      "messaggi": 16,
+      "mediaGiornaliera": 2.3,
+      "highlights": [
+        "Ha contribuito con 16 messaggi"
+      ],
+      "citazioneTop": ""
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 5.8,
+      "giudizio": "Presente nonostante i fusi orari avversi. Sempre affidabile.",
+      "messaggi": 12,
+      "mediaGiornaliera": 1.7,
+      "highlights": [
+        "Ha contribuito con 12 messaggi"
+      ],
+      "citazioneTop": ""
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 5.2,
+      "giudizio": "Contributo misurato, come nel suo stile. Ogni parola al suo posto.",
+      "messaggi": 11,
+      "mediaGiornaliera": 1.6,
+      "highlights": [
+        "Ha contribuito con 11 messaggi"
+      ],
+      "citazioneTop": ""
+    }
+  ],
+  "awards": {
+    "mvp": "Fausto Petrini - Miglior voto della settimana con 8.4",
+    "comico": "Cosimo Nenciòni - Il piu' divertente della settimana",
+    "cuore": "Adriano Sergio Lorenzo Facchini - Presenza equilibrata e costante",
+    "fantasma": null
+  }
+}

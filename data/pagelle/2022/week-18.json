@@ -1,0 +1,115 @@
+{
+  "anno": 2022,
+  "settimana": 18,
+  "startDate": "2022-05-02",
+  "endDate": "2022-05-08",
+  "stats": {
+    "totalMessages": 41,
+    "activeMembers": 5,
+    "avgPerMember": 8.2
+  },
+  "riassunto": "Alessio V. parte per gli USA, negativo in aeroporto. Si scusa con Cosimo per la visita lampo ('Non mi sono fermato un secondo'). Terremoto all'Impruneta, Eleonora e' iperimparanoiata e non parla con Fausto che ha minimizzato. Fausto condivide il bagno col presidente dell'azienda. Alessio V. si incazza per il bidet ('Me lo facevo anche dopo la pipi'').",
+  "bestQuotes": [
+    {
+      "quote": "Ora devi prenderti vacanza dal tuo periodo italiano",
+      "author": "Fausto Petrini",
+      "context": "Ad Alessio V. in partenza"
+    },
+    {
+      "quote": "Io mi sto gia' incazzando che non abbiamo bidet",
+      "author": "Alessio Valentini",
+      "context": "Tornato in USA"
+    },
+    {
+      "quote": "Me lo facevo anche dopo la pipi'",
+      "author": "Alessio Valentini",
+      "context": "Sul bidet"
+    },
+    {
+      "quote": "Pensa se ti piaceva",
+      "author": "Cosimo Nenciòni",
+      "context": "Ad Adriano che dice che l'alcol non gli piace"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Alessio Valentini",
+      "voto": 8.0,
+      "giudizio": "E' partito! Negativo in aeroporto, si scusa con Cosimo, gia' rimpiange il bidet. 'Me lo facevo anche dopo la pipi'' e' una confessione intima. Il giramondo torna a girare.",
+      "messaggi": 15,
+      "mediaGiornaliera": 2.1,
+      "highlights": [
+        "E' partito negativo",
+        "Si e' scusato con Cosimo",
+        "Rimpiange il bidet"
+      ],
+      "citazioneTop": "Me lo facevo anche dopo la pipi'"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 7.5,
+      "giudizio": "Ha capito che la visita era complessa, ha sformato con Renata. 'Pensa se ti piaceva' ad Adriano ubriaco e' perfetta. Condivide notizie di crolli crypto e terremoti.",
+      "messaggi": 9,
+      "mediaGiornaliera": 1.3,
+      "highlights": [
+        "Ha capito la fretta di Alessio",
+        "Commento perfetto sull'alcol",
+        "Notizie crypto"
+      ],
+      "citazioneTop": "Pensa se ti piaceva"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 6.5,
+      "giudizio": "Ha preso una sbornia non voluta a un compleanno di gente del vino. 'Ma a me l'alcol continua a non piacermi' dopo aver bevuto tutto il pomeriggio. Non ha sentito il terremoto.",
+      "messaggi": 8,
+      "mediaGiornaliera": 1.1,
+      "highlights": [
+        "Sbornia non voluta",
+        "Non gli piace l'alcol (dice lui)",
+        "Non ha sentito il terremoto"
+      ],
+      "citazioneTop": "Ma a me l'alcol continua a non piacermi"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 7.0,
+      "giudizio": "Ha informato del terremoto, non l'ha sentito, Eleonora e' lezza perche' ha minimizzato. Condivide il bagno col presidente: 'piccole gioie'. Filosofo del quotidiano.",
+      "messaggi": 5,
+      "mediaGiornaliera": 0.7,
+      "highlights": [
+        "Ha minimizzato il terremoto",
+        "Eleonora non gli parla",
+        "Condivide il bagno col presidente"
+      ],
+      "citazioneTop": "ho minimizzato"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 6.0,
+      "giudizio": "Saluta Alessio V. con onde, conferma che il bidet e' utile, non ha sentito il terremoto. Pochi messaggi ma sempre presente.",
+      "messaggi": 4,
+      "mediaGiornaliera": 0.6,
+      "highlights": [
+        "Ha salutato Alessio",
+        "Ha confermato l'utilita' del bidet"
+      ],
+      "citazioneTop": "Oggetto molto utile il bide'"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 4.0,
+      "giudizio": "Zero messaggi questa settimana. Il Lider in pausa.",
+      "messaggi": 0,
+      "mediaGiornaliera": 0.0,
+      "highlights": [],
+      "citazioneTop": ""
+    }
+  ],
+  "awards": {
+    "mvp": "Alessio Valentini - E' partito e gia' rimpiange il bidet",
+    "comico": "Cosimo Nenciòni - 'Pensa se ti piaceva' e' perfetta",
+    "cuore": "Fausto Petrini - Ha minimizzato il terremoto per non far preoccupare",
+    "fantasma": "Giacomo Dolfi - Zero messaggi"
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "anno": 2021,
+  "settimana": 10,
+  "startDate": "2021-03-08",
+  "endDate": "2021-03-14",
+  "stats": {
+    "totalMessages": 50,
+    "activeMembers": 6,
+    "avgPerMember": 8.3
+  },
+  "riassunto": "Settimana 10 con 50 messaggi. Fausto guida le danze con 13 contributi.",
+  "bestQuotes": [
+    {
+      "quote": "Esattamente prevedibile come il super divertimento che mi ha dato! D’altronde c’è sempre un risvolto della medaglia",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Il Post (@ilpost) ha twittato: I finalisti del World Press Photo",
+      "author": "Fausto Petrini",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Spinoza (@spinozait) ha twittato: Le matte risate",
+      "author": "Fausto Petrini",
+      "context": "Momento memorabile della settimana"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Fausto Petrini",
+      "voto": 7.8,
+      "giudizio": "Il Trascinatore ha proposto, organizzato, coordinato. Come sempre nessuno l'ha seguito.",
+      "messaggi": 13,
+      "mediaGiornaliera": 1.9,
+      "highlights": [
+        "Ha dominato la conversazione con il 26% dei messaggi"
+      ],
+      "citazioneTop": "Il Post (@ilpost) ha twittato: I finalisti del World Press Photo"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 7.4,
+      "giudizio": "Poche parole, massimo impatto. Il cecchino colpisce ancora.",
+      "messaggi": 13,
+      "mediaGiornaliera": 1.9,
+      "highlights": [
+        "Ha dominato la conversazione con il 26% dei messaggi"
+      ],
+      "citazioneTop": ""
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 7.2,
+      "giudizio": "Ha partecipato con il suo solito stile affettuoso e diretto.",
+      "messaggi": 11,
+      "mediaGiornaliera": 1.6,
+      "highlights": [
+        "Tra i piu' attivi con 11 messaggi"
+      ],
+      "citazioneTop": ""
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 5.9,
+      "giudizio": "Presente come sempre, non ha fatto mancare la sua voce al coro.",
+      "messaggi": 8,
+      "mediaGiornaliera": 1.1,
+      "highlights": [
+        "Tra i piu' attivi con 8 messaggi"
+      ],
+      "citazioneTop": "Esattamente prevedibile come il super divertimento che mi ha dato! D’altronde c’è sempre un risvolto della medaglia"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 4.7,
+      "giudizio": "Assente quasi totale. Forse impegnato con gossip politico offline.",
+      "messaggi": 3,
+      "mediaGiornaliera": 0.4,
+      "highlights": [
+        "Ha contribuito con 3 messaggi"
+      ],
+      "citazioneTop": ""
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 4.5,
+      "giudizio": "Il Laconico e' diventato muto. Nemmeno un 'Credo'.",
+      "messaggi": 2,
+      "mediaGiornaliera": 0.3,
+      "highlights": [
+        "Ha contribuito con 2 messaggi"
+      ],
+      "citazioneTop": ""
+    }
+  ],
+  "awards": {
+    "mvp": "Fausto Petrini - Miglior voto della settimana con 7.8",
+    "comico": "Alessio Valentini - Il piu' divertente della settimana",
+    "cuore": "Adriano Sergio Lorenzo Facchini - Presenza equilibrata e costante",
+    "fantasma": "Alessio Macalùso - Il piu' silenzioso con 2 messaggi"
+  }
+}

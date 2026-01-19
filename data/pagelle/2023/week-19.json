@@ -1,0 +1,109 @@
+{
+  "anno": 2023,
+  "settimana": 19,
+  "startDate": "2023-05-08",
+  "endDate": "2023-05-14",
+  "stats": {
+    "totalMessages": 96,
+    "activeMembers": 6,
+    "avgPerMember": 16.0
+  },
+  "riassunto": "Settimana della cena impossibile che FINALMENTE si fa! Discussione infinita su date (17? 18? 19? 22? 23?) e ristoranti (Bargino? Casato? Speranza?). Adriano scrive messaggio lunghissimo ('Ha certamente un ghostwriter' - Cocco, 'chatgpt' - Alessio V.). Fausto si attiene al 'Si/No' come promesso. Cocco frustrato da una chat dove nessuno capisce il suo umorismo. Prenotato al Casato per il 17.",
+  "bestQuotes": [
+    {
+      "quote": "Ha certamente un ghostwriter. Sennò non si spiega",
+      "author": "Cosimo Nenciòni",
+      "context": "Sul messaggio lungo di Adriano"
+    },
+    {
+      "quote": "Stai parlando troppo fausto, attieniti al si/no come avevi detto.",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Richiamo a Fausto"
+    },
+    {
+      "quote": "Ho una chat dove nessuno capisce il mio umorismo e la mia sagacia. È frustrante",
+      "author": "Cosimo Nenciòni",
+      "context": "Sfogo esistenziale"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 9.0,
+      "giudizio": "Il grande mediatore! Messaggio epico sulla pazienza e le cene ('chatgpt' secondo Alessio V.). 'Stai parlando troppo Fausto, attieniti al si/no'. Si libera il 17 apposta. Prenota al Casato e 'chiude faccenda'. Leader.",
+      "messaggi": 32,
+      "mediaGiornaliera": 4.6,
+      "highlights": [
+        "Messaggio epico sulla pazienza",
+        "Prenotazione definitiva"
+      ],
+      "citazioneTop": "Ed invece si. Prenoto al casato, in 20 minuti il Mac è a casa e si mangia bene. Fine"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 7.5,
+      "giudizio": "'D'ora in poi aspetto proposte concrete e dico solo si/no'. Rispetta la promessa: 'Si' 'No' 'Si' 'No'. 'Mi fai stianta' gli dice Cocco. Propone festa nell'oliveta in chiocciola. Pragmatico zen.",
+      "messaggi": 18,
+      "mediaGiornaliera": 2.6,
+      "highlights": [
+        "Promessa Si/No mantenuta",
+        "Proposta oliveta"
+      ],
+      "citazioneTop": "Si"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 7.5,
+      "giudizio": "'Ha certamente un ghostwriter'. Sfogo sulla chat che non lo capisce: 'È frustrante. Ora li mando tutti a cagare'. Offre ospitalita a Mac. Il 18 a Milano. Sarcastico e generoso.",
+      "messaggi": 14,
+      "mediaGiornaliera": 2.0,
+      "highlights": [
+        "Battuta ghostwriter/chatgpt",
+        "Sfogo esistenziale"
+      ],
+      "citazioneTop": "Ho una chat dove nessuno capisce il mio umorismo e la mia sagacia"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 7.0,
+      "giudizio": "'Dio maiale, io pagherei a peso d'oro per venire'. 'chatgpt' sul messaggio di Adriano. 'Io di solito aumento la cattiveria finché non mi buttano fuori'. Partecipa emotivamente da lontano.",
+      "messaggi": 8,
+      "mediaGiornaliera": 1.1,
+      "highlights": [
+        "Battuta chatgpt",
+        "Partecipazione emotiva"
+      ],
+      "citazioneTop": "Dio maiale, io pagherei a peso d'oro per venire"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 7.0,
+      "giudizio": "'Famo 17? Io faccio mattina ma insomma va bene'. Sveglia alle 4:20. 'Dillo a noi che ti capiamo' a Cocco. 'Cosimo mi fa notare che non ho risposto'. Sempre disponibile nonostante i turni.",
+      "messaggi": 12,
+      "mediaGiornaliera": 1.7,
+      "highlights": [
+        "Disponibilita nonostante turni",
+        "Supporto a Cocco"
+      ],
+      "citazioneTop": "Dillo a noi che ti capiamo"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 6.0,
+      "giudizio": "'23 non posso, 17 si, 18 meglio'. 'So taccagno' sulla scelta del ristorante. 'Io un messaggio lungo cosi l'avrei diviso in 10 mini messaggi'. TikTok su Adriano non leader. Il solito.",
+      "messaggi": 10,
+      "mediaGiornaliera": 1.4,
+      "highlights": [
+        "Ammissione taccagneria",
+        "Battuta sui messaggi"
+      ],
+      "citazioneTop": "So taccagno"
+    }
+  ],
+  "awards": {
+    "mvp": "Adriano Sergio Lorenzo Facchini",
+    "comico": "Cosimo Nenciòni",
+    "cuore": "Alessio Macalùso",
+    "fantasma": null
+  }
+}

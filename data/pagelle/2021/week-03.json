@@ -1,0 +1,103 @@
+{
+  "anno": 2021,
+  "settimana": 3,
+  "startDate": "2021-01-18",
+  "endDate": "2021-01-24",
+  "stats": {
+    "totalMessages": 137,
+    "activeMembers": 6,
+    "avgPerMember": 22.8
+  },
+  "riassunto": "Una settimana di ordinaria follia con 137 messaggi. Alessio V. in testa alla classifica.",
+  "bestQuotes": [
+    {
+      "quote": "cosa dice la prima istruzione nel cartello? sono curioso",
+      "author": "Alessio Valentini",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "https://twitter.com/perchetendenza/status/1351246371924402177?s=08",
+      "author": "Cosimo Nenciòni",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Te che sei un tipo da mare dovresti essere al settimo cielo!",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Momento memorabile della settimana"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Alessio Valentini",
+      "voto": 7.1,
+      "giudizio": "Ha partecipato con il suo solito stile affettuoso e diretto.",
+      "messaggi": 32,
+      "mediaGiornaliera": 4.6,
+      "highlights": [
+        "Tra i piu' attivi con 32 messaggi"
+      ],
+      "citazioneTop": "cosa dice la prima istruzione nel cartello? sono curioso"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 7.0,
+      "giudizio": "Presente come sempre, non ha fatto mancare la sua voce al coro.",
+      "messaggi": 32,
+      "mediaGiornaliera": 4.6,
+      "highlights": [
+        "Tra i piu' attivi con 32 messaggi"
+      ],
+      "citazioneTop": "Te che sei un tipo da mare dovresti essere al settimo cielo!"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 6.7,
+      "giudizio": "Il solito Fausto: ci prova, ogni tanto ci riesce.",
+      "messaggi": 29,
+      "mediaGiornaliera": 4.1,
+      "highlights": [
+        "Tra i piu' attivi con 29 messaggi"
+      ],
+      "citazioneTop": ""
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 6.1,
+      "giudizio": "Contributo equilibrato del patriarca benevolo.",
+      "messaggi": 18,
+      "mediaGiornaliera": 2.6,
+      "highlights": [
+        "Ha contribuito con 18 messaggi"
+      ],
+      "citazioneTop": ""
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 5.7,
+      "giudizio": "Non ha brillato, ma neanche deluso. Il suo 'mah' valeva mille parole.",
+      "messaggi": 15,
+      "mediaGiornaliera": 2.1,
+      "highlights": [
+        "Ha contribuito con 15 messaggi"
+      ],
+      "citazioneTop": "https://twitter.com/perchetendenza/status/1351246371924402177?s=08"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 5.2,
+      "giudizio": "Anche per i suoi standard, troppo silenzioso. Meditava?",
+      "messaggi": 11,
+      "mediaGiornaliera": 1.6,
+      "highlights": [
+        "Ha contribuito con 11 messaggi"
+      ],
+      "citazioneTop": ""
+    }
+  ],
+  "awards": {
+    "mvp": "Alessio Valentini - Miglior voto della settimana con 7.1",
+    "comico": "Alessio Valentini - Il piu' divertente della settimana",
+    "cuore": "Giacomo Dolfi - Presenza equilibrata e costante",
+    "fantasma": null
+  }
+}

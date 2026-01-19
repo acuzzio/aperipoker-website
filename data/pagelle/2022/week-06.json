@@ -1,0 +1,119 @@
+{
+  "anno": 2022,
+  "settimana": 6,
+  "startDate": "2022-02-07",
+  "endDate": "2022-02-13",
+  "stats": {
+    "totalMessages": 72,
+    "activeMembers": 6,
+    "avgPerMember": 12.0
+  },
+  "riassunto": "Alessio Valentini bombarda il gruppo con la notizia della Green Card: 12.000 euro e 2 anni senza tornare in Italia. Il gruppo promette di andarlo a trovare ('Prometto che ti vengo a trovare'). Nel frattempo Adriano incontra Oreste la peste ingrassato di 15 kg e si lamenta che alle Olimpiadi non inquadrano piu' i culi delle atlete. Giacomo ancora positivo, Fausto cerca di organizzare cene. La tipa del curling e' fica.",
+  "bestQuotes": [
+    {
+      "quote": "La tipa del curling sa fica",
+      "author": "Fausto Petrini",
+      "context": "Commento olimpico essenziale"
+    },
+    {
+      "quote": "sono uscito da un meeting per sentire sta roba... voglio provare ad applicare per la green card",
+      "author": "Alessio Valentini",
+      "context": "L'annuncio della Green Card"
+    },
+    {
+      "quote": "Non inquadrano piu' i culi delle atlete. E questa cosa mi rende molto triste",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Lamentela sulle inquadrature olimpiche"
+    },
+    {
+      "quote": "Insomma vuoi la nostra garanzia che in questi due anni ti si viene a trovare",
+      "author": "Fausto Petrini",
+      "context": "L'impegno del gruppo verso Alessio V."
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Alessio Valentini",
+      "voto": 8.5,
+      "giudizio": "Ha aperto il cuore al gruppo sulla Green Card. 12.000 euro, 2 anni senza tornare, incertezza totale. Il gruppo si e' stretto intorno a lui. 'dio maiale' in chiusura e' catartico. Il giramondo sta per diventare ancora piu' giramondo.",
+      "messaggi": 21,
+      "mediaGiornaliera": 3.0,
+      "highlights": [
+        "Ha condiviso il dilemma della Green Card",
+        "Ha ricevuto promesse di visite",
+        "Ha confermato la tristezza delle inquadrature olimpiche"
+      ],
+      "citazioneTop": "potrei fare delle fenomenate tipo prendere lavoro qua e lavorare dall'italia pagato dagli states"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 7.5,
+      "giudizio": "Ha incontrato Oreste la peste (+15 kg), si e' lamentato delle inquadrature olimpiche, ha proposto cene. La promessa 'Ti vengo a trovare' ad Alessio e' dolce. Sempre notturno, sempre presente.",
+      "messaggi": 18,
+      "mediaGiornaliera": 2.6,
+      "highlights": [
+        "Ha incontrato Oreste ingrassato",
+        "Ha promesso di visitare Alessio V.",
+        "Lamentela sui culi non inquadrati"
+      ],
+      "citazioneTop": "Non inquadrano piu' i culi delle atlete. E questa cosa mi rende molto triste"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 7.5,
+      "giudizio": "Ha aperto con 'La tipa del curling sa fica' e ha chiuso con l'impegno di visitare Alessio. Nel mezzo, tentativi di organizzare cene frustrati. 'The devil's advocate' sui costi della Green Card.",
+      "messaggi": 13,
+      "mediaGiornaliera": 1.9,
+      "highlights": [
+        "La tipa del curling",
+        "Ha capito subito cosa voleva Alessio",
+        "Ha proposto cena a Siena"
+      ],
+      "citazioneTop": "Insomma vuoi la nostra garanzia che in questi due anni ti si viene a trovare"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 7.0,
+      "giudizio": "Chiede aggiornamenti su Giacomo positivo, poi si interessa alla Green Card di Alessio. Il pragmatismo ('12000 euro e' la meno') aiuta. Curioso su Oreste ingrassato.",
+      "messaggi": 8,
+      "mediaGiornaliera": 1.1,
+      "highlights": [
+        "Ha chiesto aggiornamenti su Giacomo",
+        "Pragmatico sulla Green Card",
+        "Curioso su Oreste"
+      ],
+      "citazioneTop": "12000 euro e' la meno. E poi non e' poi cosi' tanto secondo me"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 6.5,
+      "giudizio": "Ancora positivo con tutta la famiglia. Tra mal di gola, catarra e scherzi a Pietro che lo fanno piangere, resiste. Partecipa alle discussioni sulla Green Card con domande pratiche.",
+      "messaggi": 7,
+      "mediaGiornaliera": 1.0,
+      "highlights": [
+        "Ha fatto piangere e ridere Pietro",
+        "Ha chiesto alternative sulla Green Card",
+        "Ancora in trincea con il Covid"
+      ],
+      "citazioneTop": "oggi ho fatto uno scherzo a Pietrone e ce l'ho fatto piangere (ma poi morire da ridere)"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 6.0,
+      "giudizio": "Pochi messaggi ma quello che conta: 'Vabbe' applica! E si viene noi da te'. Supporto zen all'amico in crisi. Il resto e' silenzio contemplativo.",
+      "messaggi": 5,
+      "mediaGiornaliera": 0.7,
+      "highlights": [
+        "Ha promesso di visitare Alessio V.",
+        "Supporto zen"
+      ],
+      "citazioneTop": "Vabbe' applica! E si viene noi da te"
+    }
+  ],
+  "awards": {
+    "mvp": "Alessio Valentini - Ha condiviso un momento importante della sua vita",
+    "comico": "Adriano Sergio Lorenzo Facchini - I culi delle atlete olimpiche",
+    "cuore": "Fausto Petrini - Ha capito subito cosa serviva ad Alessio",
+    "fantasma": "Nessuno - Tutti presenti per Alessio"
+  }
+}

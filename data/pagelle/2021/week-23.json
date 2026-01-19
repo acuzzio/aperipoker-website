@@ -1,0 +1,103 @@
+{
+  "anno": 2021,
+  "settimana": 23,
+  "startDate": "2021-06-07",
+  "endDate": "2021-06-13",
+  "stats": {
+    "totalMessages": 213,
+    "activeMembers": 6,
+    "avgPerMember": 35.5
+  },
+  "riassunto": "Il gruppo si fa sentire con 213 messaggi. Alessio V. il piu' loquace con 50 messaggi.",
+  "bestQuotes": [
+    {
+      "quote": "Ti è cresciuto il cazzo? Con moderna viene il cazzone.",
+      "author": "Cosimo Nenciòni",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Qualcun altro può dire che ha i. Parente per favore?",
+      "author": "Alessio Macalùso",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Ma,sto tizio chi è? È già un paio di volte che lo vedo. Ma è una cosa cpmica zpero",
+      "author": "Fausto Petrini",
+      "context": "Momento memorabile della settimana"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Alessio Valentini",
+      "voto": 7.1,
+      "giudizio": "Ha partecipato con il suo solito stile affettuoso e diretto.",
+      "messaggi": 50,
+      "mediaGiornaliera": 7.1,
+      "highlights": [
+        "Tra i piu' attivi con 50 messaggi"
+      ],
+      "citazioneTop": "dio can can come si chiamava quella prof che parlava così... mi viene Tanganelli, ma quella era viola, no?"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 6.6,
+      "giudizio": "Non ha brillato, ma neanche deluso. Il suo 'mah' valeva mille parole.",
+      "messaggi": 42,
+      "mediaGiornaliera": 6.0,
+      "highlights": [
+        "Tra i piu' attivi con 42 messaggi"
+      ],
+      "citazioneTop": "Ti è cresciuto il cazzo? Con moderna viene il cazzone."
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 6.6,
+      "giudizio": "Il solito Adriano: affidabile, verboso, immancabile.",
+      "messaggi": 39,
+      "mediaGiornaliera": 5.6,
+      "highlights": [
+        "Tra i piu' attivi con 39 messaggi"
+      ],
+      "citazioneTop": ""
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 6.3,
+      "giudizio": "Presente e propositivo, senza eccessi di entusiasmo.",
+      "messaggi": 34,
+      "mediaGiornaliera": 4.9,
+      "highlights": [
+        "Tra i piu' attivi con 34 messaggi"
+      ],
+      "citazioneTop": "Ma,sto tizio chi è? È già un paio di volte che lo vedo. Ma è una cosa cpmica zpero"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 6.2,
+      "giudizio": "Contributo equilibrato del patriarca benevolo.",
+      "messaggi": 31,
+      "mediaGiornaliera": 4.4,
+      "highlights": [
+        "Ha contribuito con 31 messaggi"
+      ],
+      "citazioneTop": ""
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 5.8,
+      "giudizio": "Il Laconico e' diventato muto. Nemmeno un 'Credo'.",
+      "messaggi": 17,
+      "mediaGiornaliera": 2.4,
+      "highlights": [
+        "Ha contribuito con 17 messaggi"
+      ],
+      "citazioneTop": "Qualcun altro può dire che ha i. Parente per favore?"
+    }
+  ],
+  "awards": {
+    "mvp": "Alessio Valentini - Miglior voto della settimana con 7.1",
+    "comico": "Alessio Valentini - Il piu' divertente della settimana",
+    "cuore": "Fausto Petrini - Presenza equilibrata e costante",
+    "fantasma": null
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "anno": 2020,
+  "settimana": 34,
+  "startDate": "2020-08-17",
+  "endDate": "2020-08-23",
+  "stats": {
+    "totalMessages": 175,
+    "activeMembers": 6,
+    "avgPerMember": 29.2
+  },
+  "riassunto": "Settimana normale con 175 messaggi e 6 membri attivi nella fase di riapertura. Si è parlato principalmente di viaggi, lavoro, cinema/film. Il gruppo ha mantenuto il suo ritmo consueto tra battute e organizzazione di uscite.",
+  "bestQuotes": [
+    {
+      "quote": "Ma se uno volesse fare il tampone Covid , dove cazzo lo deve fare?",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "oggi in California aria irrespirabile per colpa degli incendi !!",
+      "author": "Alessio Valentini",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Si ma insomma? È Anacleto vero?",
+      "author": "Cosimo Nenciòni",
+      "context": "Momento memorabile della settimana"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 8.0,
+      "giudizio": "Il Provocatore Raffinato colpisce ancora. Con tre frasi ha detto più di altri in venti messaggi.",
+      "messaggi": 48,
+      "mediaGiornaliera": 8.0,
+      "highlights": [
+        "Molto attivo, tra i più presenti della settimana",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "Beh. Noi abbiamo Barillari."
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 8.0,
+      "giudizio": "Nonostante il fuso orario impossibile, Alessio V. ha tenuto alto il morale del gruppo.",
+      "messaggi": 38,
+      "mediaGiornaliera": 7.6,
+      "highlights": [
+        "Molto attivo, tra i più presenti della settimana",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "la prima è che il prof ha fatto partire la macchina per riprendermi il prossimo anno."
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 8.0,
+      "giudizio": "Il Trascinatore ha proposto, organizzato, coordinato. Che poi nessuno abbia risposto è un altro discorso.",
+      "messaggi": 41,
+      "mediaGiornaliera": 6.8,
+      "highlights": [
+        "Molto attivo, tra i più presenti della settimana",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "Sogno da tempo di poterne comprare uno di cui sfruttare la forza lavoro perfarmi pagare al suo posto. L'umanità non avrebbe più problemi"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 7.0,
+      "giudizio": "Contributi costanti, ma questa settimana il Re ha mantenuto un profilo insolitamente basso.",
+      "messaggi": 26,
+      "mediaGiornaliera": 5.2,
+      "highlights": [
+        "Buona partecipazione alle discussioni",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "Ma che mondo meraviglioso"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 6.5,
+      "giudizio": "Presente senza eccessi. L'equilibratore fa il suo lavoro in silenzio.",
+      "messaggi": 13,
+      "mediaGiornaliera": 2.6,
+      "highlights": [
+        "Presente ma non dominante",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "Tipo monculi praticamente"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 6.0,
+      "giudizio": "Presente come un patriarca benevolo: osserva, ogni tanto commenta, sempre con ironia.",
+      "messaggi": 9,
+      "mediaGiornaliera": 2.2,
+      "highlights": [
+        "Presente ma non dominante",
+        "Presente per buona parte della settimana"
+      ],
+      "citazioneTop": "la smetti di guarda le fiche con la tu moglie accanto????"
+    }
+  ],
+  "awards": {
+    "mvp": "Cosimo Nenciòni",
+    "comico": "Cosimo Nenciòni",
+    "cuore": "Fausto Petrini",
+    "fantasma": "Giacomo Dolfi"
+  }
+}

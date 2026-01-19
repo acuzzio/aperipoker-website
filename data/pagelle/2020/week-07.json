@@ -1,0 +1,107 @@
+{
+  "anno": 2020,
+  "settimana": 7,
+  "startDate": "2020-02-10",
+  "endDate": "2020-02-16",
+  "stats": {
+    "totalMessages": 200,
+    "activeMembers": 6,
+    "avgPerMember": 33.3
+  },
+  "riassunto": "Una settimana all'insegna di lavoro, calcio, uscite/cene. 200 messaggi scambiati tra i 6 membri attivi, con il solito mix di ironia e discussioni serie.",
+  "bestQuotes": [
+    {
+      "quote": "A me dispiace molto non venire, ma oggi è impossibile. Magnate e divertitevi anche senza scatola!",
+      "author": "Giacomo Dolfi",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Fai un update un po' più elaborato cazzo",
+      "author": "Cosimo Nenciòni",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "io ci sto, ma mi faccio trovare alla colonna del grillo?",
+      "author": "Alessio Valentini",
+      "context": "Momento memorabile della settimana"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Alessio Valentini",
+      "voto": 7.5,
+      "giudizio": "Il Giramondo ha scritto da qualche angolo del mondo con entusiasmo contagioso.",
+      "messaggi": 58,
+      "mediaGiornaliera": 19.3,
+      "highlights": [
+        "Molto attivo, tra i più presenti della settimana",
+        "Presente per buona parte della settimana"
+      ],
+      "citazioneTop": "io alla fine ci sarei anche eh... ieri è stata una giornata piena di roba. Oggi sto lavorando, ma insomma se c'è da muoversi ci si muove..."
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 7.0,
+      "giudizio": "Ha partecipato con la consueta costanza. Niente di eclatante, ma neanche assenze ingiustificate.",
+      "messaggi": 39,
+      "mediaGiornaliera": 13.0,
+      "highlights": [
+        "Molto attivo, tra i più presenti della settimana",
+        "Presente per buona parte della settimana"
+      ],
+      "citazioneTop": "Nel caso ti passo a prendere"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 7.0,
+      "giudizio": "Ha contribuito con la consueta energia. Non tutte le proposte sono andate a buon fine, ma ci ha provato.",
+      "messaggi": 29,
+      "mediaGiornaliera": 9.7,
+      "highlights": [
+        "Buona partecipazione alle discussioni",
+        "Presente per buona parte della settimana"
+      ],
+      "citazioneTop": "Ah, dimenticavo: l'idropulitrice...:\"non ci mettete la mano davanti, vi fate male eh\""
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 7.0,
+      "giudizio": "Il solito Alessio Mac: pacato, presente, essenziale. Niente sprechi di parole.",
+      "messaggi": 49,
+      "mediaGiornaliera": 16.3,
+      "highlights": [
+        "Molto attivo, tra i più presenti della settimana",
+        "Presente per buona parte della settimana"
+      ],
+      "citazioneTop": "Quando era all’apice della fama"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 6.5,
+      "giudizio": "Il solito Cosimo: poche parole, tutte giuste. O quasi.",
+      "messaggi": 21,
+      "mediaGiornaliera": 10.5,
+      "highlights": [
+        "Buona partecipazione alle discussioni"
+      ],
+      "citazioneTop": "A quest'ora o lui o i cartoni animati"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 6.0,
+      "giudizio": "Il Lider ha supervisionato con discrezione. Interventi mirati, niente sprechi.",
+      "messaggi": 4,
+      "mediaGiornaliera": 4.0,
+      "highlights": [
+        "Interventi sporadici ma mirati"
+      ],
+      "citazioneTop": "Molto meglio dei parrucchieri di merda che ci sono a giro"
+    }
+  ],
+  "awards": {
+    "mvp": "Alessio Valentini",
+    "comico": "Adriano Sergio Lorenzo Facchini",
+    "cuore": "Alessio Macalùso",
+    "fantasma": "Giacomo Dolfi"
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "anno": 2022,
+  "settimana": 43,
+  "startDate": "2022-10-27",
+  "endDate": "2022-10-30",
+  "stats": {
+    "totalMessages": 28,
+    "activeMembers": 6,
+    "avgPerMember": 4.7
+  },
+  "riassunto": "Adriano non ride piu': 'E' un periodo che non mi fa ridere nulla'. Il gruppo prova a consolarlo ma niente lo fa ridere. Tragedia a Seul per Halloween: 'Allucinante, ho ancora paura a cliccare sul video'. Amanda Knox torna in Italia e si incontra con Sollecito ('Hanno fatto una cena di pesce e via'). Finalmente tolto l'amianto dal Gambelli.",
+  "bestQuotes": [
+    {
+      "quote": "E' un periodo che non mi fa ridere nulla, quindi non ho riso",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Sulla sua situazione emotiva"
+    },
+    {
+      "quote": "Occorre del niente. Niente lo fa ridere",
+      "author": "Alessio Valentini",
+      "context": "Analisi su Adriano"
+    },
+    {
+      "quote": "Io il video ho ancora paura a cliccarci",
+      "author": "Alessio Valentini",
+      "context": "Sul video di Seul"
+    },
+    {
+      "quote": "Hanno fatto una cena di pesce, e via",
+      "author": "Alessio Valentini",
+      "context": "Su Amanda Knox e Sollecito"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Alessio Valentini",
+      "voto": 7.5,
+      "giudizio": "Ha provato a fare ridere Adriano con la pastasciutta (non ha funzionato). 'Occorre del niente, niente lo fa ridere'. Ha paura del video di Seul. 'Cena di pesce e via' su Amanda Knox. Filosofo della tristezza.",
+      "messaggi": 11,
+      "mediaGiornaliera": 2.8,
+      "highlights": [
+        "Ti farai una pastasciutta",
+        "Niente lo fa ridere",
+        "Paura del video"
+      ],
+      "citazioneTop": "Occorre del niente. Niente lo fa ridere"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 7.0,
+      "giudizio": "'Poteva esse il Gambelli' e' nostalgia. 'Occorre ben altro' per far ridere Adriano. 'From hell' su Seul. Presente e partecipe.",
+      "messaggi": 7,
+      "mediaGiornaliera": 1.8,
+      "highlights": [
+        "Poteva essere Gambelli",
+        "Occorre ben altro",
+        "From hell"
+      ],
+      "citazioneTop": "Non fara' certo ridere Adriano, occorre ben altro"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 6.5,
+      "giudizio": "Periodo difficile: 'Non mi fa ridere nulla'. Ha commentato Seul ('Tutti vestiti in maschera dio santo'). Ha condiviso articolo su Amanda Knox. Triste ma presente.",
+      "messaggi": 6,
+      "mediaGiornaliera": 1.5,
+      "highlights": [
+        "Non ride",
+        "Seul allucinante",
+        "Amanda Knox"
+      ],
+      "citazioneTop": "E' un periodo che non mi fa ridere nulla"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 6.5,
+      "giudizio": "'Finalmente hanno tolto quel cazzo di amianto' sul Gambelli. 'Dai Adri siamo con te'. Supporto morale.",
+      "messaggi": 2,
+      "mediaGiornaliera": 0.5,
+      "highlights": [
+        "Amianto tolto",
+        "Siamo con te"
+      ],
+      "citazioneTop": "Dai Adri siamo con te"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 5.5,
+      "giudizio": "Un solo messaggio: 'Ahahahah'. Almeno ha riso.",
+      "messaggi": 1,
+      "mediaGiornaliera": 0.3,
+      "highlights": [
+        "Ha riso"
+      ],
+      "citazioneTop": "Ahahahah"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 5.5,
+      "giudizio": "'Disastro vero' su Seul. Un solo messaggio ma appropriato.",
+      "messaggi": 1,
+      "mediaGiornaliera": 0.3,
+      "highlights": [
+        "Disastro vero"
+      ],
+      "citazioneTop": "Disastro vero"
+    }
+  ],
+  "awards": {
+    "mvp": "Alessio Valentini - Ha analizzato la tristezza di Adriano",
+    "comico": "Nessuno - Adriano non ride",
+    "cuore": "Fausto Petrini - Dai Adri siamo con te",
+    "fantasma": "Alessio Macalùso e Giacomo Dolfi - Solo un messaggio a testa"
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "anno": 2020,
+  "settimana": 29,
+  "startDate": "2020-07-13",
+  "endDate": "2020-07-19",
+  "stats": {
+    "totalMessages": 99,
+    "activeMembers": 6,
+    "avgPerMember": 16.5
+  },
+  "riassunto": "Una settimana all'insegna di viaggi, lavoro, uscite/cene nella fase di riapertura. 99 messaggi scambiati tra i 6 membri attivi, con il solito mix di ironia e discussioni serie.",
+  "bestQuotes": [
+    {
+      "quote": "Però hai guadagnato 151 punti per la prossima volta!",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Una spina terribile! Senza l'intervento di renata e Lucia sarei stato sempre lì",
+      "author": "Giacomo Dolfi",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "cocco, come sta evolvendo la cosa? tutto oki?",
+      "author": "Alessio Valentini",
+      "context": "Momento memorabile della settimana"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Alessio Valentini",
+      "voto": 8.0,
+      "giudizio": "Nonostante il fuso orario impossibile, Alessio V. ha tenuto alto il morale del gruppo.",
+      "messaggi": 28,
+      "mediaGiornaliera": 5.6,
+      "highlights": [
+        "Buona partecipazione alle discussioni",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "un documentario su Michael Jordan che ancora devo vedere"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 7.5,
+      "giudizio": "Fiume in piena come sempre, ma questa settimana i suoi monologhi avevano un senso. Miracolo natalizio?",
+      "messaggi": 17,
+      "mediaGiornaliera": 4.2,
+      "highlights": [
+        "Buona partecipazione alle discussioni",
+        "Presente per buona parte della settimana"
+      ],
+      "citazioneTop": "Però hai guadagnato 151 punti per la prossima volta!"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 7.0,
+      "giudizio": "Il solito Cosimo: poche parole, tutte giuste. O quasi.",
+      "messaggi": 23,
+      "mediaGiornaliera": 5.8,
+      "highlights": [
+        "Buona partecipazione alle discussioni",
+        "Presente per buona parte della settimana"
+      ],
+      "citazioneTop": "The last dance l'avete visto?"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 7.0,
+      "giudizio": "Il Lider ha supervisionato con discrezione. Interventi mirati, niente sprechi.",
+      "messaggi": 9,
+      "mediaGiornaliera": 1.8,
+      "highlights": [
+        "Presente ma non dominante",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "Not yet, ma consigliato da tutti"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 6.5,
+      "giudizio": "Il solito Fausto: propositivo, ottimista, e leggermente frustrato dalle mancate risposte.",
+      "messaggi": 8,
+      "mediaGiornaliera": 2.0,
+      "highlights": [
+        "Presente ma non dominante",
+        "Presente per buona parte della settimana"
+      ],
+      "citazioneTop": "Firenze soleggiato e ventoso"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 6.5,
+      "giudizio": "Il solito Alessio Mac: pacato, presente, essenziale. Niente sprechi di parole.",
+      "messaggi": 14,
+      "mediaGiornaliera": 3.5,
+      "highlights": [
+        "Presente ma non dominante",
+        "Presente per buona parte della settimana"
+      ],
+      "citazioneTop": "Allora siete al mare domani?"
+    }
+  ],
+  "awards": {
+    "mvp": "Alessio Valentini",
+    "comico": "Adriano Sergio Lorenzo Facchini",
+    "cuore": "Giacomo Dolfi",
+    "fantasma": "Fausto Petrini"
+  }
+}

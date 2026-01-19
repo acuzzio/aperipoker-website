@@ -1,0 +1,117 @@
+{
+  "anno": 2022,
+  "settimana": 49,
+  "startDate": "2022-12-05",
+  "endDate": "2022-12-11",
+  "stats": {
+    "totalMessages": 87,
+    "activeMembers": 6,
+    "avgPerMember": 14.5
+  },
+  "riassunto": "Cosimo ha febbre a 39 ('Sto di merdona'). Si organizza la cena degli auguri del 23! Adriano propone casa sua: 'Formula buffet dove ognuno porta qualcosa'. Giacomo offre ospitalita' ('Da noi c'e' posto'). Si invitano Jacopo, Bernadette, Fiamma, Costanza, Camilla, la Mugna e Nadia. 'La formula anglosassone drink/eat by your own mi gasa!'",
+  "bestQuotes": [
+    {
+      "quote": "Io ho la febbre a 39 e sto di merdona",
+      "author": "Cosimo Nenciòni",
+      "context": "Sulla febbre (non Covid)"
+    },
+    {
+      "quote": "La formula anglosassone drink/eat by your own mi gasa!",
+      "author": "Giacomo Dolfi",
+      "context": "Sulla cena degli auguri"
+    },
+    {
+      "quote": "Non e' che se te ti fai le lasagne a casa poi le porti ad una festa e non le condividi",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Sulla formula buffet"
+    },
+    {
+      "quote": "Rubano (sulla Juve)",
+      "author": "Fausto Petrini",
+      "context": "Sullo scandalo Juventus"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 8.5,
+      "giudizio": "Ha organizzato la cena degli auguri! Ha proposto casa di Elena o casa sua. Ha invitato tutti: Fiamma, Costanza, Camilla, la Mugna, Nadia. 'Mi organizzerei per fare dei gran drink'. Organizzatore supremo.",
+      "messaggi": 24,
+      "mediaGiornaliera": 3.4,
+      "highlights": [
+        "Ha organizzato cena",
+        "Formula buffet",
+        "Gran drink"
+      ],
+      "citazioneTop": "Io comunque mi organizzerei per fare dei gran drink"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 7.0,
+      "giudizio": "Febbre a 39 ma non e' Covid. 'Sto di merdona'. Ha spiegato lo scandalo Juve: 'Tecnicamente non ho capito molto e soprattutto fotte cazzo'. Malato ma presente.",
+      "messaggi": 22,
+      "mediaGiornaliera": 3.1,
+      "highlights": [
+        "Febbre 39",
+        "Fotte cazzo Juve",
+        "Devo trovare dove"
+      ],
+      "citazioneTop": "Ho la febbre a 39 e sto di merdona"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 8.0,
+      "giudizio": "'Da noi c'e' posto' offre ospitalita'. 'La formula anglosassone mi gasa!' e' entusiasmo. Ha confermato il 23. Ospite generoso.",
+      "messaggi": 16,
+      "mediaGiornaliera": 2.3,
+      "highlights": [
+        "Da noi c'e' posto",
+        "Formula anglosassone",
+        "Confermato 23"
+      ],
+      "citazioneTop": "La formula anglosassone drink/eat by your own mi gasa!"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 7.0,
+      "giudizio": "'Rubano' sulla Juve e' sintesi perfetta. Ha proposto il 23 come data unica. Ha invitato anche Nadia. Presente e propositivo.",
+      "messaggi": 14,
+      "mediaGiornaliera": 2.0,
+      "highlights": [
+        "Rubano (Juve)",
+        "Data 23",
+        "Invita Nadia"
+      ],
+      "citazioneTop": "Nulla di nuovo: rubano"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 6.5,
+      "giudizio": "'Per me si'' sulla cena. 'Per me 23 e' top'. Presente e disponibile.",
+      "messaggi": 8,
+      "mediaGiornaliera": 1.1,
+      "highlights": [
+        "Per me si",
+        "23 e' top"
+      ],
+      "citazioneTop": "Per me 23 e' top"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 5.5,
+      "giudizio": "'Bella' sulla Juve. Solo tre messaggi questa settimana.",
+      "messaggi": 3,
+      "mediaGiornaliera": 0.4,
+      "highlights": [
+        "Bella"
+      ],
+      "citazioneTop": "bella"
+    }
+  ],
+  "awards": {
+    "mvp": "Adriano Sergio Lorenzo Facchini - Ha organizzato la cena degli auguri",
+    "comico": "Giacomo Dolfi - La formula anglosassone mi gasa!",
+    "cuore": "Giacomo Dolfi - Da noi c'e' posto",
+    "fantasma": "Alessio Valentini - Solo 3 messaggi"
+  }
+}

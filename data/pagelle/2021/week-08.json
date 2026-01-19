@@ -1,0 +1,103 @@
+{
+  "anno": 2021,
+  "settimana": 8,
+  "startDate": "2021-02-22",
+  "endDate": "2021-02-28",
+  "stats": {
+    "totalMessages": 101,
+    "activeMembers": 6,
+    "avgPerMember": 16.8
+  },
+  "riassunto": "Una settimana di ordinaria follia con 101 messaggi. Fausto in testa alla classifica.",
+  "bestQuotes": [
+    {
+      "quote": "Vorrei sapere a chi cazzo do noia se vado a fare un giro in macchina o in vespa",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "tu? a nessuno. Permettere a tutti di farlo? C'e' il coglione che da' noia a qualcuno. Uno vorrebbe evitare quel coglione, che fa danni per 2 settimane.",
+      "author": "Alessio Valentini",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Ma qualcuno è riuscito a leggere tutto questo articolo senza addormentarsi?",
+      "author": "Giacomo Dolfi",
+      "context": "Momento memorabile della settimana"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Fausto Petrini",
+      "voto": 7.0,
+      "giudizio": "Ha fatto il suo, tra proposte e organizzazione. Qualcuno l'ha pure ascoltato.",
+      "messaggi": 23,
+      "mediaGiornaliera": 3.3,
+      "highlights": [
+        "Tra i piu' attivi con 23 messaggi"
+      ],
+      "citazioneTop": "Mi ha no girato wuesta cosa. Nona metto di la perchèsecondo me è una vergogna. Ma che cazzo di tv spazzatura è"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 6.9,
+      "giudizio": "Presente come sempre, non ha fatto mancare la sua voce al coro.",
+      "messaggi": 22,
+      "mediaGiornaliera": 3.1,
+      "highlights": [
+        "Tra i piu' attivi con 22 messaggi"
+      ],
+      "citazioneTop": "Vorrei sapere a chi cazzo do noia se vado a fare un giro in macchina o in vespa"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 7.3,
+      "giudizio": "Non la sua settimana migliore, ma c'era quando serviva.",
+      "messaggi": 22,
+      "mediaGiornaliera": 3.1,
+      "highlights": [
+        "Tra i piu' attivi con 22 messaggi"
+      ],
+      "citazioneTop": "tu? a nessuno. Permettere a tutti di farlo? C'e' il coglione che da' noia a qualcuno. Uno vorrebbe evitare quel coglione, che fa danni per 2 settimane."
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 5.9,
+      "giudizio": "Non ha brillato, ma neanche deluso. Il suo 'mah' valeva mille parole.",
+      "messaggi": 14,
+      "mediaGiornaliera": 2.0,
+      "highlights": [
+        "Ha contribuito con 14 messaggi"
+      ],
+      "citazioneTop": ""
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 5.9,
+      "giudizio": "Presente con il suo solito stile: curioso, ironico, pungente.",
+      "messaggi": 12,
+      "mediaGiornaliera": 1.7,
+      "highlights": [
+        "Ha contribuito con 12 messaggi"
+      ],
+      "citazioneTop": "Ma qualcuno è riuscito a leggere tutto questo articolo senza addormentarsi?"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 5.3,
+      "giudizio": "Assente o quasi. Probabilmente raggiungeva l'illuminazione.",
+      "messaggi": 8,
+      "mediaGiornaliera": 1.1,
+      "highlights": [
+        "Ha contribuito con 8 messaggi"
+      ],
+      "citazioneTop": ""
+    }
+  ],
+  "awards": {
+    "mvp": "Alessio Valentini - Miglior voto della settimana con 7.3",
+    "comico": "Alessio Valentini - Il piu' divertente della settimana",
+    "cuore": "Cosimo Nenciòni - Presenza equilibrata e costante",
+    "fantasma": "Alessio Macalùso - Il piu' silenzioso con 8 messaggi"
+  }
+}

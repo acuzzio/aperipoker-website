@@ -1,0 +1,109 @@
+{
+  "anno": 2023,
+  "settimana": 49,
+  "startDate": "2023-12-04",
+  "endDate": "2023-12-10",
+  "stats": {
+    "totalMessages": 151,
+    "activeMembers": 6,
+    "avgPerMember": 25.2
+  },
+  "riassunto": "SETTIMANA DRAMMATICA: COVID, DIEGO AL MEYER E WHAMAGEDDON! Mac propone la sfida Whamageddon: evitare 'Last Christmas' degli Wham fino a Natale. Fausto: 'Ovviamente io lo conoscevo da Romesh Ranganathan'. Poi Adriano esplode: 'Scusate ma qualcuno di voi ha un raffreddore tremendo tosse / covid Dio bastardo??'. Fausto innocente: 'No'. Cocco: 'Io ho la febbre a 38'. Adriano furioso: 'Le ultime tre volte che sono stato male c'e' un denominatore comune, la presenza di Fausto la sera prima. A voi il resto..'. POLL epico: 'Fausto e' un untore (2 voti) vs Adriano deve stare a casa (1 voto)'. Poi arriva la conferma: 'Comunque ho il covid. Chissa' chi me lo avra' attaccato'. Anche Cocco positivo! E poi il DRAMMA: Diego al Meyer con covid + gastroenterite! Cocco: 'Ha il covid e lo ricoverano'. Tutti preoccupati. Finalmente domenica le buone notizie: 'Diego si e' ripreso e potrebbero mandarlo a casa'. Adriano gia' negativo, gioca a tennis: 'Ho una quantita' di muco che potrei intonacare una stanza medio grande'. Cena del 15 confermata.",
+  "bestQuotes": [
+    {
+      "quote": "Le ultime tre volte che sono stato male c'e' un denominatore comune, la presenza di Fausto la sera prima. A voi il resto..",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Teoria dell'untore"
+    },
+    {
+      "quote": "Ho una quantita' di muco fermo tra naso e bronchi che potrei intonacare una stanza medio grande",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Guarigione covid"
+    },
+    {
+      "quote": "Diego ha sia il covid che la gastroenterite. Non ha niente di gravissimo ma e' piccolo quindi non sta bene ovviamente",
+      "author": "Cosimo Nenciòni",
+      "context": "Diego al Meyer"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 9.0,
+      "giudizio": "Il paziente zero o la vittima? 'Qualcuno di voi ha un raffreddore tremendo covid Dio bastardo??'. Teoria dell'untore Fausto: 'Le ultime tre volte che sono stato male c'e' un denominatore comune'. Maratona film da malato: 5 in un giorno! 'Ho una quantita' di muco che potrei intonacare una stanza medio grande'. 'Non respiro'. 'Riesco solo a stare sul divano fine'. 'La tu mamma e te vi riconosco ma la ragazza non mi sembra tua moglie' - sulla foto di Alessio V.! Protagonista assoluto della settimana COVID.",
+      "messaggi": 42,
+      "mediaGiornaliera": 6.0,
+      "highlights": [
+        "Covid positivo",
+        "Teoria untore"
+      ],
+      "citazioneTop": "Le ultime tre volte che sono stato male c'e' un denominatore comune, la presenza di Fausto"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 8.5,
+      "giudizio": "Il padre preoccupato! 'Cmq io ho la febbre a 38'. 'E ora vado da una vecchia'. 'Non mi apre. Stastronza'. 'Ho il covid anche io'. 'Ora ha la febbre Diego quindi si parte per il Mayer'. DIEGO RICOVERATO! 'Ha il covid e lo ricoverano'. Poi le buone notizie: 'Diego si e' ripreso e potrebbero mandarlo a casa. Ovviamente ora e' positiva Luna ma sta bene'. 'Forse hai l'ebola' ad Adriano. Settimana drammatica gestita con coraggio.",
+      "messaggi": 32,
+      "mediaGiornaliera": 4.6,
+      "highlights": [
+        "Diego al Meyer",
+        "Covid famiglia"
+      ],
+      "citazioneTop": "Diego ha sia il covid che la gastroenterite. Non ha niente di gravissimo ma e' piccolo"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 8.0,
+      "giudizio": "L'untore accusato! 'Se vi interessa ho il collo bloccato'. 'Che devi sta a casa tua. Babbeo'. 'Sei venuto a pranzo col covid, secondo me ti devi guardare allo specchio'. 'Bah, io vi vo in culo, sto proprio bene'. 'Ho appena perso la sfida di Last Christmas'. 'Prossima volta evitero' di organizzare feste per tutelarti, pora stellina'. 'Un abbraccio co' a Cocco per Diego. Si difende dalle accuse.",
+      "messaggi": 28,
+      "mediaGiornaliera": 4.0,
+      "highlights": [
+        "Difesa untore",
+        "Last Christmas"
+      ],
+      "citazioneTop": "Bah, io vi vo in culo, sto proprio bene"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 7.5,
+      "giudizio": "Il sondaggista! 'POLL: Fausto e' un untore (2 voti) vs Adriano deve stare a casa (1 voto)'. 'Cocco, in testa solo a me il vomito'. 'E comunque si sente che stai non benissimo'. 'Maremma gatta' sul covid. 'Ricordati l'altra volta al tennis....' su Adriano malato. 'Te e Luna come state?'. 'Bene per Diego dai!'. Presente e partecipe.",
+      "messaggi": 18,
+      "mediaGiornaliera": 2.6,
+      "highlights": [
+        "Poll untore",
+        "Solidarieta' Diego"
+      ],
+      "citazioneTop": "POLL: Fausto e' un untore vs Adriano deve stare a casa"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 7.0,
+      "giudizio": "'Ao'. 'Non male'. 'Ottimo' - 'mi spiace :(' sul covid. 'Mi spiace non essere in macchina insieme'. 'E' mia figlia' - risposta geniale ad Adriano! 'Quando si muore' - filosofico. Presente da lontano.",
+      "messaggi": 14,
+      "mediaGiornaliera": 2.0,
+      "highlights": [
+        "Foto figlia",
+        "Commenti covid"
+      ],
+      "citazioneTop": "E' mia figlia"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 7.0,
+      "giudizio": "Il Lider organizzatore! 'Allora la cena del 15 e' confermata'. Propone Whamageddon: 'Lo facciamo?'. 'Curati' ad Adriano. 'Bene forza'. 'Azzz' su Diego. Presente e organizzativo.",
+      "messaggi": 12,
+      "mediaGiornaliera": 1.7,
+      "highlights": [
+        "Whamageddon",
+        "Organizza cena"
+      ],
+      "citazioneTop": "Lo facciamo? (Whamageddon)"
+    }
+  ],
+  "awards": {
+    "mvp": "Adriano Sergio Lorenzo Facchini",
+    "comico": "Fausto Petrini",
+    "cuore": "Cosimo Nenciòni",
+    "fantasma": null
+  }
+}

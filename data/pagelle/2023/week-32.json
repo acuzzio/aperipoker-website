@@ -1,0 +1,109 @@
+{
+  "anno": 2023,
+  "settimana": 32,
+  "startDate": "2023-08-07",
+  "endDate": "2023-08-13",
+  "stats": {
+    "totalMessages": 75,
+    "activeMembers": 6,
+    "avgPerMember": 12.5
+  },
+  "riassunto": "Settimana del compleanno di Adriano e delle seghe e alcool! Il 13 agosto Adriano compie gli anni. Cocco: 'Sentiti auguri al sor Facchini'. Fausto: 'Auguri al Federer di Vico Alto'. Giacomo chiede il programma: Adriano risponde 'Seghe, seghe e ancora seghe!'. Giacomo: 'Alcool e seghe o seghe e alcool'. Mac aggiunge: 'Seghe alcol e grandi cacate'. Cocco: 'I tre grandi'. Fausto: 'Ogni tanto anche chiavare cmq eh...'. Alessio V. entusiasta di Elio: 'L'eterna lotta fra il bene e il male, che capolavoro'. Mac in Sicilia! Propone Amsterdam dall'1 al 4 settembre con biglietto in piu'. Discussione Palio: Fausto arriva il 13 per l'assegnazione. 'Non con questi pisani di merda'. Fausto sente la mancanza degli amici: 'Belle eh le ferie con l'altrui compagnia, ma quanto mi manca poterlo fare con voi'. Adriano crea SottoDolfi. Parodia Meloni-Barbie condivisa. Cocco consiglia Cold Fact: 'Uno dei 10 dischi piu' belli di sempre'.",
+  "bestQuotes": [
+    {
+      "quote": "Seghe, seghe e ancora seghe!",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Programma del compleanno"
+    },
+    {
+      "quote": "Belle eh le ferie con l'altrui compagnia, ma quanto mi manca poterlo fare con voi... no co sti pisani",
+      "author": "Fausto Petrini",
+      "context": "Nostalgia degli amici"
+    },
+    {
+      "quote": "I tre grandi",
+      "author": "Cosimo Nenciòni",
+      "context": "Su seghe, alcol e cacate"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 9.0,
+      "giudizio": "Il festeggiato! 'Seghe, seghe e ancora seghe!' come programma. 'Oggi cerchero' di godermela piu' del solito'. 'Big boss, non vedo l'ora di creare il SottoDolfi'. 'Forse qualcosa domani pomeriggio, se mi dite chi c'e' magari si fa una grigliata improvvisata'. Ringrazia tutti. Protagonista assoluto nel giorno del suo compleanno.",
+      "messaggi": 18,
+      "mediaGiornaliera": 2.6,
+      "highlights": [
+        "Compleanno",
+        "Seghe e alcool"
+      ],
+      "citazioneTop": "Seghe, seghe e ancora seghe!"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 8.5,
+      "giudizio": "Il nostalgico! 'Quanto mi manca poterlo fare con voi... no co sti pisani di merda'. 'Auguri al Federer di Vico Alto'. Pianifica Palio: arriva il 13, cena prova generale il 15. 'Se ti va di venire a un cenino dimmelo'. 'Ogni tanto anche chiavare cmq eh...'. Sente la mancanza del gruppo.",
+      "messaggi": 14,
+      "mediaGiornaliera": 2.0,
+      "highlights": [
+        "Nostalgia amici",
+        "Pianificazione Palio"
+      ],
+      "citazioneTop": "Belle eh le ferie con l'altrui compagnia, ma quanto mi manca poterlo fare con voi"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 8.0,
+      "giudizio": "In Sicilia! 'Sono in Sicilia'. Propone Amsterdam: 'Dall'1 al 4 abbiamo un biglietto in piu''. 'Seghe alcol e grandi cacate'. 'Anche cacare e' molto importante, ve ne renderete conto'. 'Organizziamo una reunion come si deve'. 'Io non ci sono ragazzi' per il Palio. Viaggiatore e organizzatore.",
+      "messaggi": 16,
+      "mediaGiornaliera": 2.3,
+      "highlights": [
+        "Sicilia",
+        "Proposta Amsterdam"
+      ],
+      "citazioneTop": "Anche cacare e' molto importante ve ne renderete conto"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 8.0,
+      "giudizio": "'Sentiti auguri al sor Facchini'. 'I tre grandi' su seghe, alcol e cacate. 'Cold Fact, uno dei 10 dischi piu' belli di sempre'. Chiede del Palio: 'Come siete messi? Chi e' a Siena?' 'Io semmai ci sono il 16'. 'Grande! Bella robina' sulla Sicilia di Mac. Presente e partecipe.",
+      "messaggi": 12,
+      "mediaGiornaliera": 1.7,
+      "highlights": [
+        "Auguri Adriano",
+        "Cold Fact"
+      ],
+      "citazioneTop": "I tre grandi"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 7.5,
+      "giudizio": "Entusiasta di Elio! 'L'eterna lotta fra il bene e il male, che capolavoro'. 'La sto ascoltando e ci sono dei dettagli mostruosi'. 'Auguri Adri, seghe e alcool'. 'Anche per me allora'. 'Appena fatta una mostruosa, ao se me ne rendo conto'. 'Porto la carta d'identita'' per Amsterdam. Partecipe a distanza.",
+      "messaggi": 12,
+      "mediaGiornaliera": 1.7,
+      "highlights": [
+        "Entusiasmo Elio",
+        "Auguri Adriano"
+      ],
+      "citazioneTop": "L'eterna lotta fra il bene e il male, che capolavoro"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 7.0,
+      "giudizio": "'Auguroni zi!'. 'Alcool e seghe o seghe e alcool'. 'Ok, non e' facile perche' sono con Pietro e Gio' - impegnato coi figli. 'Io ci sono, giornata piu' libera per me il 16'. 'Anche si!' sulla reunion. Presente ma con impegni familiari.",
+      "messaggi": 8,
+      "mediaGiornaliera": 1.1,
+      "highlights": [
+        "Auguri Adriano",
+        "Impegni famiglia"
+      ],
+      "citazioneTop": "Alcool e seghe o seghe e alcool"
+    }
+  ],
+  "awards": {
+    "mvp": "Adriano Sergio Lorenzo Facchini",
+    "comico": "Alessio Macalùso",
+    "cuore": "Fausto Petrini",
+    "fantasma": null
+  }
+}

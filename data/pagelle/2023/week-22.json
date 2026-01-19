@@ -1,0 +1,109 @@
+{
+  "anno": 2023,
+  "settimana": 22,
+  "startDate": "2023-05-29",
+  "endDate": "2023-06-04",
+  "stats": {
+    "totalMessages": 45,
+    "activeMembers": 6,
+    "avgPerMember": 7.5
+  },
+  "riassunto": "Settimana del compleanno di Fausto e dell'idolo di Stanford! Adriano fa gli auguri alle 3:46 di notte: 'Auguri al vecchio Fausto che ha compiuto 41 anni e comincia il cammino nei 42!' Fausto filosofeggia: 'Il cammino verso i 42 è in realtà il cammino della vita'. Alessio V. incontra Leonard Susskind a Stanford: 'Ho appena incontrato uno dei miei idoli... sono andato a dirgli che gli voglio bene'. Mac chiede: 'E lui? Era contento di avere un fan?' Giacomo al matrimonio col farfallino: Fausto nota 'Mano sul colore il Dolfi... culo'. Adriano a Genova: 'I vostri matrimoni sono stati parecchio più divertenti'.",
+  "bestQuotes": [
+    {
+      "quote": "Il cammino verso i 42 è in realtà il cammino della vita, in cui un numero in più o meno è solo una convenzione",
+      "author": "Fausto Petrini",
+      "context": "Riflessione filosofica sul compleanno"
+    },
+    {
+      "quote": "Senza quelli col cazzo che capivo la metà delle cose, a Siena il corso era ridicolo",
+      "author": "Alessio Valentini",
+      "context": "Sui corsi di Susskind vs Siena"
+    },
+    {
+      "quote": "L'ultima volta che mi so annoiato era tipo il 2016",
+      "author": "Cosimo Nenciòni",
+      "context": "Risposta ad Adriano"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 8.0,
+      "giudizio": "Auguri notturni a Fausto alle 3:46. 'Ti annoi?' a Cocco. A Genova per matrimonio: 'I vostri matrimoni sono stati parecchio più divertenti'. 'Bella cravatta' e 'Bella Lucia' sui look del matrimonio. Sempre attento ai dettagli.",
+      "messaggi": 12,
+      "mediaGiornaliera": 1.7,
+      "highlights": [
+        "Auguri notturni",
+        "Matrimonio a Genova"
+      ],
+      "citazioneTop": "I vostri matrimoni sono stati parecchio più divertenti"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 8.5,
+      "giudizio": "Incontra il suo idolo Leonard Susskind a Stanford: 'L'ho visto e sono andato a dirgli che gli voglio bene'. Spiega l'importanza: 'Senza quelli col cazzo che capivo la metà delle cose'. 'È anche stato intervistato da Lex Friedman'. Momento magico per il fisico.",
+      "messaggi": 12,
+      "mediaGiornaliera": 1.7,
+      "highlights": [
+        "Incontro con Susskind",
+        "Critica a UniSiena"
+      ],
+      "citazioneTop": "Ragazzi ho appena incontrato uno dei miei idoli... sono andato a dirgli che gli voglio bene"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 7.5,
+      "giudizio": "Compie 41 anni e filosofeggia: 'Il cammino verso i 42 è in realtà il cammino della vita'. 'Bella cravatta' e 'Bel farfallino' sui look. 'Mano sul colore il Dolfi... culo'. A Siena per il compleanno. Saggio e ironico.",
+      "messaggi": 8,
+      "mediaGiornaliera": 1.1,
+      "highlights": [
+        "Compleanno filosofico",
+        "Battute sui look"
+      ],
+      "citazioneTop": "Il cammino verso i 42 è in realtà il cammino della vita"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 7.0,
+      "giudizio": "'Entrambi molto saggi' su Adriano e Fausto. 'E lui? Era contento di avere un fan?' su Susskind. 'Ho dovuto cercare su google anche Lex Friedman'. 'Come i vips'. Auguri al matrimonio: 'Bel damerino'. Curioso e partecipe.",
+      "messaggi": 10,
+      "mediaGiornaliera": 1.4,
+      "highlights": [
+        "Domande su Susskind",
+        "Auguri matrimonio"
+      ],
+      "citazioneTop": "Ho dovuto cercare su google anche Lex Friedman"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 7.0,
+      "giudizio": "'Nome? Tanto per cercarlo su internet' su Susskind. 'L'ultima volta che mi so annoiato era tipo il 2016'. 'Molto bello' e 'Che porco' sui look del matrimonio. Laconico ma presente.",
+      "messaggi": 6,
+      "mediaGiornaliera": 0.9,
+      "highlights": [
+        "Battuta sulla noia",
+        "Commenti matrimonio"
+      ],
+      "citazioneTop": "L'ultima volta che mi so annoiato era tipo il 2016"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 7.0,
+      "giudizio": "'Voleva sicuramente dire Alan' su Lex Friedman. Protagonista del matrimonio col farfallino. 'Lì sole, all'Arbia diluvia'. Look elegante apprezzato da tutti.",
+      "messaggi": 5,
+      "mediaGiornaliera": 0.7,
+      "highlights": [
+        "Matrimonio col farfallino",
+        "Battuta su Alan Friedman"
+      ],
+      "citazioneTop": "Voleva sicuramente dire Alan"
+    }
+  ],
+  "awards": {
+    "mvp": "Alessio Valentini",
+    "comico": "Fausto Petrini",
+    "cuore": "Adriano Sergio Lorenzo Facchini",
+    "fantasma": null
+  }
+}

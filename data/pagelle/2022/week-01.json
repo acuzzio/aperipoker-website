@@ -1,0 +1,120 @@
+{
+  "anno": 2022,
+  "settimana": 1,
+  "startDate": "2022-01-03",
+  "endDate": "2022-01-09",
+  "stats": {
+    "totalMessages": 91,
+    "activeMembers": 6,
+    "avgPerMember": 15.2
+  },
+  "riassunto": "Il 2022 inizia con il Covid che colpisce Cosimo e tutta la sua famiglia. Nel frattempo il gruppo si divide tra discussioni sul pane fatto in casa (con Alessio V. che fa il maestro panificatore a Fausto), il caso Djokovic e il tennis, e le epiche lezioni di sci di Giacomo a Pietro che finiscono con una caduta spettacolare. Fausto cerca compagnia a Siena e trova Alessio Mac alla mise.",
+  "bestQuotes": [
+    {
+      "quote": "Sono ufficialmente positivo. Cactus",
+      "author": "Cosimo Nenciòni",
+      "context": "L'annuncio del Covid con emoji del cactus, perfettamente in stile Cosimo"
+    },
+    {
+      "quote": "Sei caduto come un sacco di merda te ne rendi conto?",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Commento impietoso sulla caduta di Giacomo sulla pista da sci"
+    },
+    {
+      "quote": "A me sembra una caduta in grande stile",
+      "author": "Giacomo Dolfi",
+      "context": "L'autodifesa del Lider dopo il video della caduta"
+    },
+    {
+      "quote": "Due casseforti si incontrano. Che Combinazione.",
+      "author": "Fausto Petrini",
+      "context": "Battuta geniale sulla caduta di Giacomo con Pietro"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 8.0,
+      "giudizio": "Positivo al Covid ma mai cosi' presente. Il suo 'Cactus' dopo l'annuncio del tampone e' poesia pura. Ha spiegato il caso Djokovic al gruppo con pazienza da maestro e ha commentato ogni cosa con ironia tagliente. Malato ma sul pezzo.",
+      "messaggi": 18,
+      "mediaGiornaliera": 2.6,
+      "highlights": [
+        "Ha annunciato la positivita' con stile unico",
+        "Ha spiegato il caso Djokovic a chi non capiva",
+        "Il 'Formidabile' sulla caduta di Giacomo"
+      ],
+      "citazioneTop": "Sono ufficialmente positivo. Cactus"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 8.0,
+      "giudizio": "Il panificatore della settimana che chiede consigli e poi sforna battute. 'Due casseforti si incontrano. Che Combinazione' e' da antologia. Cerca compagnia a Siena con umilta' e trova Alessio Mac. L'unico che cerca ancora di organizzare incontri dal vivo.",
+      "messaggi": 18,
+      "mediaGiornaliera": 2.6,
+      "highlights": [
+        "La battuta sulle casseforti merita un premio",
+        "Ha condiviso il pane fatto in casa",
+        "Ha cercato di vedere qualcuno a Siena nonostante il Covid"
+      ],
+      "citazioneTop": "Due casseforti si incontrano. Che Combinazione."
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 7.5,
+      "giudizio": "Maestro panificatore a distanza: ha spiegato le pieghe, i video, la tecnica. 'Il pane e' davvero una cosa da fare molte volte prima di perfezionarlo' - saggio come sempre. Poi si gode i video delle cadute con un 'Una meraviglia vera' che dice tutto.",
+      "messaggi": 16,
+      "mediaGiornaliera": 2.3,
+      "highlights": [
+        "Ha dato una lezione completa di panificazione a Fausto",
+        "Ha apprezzato la caduta di Giacomo con entusiasmo",
+        "Presente e partecipe su ogni argomento"
+      ],
+      "citazioneTop": "le pieghe sono una rottura di cazzo"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 7.5,
+      "giudizio": "Il Lider si butta sulla pista da sci senza sci e finisce in un video virale nel gruppo. La sua difesa 'A me sembra una caduta in grande stile' e' epica. Si informa sulla salute di tutti ('Cocco come state?') e si lamenta di non essere stato avvisato da Fausto.",
+      "messaggi": 15,
+      "mediaGiornaliera": 2.1,
+      "highlights": [
+        "Ha regalato al gruppo un video memorabile della caduta",
+        "Ha difeso il suo onore con dignita'",
+        "Si preoccupa sempre della salute degli amici"
+      ],
+      "citazioneTop": "A me sembra una caduta in grande stile"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 7.0,
+      "giudizio": "Scrive alle 2:46 di notte per dare consigli medici, poi alle 5 del mattino chiede notizie. Il suo 'Sei caduto come un sacco di merda' a Giacomo e' brutale ma onesto. Si perde sul caso Djokovic ma almeno cerca di capire.",
+      "messaggi": 15,
+      "mediaGiornaliera": 2.1,
+      "highlights": [
+        "Consigli medici notturni",
+        "Commento impietoso sulla caduta di Giacomo",
+        "Ha cercato di capire il meme di Djokovic"
+      ],
+      "citazioneTop": "Sei caduto come un sacco di merda te ne rendi conto?"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 6.5,
+      "giudizio": "Presente ma con il freno a mano. Poche parole ma sempre puntuali: 'Sembra compro' sul pane, 'Conviene non sapere' sul Covid. Alla fine si fa trovare alla mise per Fausto. Zen ma un po' assente.",
+      "messaggi": 9,
+      "mediaGiornaliera": 1.3,
+      "highlights": [
+        "Ha accolto Fausto a Siena",
+        "Commenti saggi e sintetici",
+        "Il dubbio su Adriano 'intenditore di tennis'"
+      ],
+      "citazioneTop": "Conviene non sapere oggi come oggi"
+    }
+  ],
+  "awards": {
+    "mvp": "Fausto Petrini - La battuta sulle casseforti vale da sola il premio",
+    "comico": "Adriano Sergio Lorenzo Facchini - 'Sacco di merda' e' poesia",
+    "cuore": "Alessio Macalùso - Sempre disponibile per un incontro",
+    "fantasma": "Nessuno - Tutti presenti nonostante il Covid"
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "anno": 2021,
+  "settimana": 14,
+  "startDate": "2021-04-05",
+  "endDate": "2021-04-11",
+  "stats": {
+    "totalMessages": 103,
+    "activeMembers": 6,
+    "avgPerMember": 17.2
+  },
+  "riassunto": "Settimana 14 con 103 messaggi. Fausto guida le danze con 28 contributi.",
+  "bestQuotes": [
+    {
+      "quote": "se li rivedi salutalo e digli: \"ma lei è Enzo l'artista!!\" e ti attaccherà una cialda mostruosa...",
+      "author": "Alessio Valentini",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Mi date un'opinione spassionata dell'impressione chevi fa se steste cercando uno psicologo?",
+      "author": "Fausto Petrini",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "\"purtroppo devo trovare i pazienti\" non si può sentire. Sarà difficile ma devi partire col cazzo un po'più duro.",
+      "author": "Cosimo Nenciòni",
+      "context": "Momento memorabile della settimana"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Fausto Petrini",
+      "voto": 7.6,
+      "giudizio": "Il Trascinatore ha proposto, organizzato, coordinato. Come sempre nessuno l'ha seguito.",
+      "messaggi": 28,
+      "mediaGiornaliera": 4.0,
+      "highlights": [
+        "Ha dominato la conversazione con il 27% dei messaggi"
+      ],
+      "citazioneTop": "Mi date un'opinione spassionata dell'impressione chevi fa se steste cercando uno psicologo?"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 7.2,
+      "giudizio": "Presente nonostante i fusi orari avversi. Sempre affidabile.",
+      "messaggi": 22,
+      "mediaGiornaliera": 3.1,
+      "highlights": [
+        "Tra i piu' attivi con 22 messaggi"
+      ],
+      "citazioneTop": "se li rivedi salutalo e digli: \"ma lei è Enzo l'artista!!\" e ti attaccherà una cialda mostruosa..."
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 6.7,
+      "giudizio": "Non ha brillato, ma neanche deluso. Il suo 'mah' valeva mille parole.",
+      "messaggi": 19,
+      "mediaGiornaliera": 2.7,
+      "highlights": [
+        "Tra i piu' attivi con 19 messaggi"
+      ],
+      "citazioneTop": "\"purtroppo devo trovare i pazienti\" non si può sentire. Sarà difficile ma devi partire col cazzo un po'più duro."
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 6.1,
+      "giudizio": "Il solito Adriano: affidabile, verboso, immancabile.",
+      "messaggi": 14,
+      "mediaGiornaliera": 2.0,
+      "highlights": [
+        "Ha contribuito con 14 messaggi"
+      ],
+      "citazioneTop": ""
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 5.6,
+      "giudizio": "Contributo misurato, come nel suo stile. Ogni parola al suo posto.",
+      "messaggi": 12,
+      "mediaGiornaliera": 1.7,
+      "highlights": [
+        "Ha contribuito con 12 messaggi"
+      ],
+      "citazioneTop": ""
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 5.7,
+      "giudizio": "Il Lider si e' eclissato. Chi guida il gruppo?",
+      "messaggi": 8,
+      "mediaGiornaliera": 1.1,
+      "highlights": [
+        "Ha contribuito con 8 messaggi"
+      ],
+      "citazioneTop": ""
+    }
+  ],
+  "awards": {
+    "mvp": "Fausto Petrini - Miglior voto della settimana con 7.6",
+    "comico": "Cosimo Nenciòni - Il piu' divertente della settimana",
+    "cuore": "Cosimo Nenciòni - Presenza equilibrata e costante",
+    "fantasma": "Giacomo Dolfi - Il piu' silenzioso con 8 messaggi"
+  }
+}

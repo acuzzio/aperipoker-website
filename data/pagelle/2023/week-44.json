@@ -1,0 +1,109 @@
+{
+  "anno": 2023,
+  "settimana": 44,
+  "startDate": "2023-10-30",
+  "endDate": "2023-11-05",
+  "stats": {
+    "totalMessages": 63,
+    "activeMembers": 6,
+    "avgPerMember": 10.5
+  },
+  "riassunto": "Settimana del compleanno di Pasquale e dell'alluvione! Fausto: 'Auguri al nostro grande amico Alessio. Buoni 42!'. Alessio V.: 'Auguri Pasquale, il tuo regno e' stato bellissimo. Audio salvato e messo nel mio server, leggendario'. Cocco: 'Anche mia suocera ringrazia. Auguri alecs! Er mejo pezzo!!! Daje cazzo!!!!!'. Anche il ricordo di Francesco Vivi: 'Oggi compie 41 anni. Pei morti'. Mac: 'Grazie ragazzi vi spompinei!'. Articolo OpenAI sulla guerra nucleare: Adriano: 'Io sono confidente in una bella estinzione'. Poi alluvione! Adriano: 'Ma che vento tira?'. Giacomo: 'Clamoroso, porta via'. Fausto: 'Fiumi che esondano a Firenze'. Mac: 'In azienda da me un disastro, acqua all'interno'. Cocco condivide Zerocalcare su Lucca Comics: 'Merita di perderci 5 minuti'. Discussione su Israele/Gaza: 'Situazione complessa da evitare posizioni tipo tifoseria'. Alessio V. racconta il video della cacata in Svezia: 'TITTA'!",
+  "bestQuotes": [
+    {
+      "quote": "Auguri Pasquale, il tuo regno e' stato bellissimo",
+      "author": "Alessio Valentini",
+      "context": "Compleanno Pasquale"
+    },
+    {
+      "quote": "Grazie ragazzi vi spompinei!",
+      "author": "Alessio Macalùso",
+      "context": "Ringraziamento compleanno"
+    },
+    {
+      "quote": "Io sono confidente in una bella estinzione",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Su AI e guerra nucleare"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Alessio Macalùso",
+      "voto": 9.0,
+      "giudizio": "Il festeggiato! 'Grazie Fausto'. 'Grazie ragazzi vi spompinei!'. 'In azienda da me un disastro, acqua all'interno'. 'Ho seguito la situazione, complessa da evitare posizioni tipo tifoseria'. 'D'accordo quasi con tutto quello che dice Zerocalcare'. Compleanno e alluvione.",
+      "messaggi": 12,
+      "mediaGiornaliera": 1.7,
+      "highlights": [
+        "Compleanno 42",
+        "Alluvione azienda"
+      ],
+      "citazioneTop": "Grazie ragazzi vi spompinei!"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 8.5,
+      "giudizio": "'Auguri Pasquale, il tuo regno e' stato bellissimo'. 'Audio salvato nel mio server, leggendario'. Racconta video TITTA: 'Va a cacare, la merda non va giu', prende uno che puliva, lo porta nel bagno e gli dice TITTA'. 'Come state ragazzi? So arrivati dei video da WhatsApp'. 'Sono una montagna di dementi, a destra e a sinistra'. Narratore.",
+      "messaggi": 14,
+      "mediaGiornaliera": 2.0,
+      "highlights": [
+        "Auguri Pasquale",
+        "Video TITTA"
+      ],
+      "citazioneTop": "Il tuo regno e' stato bellissimo"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 8.0,
+      "giudizio": "'Tributi al nostro caro lider Pasquale, ma soprattutto auguri al nostro grande amico Alessio. Buoni 42!'. 'Siamo famoso' sulla foto. Articolo OpenAI. 'Fiumi che esondano a Firenze'. 'Flutto'. 'Titt'. Articolo lavatrice Magnotta. 'A me torna tutto' su Zerocalcare. Informatore e amico.",
+      "messaggi": 14,
+      "mediaGiornaliera": 2.0,
+      "highlights": [
+        "Auguri Pasquale",
+        "Articoli interessanti"
+      ],
+      "citazioneTop": "Tributi al nostro caro lider Pasquale"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 8.0,
+      "giudizio": "'Anche mia suocera ringrazia. Auguri alecs! Er mejo pezzo!!!'. Ricorda Francesco Vivi: 'Oggi compie 41 anni. Pei morti'. 'Disastro' sull'alluvione. Condivide Zerocalcare: 'Merita di perderci 5 minuti'. 'Bellissime foto ragazzi'. Presente e riflessivo.",
+      "messaggi": 10,
+      "mediaGiornaliera": 1.4,
+      "highlights": [
+        "Ricordo Francesco Vivi",
+        "Zerocalcare"
+      ],
+      "citazioneTop": "Oggi, come sempre, nei miei pensieri anche Francesco Vivi"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 7.5,
+      "giudizio": "'Io ti scomunicherei per falso in atto pubblico' a Fausto. 'Io sono confidente in una bella estinzione' su AI. 'Ma che vento tira?'. 'Auguri Alessio!! Auguri Pasquale!'. 'Stesso pensiero' su Francesco. 'E' veramente un grande artista' su Zerocalcare. Apocalittico e affettuoso.",
+      "messaggi": 10,
+      "mediaGiornaliera": 1.4,
+      "highlights": [
+        "Auguri Mac",
+        "Apocalisse AI"
+      ],
+      "citazioneTop": "Io sono confidente in una bella estinzione"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 7.0,
+      "giudizio": "'Auguri al maximo lider Pasquale!'. 'Ahahah indimenticabile'. 'Clamoroso, anzi porta via' sull'alluvione. Presente e partecipe.",
+      "messaggi": 6,
+      "mediaGiornaliera": 0.9,
+      "highlights": [
+        "Auguri Pasquale",
+        "Commento alluvione"
+      ],
+      "citazioneTop": "Auguri al maximo lider Pasquale!"
+    }
+  ],
+  "awards": {
+    "mvp": "Alessio Macalùso",
+    "comico": "Alessio Valentini",
+    "cuore": "Cosimo Nenciòni",
+    "fantasma": null
+  }
+}

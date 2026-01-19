@@ -1,0 +1,109 @@
+{
+  "anno": 2020,
+  "settimana": 41,
+  "startDate": "2020-10-05",
+  "endDate": "2020-10-11",
+  "stats": {
+    "totalMessages": 122,
+    "activeMembers": 6,
+    "avgPerMember": 20.3
+  },
+  "riassunto": "Il gruppo si è ritrovato per discutere di calcio, uscite/cene, covid/virus con le restrizioni autunnali. Con 122 messaggi totali, la settimana è stata nella norma.",
+  "bestQuotes": [
+    {
+      "quote": "Ahahah grande Adri!",
+      "author": "Giacomo Dolfi",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Chiaramente non ti sposti senza cappello ormai!",
+      "author": "Giacomo Dolfi",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Il troio per l'assegnazione del Nobel!",
+      "author": "Giacomo Dolfi",
+      "context": "Momento memorabile della settimana"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Fausto Petrini",
+      "voto": 8.0,
+      "giudizio": "L'anima organizzativa del gruppo ha brillato. Quante uscite proposte? Quante andate in porto? Non importa.",
+      "messaggi": 19,
+      "mediaGiornaliera": 3.8,
+      "highlights": [
+        "Buona partecipazione alle discussioni",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "Io apprezzo anche il cappello cmq"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 7.5,
+      "giudizio": "Il Re della Chat ha dominato la settimana con la consueta verbosità. Quando Adriano parla, il gruppo ascolta (volente o nolente).",
+      "messaggi": 30,
+      "mediaGiornaliera": 6.0,
+      "highlights": [
+        "Buona partecipazione alle discussioni",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "Bellissimo davvero, finalmente qualcuno che fa viaggi seri"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 7.5,
+      "giudizio": "Sintetico ma letale come sempre. Le sue battute secche hanno fatto centro.",
+      "messaggi": 20,
+      "mediaGiornaliera": 4.0,
+      "highlights": [
+        "Buona partecipazione alle discussioni",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "Che io mi lambicco con Google earth"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 7.5,
+      "giudizio": "Nonostante il fuso orario impossibile, Alessio V. ha tenuto alto il morale del gruppo.",
+      "messaggi": 29,
+      "mediaGiornaliera": 7.2,
+      "highlights": [
+        "Buona partecipazione alle discussioni",
+        "Presente per buona parte della settimana"
+      ],
+      "citazioneTop": "si, sono passato da Vegas per venire qua"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 7.0,
+      "giudizio": "Ha contribuito con la saggezza del fondatore. Pochi messaggi, tutti significativi.",
+      "messaggi": 17,
+      "mediaGiornaliera": 4.2,
+      "highlights": [
+        "Buona partecipazione alle discussioni",
+        "Presente per buona parte della settimana"
+      ],
+      "citazioneTop": "Chiaramente non ti sposti senza cappello ormai!"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 6.0,
+      "giudizio": "Ha contribuito con la sua calma zen. Pochi messaggi ma sempre pertinenti.",
+      "messaggi": 7,
+      "mediaGiornaliera": 2.3,
+      "highlights": [
+        "Presente ma non dominante",
+        "Presente per buona parte della settimana"
+      ],
+      "citazioneTop": "No! cerniera la classicona è il top"
+    }
+  ],
+  "awards": {
+    "mvp": "Adriano Sergio Lorenzo Facchini",
+    "comico": "Giacomo Dolfi",
+    "cuore": "Fausto Petrini",
+    "fantasma": "Alessio Macalùso"
+  }
+}

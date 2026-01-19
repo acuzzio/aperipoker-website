@@ -1,0 +1,109 @@
+{
+  "anno": 2023,
+  "settimana": 11,
+  "startDate": "2023-03-13",
+  "endDate": "2023-03-19",
+  "stats": {
+    "totalMessages": 105,
+    "activeMembers": 6,
+    "avgPerMember": 17.5
+  },
+  "riassunto": "Settimana della cucina e della salute! Adriano manda foto di cibo 'Sembra Chappy' (Alessio V.: 'Ma non capisco perché manda le foto se non cucina lui'). Training autogeno proposto da Fausto per la pressione alta. 'Se bevo sto male, se fumo abbaio' - Adriano paga il prezzo degli stravizi. Cena aperipoker confermata per il 24. Nardella 'Chuck Norris de noartri' dopo aver fermato un attivista.",
+  "bestQuotes": [
+    {
+      "quote": "Anche io avrei voluto ma non digerisco più, se bevo sto male, se fumo abbaio.",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Sui malanni dell'età"
+    },
+    {
+      "quote": "Nel mio caso è guarda come mangio sano e come sono monotono.",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Spiegazione delle foto di cibo"
+    },
+    {
+      "quote": "Veramente sei te che ti prendi la briga di organizzare le cose e poi non sei capace",
+      "author": "Giacomo Dolfi",
+      "context": "Attacco ad Adriano sull'organizzazione"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 8.0,
+      "giudizio": "Foto del cibo di Elena scatenano dibattito: 'Io assemblo solo'. 'Cazzo! È chappy!' realizza tardi. Non digerisce, non beve, abbaia se fuma. Conferma cena con lista Speranza/Barberino/Incisa. 'La persona che mette più dubbi del mondo' (Giacomo).",
+      "messaggi": 32,
+      "mediaGiornaliera": 4.6,
+      "highlights": [
+        "Dibattito sulle foto di cibo",
+        "Organizzazione cena aperipoker"
+      ],
+      "citazioneTop": "Anche io avrei voluto ma non digerisco più, se bevo sto male, se fumo abbaio."
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 7.5,
+      "giudizio": "'Sembra Chappy' per la foto di Adriano. 'Eri così anche 15 anni fa'. 'Abbaio' quando gli chiedono che ha. Nardella 'Chuck Norris de noartri'. 'È il mago di Google calendar' per Giacomo. Condivide link di qualità.",
+      "messaggi": 26,
+      "mediaGiornaliera": 3.7,
+      "highlights": [
+        "Parallelo Chappy",
+        "Commento su Nardella"
+      ],
+      "citazioneTop": "Sembra Chappy"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 7.5,
+      "giudizio": "'Ma Adri hai iniziato a cucinare o è la tu citta?' indaga sulle foto. Pressione a 200, l'amlodipina 'mi fa una sega'. 'Volevo straviziare altri 30 anni. E invece no'. Propone vaporella/ferro da stiro per le verdure.",
+      "messaggi": 22,
+      "mediaGiornaliera": 3.1,
+      "highlights": [
+        "Investigazione sulle foto di cibo",
+        "Update sulla pressione"
+      ],
+      "citazioneTop": "E cmq dio cane ho pressione a 200 durante il giorno"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 7.5,
+      "giudizio": "Propone training autogeno per la pressione: 'Le ricadute sulla muscolatura liscia sono dimostrate'. Emoticon del dito punta in su avrà nuovo significato. Riformula proposte ristoranti con Cocco. Pragmatico e terapeutico.",
+      "messaggi": 16,
+      "mediaGiornaliera": 2.3,
+      "highlights": [
+        "Proposta training autogeno",
+        "Coordinamento ristoranti"
+      ],
+      "citazioneTop": "Hai preso in considerazione il training autogeno?"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 7.0,
+      "giudizio": "'15 anni fa digeriva' - precisazione storica su Adriano. 'Vero tutto' doppio: sia a Giacomo che ad Adriano. 'Adriano è indifendibile, per non parlare di Fausto'. Aggiunge Pasqualino alla lista ristoranti.",
+      "messaggi": 12,
+      "mediaGiornaliera": 1.7,
+      "highlights": [
+        "Precisazione storica",
+        "Equidistanza nel conflitto"
+      ],
+      "citazioneTop": "Vero tutto anche che ti prendi la briga di organizzare le cose e poi non sei capace"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 7.0,
+      "giudizio": "Chiede conferma cena scatenando polemica. 'Sei te che ti prendi la briga di organizzare e poi non sei capace' ad Adriano. 'Quando usavo Google Calendar te c'avevi da nasce!' Condivide video di Nardella. Conflittuale ma presente.",
+      "messaggi": 14,
+      "mediaGiornaliera": 2.0,
+      "highlights": [
+        "Scontro con Adriano",
+        "Difesa della priorità alla cena"
+      ],
+      "citazioneTop": "Quando usavo google calendar te c'avevi da nasce!"
+    }
+  ],
+  "awards": {
+    "mvp": "Adriano Sergio Lorenzo Facchini",
+    "comico": "Cosimo Nenciòni",
+    "cuore": "Fausto Petrini",
+    "fantasma": null
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "anno": 2023,
+  "settimana": 39,
+  "startDate": "2023-09-25",
+  "endDate": "2023-10-01",
+  "stats": {
+    "totalMessages": 40,
+    "activeMembers": 6,
+    "avgPerMember": 6.7
+  },
+  "riassunto": "Settimana del sasso di Giulio e del Covid di Giacomo! Fausto: 'Oggi mayer: Giulio ha ingoiato un sasso a scuola. Enorme giramento di cazzo'. 'E non ha niente eh...'. Alessio V.: 'Era buono?'. Giacomo: 'Comunque dalle suore non sarebbe successo, sicuro'. Radiografia! Fausto: 'E' gia' nello stomaco, 1,2 cm per 6mm, nei prossimi giorni SETACCIARE ACCURATAMENTE FECI per avere prova della naturale espulsione'. Cocco: 'Voglio aspettare la versione di Elena'. Mac: 'Il mangiasassi'. Adriano: 'Un lavoretto certosino!'. Poi Giacomo prende il Covid: 'Per iniziare bene il fine settimana ho preso il covid. Fanculo'. 'E' molto sympa'. 'Stanotte ho dormito con pigiama invernale, calzini pesi, piumino invernale, coperta e borsa dell'acqua calda'. Cocco: 'Sara' stata contenta Lucia'. Giacomo: 'Sono stato confinato nello studio'. Adriano cattivo: 'Io ti avrei fatto andare in albergo'. Fausto scopre perche' ha fatto cacare quella sera: 'Pare si sia fatta stesa di rum sul tavolo'.",
+  "bestQuotes": [
+    {
+      "quote": "Nei prossimi giorni SETACCIARE ACCURATAMENTE FECI per avere prova della naturale espulsione",
+      "author": "Fausto Petrini",
+      "context": "Istruzioni post-sasso"
+    },
+    {
+      "quote": "Stanotte ho dormito con pigiama invernale, calzini pesi, piumino invernale, coperta e borsa dell'acqua calda",
+      "author": "Giacomo Dolfi",
+      "context": "Covid experience"
+    },
+    {
+      "quote": "Lucia ha tanti pregi ma il difetto di essere morbida e permissiva nei tuoi confronti non riesce proprio a toglierselo",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Su Giacomo in studio"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Fausto Petrini",
+      "voto": 8.5,
+      "giudizio": "Padre ansioso e ironico! 'Giulio ha ingoiato un sasso a scuola'. 'Enorme giramento di cazzo'. 'Per ora si, si aspettano esiti radiografia'. 'E' gia' nello stomaco, 1,2 cm per 6mm'. 'SETACCIARE ACCURATAMENTE FECI'. 'Mannaggia, volevo anche vederti' a Giacomo col Covid. 'Pare si sia fatta stesa di rum sul tavolo, fatto che non ricordo assolutamente'. Cronista domestico.",
+      "messaggi": 12,
+      "mediaGiornaliera": 1.7,
+      "highlights": [
+        "Sasso di Giulio",
+        "Stesa di rum"
+      ],
+      "citazioneTop": "SETACCIARE ACCURATAMENTE FECI per avere prova della naturale espulsione"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 8.0,
+      "giudizio": "Il covidoso! 'Per iniziare bene il fine settimana ho preso il covid. Fanculo'. 'E' molto sympa'. 'Stanotte ho dormito con pigiama invernale, calzini pesi, piumino invernale, coperta e borsa dell'acqua calda'. 'Sono stato confinato nello studio'. 'Dalle suore non sarebbe successo' sul sasso. 'Se era meno permissiva magari non lo prendevo nemmeno il coviddi'. Malato ma ironico.",
+      "messaggi": 10,
+      "mediaGiornaliera": 1.4,
+      "highlights": [
+        "Covid",
+        "Battuta suore"
+      ],
+      "citazioneTop": "E' molto sympa"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 8.0,
+      "giudizio": "Il cattivo! 'Un lavoretto certosino!' sul setacciare feci. 'Non capisco perche' il sasso sarebbe dovuto rimanere nell'esofago'. 'Io ti avrei fatto andare in albergo'. 'Lucia ha tanti pregi ma il difetto di essere morbida e permissiva nei tuoi confronti non riesce proprio a toglierselo'. Condivide video. Spietato ma simpatico.",
+      "messaggi": 6,
+      "mediaGiornaliera": 0.9,
+      "highlights": [
+        "Cattiveria su Giacomo",
+        "Commento sasso"
+      ],
+      "citazioneTop": "Lucia ha tanti pregi ma il difetto di essere morbida e permissiva"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 7.5,
+      "giudizio": "'Noooooo gnamo!' sul sasso. 'Fai sapere sviluppi. Porco2.. porello e porelli voi'. 'Voglio aspettare la versione di Elena'. 'Sara' stata contenta Lucia' sul pigiamone. 'Severo ma giusto' sul confino. Solidale e ironico.",
+      "messaggi": 8,
+      "mediaGiornaliera": 1.1,
+      "highlights": [
+        "Supporto sasso",
+        "Battuta Lucia"
+      ],
+      "citazioneTop": "Voglio aspettare la versione di Elena"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 7.0,
+      "giudizio": "'Il mangiasassi'. 'Un bel lavoretto' sul setacciare. 'Anche le mie nipoti hanno Covid'. 'Perche'? Dove l'hai preso? In discoteca?'. Presente e curioso.",
+      "messaggi": 6,
+      "mediaGiornaliera": 0.9,
+      "highlights": [
+        "Mangiasassi",
+        "Covid nipoti"
+      ],
+      "citazioneTop": "Il mangiasassi"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 6.5,
+      "giudizio": "'Era buono?' sul sasso. 'Non male affatto'. 'Ah niente'. Presente ma minimale.",
+      "messaggi": 4,
+      "mediaGiornaliera": 0.6,
+      "highlights": [
+        "Battuta sasso"
+      ],
+      "citazioneTop": "Era buono?"
+    }
+  ],
+  "awards": {
+    "mvp": "Fausto Petrini",
+    "comico": "Adriano Sergio Lorenzo Facchini",
+    "cuore": "Cosimo Nenciòni",
+    "fantasma": null
+  }
+}

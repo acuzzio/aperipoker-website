@@ -1,0 +1,118 @@
+{
+  "anno": 2022,
+  "settimana": 10,
+  "startDate": "2022-03-07",
+  "endDate": "2022-03-13",
+  "stats": {
+    "totalMessages": 55,
+    "activeMembers": 6,
+    "avgPerMember": 9.2
+  },
+  "riassunto": "Fausto ha la bocca-mani-piedi, non il Covid. Giulio gli prude, lui si rompe le palle. 'Se ti prude qualcosa pensami' scrive ad Adriano. La storia surreale di Salvini in Polonia conquista il gruppo. Alessio V. ha una storia bellissima da raccontare ma solo di persona. Si discute di guerra, carburanti e preoccupazioni economiche. 'Bocca, culo e billo' sarebbe stata peggio, sentenzia Giacomo.",
+  "bestQuotes": [
+    {
+      "quote": "Se ti prude qualcosa pensami",
+      "author": "Fausto Petrini",
+      "context": "Ad Adriano, dopo avergli passato la canna"
+    },
+    {
+      "quote": "Comunque se era bocca, culo e billo secondo me era peggio",
+      "author": "Giacomo Dolfi",
+      "context": "Sulla malattia di Fausto"
+    },
+    {
+      "quote": "Sembra una categoria di pornhub",
+      "author": "Cosimo Nenciòni",
+      "context": "Su 'bocca, culo e billo'"
+    },
+    {
+      "quote": "Ma te hai l'orto e le galline, di che ti preoccupi...",
+      "author": "Fausto Petrini",
+      "context": "Ad Adriano preoccupato per i prezzi"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Fausto Petrini",
+      "voto": 8.0,
+      "giudizio": "Malato di bocca-mani-piedi ma sempre sul pezzo. 'Madonna puttanissima che notte di merda' alle 2 di notte. 'Se ti prude qualcosa pensami' ad Adriano. Ha ricordato ad Adriano che ha orto e galline. Sofferenza condivisa con ironia.",
+      "messaggi": 17,
+      "mediaGiornaliera": 2.4,
+      "highlights": [
+        "Ha sofferto con stile",
+        "Ha condiviso il prurito col gruppo",
+        "Ha ricordato l'orto di Adriano"
+      ],
+      "citazioneTop": "Se ti prude qualcosa pensami"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 8.0,
+      "giudizio": "La storia di Salvini in Polonia lo ha conquistato. 'Sembra una categoria di pornhub' su bocca-culo-billo e' geniale. Ha anche riportato tutti alla realta': 'Tuttavia tendo ancora ad essere piu' preoccupato per chi si e' preso 3 settimane di bombe'.",
+      "messaggi": 14,
+      "mediaGiornaliera": 2.0,
+      "highlights": [
+        "Ha condiviso la storia di Salvini",
+        "Battuta su Pornhub",
+        "Ha riportato la prospettiva sulla guerra"
+      ],
+      "citazioneTop": "Sembra una categoria di pornhub"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 7.0,
+      "giudizio": "Preoccupato per i prezzi, ma Fausto gli ricorda che ha l'orto. 'Spero di si' che ti caschi il billo' e' brutale. Ha proposto una call Teams per sentire la storia di Alessio. Sempre pragmatico.",
+      "messaggi": 13,
+      "mediaGiornaliera": 1.9,
+      "highlights": [
+        "Preoccupato per l'economia",
+        "Ha proposto call Teams",
+        "Ha augurato il peggio a Fausto"
+      ],
+      "citazioneTop": "Spero di si' che ti caschi il billo"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 7.0,
+      "giudizio": "Ha una storia bellissima da raccontare ma solo di persona. 'Mi prude a guardarti' a Fausto. Partecipa alle discussioni sulla guerra. Misterioso ma presente.",
+      "messaggi": 6,
+      "mediaGiornaliera": 0.9,
+      "highlights": [
+        "Ha una storia segreta",
+        "Solidarieta' col prurito",
+        "Partecipa alla discussione sulla guerra"
+      ],
+      "citazioneTop": "ho una bella storia da raccontare ma e' cosi' bella che devo raccontarla di persona"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 7.5,
+      "giudizio": "La battuta della settimana: 'Comunque se era bocca, culo e billo secondo me era peggio'. Tre messaggi ma uno vale per dieci. Il Lider colpisce quando serve.",
+      "messaggi": 3,
+      "mediaGiornaliera": 0.4,
+      "highlights": [
+        "Battuta su bocca-culo-billo",
+        "Ha commentato la malattia di Fausto"
+      ],
+      "citazioneTop": "Comunque se era bocca, culo e billo secondo me era peggio"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 5.5,
+      "giudizio": "Due messaggi: 'Gia'' e 'Fica' su qualcosa. Presenza minima ma confermata. Il maestro zen in modalita' silenziosa.",
+      "messaggi": 2,
+      "mediaGiornaliera": 0.3,
+      "highlights": [
+        "Ha commentato",
+        "Presenza confermata"
+      ],
+      "citazioneTop": "Fica"
+    }
+  ],
+  "awards": {
+    "mvp": "Cosimo Nenciòni - Tra Salvini, Pornhub e prospettiva sulla guerra",
+    "comico": "Giacomo Dolfi - 'Bocca, culo e billo' e' poesia",
+    "cuore": "Fausto Petrini - Ha sofferto e condiviso con tutti",
+    "fantasma": "Alessio Macalùso - Due messaggi in tutta la settimana"
+  }
+}

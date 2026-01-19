@@ -1,0 +1,109 @@
+{
+  "anno": 2020,
+  "settimana": 33,
+  "startDate": "2020-08-10",
+  "endDate": "2020-08-16",
+  "stats": {
+    "totalMessages": 188,
+    "activeMembers": 6,
+    "avgPerMember": 31.3
+  },
+  "riassunto": "Una settimana all'insegna di viaggi, calcio, uscite/cene nella fase di riapertura. 188 messaggi scambiati tra i 6 membri attivi, con il solito mix di ironia e discussioni serie.",
+  "bestQuotes": [
+    {
+      "quote": "Ma se uno al ritorno delle vacanze volesse farsi un tampone, cosa cazzo deve fare?",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "il prof mi ha appena scritto che mi vuole anche il prossimo anno!!",
+      "author": "Alessio Valentini",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Ma sono gasatissimo per te. Bravo diocristo! Bravo!",
+      "author": "Cosimo Nenciòni",
+      "context": "Momento memorabile della settimana"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Alessio Valentini",
+      "voto": 8.0,
+      "giudizio": "Il Giramondo ha scritto da qualche angolo del mondo con entusiasmo contagioso.",
+      "messaggi": 46,
+      "mediaGiornaliera": 7.7,
+      "highlights": [
+        "Molto attivo, tra i più presenti della settimana",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "il prof mi ha appena scritto che mi vuole anche il prossimo anno!!"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 8.0,
+      "giudizio": "Fausto on fire! Ha tenuto vivo il gruppo con entusiasmo invidiabile.",
+      "messaggi": 29,
+      "mediaGiornaliera": 5.8,
+      "highlights": [
+        "Buona partecipazione alle discussioni",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "Bene, che dire: usa bene questo tempo allora!"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 7.5,
+      "giudizio": "Il Re della Chat ha dominato la settimana con la consueta verbosità. Quando Adriano parla, il gruppo ascolta (volente o nolente).",
+      "messaggi": 45,
+      "mediaGiornaliera": 7.5,
+      "highlights": [
+        "Molto attivo, tra i più presenti della settimana",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "Ma è sicuro che ti vuole?🤣🤣🤣"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 7.5,
+      "giudizio": "Maestro del sarcasmo, questa settimana era in forma smagliante. Nessuno è stato risparmiato.",
+      "messaggi": 31,
+      "mediaGiornaliera": 5.2,
+      "highlights": [
+        "Molto attivo, tra i più presenti della settimana",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "Ma sono gasatissimo per te. Bravo diocristo! Bravo!"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 7.0,
+      "giudizio": "Presente come un patriarca benevolo: osserva, ogni tanto commenta, sempre con ironia.",
+      "messaggi": 21,
+      "mediaGiornaliera": 3.5,
+      "highlights": [
+        "Buona partecipazione alle discussioni",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "La leadership ti ha certamente aiutato nel tuo percorso"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 6.5,
+      "giudizio": "Ha contribuito con la sua calma zen. Pochi messaggi ma sempre pertinenti.",
+      "messaggi": 16,
+      "mediaGiornaliera": 2.7,
+      "highlights": [
+        "Buona partecipazione alle discussioni",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "Ragazzi si cerca di farla qualunque cosa staremo facendo"
+    }
+  ],
+  "awards": {
+    "mvp": "Alessio Valentini",
+    "comico": "Cosimo Nenciòni",
+    "cuore": "Fausto Petrini",
+    "fantasma": "Alessio Macalùso"
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "anno": 2023,
+  "settimana": 35,
+  "startDate": "2023-08-28",
+  "endDate": "2023-09-03",
+  "stats": {
+    "totalMessages": 161,
+    "activeMembers": 6,
+    "avgPerMember": 26.8
+  },
+  "riassunto": "SETTIMANA DELLO SHOOTER! Alessio V. all'universita' di Elisa con uno shooter dentro: 'Sono all'universita' di Elisa e c'e' uno shooter dentro. Siamo bloccati dentro con l'edificio circondato dalla polizia'. Aggiornamenti in tempo reale al gruppo: 'In casi disperati, il primo gruppo a cui scrivo siete voi (e unico)'. 'Si sente la polizia correre e la gente urlare'. 'Dalle 13:20 sono 30 minuti che siamo in terra e io devo pisciare'. 'La polizia ha appena provato ad aprire la nostra porta, noi siamo in silenzio'. 'Siamo fuori pericolo'. Cocco segue su Twitter: 'Io mi sto cacando'. Giacomo: 'Fuori di testa completo porta puttana'. Fausto: 'W l'essere vivi, tornate a casa'. Poi memorial allo stadio UNC per il prof ucciso. Alessio V. riflessione sulle armi: 'Un sacco di siamo una grande comunita' e pochi dobbiamo far sparire le armi'. 'E' come se dicessero agli italiani di mettere kiwi banane e ananas nella pizza'. Cocco su Giacomo: 'Ha sposato la nostra causa del lavorare meno possibile'.",
+  "bestQuotes": [
+    {
+      "quote": "In casi disperati, il primo gruppo a cui scrivo siete voi (e unico)",
+      "author": "Alessio Valentini",
+      "context": "Durante lo shooter"
+    },
+    {
+      "quote": "Dalle 13:20 sono 30 minuti che siamo in terra e io devo pisciare",
+      "author": "Alessio Valentini",
+      "context": "Bloccati durante sparatoria"
+    },
+    {
+      "quote": "E' come se dicessero agli italiani di mettere kiwi banane e ananas nella pizza o nella carbonara",
+      "author": "Alessio Valentini",
+      "context": "Sulle armi in America"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Alessio Valentini",
+      "voto": 9.5,
+      "giudizio": "Protagonista assoluto in situazione drammatica! 'C'e' uno shooter dentro, siamo bloccati dentro'. 'In casi disperati, il primo gruppo a cui scrivo siete voi'. '2 persone shottate gia''. 'Si sente la polizia correre e la gente urlare'. 'Dalle 13:20 sono 30 minuti che siamo in terra e io devo pisciare'. 'La polizia ha provato ad aprire la nostra porta, noi siamo in silenzio'. 'Siamo fuori pericolo'. Riflessione sulle armi: 'E' come se dicessero agli italiani di mettere ananas nella pizza'. Allo stadio UNC per memorial. Resiliente e lucido.",
+      "messaggi": 72,
+      "mediaGiornaliera": 10.3,
+      "highlights": [
+        "Shooter UNC",
+        "Riflessione armi"
+      ],
+      "citazioneTop": "In casi disperati, il primo gruppo a cui scrivo siete voi (e unico)"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 8.5,
+      "giudizio": "Il cronista su Twitter! 'Cristo'. 'Porco2 maiale'. 'Sto seguendo la cosa su X'. Link Twitter in tempo reale. 'Io mi sto cacando'. 'Senza parole'. 'Stai fermo li' e aspetta'. 'Questa puoi raccontarla'. 'Sempre e comunque in mezzo alle fighe' sulla foto. 'Catalizzatore'. 'Ha sposato la nostra causa del lavorare meno possibile'. Informatore e solidale.",
+      "messaggi": 28,
+      "mediaGiornaliera": 4.0,
+      "highlights": [
+        "Cronaca Twitter",
+        "Supporto morale"
+      ],
+      "citazioneTop": "Questa puoi raccontarla"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 8.0,
+      "giudizio": "'Maremma maiala'. 'Ma niente polizia?'. 'Fuori di testa completo porta puttana'. 'Ovvia dai cazzo'. Link ABC News. 'Io comunque ieri mi sono cacato abbondantemente sotto da qui'. 'Grande Faustino che si impegna a capirci qualcosa ma non ce la fa!'. Preoccupato e partecipe.",
+      "messaggi": 16,
+      "mediaGiornaliera": 2.3,
+      "highlights": [
+        "Supporto shooter",
+        "Commenti solidali"
+      ],
+      "citazioneTop": "Fuori di testa completo porta puttana"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 8.0,
+      "giudizio": "'Maialaaaaaaaaa'. 'Allucinante, mi sarei cagato'. 'Tornate a casa'. 'W l'essere vivi'. 'Mettete su split le spese dell'altra sera'. 'Dirigente e' amovibile, lui e' meglio, P.O., inamovibile e a alto reddito'. 'E' allucinante vedere i documentari sui pro-armi, hanno convinzioni ben argomentate'. 'Ottimo paragone, da Treccani'. Solidale e analitico.",
+      "messaggi": 18,
+      "mediaGiornaliera": 2.6,
+      "highlights": [
+        "Supporto shooter",
+        "Analisi armi"
+      ],
+      "citazioneTop": "W l'essere vivi"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 7.5,
+      "giudizio": "'Cooooosa?'. 'Allucinante'. 'E lo shooter?'. 'Succede cosi' spesso che te ci sei capitato dentro'. 'Praticamente e' successo quello che si vede sempre in televisione'. 'Incredibile'. 'Enorme' sullo stadio. 'Chiaro'. Presente e sconvolto.",
+      "messaggi": 14,
+      "mediaGiornaliera": 2.0,
+      "highlights": [
+        "Reazione shooter",
+        "Commenti stadio"
+      ],
+      "citazioneTop": "Succede cosi' spesso che te ci sei capitato dentro"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 7.5,
+      "giudizio": "'Dio bono'. 'Ma state bene????'. 'Per festeggiare farei una gang bus!'. 'Allucinante'. 'Ora poi che ha pure un vice e' praticamente in pensione'. 'Dipendente pubblico dirigente, il sogno di ogni lavoratore'. 'Se fosse un surfista avrebbe tutti i giorni la sua tempesta perfetta'. Ironico anche nel dramma.",
+      "messaggi": 12,
+      "mediaGiornaliera": 1.7,
+      "highlights": [
+        "Supporto shooter",
+        "Battute lavoro"
+      ],
+      "citazioneTop": "Se fosse un surfista avrebbe tutti i giorni la sua tempesta perfetta"
+    }
+  ],
+  "awards": {
+    "mvp": "Alessio Valentini",
+    "comico": "Cosimo Nenciòni",
+    "cuore": "Fausto Petrini",
+    "fantasma": null
+  }
+}

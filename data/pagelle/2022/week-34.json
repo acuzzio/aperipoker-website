@@ -1,0 +1,119 @@
+{
+  "anno": 2022,
+  "settimana": 34,
+  "startDate": "2022-08-22",
+  "endDate": "2022-08-28",
+  "stats": {
+    "totalMessages": 128,
+    "activeMembers": 6,
+    "avgPerMember": 21.3
+  },
+  "riassunto": "Fausto documenta le vacanze in Alto Adige con foto spettacolari ('Gino muore' in alcune foto). 'Ricordi di Benny Hill' e' il video dell'estate. Alessio Mac chiede la foto del mese: Renata con Luna e Mina. Cosimo fa le foto di famiglia come un professionista. 'Sei sempre piu' arrapato' dice Alessio V. a Fausto sulle tirolesi.",
+  "bestQuotes": [
+    {
+      "quote": "Ci sono un paio di foto dove Gino muore",
+      "author": "Cosimo Nenciòni",
+      "context": "Sulle foto di Fausto"
+    },
+    {
+      "quote": "Sei tu che sei sempre piu' arrapato",
+      "author": "Alessio Valentini",
+      "context": "A Fausto sulle tirolesi"
+    },
+    {
+      "quote": "La foto del mese e' quella di Renata con Luna e Mina",
+      "author": "Alessio Macalùso",
+      "context": "Sulla foto di famiglia"
+    },
+    {
+      "quote": "Io vi seguo ormai solo grazie agli stati whatsapp di Marcella",
+      "author": "Cosimo Nenciòni",
+      "context": "Su come segue il gruppo"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 8.0,
+      "giudizio": "Ha fatto le foto di famiglia come un fotografo professionista. 'Gino muore' nelle foto e' osservazione acuta. Segue il gruppo solo grazie agli stati di Marcella. Fotografo ufficiale.",
+      "messaggi": 35,
+      "mediaGiornaliera": 5.0,
+      "highlights": [
+        "Foto di famiglia",
+        "Gino muore",
+        "Stati di Marcella"
+      ],
+      "citazioneTop": "Ci sono un paio di foto dove Gino muore"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 7.0,
+      "giudizio": "Si e' ustionato il naso ma non ha fastidio. Non ha Instagram. Ha apprezzato le foto di Fausto. Presente e commentatore.",
+      "messaggi": 28,
+      "mediaGiornaliera": 4.0,
+      "highlights": [
+        "Ustione al naso",
+        "Non ha Instagram",
+        "Commenti alle foto"
+      ],
+      "citazioneTop": "Probabilmente si ma non ho fastidio"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 7.5,
+      "giudizio": "'Sei tu che sei sempre piu' arrapato' a Fausto e' perfetto. Ha apprezzato le foto ('Probabilmente questa la meglio'). Ha notato l'assenza di Gino. Critico d'arte.",
+      "messaggi": 25,
+      "mediaGiornaliera": 3.6,
+      "highlights": [
+        "Sempre piu' arrapato",
+        "Critico fotografico",
+        "Assenza di Gino"
+      ],
+      "citazioneTop": "sei tu che sei sempre piu' arrapato"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 7.5,
+      "giudizio": "Ha indicato la foto del mese (Renata con Luna e Mina). 'Manda Cosimo!' insistente. 'Belle foto, bella gente, bei posti'. Curatore della gallery.",
+      "messaggi": 19,
+      "mediaGiornaliera": 2.7,
+      "highlights": [
+        "Foto del mese",
+        "Manda Cosimo",
+        "Belle foto bella gente"
+      ],
+      "citazioneTop": "La foto del mese e' quella di Renata con Luna e Mina"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 8.0,
+      "giudizio": "Documentario fotografico dall'Alto Adige: Rio Pusteria, Bressanone, Falzes. 'Ricordi di Benny Hill' e' il video dell'estate. Ha notato tirolesi e mamme italiane. Fotografo in vacanza.",
+      "messaggi": 17,
+      "mediaGiornaliera": 2.4,
+      "highlights": [
+        "Foto Alto Adige",
+        "Ricordi di Benny Hill",
+        "Tirolesi niente male"
+      ],
+      "citazioneTop": "Ci sono alcune tirolesi niente male"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 5.5,
+      "giudizio": "Solo quattro messaggi. Pausa estiva prolungata.",
+      "messaggi": 4,
+      "mediaGiornaliera": 0.6,
+      "highlights": [
+        "Pochi messaggi",
+        "Pausa estiva"
+      ],
+      "citazioneTop": ""
+    }
+  ],
+  "awards": {
+    "mvp": "Fausto Petrini - Documentario fotografico dall'Alto Adige",
+    "comico": "Alessio Valentini - Sei sempre piu' arrapato",
+    "cuore": "Cosimo Nenciòni - Foto di famiglia professionali",
+    "fantasma": "Giacomo Dolfi - Solo 4 messaggi"
+  }
+}

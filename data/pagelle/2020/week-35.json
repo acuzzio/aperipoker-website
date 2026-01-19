@@ -1,0 +1,109 @@
+{
+  "anno": 2020,
+  "settimana": 35,
+  "startDate": "2020-08-24",
+  "endDate": "2020-08-30",
+  "stats": {
+    "totalMessages": 84,
+    "activeMembers": 6,
+    "avgPerMember": 14.0
+  },
+  "riassunto": "Settimana normale con 84 messaggi e 6 membri attivi nella fase di riapertura. Si è parlato principalmente di poker, calcio, politica. Il gruppo ha mantenuto il suo ritmo consueto tra battute e organizzazione di uscite.",
+  "bestQuotes": [
+    {
+      "quote": "Ahahah orgoglioso di averlo come amico!",
+      "author": "Giacomo Dolfi",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "ahhahahaha, questo e' ancora meglio",
+      "author": "Alessio Valentini",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Proprio questo pensavo! Tutto è bene quel che finisce bene",
+      "author": "Giacomo Dolfi",
+      "context": "Momento memorabile della settimana"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Fausto Petrini",
+      "voto": 8.5,
+      "giudizio": "Il Trascinatore ha proposto, organizzato, coordinato. Che poi nessuno abbia risposto è un altro discorso.",
+      "messaggi": 13,
+      "mediaGiornaliera": 2.6,
+      "highlights": [
+        "Presente ma non dominante",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "Brutta storia, avevo letto le notizie ma speravo fosse in una zona diversa dalla tua"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 8.0,
+      "giudizio": "Fiume in piena come sempre, ma questa settimana i suoi monologhi avevano un senso. Miracolo natalizio?",
+      "messaggi": 13,
+      "mediaGiornaliera": 2.6,
+      "highlights": [
+        "Presente ma non dominante",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "Questa notizia avrebbe nel calcio la stessa rilevanza di una vittoria domenicale del Meroni contro lo Staggia."
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 8.0,
+      "giudizio": "Sintetico ma letale come sempre. Le sue battute secche hanno fatto centro.",
+      "messaggi": 22,
+      "mediaGiornaliera": 3.7,
+      "highlights": [
+        "Buona partecipazione alle discussioni",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "S qualcuno ha informazioni di senso contrario si faccia avanti"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 8.0,
+      "giudizio": "Nonostante il fuso orario impossibile, Alessio V. ha tenuto alto il morale del gruppo.",
+      "messaggi": 17,
+      "mediaGiornaliera": 2.8,
+      "highlights": [
+        "Buona partecipazione alle discussioni",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "basta vedere dove si schiera la meloni e votare contrario"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 7.5,
+      "giudizio": "Giacomo in grande spolvero. Le sue osservazioni hanno acceso la chat.",
+      "messaggi": 10,
+      "mediaGiornaliera": 1.7,
+      "highlights": [
+        "Presente ma non dominante",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "Io iniziato the last dance"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 7.0,
+      "giudizio": "Presente senza eccessi. L'equilibratore fa il suo lavoro in silenzio.",
+      "messaggi": 9,
+      "mediaGiornaliera": 1.8,
+      "highlights": [
+        "Presente ma non dominante",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": null
+    }
+  ],
+  "awards": {
+    "mvp": "Cosimo Nenciòni",
+    "comico": "Alessio Macalùso",
+    "cuore": "Alessio Valentini",
+    "fantasma": "Alessio Macalùso"
+  }
+}

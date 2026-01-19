@@ -1,0 +1,106 @@
+{
+  "anno": 2023,
+  "settimana": 25,
+  "startDate": "2023-06-19",
+  "endDate": "2023-06-25",
+  "stats": {
+    "totalMessages": 28,
+    "activeMembers": 6,
+    "avgPerMember": 4.7
+  },
+  "riassunto": "Settimana di Spalletti al bar e del Palio che si avvicina! Adriano: 'Ho appena preso un caffè affianco a Spalletti ex allenatore del Napoli che ha vinto lo scudetto. Non l'ho cagato minimamente'. Fausto: 'Speravi ti cagasse lui?' Giacomo: 'Gli potevi dare due scapaccioni nella pelata'. Discussione sul riconoscimento facciale dopo notizia di cronaca. Giacomo va al Fordicolle con Lucia, Adriano lo stuzzica: 'Potresti portarla alla Pergola e smettere di rompere il cazzo'. Fausto propone cena il 29: 'Io giro tutto il giorno, poi se volete ci sono, se no prendo la tessera in contrada'. Giacomo nell'Ondone, Mac spera di esserci.",
+  "bestQuotes": [
+    {
+      "quote": "Ho appena preso un caffè affianco a Spalletti... Non l'ho cagato minimamente",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Incontro con l'allenatore"
+    },
+    {
+      "quote": "Speravi ti cagasse lui?",
+      "author": "Fausto Petrini",
+      "context": "Risposta ad Adriano su Spalletti"
+    },
+    {
+      "quote": "Potresti portarla alla Pergola e smettere di rompere il cazzo",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "A Giacomo sulla Pergola"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 8.0,
+      "giudizio": "Caffè con Spalletti: 'Non l'ho cagato minimamente'. Stuzzica Giacomo: 'Potresti portarla alla Pergola e smettere di rompere il cazzo'. Riflessione sul riconoscimento facciale: 'È preoccupante come tutti siano tracciati'. 'Un vero chiocciolino' a Fausto. 'W l'Ondone!' Casa alle 16: 'Questa cosa non deve succedere'. Protagonista.",
+      "messaggi": 14,
+      "mediaGiornaliera": 2.0,
+      "highlights": [
+        "Caffè con Spalletti",
+        "Stuzzicata a Giacomo"
+      ],
+      "citazioneTop": "Potresti portarla alla Pergola e smettere di rompere il cazzo che non ci puoi andare se prima non ci hai portato Lucia"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 7.5,
+      "giudizio": "'Speravi ti cagasse lui?' a Adriano su Spalletti. Video: 'Ah già, era mancino... ma come ti può venire in mente?' Propone cena il 29: 'Io giro tutto il giorno, poi se volete ci sono, se no prendo la tessera in contrada e vado lì'. 'Bene, vo in contrada'. Il chiocciolino doc.",
+      "messaggi": 6,
+      "mediaGiornaliera": 0.9,
+      "highlights": [
+        "Battuta Spalletti",
+        "Proposta cena Palio"
+      ],
+      "citazioneTop": "Speravi ti cagasse lui?"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 7.0,
+      "giudizio": "'Gli potevi dare due scapaccioni nella pelata' su Spalletti. 'Adri tra poco si metterà a raccontare le barzellette in toscano su TikTok come Ceccherini'. 'Stasera con Lucia si va al Fordicolle'. 'Io sarò nell'Ondone'. Il contradaiolo.",
+      "messaggi": 4,
+      "mediaGiornaliera": 0.6,
+      "highlights": [
+        "Battuta Spalletti",
+        "Cena Fordicolle"
+      ],
+      "citazioneTop": "Gli potevi dare due scapaccioni nella pelata"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 6.5,
+      "giudizio": "'Sì' e riflessione sul riconoscimento facciale: 'Non credo sia stato utilizzato il riconoscimento biometrico... sono delle merde umane per le quali fatico a trovare qualsiasi tipo di giustificazione'. Serio e presente.",
+      "messaggi": 3,
+      "mediaGiornaliera": 0.4,
+      "highlights": [
+        "Riflessione crimine"
+      ],
+      "citazioneTop": "È veramente un mondo di merda"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 6.0,
+      "giudizio": "'Ao' e 'Buona estate a te Adri'. Presente ma limitato questa settimana dalla lontananza.",
+      "messaggi": 2,
+      "mediaGiornaliera": 0.3,
+      "highlights": [
+        "Auguri estivi"
+      ],
+      "citazioneTop": "Buona estate a te Adri"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 6.0,
+      "giudizio": "'La sera non ci sono ma spero nel pomeriggio' per il 29. Disponibile nonostante impegni.",
+      "messaggi": 1,
+      "mediaGiornaliera": 0.1,
+      "highlights": [
+        "Disponibilità parziale"
+      ],
+      "citazioneTop": "La sera non ci sono ma spero nel pomeriggio"
+    }
+  ],
+  "awards": {
+    "mvp": "Adriano Sergio Lorenzo Facchini",
+    "comico": "Fausto Petrini",
+    "cuore": "Giacomo Dolfi",
+    "fantasma": "Alessio Macalùso"
+  }
+}

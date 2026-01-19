@@ -1,0 +1,103 @@
+{
+  "anno": 2021,
+  "settimana": 35,
+  "startDate": "2021-08-30",
+  "endDate": "2021-09-05",
+  "stats": {
+    "totalMessages": 58,
+    "activeMembers": 6,
+    "avgPerMember": 9.7
+  },
+  "riassunto": "Settimana 35 con 58 messaggi. Fausto guida le danze con 24 contributi.",
+  "bestQuotes": [
+    {
+      "quote": "Io non utilizzo il termine demente per identificare i no vax, è più corretto dire teste di cazzo.",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "https://www.sienanews.it/toscana/attivi-da-oggi-due-nuovi-tutor-stradali-a-siena-ma-e-una-bufala-di-messaggi-vocali/?fbclid=IwAR0MkBbFLHVzUrJ0OI_vLYM0HtLTwxEd2beHmMC42nu39yzF8ZBr0uJgEPw",
+      "author": "Fausto Petrini",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "ma dio cane, il mongoloide e' no vax e va a cena quasi tutti i giorni a casa della mi mamma",
+      "author": "Alessio Valentini",
+      "context": "Momento memorabile della settimana"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Fausto Petrini",
+      "voto": 8.4,
+      "giudizio": "Il Trascinatore ha proposto, organizzato, coordinato. Come sempre nessuno l'ha seguito.",
+      "messaggi": 24,
+      "mediaGiornaliera": 3.4,
+      "highlights": [
+        "Ha dominato la conversazione con il 41% dei messaggi"
+      ],
+      "citazioneTop": "https://www.sienanews.it/toscana/attivi-da-oggi-due-nuovi-tutor-stradali-a-siena-ma-e-una-bufala-di-messaggi-vocali/?fbclid=IwAR0MkBbFLHVzUrJ0OI_vLYM0HtLTwxEd2beHmMC42nu39yzF8ZBr0uJgEPw"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 7.5,
+      "giudizio": "Il fiume in piena ha esondato questa settimana, ma almeno ha irrigato bene la chat.",
+      "messaggi": 16,
+      "mediaGiornaliera": 2.3,
+      "highlights": [
+        "Ha dominato la conversazione con il 28% dei messaggi"
+      ],
+      "citazioneTop": "Io non utilizzo il termine demente per identificare i no vax, è più corretto dire teste di cazzo."
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 6.5,
+      "giudizio": "Non la sua settimana migliore, ma c'era quando serviva.",
+      "messaggi": 11,
+      "mediaGiornaliera": 1.6,
+      "highlights": [
+        "Tra i piu' attivi con 11 messaggi"
+      ],
+      "citazioneTop": "ma dio cane, il mongoloide e' no vax e va a cena quasi tutti i giorni a casa della mi mamma"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 4.8,
+      "giudizio": "Il Lider si e' eclissato. Chi guida il gruppo?",
+      "messaggi": 4,
+      "mediaGiornaliera": 0.6,
+      "highlights": [
+        "Ha contribuito con 4 messaggi"
+      ],
+      "citazioneTop": "Teste di cazzo demente"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 4.4,
+      "giudizio": "Il Provocatore si e' preso una pausa. Nessuno da smontare?",
+      "messaggi": 2,
+      "mediaGiornaliera": 0.3,
+      "highlights": [
+        "Ha contribuito con 2 messaggi"
+      ],
+      "citazioneTop": ""
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 4.2,
+      "giudizio": "Assente o quasi. Probabilmente raggiungeva l'illuminazione.",
+      "messaggi": 1,
+      "mediaGiornaliera": 0.1,
+      "highlights": [
+        "Ha contribuito con 1 messaggi"
+      ],
+      "citazioneTop": ""
+    }
+  ],
+  "awards": {
+    "mvp": "Fausto Petrini - Miglior voto della settimana con 8.4",
+    "comico": "Alessio Valentini - Il piu' divertente della settimana",
+    "cuore": "Alessio Valentini - Presenza equilibrata e costante",
+    "fantasma": "Alessio Macalùso - Il piu' silenzioso con 1 messaggi"
+  }
+}

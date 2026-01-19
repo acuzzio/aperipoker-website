@@ -1,0 +1,119 @@
+{
+  "anno": 2022,
+  "settimana": 32,
+  "startDate": "2022-08-08",
+  "endDate": "2022-08-14",
+  "stats": {
+    "totalMessages": 130,
+    "activeMembers": 6,
+    "avgPerMember": 21.7
+  },
+  "riassunto": "Settimana di montagne e parchi! Adriano arriva a 3000 metri ma si ferma alla ferrata ('Non ce l'abbiamo fatta'). Alessio V. va a Yosemite per la terza volta ('Agosto e' un po' lame, non ci sono le cascate'). Fausto propone serata a Siena ma nessuno c'e'. Cosimo chiede foto ('Manna foto! Ziogan!'). Si dorme in tenda per non spendere 230 euro a notte.",
+  "bestQuotes": [
+    {
+      "quote": "Oggi fino a 3000 metri ad un passo dalla cima. Ferrata di 7 metri.. siamo tornati indietro. Non ce l'abbiamo fatta",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Sulla ferrata incompiuta"
+    },
+    {
+      "quote": "Yosemite di Agosto e' un po' lame, non ci sono le mega cascate",
+      "author": "Alessio Valentini",
+      "context": "Sul terzo viaggio a Yosemite"
+    },
+    {
+      "quote": "Manna foto! Ziogan!",
+      "author": "Cosimo Nenciòni",
+      "context": "Richiesta foto dalla montagna"
+    },
+    {
+      "quote": "Ma poi dormire in tenda e' piu' fico",
+      "author": "Cosimo Nenciòni",
+      "context": "Sul campeggio vs hotel a 230 euro"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 7.5,
+      "giudizio": "'Manna foto! Ziogan!' e' entusiasmo puro. Ha condiviso video CB_Ignoranza. 'Poi diventa lesbica e ci rimane male' sul video. Sempre attento alle foto del gruppo.",
+      "messaggi": 37,
+      "mediaGiornaliera": 5.3,
+      "highlights": [
+        "Manna foto",
+        "Ziogan",
+        "Video CB_Ignoranza"
+      ],
+      "citazioneTop": "Manna foto! Ziogan!"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 8.0,
+      "giudizio": "Terzo viaggio a Yosemite! Ha spiegato perche' agosto e' lame (no cascate). Dormi in tenda o paghi 230 euro. Ha promesso foto. Il giramondo americano.",
+      "messaggi": 25,
+      "mediaGiornaliera": 3.6,
+      "highlights": [
+        "Terzo viaggio Yosemite",
+        "Agosto e' lame",
+        "Tenda vs hotel"
+      ],
+      "citazioneTop": "yosemite di Agosto e' un po' lame"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 7.5,
+      "giudizio": "Ha raggiunto i 3000 metri ma la ferrata lo ha fermato ('Non ce l'abbiamo fatta'). Zero foto dalla montagna. Ha commentato il video della Luna col ciccione dietro.",
+      "messaggi": 22,
+      "mediaGiornaliera": 3.1,
+      "highlights": [
+        "3000 metri",
+        "Ferrata fallita",
+        "Zero foto"
+      ],
+      "citazioneTop": "Non ce l'abbiamo fatta"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 7.0,
+      "giudizio": "In montagna anche lui. Ha chiesto se Alessio era gia' stato a Yosemite. 'Bravo' sulle foto. Presente e interessato.",
+      "messaggi": 21,
+      "mediaGiornaliera": 3.0,
+      "highlights": [
+        "In montagna",
+        "Ha chiesto di Yosemite",
+        "Presente"
+      ],
+      "citazioneTop": "Ma non c'eri gia' stato a Yosemite?"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 6.5,
+      "giudizio": "Ha proposto serata a Siena ma nessuno c'era. 'Direi che e' un no' ha capito. Ha commentato il video di CB_Ignoranza. Organizzatore senza successo.",
+      "messaggi": 14,
+      "mediaGiornaliera": 2.0,
+      "highlights": [
+        "Ha proposto serata",
+        "Nessuno c'era",
+        "Chiocciola pefforza"
+      ],
+      "citazioneTop": "Direi che e' un no"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 6.0,
+      "giudizio": "Non c'era per la serata di Fausto. Ha commentato il video della Luna ('Adoro quanto lui si bea di questo coro'). Pochi messaggi ma presenti.",
+      "messaggi": 11,
+      "mediaGiornaliera": 1.6,
+      "highlights": [
+        "Non c'era",
+        "Ha commentato video"
+      ],
+      "citazioneTop": "Adoro quanto lui si bea di questo coro"
+    }
+  ],
+  "awards": {
+    "mvp": "Alessio Valentini - Terzo viaggio a Yosemite",
+    "comico": "Cosimo Nenciòni - Manna foto! Ziogan!",
+    "cuore": "Fausto Petrini - Ha provato a organizzare una serata",
+    "fantasma": "Nessuno - Tutti presenti per le vacanze"
+  }
+}

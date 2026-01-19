@@ -1,0 +1,109 @@
+{
+  "anno": 2020,
+  "settimana": 19,
+  "startDate": "2020-05-04",
+  "endDate": "2020-05-10",
+  "stats": {
+    "totalMessages": 118,
+    "activeMembers": 6,
+    "avgPerMember": 19.7
+  },
+  "riassunto": "Settimana normale con 118 messaggi e 6 membri attivi in pieno lockdown. Si è parlato principalmente di uscite/cene, viaggi, calcio. Il gruppo ha mantenuto il suo ritmo consueto tra battute e organizzazione di uscite.",
+  "bestQuotes": [
+    {
+      "quote": "Ahahahahah non ci sperare troppo....",
+      "author": "Giacomo Dolfi",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Perché?!? Lo hanno fatto davvero????",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Infatti li devi togliere per lisciare Dio Santo!",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Momento memorabile della settimana"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 8.5,
+      "giudizio": "Ha scritto più lui in tre giorni che alcuni in un mese. Ma almeno era divertente.",
+      "messaggi": 38,
+      "mediaGiornaliera": 6.3,
+      "highlights": [
+        "Molto attivo, tra i più presenti della settimana",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "È da poche ore che hanno riaperto un po’ è già c’è un casino in giro che metà basta.."
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 8.5,
+      "giudizio": "L'anima organizzativa del gruppo ha brillato. Quante uscite proposte? Quante andate in porto? Non importa.",
+      "messaggi": 26,
+      "mediaGiornaliera": 3.7,
+      "highlights": [
+        "Buona partecipazione alle discussioni",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "Qua a fi sembra ancora abbastanza tranquo"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 7.5,
+      "giudizio": "Maestro del sarcasmo, questa settimana era in forma smagliante. Nessuno è stato risparmiato.",
+      "messaggi": 16,
+      "mediaGiornaliera": 2.7,
+      "highlights": [
+        "Buona partecipazione alle discussioni",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "Pei viali è come in giorno di lavoro normale. Un botto di macchine. ma vedrai la gente colcazzo piglia il bus"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 7.5,
+      "giudizio": "Giacomo in grande spolvero. Le sue osservazioni hanno acceso la chat.",
+      "messaggi": 15,
+      "mediaGiornaliera": 2.5,
+      "highlights": [
+        "Presente ma non dominante",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "Lucia lo sta guardando e la settimana scorsa mi disse: dovresti dire a Fausto e Cosimo di guardarlo, gli garberebbe parecchio"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 6.5,
+      "giudizio": "Il solito Alessio Mac: pacato, presente, essenziale. Niente sprechi di parole.",
+      "messaggi": 14,
+      "mediaGiornaliera": 3.5,
+      "highlights": [
+        "Presente ma non dominante",
+        "Presente per buona parte della settimana"
+      ],
+      "citazioneTop": "Qua sembra di essere in Svezia quando cambiarono la guida da sinistra a destra"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 6.0,
+      "giudizio": "Contributi sporadici ma sempre affettuosi. Il Giramondo mantiene i contatti.",
+      "messaggi": 9,
+      "mediaGiornaliera": 3.0,
+      "highlights": [
+        "Presente ma non dominante",
+        "Presente per buona parte della settimana"
+      ],
+      "citazioneTop": "2) la farei una dove non so vedono le tue mani!!"
+    }
+  ],
+  "awards": {
+    "mvp": "Adriano Sergio Lorenzo Facchini",
+    "comico": "Adriano Sergio Lorenzo Facchini",
+    "cuore": "Fausto Petrini",
+    "fantasma": "Alessio Valentini"
+  }
+}

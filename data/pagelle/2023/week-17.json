@@ -1,0 +1,108 @@
+{
+  "anno": 2023,
+  "settimana": 17,
+  "startDate": "2023-04-24",
+  "endDate": "2023-04-30",
+  "stats": {
+    "totalMessages": 29,
+    "activeMembers": 6,
+    "avgPerMember": 4.8
+  },
+  "riassunto": "Settimana della fica universitaria e della cena immaginaria. Alessio V.: 'C'è una quantita di fica all'universita COLOSSALE. Mi sto sentendo male.' Adriano: 'Ti sale la pressione stai calmo'. Fausto resetta il telefono e si perde tutto. Adriano e Giacomo inventano una cena immaginaria epica: classifica migliore amico, scatola del tempo, laser game e Petriolo, falo con chitarra. 'Si vede che siete in grado di sognare solo quando fate per finta'.",
+  "bestQuotes": [
+    {
+      "quote": "C'è una quantità di fica all'università COLOSSALE. Mi sto sentendo male.",
+      "author": "Alessio Valentini",
+      "context": "Dalla North Carolina"
+    },
+    {
+      "quote": "Abbiamo fatto un giuoco per stabilire la classifica di migliore amico del gruppo... e tu l'ultimo. Menomale non c'eri",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Trollata a Fausto sulla cena immaginaria"
+    },
+    {
+      "quote": "Si vede che siete in grado di sognare solo quando fate per finta...",
+      "author": "Fausto Petrini",
+      "context": "Risposta alla cena immaginaria"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 9.0,
+      "giudizio": "Inventa la cena immaginaria piu epica di sempre: classifica migliore amico, scatola del tempo sotterrata, merenda cena fino a sera, prospettive future del gruppo. Giacomo miglior amico, Fausto ultimo. 'Il falo con chitarra e canti? S'è perso la voce tra tutti'. Genio del trolling.",
+      "messaggi": 14,
+      "mediaGiornaliera": 2.0,
+      "highlights": [
+        "Invenzione cena immaginaria",
+        "Trollata epica a Fausto"
+      ],
+      "citazioneTop": "Abbiamo fatto prima una call e dopo ci siamo riuniti di persona per una merenda cena fino a sera"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 8.0,
+      "giudizio": "Complice perfetto nella cena immaginaria. 'Ma tanto si rifa dai, siamo stati talmente bene'. 'Ma poi il mix laser game e Petriolo è stato davvero fantastico'. 'Chissa se c'ha lasciato anche l'orologio' - dubbio esistenziale.",
+      "messaggi": 6,
+      "mediaGiornaliera": 0.9,
+      "highlights": [
+        "Co-autore cena immaginaria",
+        "Dettagli sul laser game"
+      ],
+      "citazioneTop": "Ma poi il mix laser game e Petriolo è stato davvero fantastico"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 7.5,
+      "giudizio": "'C'è una quantita di fica all'universita COLOSSALE'. 'Ero gia fradiciotto li eh' su una foto vecchia. Presente dalla North Carolina con osservazioni di qualita.",
+      "messaggi": 6,
+      "mediaGiornaliera": 0.9,
+      "highlights": [
+        "Osservazione fica universitaria",
+        "Commenti nostalgici"
+      ],
+      "citazioneTop": "C'è una quantità di fica all'università COLOSSALE. Mi sto sentendo male."
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 7.0,
+      "giudizio": "Reset di fabbrica del telefono, perde tutto. 'Se c'era qualche lancio importante me lo sono perso'. Scopre la trollata: 'Si vede che siete in grado di sognare solo quando fate per finta'. 'Ho acquisito il dono dell'invulnerabilita alle bizze del mi figliolo'.",
+      "messaggi": 6,
+      "mediaGiornaliera": 0.9,
+      "highlights": [
+        "Vittima della trollata",
+        "Risposta filosofica"
+      ],
+      "citazioneTop": "Si vede che siete in grado di sognare solo quando fate per finta"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 6.5,
+      "giudizio": "'Come un cittino' su Federico. 'Bello assai'. 'Sei in una caverna?' ad Adriano. Presente ma con pochi contributi.",
+      "messaggi": 4,
+      "mediaGiornaliera": 0.6,
+      "highlights": [
+        "Commenti",
+        "Partecipazione alla trollata"
+      ],
+      "citazioneTop": "Come un cittino"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 6.0,
+      "giudizio": "'Ahahahah' e 'Sicuro' - contributi minimi ma presenti. Settimana tranquilla per il Mac.",
+      "messaggi": 3,
+      "mediaGiornaliera": 0.4,
+      "highlights": [
+        "Partecipazione"
+      ],
+      "citazioneTop": "Sicuro"
+    }
+  ],
+  "awards": {
+    "mvp": "Adriano Sergio Lorenzo Facchini",
+    "comico": "Giacomo Dolfi",
+    "cuore": "Fausto Petrini",
+    "fantasma": null
+  }
+}

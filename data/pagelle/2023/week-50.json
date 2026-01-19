@@ -1,0 +1,109 @@
+{
+  "anno": 2023,
+  "settimana": 50,
+  "startDate": "2023-12-11",
+  "endDate": "2023-12-17",
+  "stats": {
+    "totalMessages": 275,
+    "activeMembers": 6,
+    "avgPerMember": 45.8
+  },
+  "riassunto": "SETTIMANA EPICA: cena rimandata, Cocco ancora positivo e FAUSTO LIDER IN PECTORE! Mac: 'La cena del 15 la considero rinviata'. Cocco ancora positivo! 'Procedo col tampone definitivo. Mandatemi good vibes'. Jack: 'Io sono sulla tazza ad incitarti'. Cocco: 'L'ho nel culo. Sono ancora positivo'. 'Mi ci viene da piangere. Sono un po' stressato'. 'Vi ho delusi. Sono un debole'. Adriano solidale: 'Per me puoi venire. Non sei piu' contagioso. Stai accanto a me'. Fausto organizza sondaggi per la nuova data! Giacomo: 'Fausto lider in pectore'. Mac: 'Presto sarai lider e potremo fare videocene tutte le settimane'. Fausto umile: 'Riconosco umilmente che non sono un buon lider, ma se dovessi portare questa responsabilita' proporrei delle videocene'. Poi la cena! Prenotato al Fiasco di Faella. Adriano vuole andarci a tutti i costi: 'Ma porco dio, io voglio andare a Faella Dio merda'. Giacomo preferisce vicino ma alla fine: 'Io non vengo'. Alessio V. in Spagna: 'Sono fino al 24'. Si organizza per gennaio!",
+  "bestQuotes": [
+    {
+      "quote": "Riconosco umilmente che non sono un buon lider, ma se dovessi portare questa responsabilita' certo proporrei delle videocene",
+      "author": "Fausto Petrini",
+      "context": "Umilta' del lider in pectore"
+    },
+    {
+      "quote": "Mi ci viene da piangere. Sono un po' stressato. Vi ho delusi. Sono un debole",
+      "author": "Cosimo Nenciòni",
+      "context": "Ancora positivo covid"
+    },
+    {
+      "quote": "Ma porco dio, io voglio andare a Faella Dio merda",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Sulla cena"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Fausto Petrini",
+      "voto": 9.0,
+      "giudizio": "IL LIDER IN PECTORE! Organizza tutto: sondaggi, date, luoghi. 'Io ci sono. Se cocco non potesse propongo cena con videocollegamento dalla casa'. 'Potrei ambire' a lider. 'Riconosco umilmente che non sono un buon lider, ma se dovessi portare questa responsabilita' certo proporrei delle videocene. Che per Alessio sarebbero videopranzi'. 'Per me dal 2 al 6 quando volete, so in ferie'. 'Forza cocco!'. 'E' chiaramente un caso in cui non ti puoi appellare ad altri impegni'. Organizzatore supremo.",
+      "messaggi": 52,
+      "mediaGiornaliera": 7.4,
+      "highlights": [
+        "Lider in pectore",
+        "Sondaggi cena"
+      ],
+      "citazioneTop": "Riconosco umilmente che non sono un buon lider, ma proporrei delle videocene"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 8.5,
+      "giudizio": "Il determinato! 'Ti abbiamo detto tutti di si'. 'Come al solito Giec non scrive pubblicamente ma solo in via secondaria. Avra' detto al Mac che il 15 non puo' perche' deve andare al party di Batman'. 'Per me puoi venire. Non sei piu' contagioso. Stai accanto a me' a Cocco. 'MA PORCO DIO, IO VOGLIO ANDARE A FAELLA DIO MERDA'. 'Ho gia' fame'. 'Finalmente' quando Giacomo decide. Passionale e diretto.",
+      "messaggi": 48,
+      "mediaGiornaliera": 6.9,
+      "highlights": [
+        "Vuole Faella",
+        "Solidale Cocco"
+      ],
+      "citazioneTop": "Ma porco dio, io voglio andare a Faella Dio merda"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 8.0,
+      "giudizio": "Il positivo cronico! 'Io mi sto impegnando seriamente. E ce la faro''. 'Procedo col tampone definitivo. Mandatemi good vibes'. 'L'ho nel culo. Sono ancora positivo'. 'Mi ci viene da piangere. Sono un po' stressato'. 'Vi ho delusi. Sono un debole'. 'Ho sinusite e quindi un po' di moccolo'. 'Siete dei maiali. Ho fame'. Combattente nonostante tutto.",
+      "messaggi": 42,
+      "mediaGiornaliera": 6.0,
+      "highlights": [
+        "Ancora positivo",
+        "Vuole esserci"
+      ],
+      "citazioneTop": "Mi ci viene da piangere. Vi ho delusi. Sono un debole"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 8.0,
+      "giudizio": "Il Lider mediatore! 'La cena del 15 la considero rinviata ma non prendo impegni che non si sa mai'. 'Ho prenotato al Fiasco di Faella'. 'A Faella duro. Zone tue'. 'Presto sarai lider e potremo fare videocene tutte le settimane'. 'E hai buone probabilita''. 'Aspetto a sprenotare'. 'Fausto deve venire per forza'. 'Potremmo risolvere con una pizza a Poggibonsi?'. Diplomatico.",
+      "messaggi": 38,
+      "mediaGiornaliera": 5.4,
+      "highlights": [
+        "Prenota Faella",
+        "Media lider"
+      ],
+      "citazioneTop": "Presto sarai lider e potremo fare videocene tutte le settimane"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 7.0,
+      "giudizio": "Il problematico! 'Io allineato con Pasquale'. 'Io sono sulla tazza ad incitarti' - a Cocco! 'Fausto lider in pectore'. 'Il dottor Google con il dottor Adriano'. 'Io preferirei qualcosa di piu' vicino'. 'Chiarisco per la serenita' di Adriano. Io non vengo'. 'Ho dovuto dire da prima che non vengo perche' Adriano ha iniziato ad offendermi'. Complicato ma presente.",
+      "messaggi": 32,
+      "mediaGiornaliera": 4.6,
+      "highlights": [
+        "Sulla tazza",
+        "Non viene"
+      ],
+      "citazioneTop": "Io sono sulla tazza ad incitarti"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 7.0,
+      "giudizio": "'Sentite, fatemi sapere perche' c'ho quelli del club di scacchi che mi pressano'. 'Un pranzo aperipoker col Covid l'abbiamo anche gia' fatto...'. 'Io sono in Spagna fino al 24'. 'Se Pasquale vuole'. 'Mi potrei fare trovare alla colonna del grillo'. 'Perfettissimo'. Presente dalla Spagna.",
+      "messaggi": 24,
+      "mediaGiornaliera": 3.4,
+      "highlights": [
+        "Club scacchi",
+        "In Spagna"
+      ],
+      "citazioneTop": "Un pranzo aperipoker col Covid l'abbiamo anche gia' fatto"
+    }
+  ],
+  "awards": {
+    "mvp": "Fausto Petrini",
+    "comico": "Giacomo Dolfi",
+    "cuore": "Cosimo Nenciòni",
+    "fantasma": null
+  }
+}

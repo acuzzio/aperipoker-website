@@ -1,0 +1,116 @@
+{
+  "anno": 2022,
+  "settimana": 45,
+  "startDate": "2022-11-11",
+  "endDate": "2022-11-13",
+  "stats": {
+    "totalMessages": 31,
+    "activeMembers": 6,
+    "avgPerMember": 5.2
+  },
+  "riassunto": "Cosimo ha il Covid di nuovo ('Ho il covidmerda, alla fine sono capitolato'). Adriano segue Nadal: 'Sta perdendo come uno stronzo... Ecco, finita'. Fausto manda foto di bici: 'Gino Coppi e Fausto Bartali naturalmente'. Inizia il periodo bicicletta. 'Non e' proprio il PalaWanny' su un posto.",
+  "bestQuotes": [
+    {
+      "quote": "Alla fine sono capitolato. Ho il covidmerda",
+      "author": "Cosimo Nenciòni",
+      "context": "Sul secondo Covid"
+    },
+    {
+      "quote": "Sta perdendo come uno stronzo. Ecco.. finita",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Su Nadal"
+    },
+    {
+      "quote": "So negativo finocchi",
+      "author": "Cosimo Nenciòni",
+      "context": "Sulla guarigione"
+    },
+    {
+      "quote": "Ha perso lui mica io. Bella partita",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Filosofia sportiva"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 7.5,
+      "giudizio": "Ha il Covid per la seconda volta ma almeno ha fatto la partita. 'So negativo finocchi' annuncia la guarigione. 'Bucaiolo' e 'Maiala che figata' sui contenuti del gruppo. Malato con stile.",
+      "messaggi": 11,
+      "mediaGiornaliera": 3.7,
+      "highlights": [
+        "Covid seconda volta",
+        "So negativo finocchi",
+        "Ha fatto la partita"
+      ],
+      "citazioneTop": "So negativo finocchi"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 7.5,
+      "giudizio": "'Inizia il periodo bicicletta'. Ha seguito Nadal: 'Sta perdendo come uno stronzo'. 'Ha perso lui mica io' e' filosofia sportiva. Ha chiesto se era la terza volta di Covid per Cosimo.",
+      "messaggi": 9,
+      "mediaGiornaliera": 3.0,
+      "highlights": [
+        "Periodo bicicletta",
+        "Nadal perde",
+        "Ha perso lui mica io"
+      ],
+      "citazioneTop": "Sta perdendo come uno stronzo"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 6.5,
+      "giudizio": "'Gino Coppi e Fausto Bartali' sulla foto della bici. 'Ah ecco ecco' sul Covid di Cosimo. Ha chiesto se era hockey. Presente e curioso.",
+      "messaggi": 5,
+      "mediaGiornaliera": 1.7,
+      "highlights": [
+        "Gino Coppi",
+        "Fausto Bartali",
+        "Hockey?"
+      ],
+      "citazioneTop": "Gino Coppi e Fausto Bartali naturalmente"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 6.0,
+      "giudizio": "'Ghiotto' sulla bici. Due messaggi ma presenti.",
+      "messaggi": 2,
+      "mediaGiornaliera": 0.7,
+      "highlights": [
+        "Ghiotto"
+      ],
+      "citazioneTop": "Ghiotto"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 6.0,
+      "giudizio": "'Poi manda foto mi raccomando' e 'Ecco' sul Covid. Presente con commenti.",
+      "messaggi": 2,
+      "mediaGiornaliera": 0.7,
+      "highlights": [
+        "Manda foto",
+        "Ecco sul Covid"
+      ],
+      "citazioneTop": "Poi manda foto mi raccomando"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 6.5,
+      "giudizio": "Ha mandato foto della bici. 'Non e' proprio il PalaWanny' e' critica. 'Divertitevi' al gruppo. Fotografo ciclista.",
+      "messaggi": 2,
+      "mediaGiornaliera": 0.7,
+      "highlights": [
+        "Foto bici",
+        "Non e' il PalaWanny"
+      ],
+      "citazioneTop": "Non e' proprio il PalaWanny"
+    }
+  ],
+  "awards": {
+    "mvp": "Cosimo Nenciòni - Covid ma ha fatto la partita prima",
+    "comico": "Adriano Sergio Lorenzo Facchini - Ha perso lui mica io",
+    "cuore": "Adriano Sergio Lorenzo Facchini - Ha chiesto se era la terza volta di Covid",
+    "fantasma": "Nessuno - Settimana corta ma tutti presenti"
+  }
+}

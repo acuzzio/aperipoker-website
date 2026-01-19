@@ -1,0 +1,108 @@
+{
+  "anno": 2023,
+  "settimana": 30,
+  "startDate": "2023-07-24",
+  "endDate": "2023-07-30",
+  "stats": {
+    "totalMessages": 56,
+    "activeMembers": 6,
+    "avgPerMember": 9.3
+  },
+  "riassunto": "Settimana del wombat e del ritorno dall'Australia! Giacomo manda foto del wombat: 'Gli si poteva accarezzare solo il ginocchio'. Cocco: 'Sta nella mia top 10 di animali preferiti'. 'Giovi si caga sotto col serpe'. Alessio V. commenta: 'C'ha du belle palle'. Discussione sulle e-bike: Cocco ha fatto 20 km e 1000 m di dislivello. 'Senza protezioni se cadi muori o almeno ci lasci tutti i denti'. Cocco chiude vacanze: 'Alla fine e' andata bene nonostante le premesse tragiche'. Giacomo all'aeroporto di Doha alle 5 di mattina: 'Potrebbero essere le 11, le 17 o le 22'. Adriano: 'Speriamo dio bono che ti trattengano e ti mettano ai lavori forzati in un McDonald'. Fausto filosofico: 'Non-luogo' con articolo su Marc Auge. Giacomo torna all'Arbia: 'Arbiona forever'. Adriano: 'Arbia the best town city center in the world'.",
+  "bestQuotes": [
+    {
+      "quote": "L'aeroporto di Doha alle 5 di mattina e' un posto incredibile. Potrebbero essere le 11, le 17 o le 22. Di qualsiasi stagione",
+      "author": "Giacomo Dolfi",
+      "context": "Descrizione dell'aeroporto"
+    },
+    {
+      "quote": "Speriamo dio bono che ti trattengano e che ti mettano ai lavori forzati in un McDonald piu' di merda e affollato del Qatar",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Augurio di bentornato"
+    },
+    {
+      "quote": "Arbiona forever",
+      "author": "Giacomo Dolfi",
+      "context": "Ritorno a casa"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 8.5,
+      "giudizio": "Il viaggiatore che torna! Foto del wombat: 'Gli si poteva accarezzare solo il ginocchio'. 'E' tutto palle grinzose'. All'aeroporto di Doha: 'Potrebbero essere le 11, le 17 o le 22'. 'Posso non tornare' dal Qatar. Descrizione epica: 'passere arabe, macchinone come premi di lotterie'. 'Arbiona forever'. Cronista fino all'ultimo.",
+      "messaggi": 16,
+      "mediaGiornaliera": 2.3,
+      "highlights": [
+        "Foto wombat",
+        "Ritorno dall'Australia"
+      ],
+      "citazioneTop": "Arbiona forever"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 8.0,
+      "giudizio": "L'esperto di animali e e-bike! 'Il wombat sta nella mia top 10 di animali preferiti'. 'Giovi si caga sotto col serpe'. Sulle discese in bici: 'Ti devi fidare molto della bici'. 'Senza protezioni se cadi muori'. 'Last dance, alla fine e' andata bene nonostante le premesse tragiche'. 'Costa come una moto, preciso'. Saggio e avventuroso.",
+      "messaggi": 14,
+      "mediaGiornaliera": 2.0,
+      "highlights": [
+        "Top 10 animali",
+        "Consigli e-bike"
+      ],
+      "citazioneTop": "Sta nella mia top 10 di animali preferiti"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 8.0,
+      "giudizio": "Il filosofo delle e-bike e dell'Arbia! 'E' praticamente un motorino'. 'In montagna ha soppiantato completamente le altre tipologie di bici'. 'Sono sport troppo adrenalinici'. A Giacomo: 'Speriamo che ti mettano ai lavori forzati in un McDonald del Qatar'. 'Arbia come Doha'. 'Arbia the best town city center in the world'. Ironico e colto.",
+      "messaggi": 10,
+      "mediaGiornaliera": 1.4,
+      "highlights": [
+        "Filosofia e-bike",
+        "Arbia = Doha"
+      ],
+      "citazioneTop": "Arbia the best town city center in the world"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 7.5,
+      "giudizio": "'Fantastico' sulle foto. 'C'ha du belle palle' sul wombat. 'Occhio alla grandine, semmai' - trauma ancora vivo. 'TOP of the MEGA TOP' sulle foto di Cocco. 'Bentornato a casa' a Giacomo. Presente nonostante la lontananza.",
+      "messaggi": 10,
+      "mediaGiornaliera": 1.4,
+      "highlights": [
+        "Commenti wombat",
+        "Warning grandine"
+      ],
+      "citazioneTop": "C'ha du belle palle"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 7.0,
+      "giudizio": "'Finalmente la foto del canguro!' 'Proprio comprato?' sull'e-bike. Condivide meme: 'Il mio ultimo meme preferito'. 'Metti la macchina a riparo' - solidale con Cocco sulla grandine. Presente e curioso.",
+      "messaggi": 8,
+      "mediaGiornaliera": 1.1,
+      "highlights": [
+        "Meme condiviso",
+        "Solidarieta' grandine"
+      ],
+      "citazioneTop": "Finalmente la foto del canguro!"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 7.0,
+      "giudizio": "'Non-luogo' - citazione colta con articolo su Marc Auge. Intellettuale e presente anche in settimana tranquilla.",
+      "messaggi": 2,
+      "mediaGiornaliera": 0.3,
+      "highlights": [
+        "Citazione Marc Auge"
+      ],
+      "citazioneTop": "Non-luogo"
+    }
+  ],
+  "awards": {
+    "mvp": "Giacomo Dolfi",
+    "comico": "Adriano Sergio Lorenzo Facchini",
+    "cuore": "Cosimo Nenciòni",
+    "fantasma": null
+  }
+}

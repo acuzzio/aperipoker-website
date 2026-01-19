@@ -1,0 +1,109 @@
+{
+  "anno": 2020,
+  "settimana": 31,
+  "startDate": "2020-07-27",
+  "endDate": "2020-08-02",
+  "stats": {
+    "totalMessages": 83,
+    "activeMembers": 6,
+    "avgPerMember": 13.8
+  },
+  "riassunto": "Il gruppo si è ritrovato per discutere di uscite/cene, poker, viaggi nella fase di riapertura. Con 83 messaggi totali, la settimana è stata nella norma.",
+  "bestQuotes": [
+    {
+      "quote": "Comunque il tesoro è intatto. Elena ha nascosto la scatola🤣🤣🤣",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Muy bien! Fa caldino ma si sta bene",
+      "author": "Giacomo Dolfi",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Domani sera video chiamata con Alessio !!",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Momento memorabile della settimana"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Alessio Valentini",
+      "voto": 8.5,
+      "giudizio": "Il Giramondo ha scritto da qualche angolo del mondo con entusiasmo contagioso.",
+      "messaggi": 27,
+      "mediaGiornaliera": 6.8,
+      "highlights": [
+        "Buona partecipazione alle discussioni",
+        "Presente per buona parte della settimana"
+      ],
+      "citazioneTop": "venerdi' io saro' a lavoro, ma se ci sareste il venerdi' mi importa una sega e guardo di liberarmi."
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 8.0,
+      "giudizio": "Fausto on fire! Ha tenuto vivo il gruppo con entusiasmo invidiabile.",
+      "messaggi": 17,
+      "mediaGiornaliera": 2.8,
+      "highlights": [
+        "Buona partecipazione alle discussioni",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "Io vado in ferie fino al 10..."
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 7.5,
+      "giudizio": "Ha scritto più lui in tre giorni che alcuni in un mese. Ma almeno era divertente.",
+      "messaggi": 18,
+      "mediaGiornaliera": 4.5,
+      "highlights": [
+        "Buona partecipazione alle discussioni",
+        "Presente per buona parte della settimana"
+      ],
+      "citazioneTop": "Quando apri gli occhiali da sole per metterteli e ti aspetti che si accendano come lo schermo del telefonino cosa vuol dire?"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 6.5,
+      "giudizio": "Ha contribuito con il suo stile minimalista. Efficace, anche se non memorabile.",
+      "messaggi": 11,
+      "mediaGiornaliera": 2.8,
+      "highlights": [
+        "Presente ma non dominante",
+        "Presente per buona parte della settimana"
+      ],
+      "citazioneTop": "Sabato sera o domenica sera"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 6.5,
+      "giudizio": "Il Lider ha supervisionato con discrezione. Interventi mirati, niente sprechi.",
+      "messaggi": 6,
+      "mediaGiornaliera": 2.0,
+      "highlights": [
+        "Presente ma non dominante",
+        "Presente per buona parte della settimana"
+      ],
+      "citazioneTop": "Ragazzi io sabato parto per la montagna, per cui semmai posso venerdì, ma c'avrò mille cose da fare"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 5.5,
+      "giudizio": "Presente senza eccessi. L'equilibratore fa il suo lavoro in silenzio.",
+      "messaggi": 4,
+      "mediaGiornaliera": 1.0,
+      "highlights": [
+        "Interventi sporadici ma mirati",
+        "Presente per buona parte della settimana"
+      ],
+      "citazioneTop": "Se sono a lavoro faccio da lavoro"
+    }
+  ],
+  "awards": {
+    "mvp": "Alessio Valentini",
+    "comico": "Adriano Sergio Lorenzo Facchini",
+    "cuore": "Giacomo Dolfi",
+    "fantasma": "Alessio Macalùso"
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "anno": 2022,
+  "settimana": 44,
+  "startDate": "2022-11-02",
+  "endDate": "2022-11-06",
+  "stats": {
+    "totalMessages": 65,
+    "activeMembers": 6,
+    "avgPerMember": 10.8
+  },
+  "riassunto": "Compleanno di Alessio Mac (41 anni)! Cosimo gioca la partita di calcio dell'Alberino: 'Serata indimenticabile, s'e' giocato da campioni'. Alberino 4 - San Miniato 2. Gigi Guerrini e' ancora un portiere di alto livello. Alessio V. cerca il Colonnese nelle foto. Articolo sui rave: 'Pezzi di gioventu' non goduti'.",
+  "bestQuotes": [
+    {
+      "quote": "Auguri Alecs. Che poi io mi ricordo solo il tuo compleanno",
+      "author": "Cosimo Nenciòni",
+      "context": "Sul compleanno di Alessio Mac"
+    },
+    {
+      "quote": "Serata indimenticabile. S'e' giocato da campioni. Come se si fosse giocato insieme sempre",
+      "author": "Cosimo Nenciòni",
+      "context": "Sulla partita di calcio"
+    },
+    {
+      "quote": "Dimmi che il Colonnese e' in queste foto",
+      "author": "Alessio Valentini",
+      "context": "Cercando vecchi compagni"
+    },
+    {
+      "quote": "Pezzi di gioventu' non goduti",
+      "author": "Fausto Petrini",
+      "context": "Sui rave"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Alessio Valentini",
+      "voto": 7.5,
+      "giudizio": "'Dimmi che il Colonnese e' in queste foto' e' nostalgia calcistica. Ha criticato l'articolo sui rave ('inspiegabile paura dell'LSD'). 'Riconosco praticamente tutti'. Critico e nostalgico.",
+      "messaggi": 28,
+      "mediaGiornaliera": 5.6,
+      "highlights": [
+        "Cerca il Colonnese",
+        "Critica sui rave",
+        "Riconosce tutti"
+      ],
+      "citazioneTop": "Dimmi che il Colonnese e' in queste foto"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 9.0,
+      "giudizio": "Ha giocato la partita dell'Alberino: 'Serata indimenticabile, s'e' giocato da campioni'. Ha riconosciuto tutti. 'Il ciccione del Maggiorelli ha giocato da fenomeno'. Alberino 4 - San Miniato 2. Eroe del calcetto.",
+      "messaggi": 14,
+      "mediaGiornaliera": 2.8,
+      "highlights": [
+        "Partita Alberino",
+        "Serata indimenticabile",
+        "Ha riconosciuto tutti"
+      ],
+      "citazioneTop": "Serata indimenticabile. S'e' giocato da campioni"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 7.0,
+      "giudizio": "Ha fatto gli auguri e chiesto foto di Cocco calciatore. Ha chiesto vocale dettagliato di 20 minuti. 'I piu' forti lo erano ancora' e' domanda chiave. Curioso e partecipe.",
+      "messaggi": 12,
+      "mediaGiornaliera": 2.4,
+      "highlights": [
+        "Auguri ad Alessio",
+        "Vuole vocale da 20 minuti",
+        "I piu' forti"
+      ],
+      "citazioneTop": "Mandaci un vocale dettagliato, minimo 20 minuti"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 7.0,
+      "giudizio": "'Pezzi di gioventu' non goduti' sui rave. 'Che poi sono 41, sicche' ormai...' ad Alessio. 'Poche cerimonie e molta sostanza'. Filosofo dei compleanni.",
+      "messaggi": 6,
+      "mediaGiornaliera": 1.2,
+      "highlights": [
+        "Gioventu' non goduta",
+        "41 anni ormai",
+        "Articolo sui rave"
+      ],
+      "citazioneTop": "Pezzi di gioventu' non goduti"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 7.0,
+      "giudizio": "Festeggiato! 41 anni. Ha proposto cena di compleanno. 'Eccezionale ragazzi' sulle foto. Ha chiesto se Cosimo riconosceva tutti. Il festeggiato.",
+      "messaggi": 4,
+      "mediaGiornaliera": 0.8,
+      "highlights": [
+        "Compleanno 41 anni",
+        "Ha proposto cena",
+        "Eccezionale"
+      ],
+      "citazioneTop": "Facciamo una cena?"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 5.5,
+      "giudizio": "'Auguri Alecs!' Un solo messaggio ma doveroso.",
+      "messaggi": 1,
+      "mediaGiornaliera": 0.2,
+      "highlights": [
+        "Auguri"
+      ],
+      "citazioneTop": "Auguri Alecs!"
+    }
+  ],
+  "awards": {
+    "mvp": "Cosimo Nenciòni - Serata indimenticabile all'Alberino",
+    "comico": "Adriano Sergio Lorenzo Facchini - Richiesta vocale da 20 minuti",
+    "cuore": "Tutto il gruppo - Auguri ad Alessio Mac",
+    "fantasma": "Giacomo Dolfi - Solo un messaggio"
+  }
+}

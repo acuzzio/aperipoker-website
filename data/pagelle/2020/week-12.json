@@ -1,0 +1,109 @@
+{
+  "anno": 2020,
+  "settimana": 12,
+  "startDate": "2020-03-16",
+  "endDate": "2020-03-22",
+  "stats": {
+    "totalMessages": 240,
+    "activeMembers": 6,
+    "avgPerMember": 40.0
+  },
+  "riassunto": "Il gruppo si è ritrovato per discutere di uscite/cene, poker, viaggi in pieno lockdown. Con 240 messaggi totali, la settimana è stata positivo.",
+  "bestQuotes": [
+    {
+      "quote": "Grande Ale! Quindi oggi firmato a tempo indeterminato?",
+      "author": "Giacomo Dolfi",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "madonna che equilibrio verdura/carboidrati/proteine.",
+      "author": "Alessio Valentini",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Traduco, dei lavorare a qualche intermedio del Vaccino?",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Momento memorabile della settimana"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Fausto Petrini",
+      "voto": 8.5,
+      "giudizio": "Fausto on fire! Ha tenuto vivo il gruppo con entusiasmo invidiabile.",
+      "messaggi": 46,
+      "mediaGiornaliera": 7.7,
+      "highlights": [
+        "Molto attivo, tra i più presenti della settimana",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "C'è tutta una storia dietro..."
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 8.0,
+      "giudizio": "Il Re della Chat ha dominato la settimana con la consueta verbosità. Quando Adriano parla, il gruppo ascolta (volente o nolente).",
+      "messaggi": 52,
+      "mediaGiornaliera": 8.7,
+      "highlights": [
+        "Molto attivo, tra i più presenti della settimana",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "È che non sono abituato a tutto ciò"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 7.5,
+      "giudizio": "Maestro del sarcasmo, questa settimana era in forma smagliante. Nessuno è stato risparmiato.",
+      "messaggi": 50,
+      "mediaGiornaliera": 10.0,
+      "highlights": [
+        "Molto attivo, tra i più presenti della settimana",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "Adriano stai diventando saggio e apocalittico"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 7.5,
+      "giudizio": "Il Lider Maximo ha guidato le discussioni con mano ferma e battute pungenti.",
+      "messaggi": 32,
+      "mediaGiornaliera": 6.4,
+      "highlights": [
+        "Molto attivo, tra i più presenti della settimana",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "Grande Ale! Quindi oggi firmato a tempo indeterminato?"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 7.0,
+      "giudizio": "Ha contribuito con la sua calma zen. Pochi messaggi ma sempre pertinenti.",
+      "messaggi": 36,
+      "mediaGiornaliera": 7.2,
+      "highlights": [
+        "Molto attivo, tra i più presenti della settimana",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "Siete tutti molto ottimisti"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 6.5,
+      "giudizio": "Contributi sporadici ma sempre affettuosi. Il Giramondo mantiene i contatti.",
+      "messaggi": 24,
+      "mediaGiornaliera": 4.0,
+      "highlights": [
+        "Buona partecipazione alle discussioni",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "fatemi sapere l'ora, io ci sono eh"
+    }
+  ],
+  "awards": {
+    "mvp": "Adriano Sergio Lorenzo Facchini",
+    "comico": "Cosimo Nenciòni",
+    "cuore": "Giacomo Dolfi",
+    "fantasma": "Alessio Valentini"
+  }
+}

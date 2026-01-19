@@ -1,0 +1,108 @@
+{
+  "anno": 2020,
+  "settimana": 20,
+  "startDate": "2020-05-11",
+  "endDate": "2020-05-17",
+  "stats": {
+    "totalMessages": 344,
+    "activeMembers": 6,
+    "avgPerMember": 57.3
+  },
+  "riassunto": "Settimana normale con 344 messaggi e 6 membri attivi in pieno lockdown. Si è parlato principalmente di uscite/cene, viaggi, calcio. Il gruppo ha mantenuto il suo ritmo consueto tra battute e organizzazione di uscite.",
+  "bestQuotes": [
+    {
+      "quote": "Quest’anno ti va bene Fausto. Se non c’era Giulio ti beccavi dall’1 una alle tre !!",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Ci voglio andare il prossimo anno se lo fanno davvero!",
+      "author": "Giacomo Dolfi",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Giusto pe spende due soldi a cazzo",
+      "author": "Cosimo Nenciòni",
+      "context": "Momento memorabile della settimana"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 8.0,
+      "giudizio": "Il Re della Chat ha dominato la settimana con la consueta verbosità. Quando Adriano parla, il gruppo ascolta (volente o nolente).",
+      "messaggi": 109,
+      "mediaGiornaliera": 18.2,
+      "highlights": [
+        "Molto attivo, tra i più presenti della settimana",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "Lo dico per te perché se c’hai il corona ti emarginano subito"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 8.0,
+      "giudizio": "Sintetico ma letale come sempre. Le sue battute secche hanno fatto centro.",
+      "messaggi": 87,
+      "mediaGiornaliera": 14.5,
+      "highlights": [
+        "Molto attivo, tra i più presenti della settimana",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "Una bella gita in Garfagnana è quello che ci vuole."
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 8.0,
+      "giudizio": "Il Fondatore si è fatto sentire: domande innocue che hanno scatenato dibattiti infiniti.",
+      "messaggi": 61,
+      "mediaGiornaliera": 10.2,
+      "highlights": [
+        "Molto attivo, tra i più presenti della settimana",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "Mi sembra una bella storia che non conoscevo"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 7.5,
+      "giudizio": "Fausto on fire! Ha tenuto vivo il gruppo con entusiasmo invidiabile.",
+      "messaggi": 61,
+      "mediaGiornaliera": 15.2,
+      "highlights": [
+        "Molto attivo, tra i più presenti della settimana",
+        "Presente per buona parte della settimana"
+      ],
+      "citazioneTop": "Il problema.....è la ceppa"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 6.0,
+      "giudizio": "Il solito Alessio Mac: pacato, presente, essenziale. Niente sprechi di parole.",
+      "messaggi": 21,
+      "mediaGiornaliera": 7.0,
+      "highlights": [
+        "Buona partecipazione alle discussioni",
+        "Presente per buona parte della settimana"
+      ],
+      "citazioneTop": "(Qualunque cosa tu speri)"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 5.0,
+      "giudizio": "Internet di merda o disinteresse? Con Alessio V. non si sa mai.",
+      "messaggi": 5,
+      "mediaGiornaliera": 2.5,
+      "highlights": [
+        "Interventi sporadici ma mirati"
+      ],
+      "citazioneTop": "e io mi sveglio alle 14:00"
+    }
+  ],
+  "awards": {
+    "mvp": "Adriano Sergio Lorenzo Facchini",
+    "comico": "Giacomo Dolfi",
+    "cuore": "Cosimo Nenciòni",
+    "fantasma": "Alessio Valentini"
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "anno": 2023,
+  "settimana": 31,
+  "startDate": "2023-07-31",
+  "endDate": "2023-08-06",
+  "stats": {
+    "totalMessages": 68,
+    "activeMembers": 6,
+    "avgPerMember": 11.3
+  },
+  "riassunto": "Settimana della crisi di Alessio V. e dei nomi per il bambino! Alessio V. ha la prima vera crisi: 'Prima vera crisi da voglio tornare a casa dio boia'. Sveglia alle 5 di notte per passeggiata. Aspetta il permesso da gennaio. Matrimonio del Lorenzini a settembre incerto. Adriano filosofico: 'Viviamo in un mondo di merda. Puoi sempre comprare una pistola ma guai se vai in Italia senza il pass'. Cocco dal carrozziere dopo la grandinata: 'Mi fanno tutto ma prima di settembre non se ne parla'. Discussione sui nomi: Bruno, Mario, Carlo, Elio, Giona. Adriano: 'Bruno mi garba'. 'Un bel nome sobrio di quelli potenti'. Fausto manda foto dalla montagna con reflex. Poll: Mare o Montagna - vince Montagna 4 a 1! Adriano ricorda l'attacco di panico di Cocco in Abruzzo. Cocco: 'MI continuo a cacare addosso alla grande'. Giacomo inizia a Sinalunga. Fausto: 'Evidente sosia di Begby'.",
+  "bestQuotes": [
+    {
+      "quote": "Prima vera crisi da voglio tornare a casa dio boia",
+      "author": "Alessio Valentini",
+      "context": "Crisi notturna"
+    },
+    {
+      "quote": "Viviamo in un mondo di merda. C'e' di buono che puoi sempre comprare una pistola o un arsenale ma guai se vai in Italia senza il pass",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Solidarieta' ad Alessio V."
+    },
+    {
+      "quote": "Un bel nome sobrio di quelli potenti che si ricordano alla prima",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Sui nomi per il bambino"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Alessio Valentini",
+      "voto": 8.5,
+      "giudizio": "Protagonista emotivo! 'Prima vera crisi da voglio tornare a casa'. Si e' alzato alle 5 di notte per passeggiare. Aspetta permesso da gennaio. Matrimonio incerto. 'Mi ha semplicemente domandato in che tavolo mi deve mettere e m'ha messo in crisi'. 'Paaaartiro''. 'Cmq secondo me il brizzolato bianco ti sta bene a tutto foco'. 'Occhio alla grandine'. Condivide e resiste.",
+      "messaggi": 16,
+      "mediaGiornaliera": 2.3,
+      "highlights": [
+        "Crisi notturna",
+        "Incertezza matrimonio"
+      ],
+      "citazioneTop": "Prima vera crisi da voglio tornare a casa dio boia"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 8.5,
+      "giudizio": "Solidale e filosofico! 'Viviamo in un mondo di merda. Puoi comprare una pistola ma guai se vai in Italia'. 'Bruno mi garba'. 'Un bel nome sobrio di quelli potenti'. Ricorda l'attacco di panico di Cocco: 'Ora sfreccia all'impazzata con una e-Bike fiammante'. 'E' il bello del cambiare'. 'Io parto il 19 agosto e ciao'. Amico vero.",
+      "messaggi": 14,
+      "mediaGiornaliera": 2.0,
+      "highlights": [
+        "Solidarieta' Alessio V.",
+        "Nomi bambino"
+      ],
+      "citazioneTop": "Un bel nome sobrio di quelli potenti che si ricordano alla prima"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 8.0,
+      "giudizio": "Carrozziere e solidale! 'Mi fanno tutto ma prima di settembre non se ne parla'. A Alessio V.: 'Si capisce che sei arrivato. E' una situazione veramente di merda'. 'A sto punto vedi di tornare non prima di ottobre cosi' vedi Bruno/Giona'. 'Non come Mario che pero' mi e' stato proibito'. Poll grandine: 'Forse ci schiva'. 'MI continuo a cacare addosso alla grande'. Amico nel bisogno.",
+      "messaggi": 14,
+      "mediaGiornaliera": 2.0,
+      "highlights": [
+        "Aggiornamento carrozziere",
+        "Supporto Alessio V."
+      ],
+      "citazioneTop": "A sto punto pero' vedi di tornare non prima di ottobre cosi' vedi Elio/Bruno/Giona"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 7.5,
+      "giudizio": "Presente e partecipe! 'Come e' andata dal carrozziere?'. 'Ormai dopo il palio'. 'Ti sei sentito in trappola' a Alessio V. 'Siete diventati piu' montanari che marini'. Crea poll Mare vs Montagna. 'Metti la macchina a riparo'. 'Ahhhh ci voleva'. Curioso e solidale.",
+      "messaggi": 10,
+      "mediaGiornaliera": 1.4,
+      "highlights": [
+        "Poll Mare/Montagna",
+        "Supporto amici"
+      ],
+      "citazioneTop": "Siete diventati piu' montanari che marini"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 7.5,
+      "giudizio": "Fotografo di montagna! 'Le piu' belle sono con la reflex, era per farvi vedere dove siamo'. 'Divertentissimo' sul tubing. 'Menomale che per farlo bisognava salire tutta la montagna'. Propone incontro: 'Io e Cocco dal 17 siamo entrambi soli a lavorare a Fi'. 'Grande Jack, evidente sosia di Begby'. Organizzatore.",
+      "messaggi": 8,
+      "mediaGiornaliera": 1.1,
+      "highlights": [
+        "Foto montagna",
+        "Proposta incontro"
+      ],
+      "citazioneTop": "Evidente sosia di Begby"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 7.0,
+      "giudizio": "'Durati poco ehhhh' sul jet lag. 'Domani inizio a Sinalunga'. 'Baci baci'. 'Si vola'. Riprende la routine post-Australia.",
+      "messaggi": 6,
+      "mediaGiornaliera": 0.9,
+      "highlights": [
+        "Inizio Sinalunga",
+        "Ripresa routine"
+      ],
+      "citazioneTop": "Domani inizio a Sinalunga"
+    }
+  ],
+  "awards": {
+    "mvp": "Alessio Valentini",
+    "comico": "Adriano Sergio Lorenzo Facchini",
+    "cuore": "Cosimo Nenciòni",
+    "fantasma": null
+  }
+}

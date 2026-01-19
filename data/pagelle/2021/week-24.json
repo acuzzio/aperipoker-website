@@ -1,0 +1,104 @@
+{
+  "anno": 2021,
+  "settimana": 24,
+  "startDate": "2021-06-14",
+  "endDate": "2021-06-20",
+  "stats": {
+    "totalMessages": 238,
+    "activeMembers": 6,
+    "avgPerMember": 39.7
+  },
+  "riassunto": "Settimana 24 con 238 messaggi. Fausto guida le danze con 52 contributi.",
+  "bestQuotes": [
+    {
+      "quote": "Adri confermato da te mercoledì per la partita? Fatemi sapere porco2",
+      "author": "Cosimo Nenciòni",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Ahahaha che personaggia",
+      "author": "Alessio Macalùso",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "probabilmente il cazzo più grosso che io abbia mai visto ad un mio amico.",
+      "author": "Alessio Valentini",
+      "context": "Momento memorabile della settimana"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Fausto Petrini",
+      "voto": 7.3,
+      "giudizio": "Il solito Fausto: ci prova, ogni tanto ci riesce.",
+      "messaggi": 52,
+      "mediaGiornaliera": 7.4,
+      "highlights": [
+        "Tra i piu' attivi con 52 messaggi",
+        "Ha stimolato la discussione con molte domande"
+      ],
+      "citazioneTop": "Cocco te a che ore vuoi partire? Io ce la farei per le 7"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 6.7,
+      "giudizio": "Contributo equilibrato, con qualche perla sarcastica.",
+      "messaggi": 51,
+      "mediaGiornaliera": 7.3,
+      "highlights": [
+        "Tra i piu' attivi con 51 messaggi"
+      ],
+      "citazioneTop": "Adri confermato da te mercoledì per la partita? Fatemi sapere porco2"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 6.8,
+      "giudizio": "Presente come sempre, non ha fatto mancare la sua voce al coro.",
+      "messaggi": 49,
+      "mediaGiornaliera": 7.0,
+      "highlights": [
+        "Tra i piu' attivi con 49 messaggi"
+      ],
+      "citazioneTop": "A che ore inizia questa cagata di partita? Ho una call fino alle 18"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 5.9,
+      "giudizio": "Ha partecipato senza eccessi. Il Fondatore veglia.",
+      "messaggi": 30,
+      "mediaGiornaliera": 4.3,
+      "highlights": [
+        "Ha contribuito con 30 messaggi"
+      ],
+      "citazioneTop": ""
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 6.0,
+      "giudizio": "Il suo 'Credo' di meta' settimana valeva un trattato filosofico.",
+      "messaggi": 29,
+      "mediaGiornaliera": 4.1,
+      "highlights": [
+        "Ha contribuito con 29 messaggi"
+      ],
+      "citazioneTop": "Ahahaha che personaggia"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 5.5,
+      "giudizio": "Non la sua settimana migliore, ma c'era quando serviva.",
+      "messaggi": 27,
+      "mediaGiornaliera": 3.9,
+      "highlights": [
+        "Ha contribuito con 27 messaggi"
+      ],
+      "citazioneTop": "probabilmente il cazzo più grosso che io abbia mai visto ad un mio amico."
+    }
+  ],
+  "awards": {
+    "mvp": "Fausto Petrini - Miglior voto della settimana con 7.3",
+    "comico": "Alessio Macalùso - Il piu' divertente della settimana",
+    "cuore": "Adriano Sergio Lorenzo Facchini - Presenza equilibrata e costante",
+    "fantasma": null
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "anno": 2021,
+  "settimana": 11,
+  "startDate": "2021-03-15",
+  "endDate": "2021-03-21",
+  "stats": {
+    "totalMessages": 121,
+    "activeMembers": 6,
+    "avgPerMember": 20.2
+  },
+  "riassunto": "Il gruppo si fa sentire con 121 messaggi. Fausto il piu' loquace con 39 messaggi.",
+  "bestQuotes": [
+    {
+      "quote": "Il fatto è chedove cazzo lo ha preso, non vede nessuno",
+      "author": "Fausto Petrini",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "beh, tienici aggiornati. Puo' essere anche un falso positivo del test, no?",
+      "author": "Alessio Valentini",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Bravo Fausto, te si che ci vedi giusto! La giornata alle tre cime di Lavaredo me la ricorderò",
+      "author": "Giacomo Dolfi",
+      "context": "Momento memorabile della settimana"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Fausto Petrini",
+      "voto": 7.9,
+      "giudizio": "W il bollore! Fausto on fire questa settimana, peccato per gli altri.",
+      "messaggi": 39,
+      "mediaGiornaliera": 5.6,
+      "highlights": [
+        "Ha dominato la conversazione con il 32% dei messaggi"
+      ],
+      "citazioneTop": "Il fatto è chedove cazzo lo ha preso, non vede nessuno"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 7.3,
+      "giudizio": "Non la sua settimana migliore, ma c'era quando serviva.",
+      "messaggi": 30,
+      "mediaGiornaliera": 4.3,
+      "highlights": [
+        "Tra i piu' attivi con 30 messaggi"
+      ],
+      "citazioneTop": "beh, tienici aggiornati. Puo' essere anche un falso positivo del test, no?"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 6.4,
+      "giudizio": "Contributo equilibrato, con qualche perla sarcastica.",
+      "messaggi": 21,
+      "mediaGiornaliera": 3.0,
+      "highlights": [
+        "Tra i piu' attivi con 21 messaggi"
+      ],
+      "citazioneTop": ""
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 6.0,
+      "giudizio": "Presente come sempre, non ha fatto mancare la sua voce al coro.",
+      "messaggi": 16,
+      "mediaGiornaliera": 2.3,
+      "highlights": [
+        "Ha contribuito con 16 messaggi"
+      ],
+      "citazioneTop": ""
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 6.2,
+      "giudizio": "Ha partecipato senza eccessi. Il Fondatore veglia.",
+      "messaggi": 11,
+      "mediaGiornaliera": 1.6,
+      "highlights": [
+        "Ha contribuito con 11 messaggi"
+      ],
+      "citazioneTop": "Bravo Fausto, te si che ci vedi giusto! La giornata alle tre cime di Lavaredo me la ricorderò"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 4.4,
+      "giudizio": "Anche per i suoi standard, troppo silenzioso. Meditava?",
+      "messaggi": 4,
+      "mediaGiornaliera": 0.6,
+      "highlights": [
+        "Ha contribuito con 4 messaggi"
+      ],
+      "citazioneTop": ""
+    }
+  ],
+  "awards": {
+    "mvp": "Fausto Petrini - Miglior voto della settimana con 7.9",
+    "comico": "Giacomo Dolfi - Il piu' divertente della settimana",
+    "cuore": "Cosimo Nenciòni - Presenza equilibrata e costante",
+    "fantasma": "Alessio Macalùso - Il piu' silenzioso con 4 messaggi"
+  }
+}

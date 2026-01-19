@@ -1,0 +1,120 @@
+{
+  "anno": 2022,
+  "settimana": 22,
+  "startDate": "2022-05-30",
+  "endDate": "2022-06-05",
+  "stats": {
+    "totalMessages": 123,
+    "activeMembers": 6,
+    "avgPerMember": 20.5
+  },
+  "riassunto": "Fausto compie 40 anni! Vacanza a Procida/Napoli con Giulio che vomita per mare grosso ma poi gode vedendo le fiche sul motoscafino ('Lo stupore di mio figlio per la figa'). Discussione sul referendum: Alessio V. vota no perche' Salvini vota si. Adriano torna dalla Calabria e si nutre solo di anduja. Giacomo e Alessio Mac hanno il trauma dell'anduja ('Stomaco e ano in fiamme'). Si organizza bevuta il 13.",
+  "bestQuotes": [
+    {
+      "quote": "Lo stupore di mio figlio per la figa",
+      "author": "Fausto Petrini",
+      "context": "Su Giulio che guarda il motoscafino"
+    },
+    {
+      "quote": "Io voto no perche' Salvini vota si",
+      "author": "Alessio Valentini",
+      "context": "Tattica di voto per il referendum"
+    },
+    {
+      "quote": "Stomaco e ano in fiamme",
+      "author": "Giacomo Dolfi",
+      "context": "Trauma da anduja"
+    },
+    {
+      "quote": "Di un dilatatore anale innovativo e non invasivo",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Su una foto che pare una pubblicita'"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Fausto Petrini",
+      "voto": 9.0,
+      "giudizio": "Compie 40 anni! Vacanza a Procida con foto meravigliose, Giulio che vomita e poi gode. 'Lo stupore di mio figlio per la figa' e' poesia. Ha organizzato la bevuta del 13. BeReal dopo 3 giorni: inutile ma fatto.",
+      "messaggi": 29,
+      "mediaGiornaliera": 4.1,
+      "highlights": [
+        "Ha compiuto 40 anni",
+        "Vacanza a Procida",
+        "Giulio stupito dalla figa"
+      ],
+      "citazioneTop": "Lo stupore di mio figlio per la figa"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 8.0,
+      "giudizio": "Ha fatto gli auguri con video motivazionale, ha commentato le foto ('Non mollare maiiiiiii!!!!'), ha stimato Fausto per BeReal. Ha discusso del referendum con passione. 'Mi ipnotizza il cane' perfetta.",
+      "messaggi": 28,
+      "mediaGiornaliera": 4.0,
+      "highlights": [
+        "Video motivazionale per Fausto",
+        "Ha commentato le foto",
+        "Discussione sul referendum"
+      ],
+      "citazioneTop": "Non mollare maiiiiiii!!!!"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 7.5,
+      "giudizio": "Tornato dalla Calabria si nutre solo di anduja. Ha proposto referendum per metterla alla base della piramide alimentare. 'Dilatatore anale innovativo' su una foto e' classico Adriano.",
+      "messaggi": 25,
+      "mediaGiornaliera": 3.6,
+      "highlights": [
+        "Ossessione anduja",
+        "Referendum sulla piramide alimentare",
+        "Commento sul dilatatore anale"
+      ],
+      "citazioneTop": "Da che sono tornato dalla Calabria mi nutro solo di anduja"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 7.5,
+      "giudizio": "Tattica di voto basata su Salvini: 'Io voto no perche' Salvini vota si'. Ha cercato sinonimi e contrari per rispondere ad Adriano. Ha fatto gli auguri a Fausto: 'son 40 maialaccio'.",
+      "messaggi": 19,
+      "mediaGiornaliera": 2.7,
+      "highlights": [
+        "Tattica di voto anti-Salvini",
+        "Ha cercato sinonimi",
+        "Auguri maialacci"
+      ],
+      "citazioneTop": "Io voto no perche' Salvini vota si"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 7.0,
+      "giudizio": "Trauma da anduja: 'Stomaco e ano in fiamme'. Ha discusso del referendum con posizioni specifiche. Ha condiviso foto del The Crow con procioni. Ha proposto il 13 per la bevuta.",
+      "messaggi": 11,
+      "mediaGiornaliera": 1.6,
+      "highlights": [
+        "Trauma da anduja",
+        "Ha discusso del referendum",
+        "Ha proposto il 13"
+      ],
+      "citazioneTop": "Stomaco e ano in fiamme"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 6.5,
+      "giudizio": "Ha fatto gli auguri a Fausto, ha anche lui il trauma da anduja ('C'ho il trauma'). Ha risposto a Cosimo con 'Respect' per BeReal. Presente ma contenuto.",
+      "messaggi": 11,
+      "mediaGiornaliera": 1.6,
+      "highlights": [
+        "Auguri a Fausto",
+        "Trauma da anduja",
+        "Sentiti libero"
+      ],
+      "citazioneTop": "C'ho il trauma"
+    }
+  ],
+  "awards": {
+    "mvp": "Fausto Petrini - 40 anni, Procida, Giulio stupito dalla figa",
+    "comico": "Adriano Sergio Lorenzo Facchini - Dilatatore anale innovativo",
+    "cuore": "Cosimo Nenciòni - Video motivazionale per il compleanno",
+    "fantasma": "Nessuno - Tutti presenti per festeggiare"
+  }
+}

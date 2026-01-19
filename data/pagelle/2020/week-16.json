@@ -1,0 +1,107 @@
+{
+  "anno": 2020,
+  "settimana": 16,
+  "startDate": "2020-04-13",
+  "endDate": "2020-04-19",
+  "stats": {
+    "totalMessages": 45,
+    "activeMembers": 6,
+    "avgPerMember": 7.5
+  },
+  "riassunto": "Una settimana all'insegna di uscite/cene in pieno lockdown. 45 messaggi scambiati tra i 6 membri attivi, con il solito mix di ironia e discussioni serie.",
+  "bestQuotes": [
+    {
+      "quote": "Bello compleanno a te!! Felicità!",
+      "author": "Cosimo Nenciòni",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Ma come è possibile che io abbia abbandonato??",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Che hanno messo un qualcosa che ti fa abbandonare automaticamente?",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Momento memorabile della settimana"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Fausto Petrini",
+      "voto": 8.0,
+      "giudizio": "Fausto on fire! Ha tenuto vivo il gruppo con entusiasmo invidiabile.",
+      "messaggi": 8,
+      "mediaGiornaliera": 1.6,
+      "highlights": [
+        "Presente ma non dominante",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "Non lo devi solo usare, lo devi ricaricare"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 7.5,
+      "giudizio": "Ha scritto più lui in tre giorni che alcuni in un mese. Ma almeno era divertente.",
+      "messaggi": 16,
+      "mediaGiornaliera": 4.0,
+      "highlights": [
+        "Buona partecipazione alle discussioni",
+        "Presente per buona parte della settimana"
+      ],
+      "citazioneTop": "La vespa..\n4/14/20, 11:44 AM - Adriano Sergio Lorenzo Facchini left"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 7.5,
+      "giudizio": "Maestro del sarcasmo, questa settimana era in forma smagliante. Nessuno è stato risparmiato.",
+      "messaggi": 7,
+      "mediaGiornaliera": 2.3,
+      "highlights": [
+        "Presente ma non dominante",
+        "Presente per buona parte della settimana"
+      ],
+      "citazioneTop": "Oppure te lo puoi ficcare"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 7.0,
+      "giudizio": "Presente quando connesso, assente quando scollegato. Il solito Alessio V.",
+      "messaggi": 10,
+      "mediaGiornaliera": 3.3,
+      "highlights": [
+        "Presente ma non dominante",
+        "Presente per buona parte della settimana"
+      ],
+      "citazioneTop": "sta parola non so quanto sia italiano"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 5.5,
+      "giudizio": "Presente senza eccessi. L'equilibratore fa il suo lavoro in silenzio.",
+      "messaggi": 2,
+      "mediaGiornaliera": 1.0,
+      "highlights": [
+        "Interventi sporadici ma mirati"
+      ],
+      "citazioneTop": "Auguri Alessino è il tuo compleanno vero? Ed è il 19 anche da te vero?"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 5.0,
+      "giudizio": "Giacomo versione minimal: pochi interventi, profilo bassissimo.",
+      "messaggi": 2,
+      "mediaGiornaliera": 1.0,
+      "highlights": [
+        "Interventi sporadici ma mirati"
+      ],
+      "citazioneTop": "Ragazzi noi stasera si salta, ci chiudiamo ancora di più nell'isolamento sociale"
+    }
+  ],
+  "awards": {
+    "mvp": "Adriano Sergio Lorenzo Facchini",
+    "comico": "Cosimo Nenciòni",
+    "cuore": "Alessio Macalùso",
+    "fantasma": "Alessio Macalùso"
+  }
+}

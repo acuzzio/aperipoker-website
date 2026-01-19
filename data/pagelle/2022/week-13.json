@@ -1,0 +1,118 @@
+{
+  "anno": 2022,
+  "settimana": 13,
+  "startDate": "2022-03-28",
+  "endDate": "2022-04-03",
+  "stats": {
+    "totalMessages": 47,
+    "activeMembers": 6,
+    "avgPerMember": 7.8
+  },
+  "riassunto": "Alessio V. torna in Italia! 'Ragazzi di Aperipoker. Amici, ma soprattutto sudditi. Credevate che fosse Alessio a parlare, e invece no. Sono io. Francisco Santo. Il leader piu' silenzioso di tutti i tempi.' Dal 15 aprile al 2 maggio, compreso il suo quarantesimo compleanno il 19. Cosimo propone il Mondiale 2026 USA come 'viaggio della vita'. L'Italia non passera', ma non importa.",
+  "bestQuotes": [
+    {
+      "quote": "Ragazzi di Aperipoker. Amici, ma soprattutto sudditi. Credevate che fosse Alessio a parlare, e invece no. Sono io. Francisco Santo. Il leader piu' silenzioso di tutti i tempi.",
+      "author": "Alessio Valentini",
+      "context": "Annuncio del ritorno in Italia"
+    },
+    {
+      "quote": "Potrebbe essere il viaggio della vita",
+      "author": "Cosimo Nenciòni",
+      "context": "Sul Mondiale 2026 in USA"
+    },
+    {
+      "quote": "E poi l'Italia non passa",
+      "author": "Alessio Macalùso",
+      "context": "Realismo sul Mondiale"
+    },
+    {
+      "quote": "Viva l'edilizia",
+      "author": "Giacomo Dolfi",
+      "context": "Dopo 'Viva L'Amicizia' di Fausto"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Alessio Valentini",
+      "voto": 9.0,
+      "giudizio": "Il ritorno del Lider Maximo! L'annuncio come Francisco Santo e' epico. Quarant'anni il 19 aprile, ambasciata a Firenze, asilo da Fausto. Ha galvanizzato il gruppo con la notizia del suo arrivo. 'Qualsiasi cosa purche' si faccia.'",
+      "messaggi": 17,
+      "mediaGiornaliera": 2.4,
+      "highlights": [
+        "Ha annunciato il ritorno in Italia",
+        "Quarantesimo compleanno in arrivo",
+        "Ha galvanizzato il gruppo"
+      ],
+      "citazioneTop": "Sono io. Francisco Santo. Il leader piu' silenzioso di tutti i tempi."
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 8.0,
+      "giudizio": "Ha proposto il Mondiale 2026 come viaggio della vita. 'Non importa' se l'Italia non passa. Visionario. Ha anche condiviso link sullo spionaggio russo. Sempre sul pezzo.",
+      "messaggi": 9,
+      "mediaGiornaliera": 1.3,
+      "highlights": [
+        "Ha proposto il Mondiale 2026",
+        "Visionario sul viaggio della vita",
+        "Link sullo spionaggio russo"
+      ],
+      "citazioneTop": "Potrebbe essere il viaggio della vita"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 7.5,
+      "giudizio": "Ha sintetizzato le date disponibili, offerto asilo ad Alessio, e urlato 'Viva L'Amicizia!!!' con tre punti esclamativi. L'organizzatore frustrato che pero' ce la fa.",
+      "messaggi": 9,
+      "mediaGiornaliera": 1.3,
+      "highlights": [
+        "Ha offerto asilo ad Alessio",
+        "Ha calcolato le date disponibili",
+        "Viva L'Amicizia!!!"
+      ],
+      "citazioneTop": "Viva L'Amicizia!!!"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 7.0,
+      "giudizio": "Realista sul Mondiale ('L'Italia non passa') ma poi si ricrede ('In effetti non importa'). Ha condiviso un media di gioia per il ritorno di Alessio V. Presente e partecipe.",
+      "messaggi": 6,
+      "mediaGiornaliera": 0.9,
+      "highlights": [
+        "Realista sul Mondiale",
+        "Ha cambiato idea",
+        "Ha gioito per il ritorno di Alessio"
+      ],
+      "citazioneTop": "E poi l'Italia non passa"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 6.0,
+      "giudizio": "Tre messaggi: commenta i capelli di qualcuno ('Ha i capelli dna Nencioni'), festeggia il ritorno di Alessio, e avvisa che dal 22 al 25 non c'e'. Essenziale.",
+      "messaggi": 3,
+      "mediaGiornaliera": 0.4,
+      "highlights": [
+        "Ha commentato i capelli di qualcuno",
+        "Ha avvisato delle sue assenze"
+      ],
+      "citazioneTop": "Ha i capelli dna Nencioni"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 6.5,
+      "giudizio": "'Viva l'edilizia' come risposta a 'Viva L'Amicizia' e' geniale. Anche lui non c'e' dal 22 al 25. Pochi messaggi ma uno e' memorabile.",
+      "messaggi": 3,
+      "mediaGiornaliera": 0.4,
+      "highlights": [
+        "Viva l'edilizia",
+        "Ha avvisato delle assenze"
+      ],
+      "citazioneTop": "Viva l'edilizia"
+    }
+  ],
+  "awards": {
+    "mvp": "Alessio Valentini - Il ritorno del Lider Maximo",
+    "comico": "Giacomo Dolfi - 'Viva l'edilizia' e' perfetta",
+    "cuore": "Fausto Petrini - Ha offerto asilo e gridato Viva L'Amicizia",
+    "fantasma": "Adriano Sergio Lorenzo Facchini - Solo tre messaggi ma c'e'"
+  }
+}

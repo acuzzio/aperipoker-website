@@ -1,0 +1,103 @@
+{
+  "anno": 2021,
+  "settimana": 28,
+  "startDate": "2021-07-12",
+  "endDate": "2021-07-18",
+  "stats": {
+    "totalMessages": 94,
+    "activeMembers": 6,
+    "avgPerMember": 15.7
+  },
+  "riassunto": "Settimana 28 con 94 messaggi. Fausto guida le danze con 28 contributi.",
+  "bestQuotes": [
+    {
+      "quote": "Ahahah anche per me la migliore!",
+      "author": "Giacomo Dolfi",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "https://twitter.com/itzdomnic/status/1415785759915839491?s=08",
+      "author": "Cosimo Nenciòni",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Martedí c'è qualcuno per due passi, una bevuta, un'insalata, o comunque per vedersi?",
+      "author": "Giacomo Dolfi",
+      "context": "Momento memorabile della settimana"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Fausto Petrini",
+      "voto": 8.0,
+      "giudizio": "Il Trascinatore ha proposto, organizzato, coordinato. Come sempre nessuno l'ha seguito.",
+      "messaggi": 28,
+      "mediaGiornaliera": 4.0,
+      "highlights": [
+        "Ha dominato la conversazione con il 30% dei messaggi"
+      ],
+      "citazioneTop": "Si possono anche cambiare di sesso?"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 6.6,
+      "giudizio": "Presente con il suo solito stile minimale ma incisivo.",
+      "messaggi": 18,
+      "mediaGiornaliera": 2.6,
+      "highlights": [
+        "Tra i piu' attivi con 18 messaggi"
+      ],
+      "citazioneTop": "https://twitter.com/itzdomnic/status/1415785759915839491?s=08"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 6.2,
+      "giudizio": "Il solito Adriano: affidabile, verboso, immancabile.",
+      "messaggi": 17,
+      "mediaGiornaliera": 2.4,
+      "highlights": [
+        "Tra i piu' attivi con 17 messaggi"
+      ],
+      "citazioneTop": "Voglio dimenticare questo europeo di merda"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 7.0,
+      "giudizio": "Contributo equilibrato del patriarca benevolo.",
+      "messaggi": 12,
+      "mediaGiornaliera": 1.7,
+      "highlights": [
+        "Ha contribuito con 12 messaggi"
+      ],
+      "citazioneTop": "Ahahah anche per me la migliore!"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 5.4,
+      "giudizio": "Ha partecipato con il suo solito stile affettuoso e diretto.",
+      "messaggi": 11,
+      "mediaGiornaliera": 1.6,
+      "highlights": [
+        "Ha contribuito con 11 messaggi"
+      ],
+      "citazioneTop": ""
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 5.4,
+      "giudizio": "Presente con la solita parsimonia. Zen master della settimana.",
+      "messaggi": 8,
+      "mediaGiornaliera": 1.1,
+      "highlights": [
+        "Ha contribuito con 8 messaggi"
+      ],
+      "citazioneTop": ""
+    }
+  ],
+  "awards": {
+    "mvp": "Fausto Petrini - Miglior voto della settimana con 8.0",
+    "comico": "Cosimo Nenciòni - Il piu' divertente della settimana",
+    "cuore": "Adriano Sergio Lorenzo Facchini - Presenza equilibrata e costante",
+    "fantasma": "Alessio Macalùso - Il piu' silenzioso con 8 messaggi"
+  }
+}

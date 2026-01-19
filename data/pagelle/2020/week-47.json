@@ -1,0 +1,109 @@
+{
+  "anno": 2020,
+  "settimana": 47,
+  "startDate": "2020-11-16",
+  "endDate": "2020-11-22",
+  "stats": {
+    "totalMessages": 93,
+    "activeMembers": 6,
+    "avgPerMember": 15.5
+  },
+  "riassunto": "Settimana normale con 93 messaggi e 6 membri attivi con le restrizioni autunnali. Si è parlato principalmente di poker, uscite/cene. Il gruppo ha mantenuto il suo ritmo consueto tra battute e organizzazione di uscite.",
+  "bestQuotes": [
+    {
+      "quote": "Ahahah vai tranquillo che lo facesti te",
+      "author": "Giacomo Dolfi",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "L’ho visto tutto ahahah",
+      "author": "Alessio Macalùso",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Hahaha non l’ho fatto io",
+      "author": "Alessio Macalùso",
+      "context": "Momento memorabile della settimana"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Alessio Valentini",
+      "voto": 8.0,
+      "giudizio": "Il Giramondo ha scritto da qualche angolo del mondo con entusiasmo contagioso.",
+      "messaggi": 25,
+      "mediaGiornaliera": 5.0,
+      "highlights": [
+        "Buona partecipazione alle discussioni",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "Ringrazio aperipoker per il contributo fondamentale al video  : )"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 8.0,
+      "giudizio": "L'anima organizzativa del gruppo ha brillato. Quante uscite proposte? Quante andate in porto? Non importa.",
+      "messaggi": 16,
+      "mediaGiornaliera": 4.0,
+      "highlights": [
+        "Buona partecipazione alle discussioni",
+        "Presente per buona parte della settimana"
+      ],
+      "citazioneTop": "Io si. Cmq bel video davvero, spero si sarà commossa"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 7.5,
+      "giudizio": "Maestro del sarcasmo, questa settimana era in forma smagliante. Nessuno è stato risparmiato.",
+      "messaggi": 15,
+      "mediaGiornaliera": 3.8,
+      "highlights": [
+        "Presente ma non dominante",
+        "Presente per buona parte della settimana"
+      ],
+      "citazioneTop": "Ma io non l'ho riconosciuta nemmeno... Ma qual e'????"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 7.5,
+      "giudizio": "Il Lider Maximo ha guidato le discussioni con mano ferma e battute pungenti.",
+      "messaggi": 14,
+      "mediaGiornaliera": 2.8,
+      "highlights": [
+        "Presente ma non dominante",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "Cerco scarpe Lidl a poco 42/43"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 6.5,
+      "giudizio": "Contributi costanti, ma questa settimana il Re ha mantenuto un profilo insolitamente basso.",
+      "messaggi": 12,
+      "mediaGiornaliera": 3.0,
+      "highlights": [
+        "Presente ma non dominante",
+        "Presente per buona parte della settimana"
+      ],
+      "citazioneTop": "Vorrei fare una petizione contro la nuova voce telefonica che ti dice che il telefono è spento o non raggiungibile"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 6.5,
+      "giudizio": "Il solito Alessio Mac: pacato, presente, essenziale. Niente sprechi di parole.",
+      "messaggi": 11,
+      "mediaGiornaliera": 3.7,
+      "highlights": [
+        "Presente ma non dominante",
+        "Presente per buona parte della settimana"
+      ],
+      "citazioneTop": "Questo invece chi lo fece?"
+    }
+  ],
+  "awards": {
+    "mvp": "Alessio Valentini",
+    "comico": "Giacomo Dolfi",
+    "cuore": "Alessio Macalùso",
+    "fantasma": "Alessio Macalùso"
+  }
+}

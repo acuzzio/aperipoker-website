@@ -1,0 +1,119 @@
+{
+  "anno": 2022,
+  "settimana": 14,
+  "startDate": "2022-04-04",
+  "endDate": "2022-04-10",
+  "stats": {
+    "totalMessages": 81,
+    "activeMembers": 6,
+    "avgPerMember": 13.5
+  },
+  "riassunto": "Cena da Fausto l'8 aprile! Organizzazione caotica: Giacomo puo' solo fino a mezzanotte e mezzo, Adriano finisce il doppio alle 19:30 (forse), Cosimo viene 'giammangiato'. Adriano cerca 'Un fottutissimo chiosco di merda' per trovarsi a meta' strada. Alla fine pizza da Spera. Giovanni sta male, Mac non viene. Partita di carte con regole contestate: 'Giec scorretto e Fausto non vincitore'.",
+  "bestQuotes": [
+    {
+      "quote": "Esiste un pub un bar un bistrot una tavola calda un paninaro. Un fottutissimo chiosco di merda",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Cercando un posto a meta' strada"
+    },
+    {
+      "quote": "Che dio ci benedica tutti",
+      "author": "Fausto Petrini",
+      "context": "Sulla complessita' dell'organizzazione"
+    },
+    {
+      "quote": "Una trattativa piu' difficile di quella tra Russia e Ucraina",
+      "author": "Cosimo Nenciòni",
+      "context": "Sull'organizzazione dell'aperipoker"
+    },
+    {
+      "quote": "Una pizza da sfigato",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Sulla pizza con carciofi e prosciutto di Giacomo"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 8.0,
+      "giudizio": "Ha vinto il doppio di tennis, si e' fatto la doccia, ha cercato chioschi di merda, ha ordinato pizza complicatissima, e ha contestato le regole del gioco. 'Cercero' di vincere rapidamente' - e ci e' riuscito!",
+      "messaggi": 34,
+      "mediaGiornaliera": 5.7,
+      "highlights": [
+        "Ha vinto il doppio di tennis",
+        "Ha cercato chioschi disperatamente",
+        "Ha contestato le regole della partita"
+      ],
+      "citazioneTop": "Un fottutissimo chiosco di merda"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 7.5,
+      "giudizio": "Ha mobilitato mezzo mondo per partecipare: genitori, suoceri, moglie. Giovanni sta male ma lui c'e'. La pizza con carciofi e prosciutto crudo e' da sfigato ma almeno c'era. Contestato per ostruzionismo.",
+      "messaggi": 19,
+      "mediaGiornaliera": 3.2,
+      "highlights": [
+        "Ha mobilitato famiglia per partecipare",
+        "Ha gestito Giovanni malato",
+        "Accusato di ostruzionismo"
+      ],
+      "citazioneTop": "Quando ho capito di non capirci ho semplicemente cambiato tattica"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 7.5,
+      "giudizio": "L'host della serata. Ha ordinato pizza da Spera, ha gestito il caos organizzativo, ha benedetto tutti. La cena si e' fatta nonostante tutto.",
+      "messaggi": 12,
+      "mediaGiornaliera": 2.0,
+      "highlights": [
+        "Ha ospitato la cena",
+        "Ha ordinato le pizze",
+        "Ha benedetto il gruppo"
+      ],
+      "citazioneTop": "Che dio ci benedica tutti"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 7.0,
+      "giudizio": "Viene 'giammangiato' ma non prima delle 20:30. La trattativa piu' difficile di quella Russia-Ucraina. Ha identificato il compagno di doppio di Adriano come 'responsabile del wealth management'.",
+      "messaggi": 9,
+      "mediaGiornaliera": 1.5,
+      "highlights": [
+        "E' venuto giammangiato",
+        "Ha paragonato la trattativa alla guerra",
+        "Ha identificato il compagno di Adriano"
+      ],
+      "citazioneTop": "Una trattativa piu' difficile di quella tra Russia e Ucraina"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 6.5,
+      "giudizio": "Chiede foto e di pensare all'aperipoker. 'Ho delle settimane di fuoco dii santissimi'. Presente da lontano ma partecipe.",
+      "messaggi": 4,
+      "mediaGiornaliera": 0.7,
+      "highlights": [
+        "Ha chiesto foto",
+        "Ha ricordato l'aperipoker",
+        "Settimane di fuoco"
+      ],
+      "citazioneTop": "Raga mandate foto"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 5.5,
+      "giudizio": "Non e' potuto venire. Ha commentato gli animali dello stallo alla messicana con entusiasmo. Assente giustificato.",
+      "messaggi": 3,
+      "mediaGiornaliera": 0.5,
+      "highlights": [
+        "Non e' potuto venire",
+        "Ha apprezzato gli animali"
+      ],
+      "citazioneTop": "Ahahahah eccezionali gli animali!"
+    }
+  ],
+  "awards": {
+    "mvp": "Adriano Sergio Lorenzo Facchini - Tennis, doccia, chioschi, pizza, contestazioni",
+    "comico": "Cosimo Nenciòni - La trattativa Russia-Ucraina",
+    "cuore": "Giacomo Dolfi - Ha mobilitato mezzo mondo per esserci",
+    "fantasma": "Alessio Macalùso - Non e' potuto venire"
+  }
+}

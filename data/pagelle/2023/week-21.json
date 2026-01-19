@@ -1,0 +1,107 @@
+{
+  "anno": 2023,
+  "settimana": 21,
+  "startDate": "2023-05-22",
+  "endDate": "2023-05-28",
+  "stats": {
+    "totalMessages": 41,
+    "activeMembers": 6,
+    "avgPerMember": 6.8
+  },
+  "riassunto": "Settimana della fica a stufo e della senosite. Fausto apre con 'Fica a stufo'. Cocco cerca alloggio a Siena e Adriano trova subito contatto del tennista ('Mr Wolf'). Mac si offre di ospitare. Fausto sta malissimo con megaraffreddore e senosite: 'Secondo me mori entro le 7'. Alessio V. a Palo Alto con brasiliani sfoggia portoghese dopo 'piccola sbornietta da singola s'.",
+  "bestQuotes": [
+    {
+      "quote": "Fica a stufo",
+      "author": "Fausto Petrini",
+      "context": "Apertura della settimana"
+    },
+    {
+      "quote": "Secondo me mori entro le 7.00",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "A Fausto con la senosite"
+    },
+    {
+      "quote": "Boia, che rapidità di esecuzione. Mr Wolf",
+      "author": "Fausto Petrini",
+      "context": "Ad Adriano che trova il contatto in pochi minuti"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 8.5,
+      "giudizio": "Mr Wolf! Trova contatto per alloggio a Siena in pochi minuti. 'Secondo me mori entro le 7' a Fausto. 'Le pocce budino sono le meglio.. ipnotiche'. 'Queste cose te le ho viste fare anche da sobrio' ad Alessio V.",
+      "messaggi": 18,
+      "mediaGiornaliera": 2.6,
+      "highlights": [
+        "Contatto alloggio istantaneo",
+        "Previsione morte Fausto"
+      ],
+      "citazioneTop": "Le pocce budino sono le meglio.. ipnotiche"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 7.5,
+      "giudizio": "'Fica a stufo' apre la settimana. Sta malissimo: megaraffreddore con senosite. 'Non la posso nemmeno piu nusare'. 'Mr Wolf' ad Adriano. 'Brutta maiala' di commento. Malato ma presente.",
+      "messaggi": 10,
+      "mediaGiornaliera": 1.4,
+      "highlights": [
+        "Apertura memorabile",
+        "Report malattia"
+      ],
+      "citazioneTop": "Fica a stufo"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 7.0,
+      "giudizio": "Cerca alloggio a Siena per conoscenti ('previo pagamento ovviamente'). 'Ma sei un mitico' ad Adriano. 'Eri sicuro che fosse Fausto e hai fatto la foto'. 'Bellissimissimo' su video di Alessio V.",
+      "messaggi": 8,
+      "mediaGiornaliera": 1.1,
+      "highlights": [
+        "Ricerca alloggio",
+        "Apprezzamento Mr Wolf"
+      ],
+      "citazioneTop": "Ma sei un mitico"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 7.0,
+      "giudizio": "'Come mai sveglio?' a Fausto. Video a Palo Alto con brasiliani: 'Una piccola sbornietta da singola s con solo birre'. 'Volevo sfoggiare qualche portoghese'. Internazionale.",
+      "messaggi": 8,
+      "mediaGiornaliera": 1.1,
+      "highlights": [
+        "Sbornietta a Palo Alto",
+        "Sfoggio portoghese"
+      ],
+      "citazioneTop": "Una piccola sbornietta da singola s con solo birre. È il massimo che puoi chiedere a Palo Alto"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 7.0,
+      "giudizio": "'Se non trovano posto li posso ospitare io per una notte'. Generoso come sempre. Presente e disponibile.",
+      "messaggi": 2,
+      "mediaGiornaliera": 0.3,
+      "highlights": [
+        "Offerta ospitalita"
+      ],
+      "citazioneTop": "Se non trovano posto li posso ospitare io per una notte"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 6.0,
+      "giudizio": "'Siena centro?' 'Appena hai notato la fica a stufo....' a Fausto malato. Presente con battute.",
+      "messaggi": 3,
+      "mediaGiornaliera": 0.4,
+      "highlights": [
+        "Battuta su fica e malattia"
+      ],
+      "citazioneTop": "Appena hai notato la fica a stufo...."
+    }
+  ],
+  "awards": {
+    "mvp": "Adriano Sergio Lorenzo Facchini",
+    "comico": "Fausto Petrini",
+    "cuore": "Alessio Macalùso",
+    "fantasma": null
+  }
+}

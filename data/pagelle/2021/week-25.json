@@ -1,0 +1,104 @@
+{
+  "anno": 2021,
+  "settimana": 25,
+  "startDate": "2021-06-21",
+  "endDate": "2021-06-27",
+  "stats": {
+    "totalMessages": 94,
+    "activeMembers": 6,
+    "avgPerMember": 15.7
+  },
+  "riassunto": "Il gruppo si fa sentire con 94 messaggi. Adriano il piu' loquace con 39 messaggi.",
+  "bestQuotes": [
+    {
+      "quote": "Cocco puoi condividere il video di quella gran troia (non per Fausto) della Ferrari che lo voglio analizzare per bene?",
+      "author": "Giacomo Dolfi",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "https://twitter.com/rtl1025/status/1407628345374806021?s=08",
+      "author": "Cosimo Nenciòni",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "https://twitter.com/FakeNews_24/status/1407663656943378437?s=08",
+      "author": "Cosimo Nenciòni",
+      "context": "Momento memorabile della settimana"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 8.0,
+      "giudizio": "Il fiume in piena ha esondato questa settimana, ma almeno ha irrigato bene la chat.",
+      "messaggi": 39,
+      "mediaGiornaliera": 5.6,
+      "highlights": [
+        "Ha dominato la conversazione con il 41% dei messaggi"
+      ],
+      "citazioneTop": ""
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 7.4,
+      "giudizio": "Contributo equilibrato, con qualche perla sarcastica.",
+      "messaggi": 16,
+      "mediaGiornaliera": 2.3,
+      "highlights": [
+        "Tra i piu' attivi con 16 messaggi",
+        "Ha stimolato la discussione con molte domande"
+      ],
+      "citazioneTop": "https://twitter.com/rtl1025/status/1407628345374806021?s=08"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 6.5,
+      "giudizio": "Ha partecipato senza eccessi. Il Fondatore veglia.",
+      "messaggi": 12,
+      "mediaGiornaliera": 1.7,
+      "highlights": [
+        "Ha contribuito con 12 messaggi"
+      ],
+      "citazioneTop": "Cocco puoi condividere il video di quella gran troia (non per Fausto) della Ferrari che lo voglio analizzare per bene?"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 5.7,
+      "giudizio": "Il suo 'Credo' di meta' settimana valeva un trattato filosofico.",
+      "messaggi": 11,
+      "mediaGiornaliera": 1.6,
+      "highlights": [
+        "Ha contribuito con 11 messaggi"
+      ],
+      "citazioneTop": ""
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 5.6,
+      "giudizio": "Presente e propositivo, senza eccessi di entusiasmo.",
+      "messaggi": 10,
+      "mediaGiornaliera": 1.4,
+      "highlights": [
+        "Ha contribuito con 10 messaggi"
+      ],
+      "citazioneTop": ""
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 5.3,
+      "giudizio": "Disperso in qualche angolo del mondo. Internet troppo di merda.",
+      "messaggi": 6,
+      "mediaGiornaliera": 0.9,
+      "highlights": [
+        "Ha contribuito con 6 messaggi"
+      ],
+      "citazioneTop": ""
+    }
+  ],
+  "awards": {
+    "mvp": "Adriano Sergio Lorenzo Facchini - Miglior voto della settimana con 8.0",
+    "comico": "Giacomo Dolfi - Il piu' divertente della settimana",
+    "cuore": "Cosimo Nenciòni - Presenza equilibrata e costante",
+    "fantasma": "Alessio Valentini - Il piu' silenzioso con 6 messaggi"
+  }
+}

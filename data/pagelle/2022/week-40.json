@@ -1,0 +1,118 @@
+{
+  "anno": 2022,
+  "settimana": 40,
+  "startDate": "2022-10-03",
+  "endDate": "2022-10-09",
+  "stats": {
+    "totalMessages": 59,
+    "activeMembers": 6,
+    "avgPerMember": 9.8
+  },
+  "riassunto": "Adriano da' 6-1 6-0 a Traballesi ('nella peggior mia partita dell'anno'). Fausto e' fiero ('Giustizia e' fatta!'). Si organizza cena del giovedi'. Alessio V. nota che Traballesi 'scopa Caterina e non ci ha mai raccontato niente'. La Fantozzi e' diventata 'un cesso da prima linea' con 'un che di trans'. Lupa ai quarti di finale!",
+  "bestQuotes": [
+    {
+      "quote": "Nella peggior mia partita dell'anno ho dato 6-1 6-0 al Traballesi marito di Caterina Fantozzi",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Sul match di tennis"
+    },
+    {
+      "quote": "Scopa Caterina e non ci ha mai raccontato niente",
+      "author": "Alessio Valentini",
+      "context": "Su Traballesi"
+    },
+    {
+      "quote": "La Fantozzi e' diventata un cesso da prima linea",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Aggiornamento estetico"
+    },
+    {
+      "quote": "Ci puzza la fregna",
+      "author": "Cosimo Nenciòni",
+      "context": "Commento definitivo"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 8.5,
+      "giudizio": "6-1 6-0 a Traballesi nella peggior partita dell'anno! Lupa ai quarti. La Fantozzi e' un cesso da prima linea. 'Vieni e lo scoprirai' sul nemico. Campione di tennis e di ironia.",
+      "messaggi": 18,
+      "mediaGiornaliera": 2.6,
+      "highlights": [
+        "6-1 6-0 a Traballesi",
+        "Lupa ai quarti",
+        "Fantozzi cesso da prima linea"
+      ],
+      "citazioneTop": "Nella peggior mia partita dell'anno ho dato 6-1 6-0"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 7.5,
+      "giudizio": "'Giustizia e' fatta, sono fiero di te' ad Adriano. 'Un che di trans lo ha sempre avuto' sulla Fantozzi. Ha organizzato la cena del giovedi'. Supporter entusiasta.",
+      "messaggi": 17,
+      "mediaGiornaliera": 2.4,
+      "highlights": [
+        "Giustizia e' fatta",
+        "Un che di trans",
+        "Ha organizzato cena"
+      ],
+      "citazioneTop": "Giustizia e' fatta, sono fiero di te"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 7.0,
+      "giudizio": "Ha organizzato la cena infrasettimanale. 'Pasta e fagioli' e 'Rosso' per la serata. 'Molto male' su Giacomo che salta. Organizzatore culinario.",
+      "messaggi": 12,
+      "mediaGiornaliera": 1.7,
+      "highlights": [
+        "Ha organizzato cena",
+        "Pasta e fagioli",
+        "Rosso"
+      ],
+      "citazioneTop": "Pasta e fagioli"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 7.5,
+      "giudizio": "'Ci puzza la fregna' sulla Fantozzi e' il commento definitivo. 'Mitico' ad Adriano. Presente con le frasi giuste.",
+      "messaggi": 5,
+      "mediaGiornaliera": 0.7,
+      "highlights": [
+        "Ci puzza la fregna",
+        "Mitico"
+      ],
+      "citazioneTop": "Ci puzza la fregna"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 7.0,
+      "giudizio": "Ha notato che Traballesi 'scopa Caterina e non ci ha mai raccontato niente'. 'Stento a crederci ma mi fido' sulla Fantozzi. Critico sociale.",
+      "messaggi": 4,
+      "mediaGiornaliera": 0.6,
+      "highlights": [
+        "Scopa Caterina",
+        "Non racconta niente",
+        "Stento a crederci"
+      ],
+      "citazioneTop": "Scopa Caterina e non ci ha mai raccontato niente"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 5.5,
+      "giudizio": "'?' sul nemico di Adriano. Salta la cena del giovedi'. Tre messaggi ma presenti.",
+      "messaggi": 3,
+      "mediaGiornaliera": 0.4,
+      "highlights": [
+        "Salta la cena",
+        "Curioso sul nemico"
+      ],
+      "citazioneTop": "?"
+    }
+  ],
+  "awards": {
+    "mvp": "Adriano Sergio Lorenzo Facchini - 6-1 6-0 nella peggior partita dell'anno",
+    "comico": "Cosimo Nenciòni - Ci puzza la fregna",
+    "cuore": "Fausto Petrini - Giustizia e' fatta, sono fiero di te",
+    "fantasma": "Giacomo Dolfi - Salta la cena"
+  }
+}

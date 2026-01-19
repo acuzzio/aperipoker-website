@@ -1,0 +1,103 @@
+{
+  "anno": 2021,
+  "settimana": 6,
+  "startDate": "2021-02-08",
+  "endDate": "2021-02-14",
+  "stats": {
+    "totalMessages": 196,
+    "activeMembers": 6,
+    "avgPerMember": 32.7
+  },
+  "riassunto": "Una settimana di ordinaria follia con 196 messaggi. Adriano in testa alla classifica.",
+  "bestQuotes": [
+    {
+      "quote": "bocciato. Ma l'ho provato a fare senza studiare c'ho 3 tentativi, e c'erano alcune domande che so una sega... hahaha io c'ho provato...",
+      "author": "Alessio Valentini",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "solo che non fare niente è più facile che iscriversi?",
+      "author": "Alessio Valentini",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "È dal 4 gennaio che non mangio carne rossa o bianca. Quindi è più di un mese, ora posso rompere il digiuno. Cosa vi mangereste?",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Momento memorabile della settimana"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 7.3,
+      "giudizio": "Il solito Adriano: affidabile, verboso, immancabile.",
+      "messaggi": 49,
+      "mediaGiornaliera": 7.0,
+      "highlights": [
+        "Tra i piu' attivi con 49 messaggi"
+      ],
+      "citazioneTop": "È dal 4 gennaio che non mangio carne rossa o bianca. Quindi è più di un mese, ora posso rompere il digiuno. Cosa vi mangereste?"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 6.4,
+      "giudizio": "Non ha brillato, ma neanche deluso. Il suo 'mah' valeva mille parole.",
+      "messaggi": 35,
+      "mediaGiornaliera": 5.0,
+      "highlights": [
+        "Tra i piu' attivi con 35 messaggi"
+      ],
+      "citazioneTop": ""
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 6.7,
+      "giudizio": "Presente nonostante i fusi orari avversi. Sempre affidabile.",
+      "messaggi": 33,
+      "mediaGiornaliera": 4.7,
+      "highlights": [
+        "Tra i piu' attivi con 33 messaggi"
+      ],
+      "citazioneTop": "bocciato. Ma l'ho provato a fare senza studiare c'ho 3 tentativi, e c'erano alcune domande che so una sega... hahaha io c'ho provato..."
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 6.0,
+      "giudizio": "Il solito Fausto: ci prova, ogni tanto ci riesce.",
+      "messaggi": 30,
+      "mediaGiornaliera": 4.3,
+      "highlights": [
+        "Tra i piu' attivi con 30 messaggi"
+      ],
+      "citazioneTop": ""
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 6.3,
+      "giudizio": "Contributo misurato, come nel suo stile. Ogni parola al suo posto.",
+      "messaggi": 26,
+      "mediaGiornaliera": 3.7,
+      "highlights": [
+        "Ha contribuito con 26 messaggi"
+      ],
+      "citazioneTop": ""
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 5.9,
+      "giudizio": "Contributo equilibrato del patriarca benevolo.",
+      "messaggi": 23,
+      "mediaGiornaliera": 3.3,
+      "highlights": [
+        "Ha contribuito con 23 messaggi"
+      ],
+      "citazioneTop": ""
+    }
+  ],
+  "awards": {
+    "mvp": "Adriano Sergio Lorenzo Facchini - Miglior voto della settimana con 7.3",
+    "comico": "Alessio Valentini - Il piu' divertente della settimana",
+    "cuore": "Alessio Valentini - Presenza equilibrata e costante",
+    "fantasma": null
+  }
+}

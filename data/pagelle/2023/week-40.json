@@ -1,0 +1,106 @@
+{
+  "anno": 2023,
+  "settimana": 40,
+  "startDate": "2023-10-02",
+  "endDate": "2023-10-08",
+  "stats": {
+    "totalMessages": 21,
+    "activeMembers": 6,
+    "avgPerMember": 3.5
+  },
+  "riassunto": "Settimana del Covid di coppia e dell'attacco di Hamas! Fausto preoccupato: 'Jack visto che non rispondi al telefono ci dici come stai?'. Giacomo ancora positivo: 'Sto abbastanza bene, ma stamani ero comunque positivo'. 'Mi sono rotto le palle di stare a casa. Non ne posso piu'. Ma per niente'. Adriano: 'Povero Giec, tutto solo a casa. Poverino'. Giacomo: 'No no peggio... positiva anche Lucia'. Poi 7 ottobre! Attacco Hamas a Israele. Cocco: 'Ma sta roba pare un film. Fantascienza'. Link a video. Alessio V.: 'Il mio amico di Gerusalemme e' stato tutta la notte nello shelter d'acciaio che ha comodamente in casa'. Cocco: 'Follia'. Settimana pesante tra malattia e guerra.",
+  "bestQuotes": [
+    {
+      "quote": "No no peggio... positiva anche Lucia",
+      "author": "Giacomo Dolfi",
+      "context": "Covid di coppia"
+    },
+    {
+      "quote": "Ma sta roba pare un film. Fantascienza",
+      "author": "Cosimo Nenciòni",
+      "context": "Attacco Hamas"
+    },
+    {
+      "quote": "Il mio amico di Gerusalemme e' stato tutta la notte nello shelter d'acciaio che ha comodamente in casa",
+      "author": "Alessio Valentini",
+      "context": "Testimonianza Israele"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 8.0,
+      "giudizio": "Il covidoso 2.0! 'Sto abbastanza bene, ma stamani ero comunque positivo'. 'Mi sono rotto le palle di stare a casa'. 'Non ne posso piu'. Ma per niente'. 'No no peggio... positiva anche Lucia'. 'Stasera vista Marcella'. Malato ma comunicativo.",
+      "messaggi": 6,
+      "mediaGiornaliera": 0.9,
+      "highlights": [
+        "Covid coppia",
+        "Marcella"
+      ],
+      "citazioneTop": "No no peggio... positiva anche Lucia"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 8.0,
+      "giudizio": "Il cronista della guerra! Link video attacco Hamas: 'Ma sta roba pare un film. Fantascienza'. 'Follia'. Informatore su eventi drammatici.",
+      "messaggi": 4,
+      "mediaGiornaliera": 0.6,
+      "highlights": [
+        "Attacco Hamas",
+        "Video shock"
+      ],
+      "citazioneTop": "Ma sta roba pare un film. Fantascienza"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 7.5,
+      "giudizio": "'Madonna che coglioni' sul Covid. 'Il mio amico di Gerusalemme e' stato tutta la notte nello shelter d'acciaio che ha comodamente in casa'. Testimone di guerre vicine e lontane.",
+      "messaggi": 4,
+      "mediaGiornaliera": 0.6,
+      "highlights": [
+        "Amico Gerusalemme",
+        "Solidarieta' Giacomo"
+      ],
+      "citazioneTop": "Il mio amico di Gerusalemme e' stato tutta la notte nello shelter d'acciaio"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 7.0,
+      "giudizio": "'Povero Giec, tutto solo a casa. Poverino'. Solidale con Giacomo malato.",
+      "messaggi": 4,
+      "mediaGiornaliera": 0.6,
+      "highlights": [
+        "Solidarieta' Giacomo"
+      ],
+      "citazioneTop": "Povero Giec, tutto solo a casa"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 7.0,
+      "giudizio": "Preoccupato per Jack! 'Visto che non rispondi al telefono ci dici come stai?'. 'Cazzo' sulla notizia del Covid di Lucia. Amico presente.",
+      "messaggi": 2,
+      "mediaGiornaliera": 0.3,
+      "highlights": [
+        "Preoccupazione Giacomo"
+      ],
+      "citazioneTop": "Jack visto che non rispondi al telefono ci dici come stai?"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 6.5,
+      "giudizio": "'Dev'esse il tu figliolo Giacomo'. Presente ma minimale.",
+      "messaggi": 1,
+      "mediaGiornaliera": 0.1,
+      "highlights": [
+        "Battuta figliolo"
+      ],
+      "citazioneTop": "Dev'esse il tu figliolo Giacomo"
+    }
+  ],
+  "awards": {
+    "mvp": "Giacomo Dolfi",
+    "comico": "Cosimo Nenciòni",
+    "cuore": "Fausto Petrini",
+    "fantasma": null
+  }
+}

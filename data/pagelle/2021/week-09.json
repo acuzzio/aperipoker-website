@@ -1,0 +1,104 @@
+{
+  "anno": 2021,
+  "settimana": 9,
+  "startDate": "2021-03-01",
+  "endDate": "2021-03-07",
+  "stats": {
+    "totalMessages": 195,
+    "activeMembers": 6,
+    "avgPerMember": 32.5
+  },
+  "riassunto": "Settimana 9 con 195 messaggi. Alessio V. guida le danze con 48 contributi.",
+  "bestQuotes": [
+    {
+      "quote": "micatwitto (@micatwitto) ha twittato: Lo avete mai visto un falco in picchiata? Ora sì. https://t.co/HYG64SpFkw https://twitter.com/micatwitto/status/1366448704312512514?s=20",
+      "author": "Fausto Petrini",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "https://www.instagram.com/tv/CL62WQbot80/?igshid=1gxlrwzfhk5we",
+      "author": "Fausto Petrini",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Ma posso farla col telefono la videochiamata o devo usare pefforza il computer? Scusate la vecchiaia.",
+      "author": "Cosimo Nenciòni",
+      "context": "Momento memorabile della settimana"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Alessio Valentini",
+      "voto": 7.3,
+      "giudizio": "Ha partecipato con il suo solito stile affettuoso e diretto.",
+      "messaggi": 48,
+      "mediaGiornaliera": 6.9,
+      "highlights": [
+        "Tra i piu' attivi con 48 messaggi"
+      ],
+      "citazioneTop": "https://stanford.zoom.us/j/92682969516?pwd=Z1VXT1Y2V1R2UHQ4MmNQYmhzb0l2dz09"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 7.5,
+      "giudizio": "Il solito Adriano: affidabile, verboso, immancabile.",
+      "messaggi": 45,
+      "mediaGiornaliera": 6.4,
+      "highlights": [
+        "Tra i piu' attivi con 45 messaggi",
+        "Ha stimolato la discussione con molte domande"
+      ],
+      "citazioneTop": ""
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 6.4,
+      "giudizio": "Presente con il suo solito stile minimale ma incisivo.",
+      "messaggi": 37,
+      "mediaGiornaliera": 5.3,
+      "highlights": [
+        "Tra i piu' attivi con 37 messaggi"
+      ],
+      "citazioneTop": "Ma posso farla col telefono la videochiamata o devo usare pefforza il computer? Scusate la vecchiaia."
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 6.3,
+      "giudizio": "Presente e propositivo, senza eccessi di entusiasmo.",
+      "messaggi": 32,
+      "mediaGiornaliera": 4.6,
+      "highlights": [
+        "Tra i piu' attivi con 32 messaggi"
+      ],
+      "citazioneTop": "micatwitto (@micatwitto) ha twittato: Lo avete mai visto un falco in picchiata? Ora sì. https://t.co/HYG64SpFkw https://twitter.com/micatwitto/status/1366448704312512514?s=20"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 5.7,
+      "giudizio": "Il suo 'Credo' di meta' settimana valeva un trattato filosofico.",
+      "messaggi": 20,
+      "mediaGiornaliera": 2.9,
+      "highlights": [
+        "Ha contribuito con 20 messaggi"
+      ],
+      "citazioneTop": ""
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 5.3,
+      "giudizio": "Il Lider si e' eclissato. Chi guida il gruppo?",
+      "messaggi": 13,
+      "mediaGiornaliera": 1.9,
+      "highlights": [
+        "Ha contribuito con 13 messaggi"
+      ],
+      "citazioneTop": ""
+    }
+  ],
+  "awards": {
+    "mvp": "Adriano Sergio Lorenzo Facchini - Miglior voto della settimana con 7.5",
+    "comico": "Alessio Macalùso - Il piu' divertente della settimana",
+    "cuore": "Fausto Petrini - Presenza equilibrata e costante",
+    "fantasma": null
+  }
+}

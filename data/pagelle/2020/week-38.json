@@ -1,0 +1,108 @@
+{
+  "anno": 2020,
+  "settimana": 38,
+  "startDate": "2020-09-14",
+  "endDate": "2020-09-20",
+  "stats": {
+    "totalMessages": 130,
+    "activeMembers": 6,
+    "avgPerMember": 21.7
+  },
+  "riassunto": "Una settimana all'insegna di uscite/cene, poker, viaggi con le restrizioni autunnali. 130 messaggi scambiati tra i 6 membri attivi, con il solito mix di ironia e discussioni serie.",
+  "bestQuotes": [
+    {
+      "quote": "Ahahah mi fai mori!",
+      "author": "Giacomo Dolfi",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "È il giocatore più forte del mondo ad allenare il Siena?",
+      "author": "Alessio Macalùso",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Si potrebbe fare pranzo. Giec?",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Momento memorabile della settimana"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Alessio Valentini",
+      "voto": 8.5,
+      "giudizio": "Il Giramondo ha scritto da qualche angolo del mondo con entusiasmo contagioso.",
+      "messaggi": 36,
+      "mediaGiornaliera": 9.0,
+      "highlights": [
+        "Molto attivo, tra i più presenti della settimana",
+        "Presente per buona parte della settimana"
+      ],
+      "citazioneTop": "se zoommate nella macchina, sembra una piccola nebbia"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 8.5,
+      "giudizio": "L'anima organizzativa del gruppo ha brillato. Quante uscite proposte? Quante andate in porto? Non importa.",
+      "messaggi": 24,
+      "mediaGiornaliera": 4.0,
+      "highlights": [
+        "Buona partecipazione alle discussioni",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "Pare che la meloni sia passata al no. Tocca votare si"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 8.0,
+      "giudizio": "Sintetico ma letale come sempre. Le sue battute secche hanno fatto centro.",
+      "messaggi": 22,
+      "mediaGiornaliera": 5.5,
+      "highlights": [
+        "Buona partecipazione alle discussioni",
+        "Presente per buona parte della settimana"
+      ],
+      "citazioneTop": "Per gli appassionati della Tirreno Adriatica."
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 7.5,
+      "giudizio": "Ha scritto più lui in tre giorni che alcuni in un mese. Ma almeno era divertente.",
+      "messaggi": 28,
+      "mediaGiornaliera": 5.6,
+      "highlights": [
+        "Buona partecipazione alle discussioni",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "La penso esattamente come te."
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 6.0,
+      "giudizio": "Presente come un patriarca benevolo: osserva, ogni tanto commenta, sempre con ironia.",
+      "messaggi": 12,
+      "mediaGiornaliera": 4.0,
+      "highlights": [
+        "Presente ma non dominante",
+        "Presente per buona parte della settimana"
+      ],
+      "citazioneTop": "Le bandierine che uniscono"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 5.5,
+      "giudizio": "Presente senza eccessi. L'equilibratore fa il suo lavoro in silenzio.",
+      "messaggi": 8,
+      "mediaGiornaliera": 4.0,
+      "highlights": [
+        "Presente ma non dominante"
+      ],
+      "citazioneTop": "È il giocatore più forte del mondo ad allenare il Siena?"
+    }
+  ],
+  "awards": {
+    "mvp": "Alessio Valentini",
+    "comico": "Giacomo Dolfi",
+    "cuore": "Cosimo Nenciòni",
+    "fantasma": "Alessio Macalùso"
+  }
+}

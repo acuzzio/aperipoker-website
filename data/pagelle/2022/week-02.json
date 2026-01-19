@@ -1,0 +1,119 @@
+{
+  "anno": 2022,
+  "settimana": 2,
+  "startDate": "2022-01-10",
+  "endDate": "2022-01-16",
+  "stats": {
+    "totalMessages": 97,
+    "activeMembers": 6,
+    "avgPerMember": 16.2
+  },
+  "riassunto": "Settimana dominata dal Covid e dal caso Djokovic. Cosimo e' ancora positivo ('sieropositivo yet'), Fausto fa tamponi di autosorveglianza mentre Adriano rifiuta categoricamente ('Cosi' si cade nel ridicolo'). Il dibattito sui tamponi casalinghi si infiamma. Cosimo finalmente annuncia che Renata e' negativa e condivide foto di famiglia. Il gruppo festeggia l'espulsione di Djokovic dall'Australia ('Beneeee kosovaro di merdaaaaa'). Fausto propone cene ma il Covid blocca tutto.",
+  "bestQuotes": [
+    {
+      "quote": "Io so sieropositivo yet",
+      "author": "Cosimo Nenciòni",
+      "context": "L'annuncio della positivita' continuata con ironia dark"
+    },
+    {
+      "quote": "Beneeeeee kosovaro di merdaaaaa",
+      "author": "Fausto Petrini",
+      "context": "Reazione all'espulsione di Djokovic dall'Australia"
+    },
+    {
+      "quote": "Stasera mi ci sego",
+      "author": "Fausto Petrini",
+      "context": "Reazione alla notizia che Renata e' negativa"
+    },
+    {
+      "quote": "Cosi' si cade nel ridicolo",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Sul fare tamponi dopo contatti all'aperto con mascherina"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 7.5,
+      "giudizio": "Il bastian contrario della settimana: rifiuta i tamponi, fa il moralizzatore con Fausto, scrive alle 2 di notte. Ha fatto la terza dose e lo fa sapere a tutti. Pero' e' presente e partecipa a ogni discussione con opinioni forti.",
+      "messaggi": 24,
+      "mediaGiornaliera": 3.4,
+      "highlights": [
+        "Ha preso posizione netta sui tamponi",
+        "Ha fatto la terza dose",
+        "Notturno come sempre"
+      ],
+      "citazioneTop": "Cosi' si cade nel ridicolo"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 8.0,
+      "giudizio": "L'eroe dei tamponi e delle statistiche. Spiega le percentuali dei test casalinghi con precisione scientifica, poi festeggia Djokovic con 'kosovaro di merdaaaaa'. La sua reazione alla negativita' di Renata ('Stasera mi ci sego') e' memorabile.",
+      "messaggi": 23,
+      "mediaGiornaliera": 3.3,
+      "highlights": [
+        "Ha spiegato le statistiche dei tamponi",
+        "Ha festeggiato l'espulsione di Djokovic",
+        "Il suo entusiasmo per Renata negativa"
+      ],
+      "citazioneTop": "Beneeeeee kosovaro di merdaaaaa"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 7.5,
+      "giudizio": "Ancora positivo ma mai cosi' presente nel gruppo. 'Sieropositivo yet' e' una battuta perfetta. Si sfrantuma i coglioni con i tamponi ma condivide foto bellissime della famiglia. L'esperto di tamponi per vaccinati del gruppo.",
+      "messaggi": 15,
+      "mediaGiornaliera": 2.1,
+      "highlights": [
+        "Ha condiviso la gioia per Renata negativa",
+        "Ha spiegato l'affidabilita' dei tamponi sui vaccinati",
+        "Foto di famiglia apprezzatissime"
+      ],
+      "citazioneTop": "Io so sieropositivo yet"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 7.0,
+      "giudizio": "Propone una cena alle 2 di notte ('Buongiorno ragazzi, si fa una cena?') e chiede lo stato di salute di tutti. Incontra Adriano in ospedale tra scontrini - una scena che meritava un video. Pragmatico e sempre sul pezzo.",
+      "messaggi": 14,
+      "mediaGiornaliera": 2.0,
+      "highlights": [
+        "Ha proposto la cena",
+        "L'incontro con Adriano e gli scontrini",
+        "Sempre attento alla salute di tutti"
+      ],
+      "citazioneTop": "Ieri ci siamo visti con Adriano all'ospedale mentre cercava gli scontrini del parcheggio una scena molto simpatica"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 6.5,
+      "giudizio": "Il Lider e' in sorveglianza attiva per Pietro e scherza sul non essersi visto con Fausto. Si preoccupa per tutti, reagisce alle foto di Cosimo con 'Troppo bella!'. Presente ma contenuto.",
+      "messaggi": 11,
+      "mediaGiornaliera": 1.6,
+      "highlights": [
+        "Ha gestito la sorveglianza attiva di Pietro",
+        "Ha scherzato sul non vedersi",
+        "Ha apprezzato le foto di Cosimo"
+      ],
+      "citazioneTop": "Menomale non ci siamo visti ieri allora. Scherzo ehhhh"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 6.0,
+      "giudizio": "Presente ma marginale. Chiede chi fosse la Minetti, poi si ricorda. Commenta i video con 'che fenomeno' e 'Speeeettacolo'. Il giramondo questa settimana e' in modalita' lurking.",
+      "messaggi": 10,
+      "mediaGiornaliera": 1.4,
+      "highlights": [
+        "Ha commentato il booster Moderna",
+        "Ha apprezzato le foto di Cosimo"
+      ],
+      "citazioneTop": "oooh, mi ricordo..."
+    }
+  ],
+  "awards": {
+    "mvp": "Fausto Petrini - Tra statistiche sui tamponi e 'kosovaro di merdaaaaa', ha dominato",
+    "comico": "Cosimo Nenciòni - 'Sieropositivo yet' e' poesia",
+    "cuore": "Alessio Macalùso - Sempre pronto a organizzare cene per vedere gli amici",
+    "fantasma": "Nessuno - Tutti presenti nonostante quarantene varie"
+  }
+}

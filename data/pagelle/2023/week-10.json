@@ -1,0 +1,109 @@
+{
+  "anno": 2023,
+  "settimana": 10,
+  "startDate": "2023-03-06",
+  "endDate": "2023-03-12",
+  "stats": {
+    "totalMessages": 174,
+    "activeMembers": 6,
+    "avgPerMember": 29.0
+  },
+  "riassunto": "Settimana filosofica sulla ricchezza! Cosimo a pranzo col cliente che ha comprato 'una barchetta' da 70k di trasporto. 'Ho dovuto fingere entusiasmo' mentre lui risparmia 100 euro sulle sedie. Alessio V. con pressione alta e macchinetta che misura ogni 10 minuti, desolato dalla 'gente ricchissima' in USA. Organizzazione cena del 24: lista ristoranti epica (Speranza, Bargino, Spagnolo). Fausto evoca Shu dell'uccello d'acqua di Nanto. Giulio cresce e Adriano fa la sega sul bidet.",
+  "bestQuotes": [
+    {
+      "quote": "Ho dovuto fingere entusiasmo. È questo il problema",
+      "author": "Cosimo Nenciòni",
+      "context": "Sul cliente con la barca da milioni"
+    },
+    {
+      "quote": "No mi sto facendo una sega sul bidet. La consiglio a tutti.",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Risposta a 'Stai pulendo?'"
+    },
+    {
+      "quote": "Finirai schiacciato da una grossa pietra in cima ad una piramide",
+      "author": "Fausto Petrini",
+      "context": "Profezia per Cosimo nato sotto la stella del sacrificio"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 9.0,
+      "giudizio": "Il cliente con la barchetta e lui con la bici cinese fradicio di sudore. 'I soldi vanno coi soldi' diventa il tema della settimana. '1 mese per risparmiare 100 euro sulle sedie'. Filosofo del sacrificio. 'La vita deve essere sacrificio' - educazione gesuita.",
+      "messaggi": 42,
+      "mediaGiornaliera": 6.0,
+      "highlights": [
+        "Racconto epico del cliente con la barca",
+        "Educazione gesuita sul sacrificio"
+      ],
+      "citazioneTop": "Ho dovuto fingere entusiasmo. È questo il problema"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 8.5,
+      "giudizio": "Organizzatore instancabile della cena. Lista ristoranti chilometrica. 'Democristiano' a Giacomo. Condivide link sulla Francia e pensioni. La sega sul bidet 'La consiglio a tutti'. Non trova donna di servizio 'Maremma puttana'.",
+      "messaggi": 48,
+      "mediaGiornaliera": 6.9,
+      "highlights": [
+        "Organizzazione cena con liste dettagliate",
+        "Consiglio sul bidet"
+      ],
+      "citazioneTop": "No mi sto facendo una sega sul bidet. La consiglio a tutti."
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 8.0,
+      "giudizio": "Sfogo esistenziale sulla gente ricchissima. 'Se avessi un milione in banca la mia vita sarebbe risolta' - tutti lo prendono per scemo. Pressione a 200, macchinetta attaccata. 'Questa desolazione di ricchi mi ha fatto perdere i valori di Hokuto'. Deve rileggere Siddhartha.",
+      "messaggi": 32,
+      "mediaGiornaliera": 4.6,
+      "highlights": [
+        "Riflessione sulla ricchezza americana",
+        "Monitoraggio pressione continuo"
+      ],
+      "citazioneTop": "Ho vissuto la mia vita fino a 40 anni spettacolarmente e dio maiale col cazzo che ho speso mezzo milione"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 7.5,
+      "giudizio": "Evoca Shu di Nanto per Cosimo: 'Finirai schiacciato da una grossa pietra in cima ad una piramide'. 'Nanto uguale morte'. Propone cena a Firenze. 'Il tamburo va tirato con quest'umido'. Saluti dai monti con Giulio cresciuto.",
+      "messaggi": 24,
+      "mediaGiornaliera": 3.4,
+      "highlights": [
+        "Profezia Hokuto per Cosimo",
+        "Foto di Giulio in montagna"
+      ],
+      "citazioneTop": "Finirai schiacciato da una grossa pietra in cima ad una piramide"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 7.0,
+      "giudizio": "'I soldi vanno coi soldi' - massima del saggio. 'Te vorresti solo smettere di lavorare. Come me d'altronde'. Disponibile per la cena, propone la Speranza. 'Faccelo vedere' per lo spezzatino.",
+      "messaggi": 18,
+      "mediaGiornaliera": 2.6,
+      "highlights": [
+        "Filosofia anti-lavoro",
+        "Contributo all'organizzazione cena"
+      ],
+      "citazioneTop": "Te vorresti solo smettere di lavorare. Come me d'altronde"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 6.5,
+      "giudizio": "Propone rivoluzione IRPEF. Preferenza spagnola per la cena. 'Per me ok 17 e 24'. L'ultimo a rispondere come sempre ('E che aspettavi? La chiamata ufficiale?'). Il Fondatore latita.",
+      "messaggi": 10,
+      "mediaGiornaliera": 1.4,
+      "highlights": [
+        "Proposta rivoluzione fiscale",
+        "Preferenza ristorante"
+      ],
+      "citazioneTop": "Secondo me se la riforma dell'IRPEF passa per come l'hanno descritta ci toccherà fare lo stesso"
+    }
+  ],
+  "awards": {
+    "mvp": "Cosimo Nenciòni",
+    "comico": "Adriano Sergio Lorenzo Facchini",
+    "cuore": "Alessio Valentini",
+    "fantasma": null
+  }
+}

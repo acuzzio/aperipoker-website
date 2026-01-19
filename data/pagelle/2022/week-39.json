@@ -1,0 +1,120 @@
+{
+  "anno": 2022,
+  "settimana": 39,
+  "startDate": "2022-09-26",
+  "endDate": "2022-10-02",
+  "stats": {
+    "totalMessages": 133,
+    "activeMembers": 6,
+    "avgPerMember": 22.2
+  },
+  "riassunto": "Post-elezioni: 'Sono molto deluso dai miei coetanei. La generazione Erasmus di stocazzo'. Il 40% dei 25-34enni si e' astenuto! Fausto al Colle Bereto: 'Mongoli veri, ma ho capito tutto del mondo'. Cosimo vota come un 18enne ('solo quello'). Adriano cerca donna delle pulizie e fa scherzi psicologici sulla Meloni.",
+  "bestQuotes": [
+    {
+      "quote": "Sono molto deluso dai miei coetanei. La generazione Erasmus di stocazzo",
+      "author": "Cosimo Nenciòni",
+      "context": "Sull'astensione dei giovani"
+    },
+    {
+      "quote": "Io voto come un 18enne (solo quello)",
+      "author": "Cosimo Nenciòni",
+      "context": "Autocritica scherzosa"
+    },
+    {
+      "quote": "Sono al Colle Bereto. Mongoli veri. Ma ho capito tutto del mondo",
+      "author": "Fausto Petrini",
+      "context": "Serata memorabile"
+    },
+    {
+      "quote": "Il 40% di quei bastardi compresi tra i 25 e i 34 anni si sono astenuti?",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Indignazione sui giovani"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 8.0,
+      "giudizio": "Cerca donna delle pulizie e fa scherzi psicologici sulla Meloni. '40% di quei bastardi si sono astenuti?' e' indignazione genuina. 'Mi ha rubato l'idea!' su qualcuno. Presente e politicamente attivo.",
+      "messaggi": 38,
+      "mediaGiornaliera": 5.4,
+      "highlights": [
+        "Cerca donna delle pulizie",
+        "Scherzi psicologici",
+        "Indignazione sui giovani"
+      ],
+      "citazioneTop": "Il 40% di quei bastardi si sono astenuti?"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 8.5,
+      "giudizio": "Ha capito tutto del mondo al Colle Bereto ('Mongoli veri'). Ha condiviso l'articolo dell'IlPost sull'astensione. 'Manvi oens9' e' il culmine della serata. Antropologo da discoteca.",
+      "messaggi": 23,
+      "mediaGiornaliera": 3.3,
+      "highlights": [
+        "Colle Bereto",
+        "Ho capito tutto del mondo",
+        "Articolo IlPost"
+      ],
+      "citazioneTop": "Sono al Colle Bereto. Mongoli veri. Ma ho capito tutto del mondo"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 7.0,
+      "giudizio": "Ha commentato il Terzo Segreto ('Fantastici'). 'L'ebete di sopra non ce la faccio a reggerlo'. Presente alle analisi post-voto.",
+      "messaggi": 22,
+      "mediaGiornaliera": 3.1,
+      "highlights": [
+        "Terzo Segreto fantastici",
+        "Non regge l'ebete",
+        "Analisi post-voto"
+      ],
+      "citazioneTop": "L'ebete di sopra proprio non ce la faccio a reggerlo"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 8.5,
+      "giudizio": "'La generazione Erasmus di stocazzo' e' la frase della settimana. 'Voto come un 18enne, solo quello' e' autoironia perfetta. Ha condiviso tweet politici. Filosofo deluso.",
+      "messaggi": 21,
+      "mediaGiornaliera": 3.0,
+      "highlights": [
+        "Generazione Erasmus di stocazzo",
+        "Voto come 18enne",
+        "Tweet politici"
+      ],
+      "citazioneTop": "La generazione Erasmus di stocazzo"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 7.0,
+      "giudizio": "Ha fatto i calcoli: '16% vota Meloni, 39% sta a casa'. Ha chiesto se Beppe Grillo si sente ancora. 'Tremendo' sul video. Statistico del gruppo.",
+      "messaggi": 20,
+      "mediaGiornaliera": 2.9,
+      "highlights": [
+        "Calcoli elettorali",
+        "Beppe Grillo",
+        "Statistiche"
+      ],
+      "citazioneTop": "Ogni 100 italiani 16 hanno votato la Meloni, 39 sono stati a casa"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 6.5,
+      "giudizio": "'Che boomer' a Cosimo. Ha proposto cena infrasettimanale. 'Discorsi deliranti' sulla politica. Presente e propositivo.",
+      "messaggi": 9,
+      "mediaGiornaliera": 1.3,
+      "highlights": [
+        "Che boomer",
+        "Propone cena",
+        "Discorsi deliranti"
+      ],
+      "citazioneTop": "Settimana prossima ci sareste per una cena a Siena?"
+    }
+  ],
+  "awards": {
+    "mvp": "Cosimo Nenciòni - La generazione Erasmus di stocazzo",
+    "comico": "Fausto Petrini - Ho capito tutto del mondo al Colle Bereto",
+    "cuore": "Alessio Macalùso - Ha proposto cena infrasettimanale",
+    "fantasma": "Nessuno - Settimana politica molto attiva"
+  }
+}

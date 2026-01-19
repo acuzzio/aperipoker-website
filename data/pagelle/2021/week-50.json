@@ -1,0 +1,104 @@
+{
+  "anno": 2021,
+  "settimana": 50,
+  "startDate": "2021-12-13",
+  "endDate": "2021-12-19",
+  "stats": {
+    "totalMessages": 150,
+    "activeMembers": 6,
+    "avgPerMember": 25.0
+  },
+  "riassunto": "Settimana 50 con 150 messaggi. Cosimo guida le danze con 31 contributi.",
+  "bestQuotes": [
+    {
+      "quote": "Anche il casato ahahaha",
+      "author": "Alessio Macalùso",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Visto che si era detto di fare un orario più da apericena si potrebbe provare a trovare un posto più apericena. Tipo bar dell'orso?",
+      "author": "Fausto Petrini",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Altrimenti a casa di qualcuno e ognuno porta qualcosa?",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Momento memorabile della settimana"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 6.9,
+      "giudizio": "Presente con il suo solito stile minimale ma incisivo.",
+      "messaggi": 31,
+      "mediaGiornaliera": 4.4,
+      "highlights": [
+        "Tra i piu' attivi con 31 messaggi"
+      ],
+      "citazioneTop": "Qualcuno sa come si cambia lo strumento di pagamento dall'app di Spotify? Devo sostituire la carta"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 6.6,
+      "giudizio": "Il solito Fausto: ci prova, ogni tanto ci riesce.",
+      "messaggi": 30,
+      "mediaGiornaliera": 4.3,
+      "highlights": [
+        "Tra i piu' attivi con 30 messaggi"
+      ],
+      "citazioneTop": "Visto che si era detto di fare un orario più da apericena si potrebbe provare a trovare un posto più apericena. Tipo bar dell'orso?"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 7.3,
+      "giudizio": "Contributo solido, senza eccessi. Sta bene?",
+      "messaggi": 29,
+      "mediaGiornaliera": 4.1,
+      "highlights": [
+        "Tra i piu' attivi con 29 messaggi",
+        "Ha stimolato la discussione con molte domande"
+      ],
+      "citazioneTop": "Altrimenti a casa di qualcuno e ognuno porta qualcosa?"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 6.6,
+      "giudizio": "Il suo 'Credo' di meta' settimana valeva un trattato filosofico.",
+      "messaggi": 28,
+      "mediaGiornaliera": 4.0,
+      "highlights": [
+        "Tra i piu' attivi con 28 messaggi"
+      ],
+      "citazioneTop": "Anche il casato ahahaha"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 6.7,
+      "giudizio": "Presente con il suo solito stile: curioso, ironico, pungente.",
+      "messaggi": 26,
+      "mediaGiornaliera": 3.7,
+      "highlights": [
+        "Tra i piu' attivi con 26 messaggi"
+      ],
+      "citazioneTop": ""
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 4.5,
+      "giudizio": "Il Giramondo si e' perso. Nessun segnale da terre lontane.",
+      "messaggi": 6,
+      "mediaGiornaliera": 0.9,
+      "highlights": [
+        "Ha contribuito con 6 messaggi"
+      ],
+      "citazioneTop": ""
+    }
+  ],
+  "awards": {
+    "mvp": "Adriano Sergio Lorenzo Facchini - Miglior voto della settimana con 7.3",
+    "comico": "Alessio Macalùso - Il piu' divertente della settimana",
+    "cuore": "Giacomo Dolfi - Presenza equilibrata e costante",
+    "fantasma": "Alessio Valentini - Il piu' silenzioso con 6 messaggi"
+  }
+}

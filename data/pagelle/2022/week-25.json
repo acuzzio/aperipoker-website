@@ -1,0 +1,119 @@
+{
+  "anno": 2022,
+  "settimana": 25,
+  "startDate": "2022-06-20",
+  "endDate": "2022-06-26",
+  "stats": {
+    "totalMessages": 50,
+    "activeMembers": 6,
+    "avgPerMember": 8.3
+  },
+  "riassunto": "Adriano e Giacomo sono a Barcellona, acqua a 1.20 euro ('Portati una borraccia'). Si discute se un video e' Baggio (spoiler: e'). Cosimo ha cena di lavoro in Versilia e dovra' farsi il bidet ('Serata rimming', 'Nuove frontiere del Team Building'). Alessio Mac ha il Covid e salta l'operazione al ginocchio. Fausto propone il 7 luglio 'solo a casa'.",
+  "bestQuotes": [
+    {
+      "quote": "Serata rimming. Nuove frontiere del Team Building",
+      "author": "Cosimo Nenciòni",
+      "context": "Sulla cena di lavoro in Versilia"
+    },
+    {
+      "quote": "Te lo mettono in ano per l'occasione? O ti omaggiano dello sbiancamento anale gratis?",
+      "author": "Fausto Petrini",
+      "context": "Sulla cena di Cosimo"
+    },
+    {
+      "quote": "Mi difendo bevendo",
+      "author": "Cosimo Nenciòni",
+      "context": "Sul caldo di Barcellona"
+    },
+    {
+      "quote": "Finalmente",
+      "author": "Cosimo Nenciòni",
+      "context": "Sul Covid di Alessio Mac"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 7.5,
+      "giudizio": "A Barcellona con acqua a 1.20 euro. Ha confermato che il video e' Baggio. 'Era piu' ganzo se stiantava Renzi'. Ha chiesto spiegazioni sul rimming. Sempre curioso.",
+      "messaggi": 12,
+      "mediaGiornaliera": 1.7,
+      "highlights": [
+        "A Barcellona",
+        "Ha confermato Baggio",
+        "Curioso sul rimming"
+      ],
+      "citazioneTop": "Era piu' ganzo se stiantava Renzi"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 7.5,
+      "giudizio": "Ha proposto il 7 luglio solo a casa. Ha chiesto a Cosimo dello sbiancamento anale. Ha condiviso video sull'educazione sessuale americana. Sempre provocatorio.",
+      "messaggi": 10,
+      "mediaGiornaliera": 1.4,
+      "highlights": [
+        "Ha proposto il 7 luglio",
+        "Domande sullo sbiancamento",
+        "Video sull'educazione sessuale"
+      ],
+      "citazioneTop": "Te lo mettono in ano per l'occasione?"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 8.0,
+      "giudizio": "'Serata rimming. Nuove frontiere del Team Building' e' leggendaria. Non c'e' il 7 luglio per la cena in Versilia col bidet. 'Finalmente' sul Covid di Alessio Mac e' cinica ma vera.",
+      "messaggi": 9,
+      "mediaGiornaliera": 1.3,
+      "highlights": [
+        "Serata rimming",
+        "Team Building anale",
+        "Finalmente il Covid"
+      ],
+      "citazioneTop": "Serata rimming. Nuove frontiere del Team Building"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 6.5,
+      "giudizio": "Ha il Covid e salta l'operazione al ginocchio. 'Da qui al 7 possono succedere tante cose' e' ottimismo zen. Ha suggerito di non comprare acqua minerale a Barcellona.",
+      "messaggi": 8,
+      "mediaGiornaliera": 1.1,
+      "highlights": [
+        "Ha il Covid",
+        "Salta l'operazione",
+        "Consiglio su acqua"
+      ],
+      "citazioneTop": "Da qui al 7 possono succedere tante cose"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 7.0,
+      "giudizio": "A Barcellona, suggerisce la borraccia. Ha confermato che e' Baggio. Ha chiesto come sta Alessio Mac col Covid. Sempre pratico.",
+      "messaggi": 7,
+      "mediaGiornaliera": 1.0,
+      "highlights": [
+        "A Barcellona",
+        "Ha suggerito la borraccia",
+        "Si e' preoccupato per Alessio"
+      ],
+      "citazioneTop": "Portati una borraccia"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 5.5,
+      "giudizio": "Quattro messaggi: ha chiesto se era Baggio, ha confermato che non fa pieghe, ha detto 'hahaha'. Lurking mode.",
+      "messaggi": 4,
+      "mediaGiornaliera": 0.6,
+      "highlights": [
+        "Ha chiesto se era Baggio",
+        "Non fa pieghe"
+      ],
+      "citazioneTop": "E' bello pensare che sia Baggio"
+    }
+  ],
+  "awards": {
+    "mvp": "Cosimo Nenciòni - 'Serata rimming. Nuove frontiere del Team Building'",
+    "comico": "Fausto Petrini - Domande sullo sbiancamento anale",
+    "cuore": "Giacomo Dolfi - Si e' preoccupato per Alessio col Covid",
+    "fantasma": "Alessio Valentini - Solo quattro messaggi"
+  }
+}

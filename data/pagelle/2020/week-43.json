@@ -1,0 +1,109 @@
+{
+  "anno": 2020,
+  "settimana": 43,
+  "startDate": "2020-10-19",
+  "endDate": "2020-10-25",
+  "stats": {
+    "totalMessages": 130,
+    "activeMembers": 6,
+    "avgPerMember": 21.7
+  },
+  "riassunto": "Il gruppo si è ritrovato per discutere di lavoro, calcio, uscite/cene con le restrizioni autunnali. Con 130 messaggi totali, la settimana è stata nella norma.",
+  "bestQuotes": [
+    {
+      "quote": "Ahahah anche a me zero notifiche",
+      "author": "Giacomo Dolfi",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Ohhhhh grazie! Voi sì che mi capite",
+      "author": "Giacomo Dolfi",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "La cosa bella è che avevo organizzato un week end a Napoli, ed ere proprio questo!!!",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Momento memorabile della settimana"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 8.0,
+      "giudizio": "Fiume in piena come sempre, ma questa settimana i suoi monologhi avevano un senso. Miracolo natalizio?",
+      "messaggi": 36,
+      "mediaGiornaliera": 6.0,
+      "highlights": [
+        "Molto attivo, tra i più presenti della settimana",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "Se lo fanno mi appassiono anche io"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 8.0,
+      "giudizio": "Il Lider Maximo ha guidato le discussioni con mano ferma e battute pungenti.",
+      "messaggi": 21,
+      "mediaGiornaliera": 4.2,
+      "highlights": [
+        "Buona partecipazione alle discussioni",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "Secondo voi quali ho preso?"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 7.5,
+      "giudizio": "Il Provocatore Raffinato colpisce ancora. Con tre frasi ha detto più di altri in venti messaggi.",
+      "messaggi": 24,
+      "mediaGiornaliera": 4.8,
+      "highlights": [
+        "Buona partecipazione alle discussioni",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "Ma immuni? Io non ho capito  come sia possibile che in 4 mesi manco una notifica.. 😔"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 7.0,
+      "giudizio": "Presente quando connesso, assente quando scollegato. Il solito Alessio V.",
+      "messaggi": 19,
+      "mediaGiornaliera": 6.3,
+      "highlights": [
+        "Buona partecipazione alle discussioni",
+        "Presente per buona parte della settimana"
+      ],
+      "citazioneTop": "l'app immuni e' una idea fantastica"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 7.0,
+      "giudizio": "Presente e attivo, anche se questa settimana le sue proposte hanno avuto fortuna alterna.",
+      "messaggi": 18,
+      "mediaGiornaliera": 3.6,
+      "highlights": [
+        "Buona partecipazione alle discussioni",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "Da buon padre di famiglia"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 6.5,
+      "giudizio": "Il solito Alessio Mac: pacato, presente, essenziale. Niente sprechi di parole.",
+      "messaggi": 12,
+      "mediaGiornaliera": 2.4,
+      "highlights": [
+        "Presente ma non dominante",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "Nessuno ha preso il virus ancora?"
+    }
+  ],
+  "awards": {
+    "mvp": "Adriano Sergio Lorenzo Facchini",
+    "comico": "Giacomo Dolfi",
+    "cuore": "Adriano Sergio Lorenzo Facchini",
+    "fantasma": "Alessio Macalùso"
+  }
+}

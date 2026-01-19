@@ -1,0 +1,118 @@
+{
+  "anno": 2022,
+  "settimana": 33,
+  "startDate": "2022-08-15",
+  "endDate": "2022-08-21",
+  "stats": {
+    "totalMessages": 102,
+    "activeMembers": 6,
+    "avgPerMember": 17.0
+  },
+  "riassunto": "Alessio Mac chiude le chiavi dentro la macchina e rompe il vetro come un ladro ('Sono stato un mongolo'). Palio rimandato per pioggia. Adriano aspetta per la torta ('Chi deve venire e' puntuale?'). Alessio V. canta le lodi di Alberto Angela: 'Un uomo da solo al comando. Il maestro. L'archeologo contemporaneo'. Cosimo muore dalle risate.",
+  "bestQuotes": [
+    {
+      "quote": "Ieri ho chiuso le chiavi dentro la macchina e ho rotto il vetro per ripartire come un ladro. Sono stato un mongolo",
+      "author": "Alessio Macalùso",
+      "context": "Sull'incidente con le chiavi"
+    },
+    {
+      "quote": "Un uomo da solo al comando. Il maestro. L'archeologo contemporaneo",
+      "author": "Alessio Valentini",
+      "context": "Su Alberto Angela"
+    },
+    {
+      "quote": "E' anche per questo motivo che quando viaggio porto sempre la seconda chiave dell'auto",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Consiglio pratico ad Alessio"
+    },
+    {
+      "quote": "Moio",
+      "author": "Cosimo Nenciòni",
+      "context": "Sulle lodi ad Alberto Angela"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Alessio Valentini",
+      "voto": 8.5,
+      "giudizio": "Le lodi ad Alberto Angela sono poesia: 'Un uomo da solo al comando. Il maestro. Marcella mi sto lavando. L'archeologo contemporaneo'. Ha seguito il Palio in streaming. Poeta dell'America.",
+      "messaggi": 29,
+      "mediaGiornaliera": 4.1,
+      "highlights": [
+        "Poesia su Alberto Angela",
+        "Ha seguito il Palio",
+        "Commenti sulla porta"
+      ],
+      "citazioneTop": "Un uomo da solo al comando. Il maestro."
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 7.5,
+      "giudizio": "Ha organizzato la torta e aspettato gli ospiti. Ha dato il consiglio della seconda chiave. Palio rimandato a Siena. Organizzatore paziente.",
+      "messaggi": 26,
+      "mediaGiornaliera": 3.7,
+      "highlights": [
+        "Ha organizzato torta",
+        "Consiglio seconda chiave",
+        "Palio rimandato"
+      ],
+      "citazioneTop": "Quando viaggio porto sempre la seconda chiave dell'auto"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 7.5,
+      "giudizio": "'Moio' sulle lodi ad Alberto Angela e' la reazione perfetta. Ha dato supporto ad Alessio Mac ('Una brutta avventura, mi dispiace'). Presente e empatico.",
+      "messaggi": 24,
+      "mediaGiornaliera": 3.4,
+      "highlights": [
+        "Moio",
+        "Supporto ad Alessio Mac",
+        "Palio confermato"
+      ],
+      "citazioneTop": "Moio"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 7.0,
+      "giudizio": "Ha rotto il vetro della macchina per le chiavi chiuse dentro. 'Sono stato un mongolo' e' autocritica onesta. Ha messo lo scotch. Protagonista involontario.",
+      "messaggi": 13,
+      "mediaGiornaliera": 1.9,
+      "highlights": [
+        "Ha rotto il vetro",
+        "Chiavi chiuse dentro",
+        "Scotch sul vetro"
+      ],
+      "citazioneTop": "Sono stato un mongolo"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 6.0,
+      "giudizio": "Ha partecipato alla torta. 'Noi partiamo tra non molto'. Pochi messaggi ma presente.",
+      "messaggi": 7,
+      "mediaGiornaliera": 1.0,
+      "highlights": [
+        "Ha partecipato alla torta",
+        "Presente"
+      ],
+      "citazioneTop": "Noi partiamo tra non molto"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 5.5,
+      "giudizio": "Solo tre messaggi questa settimana. 'Lo vidu anche io ieru' su Alberto Angela. Pausa estiva.",
+      "messaggi": 3,
+      "mediaGiornaliera": 0.4,
+      "highlights": [
+        "Pochi messaggi",
+        "Lo vidu anche io"
+      ],
+      "citazioneTop": "Lo vidu anche io ieru"
+    }
+  ],
+  "awards": {
+    "mvp": "Alessio Valentini - Poesia su Alberto Angela",
+    "comico": "Alessio Macalùso - Ha rotto il vetro come un ladro",
+    "cuore": "Cosimo Nenciòni - Mi dispiace per Alessio Mac",
+    "fantasma": "Fausto Petrini - Solo 3 messaggi"
+  }
+}

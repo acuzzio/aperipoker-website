@@ -1,0 +1,109 @@
+{
+  "anno": 2020,
+  "settimana": 52,
+  "startDate": "2020-12-21",
+  "endDate": "2020-12-27",
+  "stats": {
+    "totalMessages": 169,
+    "activeMembers": 6,
+    "avgPerMember": 28.2
+  },
+  "riassunto": "Il gruppo si è ritrovato per discutere di uscite/cene, poker, viaggi con le restrizioni autunnali. Con 169 messaggi totali, la settimana è stata nella norma.",
+  "bestQuotes": [
+    {
+      "quote": "Saluta anche Rena dagli aperipokeristi quando la senti!",
+      "author": "Giacomo Dolfi",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Prodotti freschissimi e a km zero! Wow!",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Concordo anche io! Ci vogliono pazienza e costanza per arrivare al risultato!",
+      "author": "Giacomo Dolfi",
+      "context": "Momento memorabile della settimana"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Alessio Valentini",
+      "voto": 8.5,
+      "giudizio": "Il Giramondo ha scritto da qualche angolo del mondo con entusiasmo contagioso.",
+      "messaggi": 47,
+      "mediaGiornaliera": 9.4,
+      "highlights": [
+        "Molto attivo, tra i più presenti della settimana",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "occhio alle carote, non ne mangiare troppe"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 7.5,
+      "giudizio": "Il Re della Chat ha dominato la settimana con la consueta verbosità. Quando Adriano parla, il gruppo ascolta (volente o nolente).",
+      "messaggi": 38,
+      "mediaGiornaliera": 6.3,
+      "highlights": [
+        "Molto attivo, tra i più presenti della settimana",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "Te sceglieresti chi ha l’erba"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 7.5,
+      "giudizio": "Maestro del sarcasmo, questa settimana era in forma smagliante. Nessuno è stato risparmiato.",
+      "messaggi": 29,
+      "mediaGiornaliera": 5.8,
+      "highlights": [
+        "Buona partecipazione alle discussioni",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "Scusa non sono arguto al momento. Sto pure lavorando. Crazy things.."
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 7.5,
+      "giudizio": "Giacomo in grande spolvero. Le sue osservazioni hanno acceso la chat.",
+      "messaggi": 26,
+      "mediaGiornaliera": 4.3,
+      "highlights": [
+        "Buona partecipazione alle discussioni",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "Per me dura, lavoro sempre"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 7.0,
+      "giudizio": "Il solito Fausto: propositivo, ottimista, e leggermente frustrato dalle mancate risposte.",
+      "messaggi": 15,
+      "mediaGiornaliera": 2.5,
+      "highlights": [
+        "Presente ma non dominante",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "Puoi invitare solo due persone, tocca scegliere quali amici preferisci"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 6.5,
+      "giudizio": "Il solito Alessio Mac: pacato, presente, essenziale. Niente sprechi di parole.",
+      "messaggi": 14,
+      "mediaGiornaliera": 2.8,
+      "highlights": [
+        "Presente ma non dominante",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "In bocca al lupo speriamo vada tutto bene 🤞"
+    }
+  ],
+  "awards": {
+    "mvp": "Alessio Valentini",
+    "comico": "Alessio Valentini",
+    "cuore": "Alessio Macalùso",
+    "fantasma": "Alessio Macalùso"
+  }
+}

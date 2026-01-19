@@ -1,0 +1,118 @@
+{
+  "anno": 2022,
+  "settimana": 23,
+  "startDate": "2022-06-06",
+  "endDate": "2022-06-12",
+  "stats": {
+    "totalMessages": 44,
+    "activeMembers": 6,
+    "avgPerMember": 7.3
+  },
+  "riassunto": "Si organizza la cena del 13 per Fausto alla Cantinetta di Rignana. Fausto propone il posto, Giacomo risponde 'A me basta che non lo scelga fausto', poi Cosimo prenota proprio li' ('Gnamo diteglielo'). Il Carli viene invitato. Cosimo: 'se sarai simpatico ti facciamo scegliere anche chi vince il palio'. Alessio V. avverte: 'okkio a Adri e ai suoi virus'.",
+  "bestQuotes": [
+    {
+      "quote": "A me basta che non lo scelga fausto",
+      "author": "Giacomo Dolfi",
+      "context": "Sul ristorante, poi lo scelgono proprio quello"
+    },
+    {
+      "quote": "se sarai simpatico ti facciamo scegliere anche chi vince il palio",
+      "author": "Cosimo Nenciòni",
+      "context": "A Fausto per il suo compleanno"
+    },
+    {
+      "quote": "Il ristorante lo avviso colcazzo. Mi hanno risposto dopo 3 giorni. Figli di puttana",
+      "author": "Cosimo Nenciòni",
+      "context": "Sulla difficolta' di prenotare"
+    },
+    {
+      "quote": "okkio a Adri e ai suoi virus",
+      "author": "Alessio Valentini",
+      "context": "Avvertimento per la cena"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 8.0,
+      "giudizio": "Ha prenotato alla Cantinetta di Rignana nonostante i 'figli di puttana' che rispondono dopo 3 giorni. 'Se sarai simpatico ti facciamo scegliere anche chi vince il palio' e' perfetta. Ha organizzato tutto.",
+      "messaggi": 15,
+      "mediaGiornaliera": 2.1,
+      "highlights": [
+        "Ha prenotato il ristorante",
+        "Ha sfidato il ristorante",
+        "Battuta sul Palio"
+      ],
+      "citazioneTop": "se sarai simpatico ti facciamo scegliere anche chi vince il palio"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 7.5,
+      "giudizio": "'A me basta che non lo scelga fausto' e poi prenotano proprio li'. Ha chiamato il Carli, ha organizzato il ritrovo al Dream. Ha condiviso i suoi TikTok preferiti.",
+      "messaggi": 10,
+      "mediaGiornaliera": 1.4,
+      "highlights": [
+        "Battuta sul ristorante",
+        "Ha chiamato il Carli",
+        "Ha organizzato il ritrovo"
+      ],
+      "citazioneTop": "A me basta che non lo scelga fausto"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 6.5,
+      "giudizio": "Ha confermato il 13, ha ordinato a Fausto di portare il Carli ('Devi'), ha rimato con Giacomo ('Una canna piena di maria'). Essenziale.",
+      "messaggi": 7,
+      "mediaGiornaliera": 1.0,
+      "highlights": [
+        "Ha confermato il 13",
+        "Ha ordinato di portare il Carli",
+        "Rima con Giacomo"
+      ],
+      "citazioneTop": "Una canna piena di maria"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 7.0,
+      "giudizio": "Ha proposto la Cantinetta di Rignana e l'hanno accontentato! 'Ahhhhhhhh gran godet!!!' quando lo scopre. Ha chiesto se puo' portare il Carli. Festeggiato felice.",
+      "messaggi": 7,
+      "mediaGiornaliera": 1.0,
+      "highlights": [
+        "Ha proposto il ristorante",
+        "Ha chiesto di portare il Carli",
+        "Gran godet alla notizia"
+      ],
+      "citazioneTop": "Ahhhhhhhh gran godet!!!"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 6.0,
+      "giudizio": "Ha confermato per il 13, ha detto ok per il Carli. Pochi messaggi ma presente.",
+      "messaggi": 3,
+      "mediaGiornaliera": 0.4,
+      "highlights": [
+        "Ha confermato il 13",
+        "Ok per il Carli"
+      ],
+      "citazioneTop": "Vada per 13"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 6.0,
+      "giudizio": "Due messaggi: chiede foto e avverte sui virus di Adriano. Presente da lontano ma con avvertimenti utili.",
+      "messaggi": 2,
+      "mediaGiornaliera": 0.3,
+      "highlights": [
+        "Ha chiesto foto",
+        "Ha avvertito sui virus"
+      ],
+      "citazioneTop": "okkio a Adri e ai suoi virus"
+    }
+  ],
+  "awards": {
+    "mvp": "Cosimo Nenciòni - Ha organizzato tutto nonostante il ristorante 'figlio di puttana'",
+    "comico": "Giacomo Dolfi - 'A me basta che non lo scelga fausto' (e lo scelgono)",
+    "cuore": "Fausto Petrini - Ha chiesto di portare il Carli",
+    "fantasma": "Nessuno - Tutti presenti per organizzare"
+  }
+}

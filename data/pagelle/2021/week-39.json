@@ -1,0 +1,103 @@
+{
+  "anno": 2021,
+  "settimana": 39,
+  "startDate": "2021-09-27",
+  "endDate": "2021-10-03",
+  "stats": {
+    "totalMessages": 55,
+    "activeMembers": 6,
+    "avgPerMember": 9.2
+  },
+  "riassunto": "Settimana 39 con 55 messaggi. Fausto guida le danze con 14 contributi.",
+  "bestQuotes": [
+    {
+      "quote": "E ti lamenti??? Pensa a chi non ha nulla!! Sempre il solito ecocentrico egoista.",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Avete visto la pubblicità di zalando second hand? Per me un capolavoro",
+      "author": "Alessio Macalùso",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "L'avete vista? Oggi deve essere stata tanta roba...",
+      "author": "Giacomo Dolfi",
+      "context": "Momento memorabile della settimana"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Fausto Petrini",
+      "voto": 7.3,
+      "giudizio": "Entusiasmo alle stelle. Ha provato a organizzare 5 uscite, ne sono andate in porto 0.",
+      "messaggi": 14,
+      "mediaGiornaliera": 2.0,
+      "highlights": [
+        "Ha dominato la conversazione con il 25% dei messaggi"
+      ],
+      "citazioneTop": "https://www.ilpost.it/2021/09/30/mazzone-corsa-curva-brescia-atalanta/"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 6.2,
+      "giudizio": "Presente con il suo solito stile minimale ma incisivo.",
+      "messaggi": 10,
+      "mediaGiornaliera": 1.4,
+      "highlights": [
+        "Tra i piu' attivi con 10 messaggi"
+      ],
+      "citazioneTop": ""
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 6.5,
+      "giudizio": "Presente con il suo solito stile: curioso, ironico, pungente.",
+      "messaggi": 10,
+      "mediaGiornaliera": 1.4,
+      "highlights": [
+        "Tra i piu' attivi con 10 messaggi"
+      ],
+      "citazioneTop": "L'avete vista? Oggi deve essere stata tanta roba..."
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 6.6,
+      "giudizio": "Presente come sempre, non ha fatto mancare la sua voce al coro.",
+      "messaggi": 9,
+      "mediaGiornaliera": 1.3,
+      "highlights": [
+        "Tra i piu' attivi con 9 messaggi"
+      ],
+      "citazioneTop": "E ti lamenti??? Pensa a chi non ha nulla!! Sempre il solito ecocentrico egoista."
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 5.8,
+      "giudizio": "Il suo 'Credo' di meta' settimana valeva un trattato filosofico.",
+      "messaggi": 6,
+      "mediaGiornaliera": 0.9,
+      "highlights": [
+        "Ha contribuito con 6 messaggi"
+      ],
+      "citazioneTop": "Avete visto la pubblicità di zalando second hand? Per me un capolavoro"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 5.8,
+      "giudizio": "Presente nonostante i fusi orari avversi. Sempre affidabile.",
+      "messaggi": 6,
+      "mediaGiornaliera": 0.9,
+      "highlights": [
+        "Ha contribuito con 6 messaggi"
+      ],
+      "citazioneTop": ""
+    }
+  ],
+  "awards": {
+    "mvp": "Fausto Petrini - Miglior voto della settimana con 7.3",
+    "comico": "Adriano Sergio Lorenzo Facchini - Il piu' divertente della settimana",
+    "cuore": "Adriano Sergio Lorenzo Facchini - Presenza equilibrata e costante",
+    "fantasma": "Alessio Macalùso - Il piu' silenzioso con 6 messaggi"
+  }
+}

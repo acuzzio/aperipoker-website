@@ -1,0 +1,104 @@
+{
+  "anno": 2020,
+  "settimana": 45,
+  "startDate": "2020-11-02",
+  "endDate": "2020-11-08",
+  "stats": {
+    "totalMessages": 24,
+    "activeMembers": 6,
+    "avgPerMember": 4.0
+  },
+  "riassunto": "Il gruppo si è ritrovato per discutere di politica con le restrizioni autunnali. Con 24 messaggi totali, la settimana è stata nella norma.",
+  "bestQuotes": [
+    {
+      "quote": "Buon compleanno amico Alessio!!",
+      "author": "Cosimo Nenciòni",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Auguri Alessio,buon compleanno 🎂",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "e' morto per il suo compleanno",
+      "author": "Alessio Valentini",
+      "context": "Momento memorabile della settimana"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Fausto Petrini",
+      "voto": 7.5,
+      "giudizio": "Il Trascinatore ha proposto, organizzato, coordinato. Che poi nessuno abbia risposto è un altro discorso.",
+      "messaggi": 7,
+      "mediaGiornaliera": 1.8,
+      "highlights": [
+        "Presente ma non dominante",
+        "Presente per buona parte della settimana"
+      ],
+      "citazioneTop": "Buin compleanno frate alessio"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 7.0,
+      "giudizio": "Il solito Cosimo: poche parole, tutte giuste. O quasi.",
+      "messaggi": 9,
+      "mediaGiornaliera": 4.5,
+      "highlights": [
+        "Presente ma non dominante"
+      ],
+      "citazioneTop": "Buon compleanno amico Alessio!!"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 6.5,
+      "giudizio": "Contributi costanti, ma questa settimana il Re ha mantenuto un profilo insolitamente basso.",
+      "messaggi": 2,
+      "mediaGiornaliera": 1.0,
+      "highlights": [
+        "Interventi sporadici ma mirati"
+      ],
+      "citazioneTop": "Auguri Alessio,buon compleanno 🎂"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 6.5,
+      "giudizio": "Ha partecipato con i suoi orari improbabili. Niente di nuovo sotto il sole (tropicale).",
+      "messaggi": 4,
+      "mediaGiornaliera": 2.0,
+      "highlights": [
+        "Interventi sporadici ma mirati"
+      ],
+      "citazioneTop": "e' morto per il suo compleanno"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 6.0,
+      "giudizio": "Il solito Alessio Mac: pacato, presente, essenziale. Niente sprechi di parole.",
+      "messaggi": 1,
+      "mediaGiornaliera": 1.0,
+      "highlights": [
+        "Interventi sporadici ma mirati"
+      ],
+      "citazioneTop": null
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 5.0,
+      "giudizio": "Il Fondatore ha delegato questa settimana. O forse stava guardando qualche talk show.",
+      "messaggi": 1,
+      "mediaGiornaliera": 1.0,
+      "highlights": [
+        "Interventi sporadici ma mirati"
+      ],
+      "citazioneTop": null
+    }
+  ],
+  "awards": {
+    "mvp": "Fausto Petrini",
+    "comico": "Giacomo Dolfi",
+    "cuore": "Adriano Sergio Lorenzo Facchini",
+    "fantasma": "Giacomo Dolfi"
+  }
+}

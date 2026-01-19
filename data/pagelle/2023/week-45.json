@@ -1,0 +1,109 @@
+{
+  "anno": 2023,
+  "settimana": 45,
+  "startDate": "2023-11-06",
+  "endDate": "2023-11-12",
+  "stats": {
+    "totalMessages": 106,
+    "activeMembers": 6,
+    "avgPerMember": 17.7
+  },
+  "riassunto": "Settimana del metalmeccanico ivoriano e degli occhiali di Gino! Fausto manda cartello 'divieto d'accesso': 'Quando lo vedo mi viene subito il buonumore'. Alessio V.: 'E per questo hai buone possibilita' di divenire leader'. Adriano perplesso: 'Perche' questo cartello mette Fausto di buon umore? Questo ragazzo e' proprio strano'. Fausto spiega: 'Il significato non e' non passare di qui, ma se provi a entrare trovi un metalmeccanico ivoriano che ti vocia dietro e forse ti mena con le sue manone'. Notizia triste: Gino deve mettere gli occhiali! 'Ipermetropia che non gli ha fatto sviluppare la vista da un occhio'. Tutti solidali. Cocco: 'Io uguale, li ho messi a 6 anni fino ai 30'. Discussione sull'operazione al setto nasale: Mac: 'I 5 giorni piu' brutti della mia vita. Ma poi si sta meglio'. Alessio V. a New York per la maratona del Lorenzini. 'Scusate l'off topic, ma insomma io ero la'' con foto Times Square. Cocco malato: 'Sto di merda'. Adriano: 'Come fai ad ammalarti cosi' tanto?'. Cocco: 'Duenne in casa che distribuisce microbi'.",
+  "bestQuotes": [
+    {
+      "quote": "Se provi a entrare trovi un metalmeccanico ivoriano che ti vocia dietro, si incazza e forse ti mena con le sue manone",
+      "author": "Fausto Petrini",
+      "context": "Spiegazione cartello"
+    },
+    {
+      "quote": "I 5 giorni piu' brutti della mia vita. Ma poi si sta meglio",
+      "author": "Alessio Macalùso",
+      "context": "Operazione setto nasale"
+    },
+    {
+      "quote": "Il combinato disposto di un setto nasale deviato e di una duenne in casa che distribuisce microbi e virus",
+      "author": "Cosimo Nenciòni",
+      "context": "Perche' si ammala sempre"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Fausto Petrini",
+      "voto": 8.5,
+      "giudizio": "Il metalmeccanico ivoriano! 'Quando lo vedo mi viene il buonumore'. Spiegazione epica del cartello con le manone. 'Bog tegols: il poro Gino dovra' mettere gli occhiali'. 'Ipermetropia'. 'Visita dall'oculista di routine'. 'Sciacqui nasali, due volte al di''. 'Sheet, it happens'. 'Lacrime'. Padre preoccupato e ironico.",
+      "messaggi": 22,
+      "mediaGiornaliera": 3.1,
+      "highlights": [
+        "Metalmeccanico ivoriano",
+        "Occhiali Gino"
+      ],
+      "citazioneTop": "Trovi un metalmeccanico ivoriano che ti vocia dietro e ti mena con le sue manone"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 8.5,
+      "giudizio": "'Porca puttana' sugli occhiali. 'Io uguale a lui, li ho messi a 6 anni fino ai 30'. 'E' pieno il mondo di quattrocchi'. 'Avoja, sto di merda'. 'Il combinato disposto di un setto nasale deviato e di una duenne che distribuisce microbi'. 'Dovrei operarmi ma ho paura'. 'We don't fry with water' su Banca Generali. Malato ma presente.",
+      "messaggi": 18,
+      "mediaGiornaliera": 2.6,
+      "highlights": [
+        "Solidarieta' Gino",
+        "Paura operazione"
+      ],
+      "citazioneTop": "Una duenne in casa che distribuisce microbi e virus"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 8.0,
+      "giudizio": "'E per questo hai buone possibilita' di divenire leader'. 'C'e' RoboCop con la manona nera'. A New York! 'Scusate l'off topic, ma insomma io ero la'' - foto Times Square. 'Sono a New York perche' il Lorenzini era qua a fare la maratona'. Sull'operazione: 'Sono incazzato nero che l'ho fatto cosi' tardi'. Viaggiatore e testimonial.",
+      "messaggi": 20,
+      "mediaGiornaliera": 2.9,
+      "highlights": [
+        "New York",
+        "Esperienza operazione"
+      ],
+      "citazioneTop": "Scusate l'off topic, ma insomma io ero la'"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 8.0,
+      "giudizio": "'Esatto'. 'Probabile prossimo lider'. 'Bravi tutti ragazzi mi mettete in difficolta''. 'E che sara' mai, li abbiamo portati tutti'. 'Operazione: i 5 giorni piu' brutti della mia vita. Ma poi si sta meglio. Ho parlato'. 'Io andai a scuola in pantofole una volta'. 'It happens'. Solidale e esperto di nasi.",
+      "messaggi": 16,
+      "mediaGiornaliera": 2.3,
+      "highlights": [
+        "Esperienza operazione",
+        "Pantofole a scuola"
+      ],
+      "citazioneTop": "I 5 giorni piu' brutti della mia vita. Ma poi si sta meglio"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 7.5,
+      "giudizio": "'Perche' questo cartello mette Fausto di buon umore? Questo ragazzo e' proprio strano'. 'Mi spiace, in un attimo li togliera' e sara' perfetto' su Gino. Storia degli occhiali: 'Messi in seconda elementare, mai messi, rimessi, operazione 2016'. 'Come fai ad ammalarti cosi' tanto?'. 'Oppure smettere di fumare'. 'Top of the pop corn!'. Perplesso e medico.",
+      "messaggi": 14,
+      "mediaGiornaliera": 2.0,
+      "highlights": [
+        "Perplessita' cartello",
+        "Storia occhiali"
+      ],
+      "citazioneTop": "Questo ragazzo e' proprio strano"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 7.0,
+      "giudizio": "'Non sono l'unico ad averlo pensato' sul lider. 'Grazie! Siamo tutti bravi! Soprattutto Pasquale'. 'Porca miseria, meno male l'avete scoperto presto' su Gino. 'Io mai messi' gli occhiali. 'Ma grandissimo! Che spettacolo' su New York. Presente e solidale.",
+      "messaggi": 10,
+      "mediaGiornaliera": 1.4,
+      "highlights": [
+        "Commento lider",
+        "Solidarieta' Gino"
+      ],
+      "citazioneTop": "Siamo tutti bravi! Soprattutto Pasquale"
+    }
+  ],
+  "awards": {
+    "mvp": "Fausto Petrini",
+    "comico": "Cosimo Nenciòni",
+    "cuore": "Alessio Macalùso",
+    "fantasma": null
+  }
+}

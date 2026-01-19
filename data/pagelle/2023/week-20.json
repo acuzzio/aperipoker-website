@@ -1,0 +1,109 @@
+{
+  "anno": 2023,
+  "settimana": 20,
+  "startDate": "2023-05-15",
+  "endDate": "2023-05-21",
+  "stats": {
+    "totalMessages": 62,
+    "activeMembers": 6,
+    "avgPerMember": 10.3
+  },
+  "riassunto": "Settimana della cena al Casato e degli untori! Cocco bloccato in galleria per Milano ('very big late'). Cena fatta mercoledi 17. Adriano il giorno dopo: 'Siete degli untori del cazzo' (gola irritata). 'Deve essere la forchettona sugosa intingolata di bacilli' di Fausto. Disastro per un conoscente (Andrea Bandini). Alessio V. esausto: 'Non ce la fo piu a sta qua senza poter tornare'. Nessuna foto della cena perché 'siamo rincoglioniti ormai'.",
+  "bestQuotes": [
+    {
+      "quote": "Siete degli untori del cazzo",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Dopo la cena al Casato"
+    },
+    {
+      "quote": "Lui è antipatico e invadente come una diarrea in un letto matrimoniale condiviso con un estraneo, ma non se lo meritava.",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Su Andrea Bandini"
+    },
+    {
+      "quote": "Non ci s'ha. Perché siamo rincoglioniti ormai",
+      "author": "Cosimo Nenciòni",
+      "context": "Sulla foto della cena mancante"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 8.5,
+      "giudizio": "'Siete degli untori del cazzo'. Teoria della 'forchettona sugosa intingolata di bacilli'. Gioca a tennis nonostante la gola. 'Antipatico come una diarrea in un letto condiviso con un estraneo'. Poesia pura.",
+      "messaggi": 22,
+      "mediaGiornaliera": 3.1,
+      "highlights": [
+        "Accusa untori",
+        "Metafora diarrea memorabile"
+      ],
+      "citazioneTop": "Lui è antipatico e invadente come una diarrea in un letto matrimoniale condiviso con un estraneo"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 8.0,
+      "giudizio": "Bloccato in galleria per Milano: 'È la situa peggiore'. 'Siamo rincoglioniti ormai' per la foto mancante. 'Io lo odio pero non se lo meritava' su Bandini. Solidarieta con Alessio V. bloccato in USA.",
+      "messaggi": 14,
+      "mediaGiornaliera": 2.0,
+      "highlights": [
+        "Disavventura treno",
+        "Solidarieta con Alessio V."
+      ],
+      "citazioneTop": "Si capisce. Non ha niente di sano questa cosa"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 7.0,
+      "giudizio": "'Domani difficilmente riusciro per le 19.15'. 'Forse con Fede'. 'Cacca, tosse, febbre, altro?' ad Adriano. Presente alla cena e solidale dopo.",
+      "messaggi": 8,
+      "mediaGiornaliera": 1.1,
+      "highlights": [
+        "Partecipazione cena",
+        "Check su Adriano"
+      ],
+      "citazioneTop": "Cacca, tosse, febbre, altro?"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 7.0,
+      "giudizio": "'Stamattina mi sono svegliato incazzato nero. Non ce la fo piu a sta qua senza poter tornare'. 'Grazie del pensiero, e aggiungo dio cane'. Momento difficile dalla lontananza.",
+      "messaggi": 8,
+      "mediaGiornaliera": 1.1,
+      "highlights": [
+        "Sfogo sulla lontananza",
+        "Ringraziamento per il pensiero"
+      ],
+      "citazioneTop": "Non ce la fo più a sta qua senza poter tornare"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 7.0,
+      "giudizio": "'Andiamo insieme da Siena?' Prende la macchina. 'Gli faccio un'offerta' su Bandini. 'Persona che lavora col cuore'. Solidale e pratico.",
+      "messaggi": 8,
+      "mediaGiornaliera": 1.1,
+      "highlights": [
+        "Organizzazione viaggio",
+        "Solidarieta con Bandini"
+      ],
+      "citazioneTop": "Persona che lavora col cuore"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 6.5,
+      "giudizio": "'Te l'avevano detto loro di stare a casa' a Cocco. 'Allora non hai una sega' ad Adriano. Presente ma con la gola intingolata.",
+      "messaggi": 4,
+      "mediaGiornaliera": 0.6,
+      "highlights": [
+        "Battuta sul treno",
+        "Diagnosi ad Adriano"
+      ],
+      "citazioneTop": "Allora non hai una sega"
+    }
+  ],
+  "awards": {
+    "mvp": "Adriano Sergio Lorenzo Facchini",
+    "comico": "Cosimo Nenciòni",
+    "cuore": "Alessio Valentini",
+    "fantasma": null
+  }
+}

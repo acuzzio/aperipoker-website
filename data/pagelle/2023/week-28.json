@@ -1,0 +1,109 @@
+{
+  "anno": 2023,
+  "settimana": 28,
+  "startDate": "2023-07-10",
+  "endDate": "2023-07-16",
+  "stats": {
+    "totalMessages": 120,
+    "activeMembers": 6,
+    "avgPerMember": 20.0
+  },
+  "riassunto": "Settimana del caccavomito di Cocco e della lite per l'aria condizionata a Malta! Cocco sta malissimo: 'Ho avuto il caccavomito... febbre a 38.5... ho avuto la geniale idea di andare a giocare a tennis alle 12.30 co 40 gradi. Ho rischiato di morire'. Giacomo festeggia i 50 anni dei genitori in Australia: pizza a 30 dollari. Giovanni fa il bagno nell'oceano con piumino! Alessio V. primo giorno in ufficio della sua vita. Mac a Malta: lite per aria condizionata alle 4 di notte. 'Mi sono svegliato in un bagno di sudore tipo sacra sindone'. Fausto a Stia con bagno nell'Arno.",
+  "bestQuotes": [
+    {
+      "quote": "Ho avuto il caccavomito... Ho avuto la geniale idea di andare a giocare a tennis alle 12.30 co 40 gradi. Ho rischiato di morire",
+      "author": "Cosimo Nenciòni",
+      "context": "Sfogo sulla malattia"
+    },
+    {
+      "quote": "Mi sono svegliato in un bagno di sudore tipo sacra sindone",
+      "author": "Alessio Macalùso",
+      "context": "Lite aria condizionata a Malta"
+    },
+    {
+      "quote": "Se rinasco voglio rinascere Giacomo Dolfi",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Invidia per il viaggio"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 8.5,
+      "giudizio": "Festeggia 50 anni dei genitori in Australia: pizza a 30 dollari. Giovanni fa bagno nell'oceano col piumino! 'L'onda fatale da dietro l'ha buttato in terra'. Clima assurdo: 'Ieri diluviato, mattina freschino, pomeriggio sole pieno'. 'Oggi abbiamo superato un camion con 64 gomme'. Cronista australiano.",
+      "messaggi": 22,
+      "mediaGiornaliera": 3.1,
+      "highlights": [
+        "50 anni genitori",
+        "Giovanni col piumino"
+      ],
+      "citazioneTop": "Oggi abbiamo superato un camion che aveva solo 64 gomme"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 8.5,
+      "giudizio": "A Malta! Racconto epico della lite per l'aria condizionata: 'La sera ha acceso l'aria a 27 gradi, ha girato le alette verso il suo letto'. 'Mi sono svegliato in un bagno di sudore tipo sacra sindone'. 'Litigato per l'aria alle 4 del mattino'. 'Per lo più degrado e posti bellissimi'. Cronista di vacanze.",
+      "messaggi": 26,
+      "mediaGiornaliera": 3.7,
+      "highlights": [
+        "Malta",
+        "Lite aria condizionata"
+      ],
+      "citazioneTop": "Mi sono svegliato in un bagno di sudore tipo sacra sindone"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 8.0,
+      "giudizio": "Malato ma presente! 'Vomito diarrea e febbre a 38, fuori 40 gradi, è un mix faboloso'. Tennis col caccavomito: 'A na certa mi ha fatto ace Lazzaro. Ho visto la morte in faccia'. 'Alla fine il fisico umano è più resiliente del previsto'. 'Tu volevi iffreddo e lei iccaldo?'. Guerriero.",
+      "messaggi": 18,
+      "mediaGiornaliera": 2.6,
+      "highlights": [
+        "Tennis col caccavomito",
+        "Commenti Malta"
+      ],
+      "citazioneTop": "Ho visto la morte in faccia"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 7.5,
+      "giudizio": "Primo giorno in ufficio della sua vita! 'Ufficio all'americana'. 'È un posto dove le startup affittano uffici'. 'Cmq sei fisicato' - 'Ma so una sega, le 15 foto con la buzza non ve le mando'. 'Ne stanno succedendo troppe'. Momento intenso.",
+      "messaggi": 18,
+      "mediaGiornaliera": 2.6,
+      "highlights": [
+        "Primo giorno ufficio",
+        "Sogno americano"
+      ],
+      "citazioneTop": "Oggi primo giorno in ufficio della mia vita"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 7.5,
+      "giudizio": "'Qualcuno ha uno scooter 50 da dare in prestito? Per un paio di mesi'. 'Foto di famiglia bellissima'. 'Stasera danno Fracchia la belva umana, aspetta fino a domani' a Cocco. 'Se rinasco voglio rinascere Giacomo Dolfi'. 'Foto spiagge? Fiche? Buchi di culo stretti ed elastici?'. Vulcanico.",
+      "messaggi": 18,
+      "mediaGiornaliera": 2.6,
+      "highlights": [
+        "Ricerca scooter",
+        "Invidia Giacomo"
+      ],
+      "citazioneTop": "Se rinasco voglio rinascere Giacomo Dolfi"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 7.0,
+      "giudizio": "A Stia da Elena Petri: 'Stati davvero davvero bene, 0 stress, grandi serate sotto le stelle'. 'Fato bagno in fiume Arno'. 'Fava di lesso' a Cocco. 'Ahhhhh il sogno americano... Cmq sei fisicato'. 'O è perché è incinta, o è perché è stronza' sulla lite di Mac. Vacanziero.",
+      "messaggi": 12,
+      "mediaGiornaliera": 1.7,
+      "highlights": [
+        "Vacanza Stia",
+        "Battuta incinta/stronza"
+      ],
+      "citazioneTop": "O è perché è incinta, o è perché è stronza"
+    }
+  ],
+  "awards": {
+    "mvp": "Alessio Macalùso",
+    "comico": "Cosimo Nenciòni",
+    "cuore": "Giacomo Dolfi",
+    "fantasma": null
+  }
+}

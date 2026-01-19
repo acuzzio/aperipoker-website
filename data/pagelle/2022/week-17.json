@@ -1,0 +1,119 @@
+{
+  "anno": 2022,
+  "settimana": 17,
+  "startDate": "2022-04-25",
+  "endDate": "2022-05-01",
+  "stats": {
+    "totalMessages": 65,
+    "activeMembers": 6,
+    "avgPerMember": 10.8
+  },
+  "riassunto": "Buona Liberazione! Alessio V. e' ancora in Italia, mangia troppo ('se non smetto di mangiare moio'), l'ambasciata non risponde e lui ha l'aereo lunedi'. Adriano passa da positivo a negativo in 6 giorni ('magicamente'). Cosimo condivide foto della 'riproduzione dei Nencioni'. Fausto propone BeReal come app di gruppo. Si parla di social democrazia e tennisti russi.",
+  "bestQuotes": [
+    {
+      "quote": "Io se non smetto di mangiare moio",
+      "author": "Alessio Valentini",
+      "context": "Sul suo periodo italiano"
+    },
+    {
+      "quote": "Non c'e' sconfitta nel cuore di chi lotta",
+      "author": "Fausto Petrini",
+      "context": "Incoraggiamento al mangiare"
+    },
+    {
+      "quote": "Questi maiali mi hanno fatto aspettare fino all'ultimissimo giorno. Figli di grandissime maiale",
+      "author": "Alessio Valentini",
+      "context": "Sull'ambasciata e il visto"
+    },
+    {
+      "quote": "Muffy e' piu' di la' che di qua'",
+      "author": "Cosimo Nenciòni",
+      "context": "Sul cane dei genitori"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Fausto Petrini",
+      "voto": 7.5,
+      "giudizio": "Filosofo del 25 aprile ('Non c'e' sconfitta nel cuore di chi lotta'), propone BeReal, condivide articoli sulla social democrazia. Giulio ha la febbre ma e' negativo. Sempre sul pezzo con contenuti.",
+      "messaggi": 19,
+      "mediaGiornaliera": 2.7,
+      "highlights": [
+        "Ha proposto BeReal",
+        "Articolo sulla social democrazia",
+        "Filosofia del 25 aprile"
+      ],
+      "citazioneTop": "Non c'e' sconfitta nel cuore di chi lotta"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 7.5,
+      "giudizio": "Da positivo a negativo in 6 giorni, record personale. Ha rassicurato Alessio e Pasquale sul contagio. 'Figghi di bottana' in solidarieta' con Alessio per il visto. Condivide foto del pranzo.",
+      "messaggi": 19,
+      "mediaGiornaliera": 2.7,
+      "highlights": [
+        "Guarito in 6 giorni",
+        "Ha rassicurato sul contagio",
+        "Solidarieta' col visto"
+      ],
+      "citazioneTop": "La mia positivita' e' durata 6 giorni"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 8.0,
+      "giudizio": "Dramma del visto: l'ambasciata non risponde, l'aereo e' lunedi'. 'Questi maiali mi hanno fatto aspettare fino all'ultimissimo giorno.' Negativo ai tamponi, beve troppo, mangia troppo. Vita da vacanza.",
+      "messaggi": 12,
+      "mediaGiornaliera": 1.7,
+      "highlights": [
+        "Dramma del visto risolto all'ultimo",
+        "Mangia troppo",
+        "Sempre negativo"
+      ],
+      "citazioneTop": "Questi maiali mi hanno fatto aspettare fino all'ultimissimo giorno"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 7.0,
+      "giudizio": "Buona Liberazione con pugno nero. La riproduzione dei Nencioni in foto. Muffy sta male. Ha commentato i verbi di Adriano ('sei bravissimo a coniugare i verbi'). Sempre ironico.",
+      "messaggi": 6,
+      "mediaGiornaliera": 0.9,
+      "highlights": [
+        "Auguri del 25 aprile",
+        "Foto dei Nencioni",
+        "Muffy in difficolta'"
+      ],
+      "citazioneTop": "Muffy e' piu' di la' che di qua'"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 6.0,
+      "giudizio": "Chiede come stanno tutti, non fa tampone perche' sta bene, chiede a Fausto di provare BeReal per loro. Pragmatico come sempre.",
+      "messaggi": 5,
+      "mediaGiornaliera": 0.7,
+      "highlights": [
+        "Ha chiesto come stanno tutti",
+        "Non fa tampone",
+        "Ha delegato BeReal a Fausto"
+      ],
+      "citazioneTop": "Puoi provare per noi?"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 6.0,
+      "giudizio": "Quattro messaggi ma buoni: 'Non ti fermare!!!' ad Alessio che mangia, ha dormito maluccio, saluta come 'Pasqua'. Il Lider benedice il mangiare.",
+      "messaggi": 4,
+      "mediaGiornaliera": 0.6,
+      "highlights": [
+        "Ha incoraggiato a mangiare",
+        "Ha dormito maluccio"
+      ],
+      "citazioneTop": "Non ti fermare!!!"
+    }
+  ],
+  "awards": {
+    "mvp": "Alessio Valentini - Ha risolto il dramma del visto all'ultimo",
+    "comico": "Cosimo Nenciòni - 'Muffy e' piu' di la' che di qua'",
+    "cuore": "Adriano Sergio Lorenzo Facchini - Ha rassicurato tutti sul contagio",
+    "fantasma": "Nessuno - Tutti presenti"
+  }
+}

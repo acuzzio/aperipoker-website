@@ -1,0 +1,120 @@
+{
+  "anno": 2022,
+  "settimana": 4,
+  "startDate": "2022-01-24",
+  "endDate": "2022-01-30",
+  "stats": {
+    "totalMessages": 109,
+    "activeMembers": 6,
+    "avgPerMember": 18.2
+  },
+  "riassunto": "Settimana politica: elezione del Presidente della Repubblica. Il gruppo si divide tra Belloni, Casini e Draghi. Cosimo aveva previsto tutto ('Ho sbagliato mestiere. Dovevo fare l'analista politico'). Nel frattempo le mascherine creano un dibattito filosofico sulle donne ('guardi solo gli occhi e ti immagini sempre gran fiche, poi so dei cessi'). Il Covid continua a colpire: sorella e nipote di Alessio Mac, Pietro e Giovanni di Giacomo, mentre Fausto finalmente e' negativo.",
+  "bestQuotes": [
+    {
+      "quote": "I nostri amici muslim avevano capito molto tempo fa che le donne sono di due tipi, belle o brutte",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Inizio di una riflessione filosofica sulle mascherine"
+    },
+    {
+      "quote": "Ci puzza la fregna. Come direbbono a Frosinone",
+      "author": "Cosimo Nenciòni",
+      "context": "Commento su Concita De Gregorio"
+    },
+    {
+      "quote": "Ho sbagliato mestiere. Dovevo fare l'analista politico. Ho sbagliato carriera.",
+      "author": "Cosimo Nenciòni",
+      "context": "Dopo aver previsto correttamente l'esito del Quirinale"
+    },
+    {
+      "quote": "Se ne vada, menagramo di un menagramo",
+      "author": "Alessio Valentini",
+      "context": "Citazione Fantozzi sul bis di Mattarella"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Fausto Petrini",
+      "voto": 8.5,
+      "giudizio": "Analista politico, filosofo delle mascherine e fan di Concita De Gregorio. 'Ragazzi lo ridico: io tromberei tanto la Concita' e' una dichiarazione coraggiosa. Ha previsto Casini, ha sperato Belloni, ha accettato Mattarella. Finalmente negativo!",
+      "messaggi": 32,
+      "mediaGiornaliera": 4.6,
+      "highlights": [
+        "Analisi politiche quotidiane",
+        "La dichiarazione su Concita De Gregorio",
+        "Finalmente negativo al Covid"
+      ],
+      "citazioneTop": "Ragazzi lo ridico: io tromberei tanto la concita digregorio"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 7.5,
+      "giudizio": "Ha gestito il Covid in famiglia con zen ('Solo febbre per ora'). Ha corretto Adriano sui musulmani con eleganza. Ha tirato fuori il video di Fantozzi per spiegare il Quirinale. Sempre lucido anche nel caos.",
+      "messaggi": 19,
+      "mediaGiornaliera": 2.7,
+      "highlights": [
+        "Ha gestito il Covid familiare con calma",
+        "Ha spiegato il Quirinale con Fantozzi",
+        "Ha corretto le teorie sui musulmani"
+      ],
+      "citazioneTop": "I musulmani mica le coprono per farle sembrare piu' fiche"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 7.0,
+      "giudizio": "Ha aperto il dibattito sulle mascherine e le donne con una teoria discutibile ma che ha generato discussione. Sicuro che il Presidente sara' Draghi (spoiler: no). Sempre in giro per ospedali toscani.",
+      "messaggi": 18,
+      "mediaGiornaliera": 2.6,
+      "highlights": [
+        "Ha aperto il dibattito sulle mascherine",
+        "Previsioni sbagliate sul Quirinale",
+        "Trovato in vari ospedali della Toscana"
+      ],
+      "citazioneTop": "E' ovvio che il presidente della repubblica sara' draghi"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 8.0,
+      "giudizio": "L'analista politico che non sapeva di essere. Ha previsto tutto sul Quirinale ('I nodi vengono sempre al pettine'). Il commento su Concita ('Ci puzza la fregna') e' brutale ma ha fatto ridere tutti. Al Mayer per Luna ma sempre sul pezzo.",
+      "messaggi": 15,
+      "mediaGiornaliera": 2.1,
+      "highlights": [
+        "Ha previsto l'esito del Quirinale",
+        "Commento memorabile su Concita",
+        "Al Mayer per la visita di Luna"
+      ],
+      "citazioneTop": "Ci puzza la fregna. Come direbbono a Frosinone"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 7.0,
+      "giudizio": "Il Lider gestisce Pietro positivo con pragmatismo. Partecipa al dibattito politico ('Belloni') e scherza sul trovare Adriano in ospedale. 'Ospedale = dove sara' quel minchione?' e' una perla.",
+      "messaggi": 14,
+      "mediaGiornaliera": 2.0,
+      "highlights": [
+        "Ha gestito Pietro positivo",
+        "Ha partecipato al dibattito sul Quirinale",
+        "La battuta su Adriano in ospedale"
+      ],
+      "citazioneTop": "Ospedale = dove sara' quel minchione?"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 7.0,
+      "giudizio": "Pochi messaggi ma incisivi. Ha confermato la teoria delle mascherine ('Il nostro cervello riempie sempre il vuoto con fiche esagerate'). La citazione Fantozzi ('Se ne vada, menagramo') e' perfetta per Mattarella bis.",
+      "messaggi": 11,
+      "mediaGiornaliera": 1.6,
+      "highlights": [
+        "Ha elaborato la teoria delle mascherine",
+        "Citazione Fantozzi perfetta",
+        "Presente sui temi importanti"
+      ],
+      "citazioneTop": "Se ne vada, menagramo di un menagramo"
+    }
+  ],
+  "awards": {
+    "mvp": "Cosimo Nenciòni - Analista politico e commentatore senza filtri",
+    "comico": "Fausto Petrini - La dichiarazione su Concita De Gregorio",
+    "cuore": "Alessio Macalùso - Ha gestito il Covid familiare con calma zen",
+    "fantasma": "Nessuno - Tutti presenti e combattivi"
+  }
+}

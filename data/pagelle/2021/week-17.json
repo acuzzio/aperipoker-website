@@ -1,0 +1,103 @@
+{
+  "anno": 2021,
+  "settimana": 17,
+  "startDate": "2021-04-26",
+  "endDate": "2021-05-02",
+  "stats": {
+    "totalMessages": 54,
+    "activeMembers": 6,
+    "avgPerMember": 9.0
+  },
+  "riassunto": "Una settimana di ordinaria follia con 54 messaggi. Fausto in testa alla classifica.",
+  "bestQuotes": [
+    {
+      "quote": "Dove? A noi farebbe parecchio piacere, all'aperto, tra l'altro prossimo fine è uno dei pochi in cui non ho scuola...",
+      "author": "Fausto Petrini",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Avete notizie del babbo di Nadia? Ho visto che ha messo una foto col su babbo",
+      "author": "Cosimo Nenciòni",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Oppure : scoperti antichissimi dolmen di merda appartenenti al Cetaceo",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Momento memorabile della settimana"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Fausto Petrini",
+      "voto": 7.1,
+      "giudizio": "Ha fatto il suo, tra proposte e organizzazione. Qualcuno l'ha pure ascoltato.",
+      "messaggi": 13,
+      "mediaGiornaliera": 1.9,
+      "highlights": [
+        "Tra i piu' attivi con 13 messaggi"
+      ],
+      "citazioneTop": "Dove? A noi farebbe parecchio piacere, all'aperto, tra l'altro prossimo fine è uno dei pochi in cui non ho scuola..."
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 6.5,
+      "giudizio": "Non ha brillato, ma neanche deluso. Il suo 'mah' valeva mille parole.",
+      "messaggi": 10,
+      "mediaGiornaliera": 1.4,
+      "highlights": [
+        "Tra i piu' attivi con 10 messaggi"
+      ],
+      "citazioneTop": "Avete notizie del babbo di Nadia? Ho visto che ha messo una foto col su babbo"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 6.2,
+      "giudizio": "Presente nonostante i fusi orari avversi. Sempre affidabile.",
+      "messaggi": 10,
+      "mediaGiornaliera": 1.4,
+      "highlights": [
+        "Tra i piu' attivi con 10 messaggi"
+      ],
+      "citazioneTop": ""
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 6.7,
+      "giudizio": "Il solito Adriano: affidabile, verboso, immancabile.",
+      "messaggi": 9,
+      "mediaGiornaliera": 1.3,
+      "highlights": [
+        "Tra i piu' attivi con 9 messaggi"
+      ],
+      "citazioneTop": "Oppure : scoperti antichissimi dolmen di merda appartenenti al Cetaceo"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 5.6,
+      "giudizio": "Presente con il suo solito stile: curioso, ironico, pungente.",
+      "messaggi": 7,
+      "mediaGiornaliera": 1.0,
+      "highlights": [
+        "Ha contribuito con 7 messaggi"
+      ],
+      "citazioneTop": "Se proprio devo, li porto!"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 5.7,
+      "giudizio": "Contributo misurato, come nel suo stile. Ogni parola al suo posto.",
+      "messaggi": 5,
+      "mediaGiornaliera": 0.7,
+      "highlights": [
+        "Ha contribuito con 5 messaggi"
+      ],
+      "citazioneTop": ""
+    }
+  ],
+  "awards": {
+    "mvp": "Fausto Petrini - Miglior voto della settimana con 7.1",
+    "comico": "Adriano Sergio Lorenzo Facchini - Il piu' divertente della settimana",
+    "cuore": "Adriano Sergio Lorenzo Facchini - Presenza equilibrata e costante",
+    "fantasma": "Alessio Macalùso - Il piu' silenzioso con 5 messaggi"
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "anno": 2021,
+  "settimana": 46,
+  "startDate": "2021-11-15",
+  "endDate": "2021-11-21",
+  "stats": {
+    "totalMessages": 59,
+    "activeMembers": 6,
+    "avgPerMember": 9.8
+  },
+  "riassunto": "Settimana 46 con 59 messaggi. Fausto guida le danze con 24 contributi.",
+  "bestQuotes": [
+    {
+      "quote": "https://www.ilpost.it/?blog_post=il-download-di-sergio-mattarella",
+      "author": "Fausto Petrini",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Ma quello nappone che inquadrano sugli spalti con la mascherina chi è?",
+      "author": "Fausto Petrini",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Cosa starebbe a significare?",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Momento memorabile della settimana"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Fausto Petrini",
+      "voto": 8.6,
+      "giudizio": "Entusiasmo alle stelle. Ha provato a organizzare 5 uscite, ne sono andate in porto 0.",
+      "messaggi": 24,
+      "mediaGiornaliera": 3.4,
+      "highlights": [
+        "Ha dominato la conversazione con il 41% dei messaggi"
+      ],
+      "citazioneTop": "https://www.ilpost.it/?blog_post=il-download-di-sergio-mattarella"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 6.2,
+      "giudizio": "Il suo 'Credo' di meta' settimana valeva un trattato filosofico.",
+      "messaggi": 9,
+      "mediaGiornaliera": 1.3,
+      "highlights": [
+        "Tra i piu' attivi con 9 messaggi"
+      ],
+      "citazioneTop": "È un omino che ha mandato questo video nel gruppo del vespa club"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 6.8,
+      "giudizio": "Presente come sempre, non ha fatto mancare la sua voce al coro.",
+      "messaggi": 9,
+      "mediaGiornaliera": 1.3,
+      "highlights": [
+        "Tra i piu' attivi con 9 messaggi"
+      ],
+      "citazioneTop": "Cosa starebbe a significare?"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 6.0,
+      "giudizio": "Ha partecipato con il suo solito stile affettuoso e diretto.",
+      "messaggi": 8,
+      "mediaGiornaliera": 1.1,
+      "highlights": [
+        "Ha contribuito con 8 messaggi"
+      ],
+      "citazioneTop": ""
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 6.2,
+      "giudizio": "Contributo equilibrato del patriarca benevolo.",
+      "messaggi": 5,
+      "mediaGiornaliera": 0.7,
+      "highlights": [
+        "Ha contribuito con 5 messaggi"
+      ],
+      "citazioneTop": ""
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 4.8,
+      "giudizio": "Il Provocatore si e' preso una pausa. Nessuno da smontare?",
+      "messaggi": 4,
+      "mediaGiornaliera": 0.6,
+      "highlights": [
+        "Ha contribuito con 4 messaggi"
+      ],
+      "citazioneTop": ""
+    }
+  ],
+  "awards": {
+    "mvp": "Fausto Petrini - Miglior voto della settimana con 8.6",
+    "comico": "Alessio Valentini - Il piu' divertente della settimana",
+    "cuore": "Alessio Macalùso - Presenza equilibrata e costante",
+    "fantasma": "Cosimo Nenciòni - Il piu' silenzioso con 4 messaggi"
+  }
+}

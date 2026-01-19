@@ -1,0 +1,108 @@
+{
+  "anno": 2020,
+  "settimana": 37,
+  "startDate": "2020-09-07",
+  "endDate": "2020-09-13",
+  "stats": {
+    "totalMessages": 67,
+    "activeMembers": 6,
+    "avgPerMember": 11.2
+  },
+  "riassunto": "Settimana normale con 67 messaggi e 6 membri attivi con le restrizioni autunnali. Si è parlato principalmente di politica. Il gruppo ha mantenuto il suo ritmo consueto tra battute e organizzazione di uscite.",
+  "bestQuotes": [
+    {
+      "quote": "Ma per guidare le ambulanze come si deve fare?",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Nel frattempo a Siena arriva Calí",
+      "author": "Giacomo Dolfi",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "La sua faccia alla fine dell'acuto...",
+      "author": "Fausto Petrini",
+      "context": "Momento memorabile della settimana"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Alessio Valentini",
+      "voto": 8.5,
+      "giudizio": "Il Giramondo ha scritto da qualche angolo del mondo con entusiasmo contagioso.",
+      "messaggi": 19,
+      "mediaGiornaliera": 3.8,
+      "highlights": [
+        "Buona partecipazione alle discussioni",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "oggi raga c'e' il cielo giallo"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 7.5,
+      "giudizio": "Fiume in piena come sempre, ma questa settimana i suoi monologhi avevano un senso. Miracolo natalizio?",
+      "messaggi": 21,
+      "mediaGiornaliera": 7.0,
+      "highlights": [
+        "Buona partecipazione alle discussioni",
+        "Presente per buona parte della settimana"
+      ],
+      "citazioneTop": "E che prima vengano torturati a dovere"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 6.5,
+      "giudizio": "Ha contribuito con il suo stile minimalista. Efficace, anche se non memorabile.",
+      "messaggi": 7,
+      "mediaGiornaliera": 2.3,
+      "highlights": [
+        "Presente ma non dominante",
+        "Presente per buona parte della settimana"
+      ],
+      "citazioneTop": "Fat Luciano.. vero fenomeno"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 6.5,
+      "giudizio": "Presente senza eccessi. L'equilibratore fa il suo lavoro in silenzio.",
+      "messaggi": 7,
+      "mediaGiornaliera": 2.3,
+      "highlights": [
+        "Presente ma non dominante",
+        "Presente per buona parte della settimana"
+      ],
+      "citazioneTop": null
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 6.5,
+      "giudizio": "Presente come un patriarca benevolo: osserva, ogni tanto commenta, sempre con ironia.",
+      "messaggi": 8,
+      "mediaGiornaliera": 4.0,
+      "highlights": [
+        "Presente ma non dominante"
+      ],
+      "citazioneTop": "Nel frattempo a Siena arriva Calí"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 6.0,
+      "giudizio": "Presente e attivo, anche se questa settimana le sue proposte hanno avuto fortuna alterna.",
+      "messaggi": 5,
+      "mediaGiornaliera": 1.7,
+      "highlights": [
+        "Interventi sporadici ma mirati",
+        "Presente per buona parte della settimana"
+      ],
+      "citazioneTop": "La sua faccia alla fine dell'acuto..."
+    }
+  ],
+  "awards": {
+    "mvp": "Alessio Valentini",
+    "comico": "Alessio Valentini",
+    "cuore": "Alessio Valentini",
+    "fantasma": "Fausto Petrini"
+  }
+}

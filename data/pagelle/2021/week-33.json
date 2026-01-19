@@ -1,0 +1,103 @@
+{
+  "anno": 2021,
+  "settimana": 33,
+  "startDate": "2021-08-16",
+  "endDate": "2021-08-22",
+  "stats": {
+    "totalMessages": 173,
+    "activeMembers": 6,
+    "avgPerMember": 28.8
+  },
+  "riassunto": "Una settimana di ordinaria follia con 173 messaggi. Cosimo in testa alla classifica.",
+  "bestQuotes": [
+    {
+      "quote": "Ci tira il cazzo o no?",
+      "author": "Fausto Petrini",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Volevo capire come funzionano queste foto che si autodistruggono.. quindi solo una persona l’ha vista?",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "festeggiare, so tornato dalle hawaii ora, hahaha",
+      "author": "Alessio Valentini",
+      "context": "Momento memorabile della settimana"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 7.5,
+      "giudizio": "Il Provocatore Raffinato in grande forma: battute secche e taglienti.",
+      "messaggi": 45,
+      "mediaGiornaliera": 6.4,
+      "highlights": [
+        "Ha dominato la conversazione con il 26% dei messaggi"
+      ],
+      "citazioneTop": "https://twitter.com/saverioraimondo/status/1427579799053258758?s=08"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 6.7,
+      "giudizio": "Contributo solido, senza eccessi. Sta bene?",
+      "messaggi": 31,
+      "mediaGiornaliera": 4.4,
+      "highlights": [
+        "Tra i piu' attivi con 31 messaggi"
+      ],
+      "citazioneTop": "Volevo capire come funzionano queste foto che si autodistruggono.. quindi solo una persona l’ha vista?"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 6.4,
+      "giudizio": "Presente nonostante i fusi orari avversi. Sempre affidabile.",
+      "messaggi": 31,
+      "mediaGiornaliera": 4.4,
+      "highlights": [
+        "Tra i piu' attivi con 31 messaggi"
+      ],
+      "citazioneTop": "festeggiare, so tornato dalle hawaii ora, hahaha"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 6.2,
+      "giudizio": "Ha partecipato senza eccessi. Il Fondatore veglia.",
+      "messaggi": 25,
+      "mediaGiornaliera": 3.6,
+      "highlights": [
+        "Ha contribuito con 25 messaggi"
+      ],
+      "citazioneTop": "Cazzo, mi dispiace poverina. Teneteci aggiornati e un abbraccio forte a tutti e tre!"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 6.0,
+      "giudizio": "Il solito Fausto: ci prova, ogni tanto ci riesce.",
+      "messaggi": 23,
+      "mediaGiornaliera": 3.3,
+      "highlights": [
+        "Ha contribuito con 23 messaggi"
+      ],
+      "citazioneTop": "Ci tira il cazzo o no?"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 6.1,
+      "giudizio": "Contributo misurato, come nel suo stile. Ogni parola al suo posto.",
+      "messaggi": 18,
+      "mediaGiornaliera": 2.6,
+      "highlights": [
+        "Ha contribuito con 18 messaggi"
+      ],
+      "citazioneTop": ""
+    }
+  ],
+  "awards": {
+    "mvp": "Cosimo Nenciòni - Miglior voto della settimana con 7.5",
+    "comico": "Alessio Macalùso - Il piu' divertente della settimana",
+    "cuore": "Adriano Sergio Lorenzo Facchini - Presenza equilibrata e costante",
+    "fantasma": null
+  }
+}

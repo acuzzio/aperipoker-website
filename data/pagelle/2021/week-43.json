@@ -1,0 +1,103 @@
+{
+  "anno": 2021,
+  "settimana": 43,
+  "startDate": "2021-10-25",
+  "endDate": "2021-10-31",
+  "stats": {
+    "totalMessages": 30,
+    "activeMembers": 6,
+    "avgPerMember": 5.0
+  },
+  "riassunto": "Settimana 43 con 30 messaggi. Adriano guida le danze con 9 contributi.",
+  "bestQuotes": [
+    {
+      "quote": "Una richiesta per fausto: non so perché mi sia venuto in mente, ma quando eravamo in interail e conoscemmo quelle maltesi, cosa successe di preciso?",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Non te lo ricordi perchè non successe uno stracazzo",
+      "author": "Fausto Petrini",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Ahahah la compagna Luna",
+      "author": "Giacomo Dolfi",
+      "context": "Momento memorabile della settimana"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 8.3,
+      "giudizio": "Il Re della Chat ha regnato con mano ferma e tastiera fumante.",
+      "messaggi": 9,
+      "mediaGiornaliera": 1.3,
+      "highlights": [
+        "Ha dominato la conversazione con il 30% dei messaggi"
+      ],
+      "citazioneTop": "Una richiesta per fausto: non so perché mi sia venuto in mente, ma quando eravamo in interail e conoscemmo quelle maltesi, cosa successe di preciso?"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 7.6,
+      "giudizio": "W il bollore! Fausto on fire questa settimana, peccato per gli altri.",
+      "messaggi": 8,
+      "mediaGiornaliera": 1.1,
+      "highlights": [
+        "Ha dominato la conversazione con il 27% dei messaggi"
+      ],
+      "citazioneTop": "Non te lo ricordi perchè non successe uno stracazzo"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 6.0,
+      "giudizio": "Presente con il suo solito stile minimale ma incisivo.",
+      "messaggi": 5,
+      "mediaGiornaliera": 0.7,
+      "highlights": [
+        "Tra i piu' attivi con 5 messaggi"
+      ],
+      "citazioneTop": ""
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 5.6,
+      "giudizio": "Presente nonostante i fusi orari avversi. Sempre affidabile.",
+      "messaggi": 4,
+      "mediaGiornaliera": 0.6,
+      "highlights": [
+        "Ha contribuito con 4 messaggi"
+      ],
+      "citazioneTop": ""
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 5.2,
+      "giudizio": "Contributo misurato, come nel suo stile. Ogni parola al suo posto.",
+      "messaggi": 3,
+      "mediaGiornaliera": 0.4,
+      "highlights": [
+        "Ha contribuito con 3 messaggi"
+      ],
+      "citazioneTop": ""
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 5.9,
+      "giudizio": "Il Lider si e' eclissato. Chi guida il gruppo?",
+      "messaggi": 1,
+      "mediaGiornaliera": 0.1,
+      "highlights": [
+        "Ha contribuito con 1 messaggi"
+      ],
+      "citazioneTop": "Ahahah la compagna Luna"
+    }
+  ],
+  "awards": {
+    "mvp": "Adriano Sergio Lorenzo Facchini - Miglior voto della settimana con 8.3",
+    "comico": "Giacomo Dolfi - Il piu' divertente della settimana",
+    "cuore": "Cosimo Nenciòni - Presenza equilibrata e costante",
+    "fantasma": "Giacomo Dolfi - Il piu' silenzioso con 1 messaggi"
+  }
+}

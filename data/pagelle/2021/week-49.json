@@ -1,0 +1,104 @@
+{
+  "anno": 2021,
+  "settimana": 49,
+  "startDate": "2021-12-06",
+  "endDate": "2021-12-12",
+  "stats": {
+    "totalMessages": 92,
+    "activeMembers": 6,
+    "avgPerMember": 15.3
+  },
+  "riassunto": "Settimana 49 con 92 messaggi. Fausto guida le danze con 37 contributi.",
+  "bestQuotes": [
+    {
+      "quote": "Settimana prossima che torna Adri si fa una cenetta?",
+      "author": "Giacomo Dolfi",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Ahahaha un video di pregevole fattura",
+      "author": "Alessio Macalùso",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "...ne manca di bricciche.... ma cazzo vuol dire?",
+      "author": "Fausto Petrini",
+      "context": "Momento memorabile della settimana"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Fausto Petrini",
+      "voto": 8.6,
+      "giudizio": "W il bollore! Fausto on fire questa settimana, peccato per gli altri.",
+      "messaggi": 37,
+      "mediaGiornaliera": 5.3,
+      "highlights": [
+        "Ha dominato la conversazione con il 40% dei messaggi",
+        "Ha stimolato la discussione con molte domande"
+      ],
+      "citazioneTop": "...ne manca di bricciche.... ma cazzo vuol dire?"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 6.6,
+      "giudizio": "Contributo misurato, come nel suo stile. Ogni parola al suo posto.",
+      "messaggi": 16,
+      "mediaGiornaliera": 2.3,
+      "highlights": [
+        "Tra i piu' attivi con 16 messaggi"
+      ],
+      "citazioneTop": "Ahahaha un video di pregevole fattura"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 5.9,
+      "giudizio": "Contributo equilibrato, con qualche perla sarcastica.",
+      "messaggi": 13,
+      "mediaGiornaliera": 1.9,
+      "highlights": [
+        "Ha contribuito con 13 messaggi"
+      ],
+      "citazioneTop": "https://www.facebook.com/100044557530969/posts/443892570439324/?d=n"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 6.6,
+      "giudizio": "Presente come sempre, non ha fatto mancare la sua voce al coro.",
+      "messaggi": 12,
+      "mediaGiornaliera": 1.7,
+      "highlights": [
+        "Ha contribuito con 12 messaggi"
+      ],
+      "citazioneTop": "Qualcuno mi può segnalare un sito di informazione serio? Anche non in italiano.."
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 6.5,
+      "giudizio": "Ha partecipato senza eccessi. Il Fondatore veglia.",
+      "messaggi": 8,
+      "mediaGiornaliera": 1.1,
+      "highlights": [
+        "Ha contribuito con 8 messaggi"
+      ],
+      "citazioneTop": "Settimana prossima che torna Adri si fa una cenetta?"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 5.8,
+      "giudizio": "Assente o quasi. Forse cercava connessione WiFi.",
+      "messaggi": 6,
+      "mediaGiornaliera": 0.9,
+      "highlights": [
+        "Ha contribuito con 6 messaggi"
+      ],
+      "citazioneTop": ""
+    }
+  ],
+  "awards": {
+    "mvp": "Fausto Petrini - Miglior voto della settimana con 8.6",
+    "comico": "Alessio Macalùso - Il piu' divertente della settimana",
+    "cuore": "Alessio Macalùso - Presenza equilibrata e costante",
+    "fantasma": "Alessio Valentini - Il piu' silenzioso con 6 messaggi"
+  }
+}

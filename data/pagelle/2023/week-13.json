@@ -1,0 +1,108 @@
+{
+  "anno": 2023,
+  "settimana": 13,
+  "startDate": "2023-03-27",
+  "endDate": "2023-04-02",
+  "stats": {
+    "totalMessages": 33,
+    "activeMembers": 6,
+    "avgPerMember": 5.5
+  },
+  "riassunto": "Settimana tranquilla di transizione. Compiti scolastici in Italia 'porca madonna'. La nipote di Cosimo al concerto di Max Pezzali: 'Standing ovation' e 'La Dura Legge del Gol' colonna sonora della felicita. Sinner 'è arrivato' secondo Cosimo. Cambio data cena: dal 19 aprile si cerca nuova data (26? 27? 24? 28?). Federer '4 figli, due coppie di gemelli, due doppi falli di fila'.",
+  "bestQuotes": [
+    {
+      "quote": "Federer 4 figli (due coppie di gemelli, praticamente ha fatto due doppi falli di fila)",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Sulla vita perfetta di Federer"
+    },
+    {
+      "quote": "Non lo dire a Pietro eh, mi raccomando. Noi siamo già in lotta con i compiti",
+      "author": "Giacomo Dolfi",
+      "context": "Sull'articolo dei compiti in Italia"
+    },
+    {
+      "quote": "Una chiamata vocazionale nelle brigate della giornata mondiale della gioventù cattolica. 'Max, sono qui, seguirò il tuo credo'",
+      "author": "Fausto Petrini",
+      "context": "Sulla nipote di Cosimo al concerto di Pezzali"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 8.0,
+      "giudizio": "Articolo sui compiti in Italia: 'Lo dico da sempre porca madonna'. Standing ovation per Max Pezzali: 'La Dura Legge del Gol uno dei periodi più felici della mia vita'. Su Sinner: 'Però non si deve rovinare'. La battuta sui doppi falli di Federer è memorabile.",
+      "messaggi": 10,
+      "mediaGiornaliera": 1.4,
+      "highlights": [
+        "Battuta doppi falli Federer",
+        "Elogio Max Pezzali"
+      ],
+      "citazioneTop": "Praticamente ha fatto due doppi falli di fila"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 7.5,
+      "giudizio": "'Adri mi sa che è arrivato il Sinner'. Nipote al concerto di Pezzali: 'Semmai non ci sente'. Deve cambiare data cena per riunione. 'Qualcuno sta guardando Propaganda?'. Link Eurosport di qualità. Regista del calendario.",
+      "messaggi": 10,
+      "mediaGiornaliera": 1.4,
+      "highlights": [
+        "Profezia su Sinner",
+        "Nipote al concerto Pezzali"
+      ],
+      "citazioneTop": "Adri mi sa che è arrivato il Sinner"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 7.0,
+      "giudizio": "'26 si, 27 no'. '24 no, so in Spagna'. La battuta sulle brigate della gioventù cattolica per Max Pezzali. 'Non da buttare' sull'articolo dei compiti. Logistico e ironico.",
+      "messaggi": 6,
+      "mediaGiornaliera": 0.9,
+      "highlights": [
+        "Battuta brigate cattoliche",
+        "Disponibilità date"
+      ],
+      "citazioneTop": "Una chiamata vocazionale nelle brigate della giornata mondiale della gioventù cattolica"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 6.5,
+      "giudizio": "'Ok si fa change'. 'Né 26 né 27, rilancio con 24 o 28'. 'Vero' su Max Pezzali. Sempre disponibile ma con vincoli. Il mediatore pragmatico.",
+      "messaggi": 4,
+      "mediaGiornaliera": 0.6,
+      "highlights": [
+        "Proposta date alternative",
+        "Conferma Max Pezzali"
+      ],
+      "citazioneTop": "Rilancio con 24 o 28"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 6.5,
+      "giudizio": "'Non lo dire a Pietro, siamo già in lotta con i compiti'. 'Io 24 e 28 non posso'. 'Roba forte' su Sinner. Il Fondatore tra compiti e tennis.",
+      "messaggi": 5,
+      "mediaGiornaliera": 0.7,
+      "highlights": [
+        "Lotta con i compiti",
+        "Apprezzamento Sinner"
+      ],
+      "citazioneTop": "Non lo dire a Pietro eh, mi raccomando"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 5.5,
+      "giudizio": "Settimana silenziosa dal fronte americano. Pochi contributi ma seguace attento delle vicende del gruppo. Il fuso orario e la pressione pesano.",
+      "messaggi": 2,
+      "mediaGiornaliera": 0.3,
+      "highlights": [
+        "Presenza silenziosa"
+      ],
+      "citazioneTop": null
+    }
+  ],
+  "awards": {
+    "mvp": "Adriano Sergio Lorenzo Facchini",
+    "comico": "Fausto Petrini",
+    "cuore": "Cosimo Nenciòni",
+    "fantasma": "Alessio Valentini"
+  }
+}

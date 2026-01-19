@@ -1,0 +1,114 @@
+{
+  "anno": 2022,
+  "settimana": 9,
+  "startDate": "2022-02-28",
+  "endDate": "2022-03-06",
+  "stats": {
+    "totalMessages": 30,
+    "activeMembers": 6,
+    "avgPerMember": 5.0
+  },
+  "riassunto": "Fausto racconta la storia della nonnina cercata: 17 vigili intervenuti, vecchia viva ma figlio matto con finestre tappate. 'Tutti volevano vedere se ci scappava il morto'. Auguri a Giacomo per il compleanno. Fausto si ammala di nuovo: 'Pensavo uscisse il negro di whatsapp' dice Adriano cercando di capire chi sia malato. Settimana tranquilla tra auguri e malattie.",
+  "bestQuotes": [
+    {
+      "quote": "Perche' tutti volevano vedere se ci scappava il morto. Poi si so lamentati che non c'era",
+      "author": "Fausto Petrini",
+      "context": "Sui 17 vigili intervenuti per la nonnina"
+    },
+    {
+      "quote": "Nemmeno una vecchia morta nel freezer",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Delusione per il finale della storia"
+    },
+    {
+      "quote": "Grazie adri, sempre una parola di conforto",
+      "author": "Fausto Petrini",
+      "context": "Risposta sarcastica ai commenti di Adriano sulla malattia"
+    },
+    {
+      "quote": "Pensavo uscisse il negro di whatsapp",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Cercando di capire chi fosse malato"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Fausto Petrini",
+      "voto": 8.0,
+      "giudizio": "La storia della nonnina e dei 17 vigili e' oro. 'Tutti volevano vedere se ci scappava il morto' e' giornalismo gonzo. Poi si ammala e risponde ad Adriano con sarcasmo perfetto. Sempre protagonista.",
+      "messaggi": 12,
+      "mediaGiornaliera": 1.7,
+      "highlights": [
+        "La storia della nonnina",
+        "17 vigili delusi",
+        "Si ammala di nuovo"
+      ],
+      "citazioneTop": "Perche' tutti volevano vedere se ci scappava il morto"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 7.0,
+      "giudizio": "Deluso che non ci sia una vecchia nel freezer. Fa gli auguri a Giacomo, poi commenta la malattia di Fausto con zero tatto ('Bene, ti sei ripreso il covid. Bravo.'). Sempre presente con battute discutibili.",
+      "messaggi": 10,
+      "mediaGiornaliera": 1.4,
+      "highlights": [
+        "Deluso dalla storia della nonnina",
+        "Auguri a Giacomo",
+        "Zero tatto sulla malattia di Fausto"
+      ],
+      "citazioneTop": "Nemmeno una vecchia morta nel freezer"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 6.5,
+      "giudizio": "Partecipa alla storia della nonnina con entusiasmo ('Giusto! Anche io' sulla delusione per l'assenza di morti). Pochi messaggi ma sempre sul pezzo.",
+      "messaggi": 4,
+      "mediaGiornaliera": 0.6,
+      "highlights": [
+        "Ha reagito alla storia della nonnina",
+        "Solidarieta' coi vigili delusi"
+      ],
+      "citazioneTop": "Giusto! Anche io"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 6.0,
+      "giudizio": "E' il suo compleanno! Riceve auguri. Risponde 'Te?' cercando di capire chi sia malato. Due messaggi, uno dei quali e' un emoji. Il festeggiato silenzioso.",
+      "messaggi": 2,
+      "mediaGiornaliera": 0.3,
+      "highlights": [
+        "Ha compiuto gli anni",
+        "Ha ricevuto auguri"
+      ],
+      "citazioneTop": "Te?"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 5.5,
+      "giudizio": "Un solo messaggio: 'Aaaaao'. Presente ma in modalita' lurking totale. Il giramondo questa settimana osserva.",
+      "messaggi": 1,
+      "mediaGiornaliera": 0.1,
+      "highlights": [
+        "Ha scritto 'Aaaaao'"
+      ],
+      "citazioneTop": "Aaaaao"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 6.0,
+      "giudizio": "Un messaggio: 'Allora Auguriiii!!!!!' a Giacomo. Essenziale ma sentito. Il maestro zen della settimana.",
+      "messaggi": 1,
+      "mediaGiornaliera": 0.1,
+      "highlights": [
+        "Ha fatto gli auguri a Giacomo"
+      ],
+      "citazioneTop": "Allora Auguriiii!!!!!"
+    }
+  ],
+  "awards": {
+    "mvp": "Fausto Petrini - La storia della nonnina vale la settimana",
+    "comico": "Adriano Sergio Lorenzo Facchini - 'Nemmeno una vecchia morta nel freezer'",
+    "cuore": "Alessio Macalùso - Auguri sentiti a Giacomo",
+    "fantasma": "Alessio Valentini - Solo 'Aaaaao' in tutta la settimana"
+  }
+}

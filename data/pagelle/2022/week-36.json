@@ -1,0 +1,118 @@
+{
+  "anno": 2022,
+  "settimana": 36,
+  "startDate": "2022-09-05",
+  "endDate": "2022-09-11",
+  "stats": {
+    "totalMessages": 53,
+    "activeMembers": 6,
+    "avgPerMember": 8.8
+  },
+  "riassunto": "Fausto scopre che il reggiseno non si usa piu' ('La medicina e' contro!'). La pasta a fuoco spento non funziona ('Non e' uguale, fidatevi'). Giacomo vota Calenda/Emma ('Io voto Emma!'). Alessio Mac accusa Fausto: 'Mi fidavo di te e poi scopro che hai fatto con la pasta integrale e senza coperchio'. Cena dei 40enni delle contrade il 19 novembre.",
+  "bestQuotes": [
+    {
+      "quote": "Il reggiseno unnusa piu'. La medicina e' contro!",
+      "author": "Fausto Petrini",
+      "context": "Sul trend senza reggiseno"
+    },
+    {
+      "quote": "Il calendiano Dolfi dovra' difendere la posizione",
+      "author": "Fausto Petrini",
+      "context": "Su Giacomo"
+    },
+    {
+      "quote": "Io voto Emma!",
+      "author": "Giacomo Dolfi",
+      "context": "Sulla scelta elettorale"
+    },
+    {
+      "quote": "Mi fidavo di te e poi scopro che hai fatto con la pasta integrale e senza coperchio",
+      "author": "Alessio Macalùso",
+      "context": "A Fausto sulla pasta"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Fausto Petrini",
+      "voto": 8.5,
+      "giudizio": "Dominatore della settimana! Ha scoperto che il reggiseno e' out ('La medicina e' contro!'). Ha testato la pasta a fuoco spento con metodo scientifico. 'Voto ai maiali' su Calenda. Leader intellettuale.",
+      "messaggi": 22,
+      "mediaGiornaliera": 3.1,
+      "highlights": [
+        "Reggiseno unnusa piu'",
+        "Pasta a fuoco spento",
+        "Voto ai maiali"
+      ],
+      "citazioneTop": "La pasta cotta a fuoco spento non e' uguale"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 7.0,
+      "giudizio": "Ha difeso il metodo scientifico sulla pasta. Ha spiegato le variabili (acqua, potenza, temperatura). 'La pasta vuole stare a 95+ gradi per x minuti'. Ingegnere del gruppo.",
+      "messaggi": 11,
+      "mediaGiornaliera": 1.6,
+      "highlights": [
+        "Metodo scientifico",
+        "95+ gradi",
+        "Variabili della pasta"
+      ],
+      "citazioneTop": "Il metodo scientifico e' sempre un buon modo per stanare le cazzate"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 7.5,
+      "giudizio": "'Mi fidavo di te' a Fausto e' perfetta delusione. 'Sei un boomer' a Fausto su Facebook. Ha difeso il rigore scientifico. Critico gastronomico.",
+      "messaggi": 8,
+      "mediaGiornaliera": 1.1,
+      "highlights": [
+        "Mi fidavo di te",
+        "Sei un boomer",
+        "Critica alla pasta"
+      ],
+      "citazioneTop": "Mi fidavo di te e poi scopro che hai fatto con la pasta integrale"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 6.0,
+      "giudizio": "'Di certo' sul boomer. Pochi messaggi ma presenti. Settimana tranquilla per il maestro.",
+      "messaggi": 5,
+      "mediaGiornaliera": 0.7,
+      "highlights": [
+        "Di certo",
+        "Presente"
+      ],
+      "citazioneTop": "Di certo"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 7.0,
+      "giudizio": "Ha annunciato la cena dei 40enni. 'La cosa piu' drammatica e' che vota Calenda senza interesse personale'. Ha invitato Fausto alla cena delle contrade.",
+      "messaggi": 5,
+      "mediaGiornaliera": 0.7,
+      "highlights": [
+        "Cena 40enni",
+        "Critica a Giacomo",
+        "Invito a Fausto"
+      ],
+      "citazioneTop": "Lo vota svincolato da alcun tipo di interesse personale"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 6.5,
+      "giudizio": "'Io voto Emma!' e' la sua difesa. Solo due messaggi ma memorabili. Il calendiano resiste.",
+      "messaggi": 2,
+      "mediaGiornaliera": 0.3,
+      "highlights": [
+        "Voto Emma",
+        "Calendiano"
+      ],
+      "citazioneTop": "Io voto Emma!"
+    }
+  ],
+  "awards": {
+    "mvp": "Fausto Petrini - Esperimenti su reggiseno e pasta a fuoco spento",
+    "comico": "Alessio Macalùso - Mi fidavo di te (sulla pasta integrale)",
+    "cuore": "Adriano Sergio Lorenzo Facchini - Ha organizzato la cena dei 40enni",
+    "fantasma": "Giacomo Dolfi - Solo 2 messaggi"
+  }
+}

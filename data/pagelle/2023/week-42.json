@@ -1,0 +1,109 @@
+{
+  "anno": 2023,
+  "settimana": 42,
+  "startDate": "2023-10-16",
+  "endDate": "2023-10-22",
+  "stats": {
+    "totalMessages": 39,
+    "activeMembers": 6,
+    "avgPerMember": 6.5
+  },
+  "riassunto": "SETTIMANA DELLA NASCITA DI DIEGO! Cocco annuncia con foto: 'E' nato Diego ragazzi'. Tutti in festa! Mac: 'Alla grande! Complimenti!'. Alessio V.: 'OH MIO DDDDDIIIOOOO. FANTASTICO'. 'Che con Luna era COVID e non hai potuto esserci, ricordo bene?'. Fausto: 'Grande Piego!'. Giacomo: 'Ma che bellezza!!!! Grandissimi! Auguroni belli!'. Adriano: 'Fantastiiiicoooook. Bellissimi!!! Grande Diego!!! Benvenuto! Queste so che sono soddisfazioni!'. Poi Luna si apre il capo! Cocco: 'S'e' aperta il capo. Tipico'. 'E' inciampata dentro il portone di casa e ha sbattuto il capo nello spigolo del gradino. Di marmo. Splatter mood'. Foto con sette punti. Fausto: 'Il sette nel capo'. Alessio V.: 'Harry Potter? Bellisssssimo'. 'Potrebbe succedere a me oggi pomeriggio'. Mac: 'Tipico' x3. Fausto condivide articolo sui 30 anni di Demolition Man e brano Ti.Pi.Cal.",
+  "bestQuotes": [
+    {
+      "quote": "E' nato Diego ragazzi",
+      "author": "Cosimo Nenciòni",
+      "context": "Annuncio nascita"
+    },
+    {
+      "quote": "S'e' aperta il capo. E' inciampata dentro il portone di casa e ha sbattuto il capo nello spigolo del gradino. Di marmo. Splatter mood",
+      "author": "Cosimo Nenciòni",
+      "context": "Incidente Luna"
+    },
+    {
+      "quote": "Queste so che sono soddisfazioni!",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Sulla nascita"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 9.5,
+      "giudizio": "Papa' bis! 'E' nato Diego ragazzi'. Condivide foto. 'S'e' aperta il capo. Tipico'. 'E' inciampata dentro il portone, ha sbattuto il capo nello spigolo di marmo. Splatter mood'. Padre eroico tra nascita e incidenti.",
+      "messaggi": 10,
+      "mediaGiornaliera": 1.4,
+      "highlights": [
+        "Nascita Diego",
+        "Luna Harry Potter"
+      ],
+      "citazioneTop": "E' nato Diego ragazzi"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 8.0,
+      "giudizio": "'Fantastiiiicoooook. Bellissimi!!! Grande Diego!!! Benvenuto!'. 'Queste so che sono soddisfazioni!'. 'Stellare' sulla foto Luna. Entusiasta e presente.",
+      "messaggi": 8,
+      "mediaGiornaliera": 1.1,
+      "highlights": [
+        "Auguri Diego",
+        "Commenti foto"
+      ],
+      "citazioneTop": "Queste so che sono soddisfazioni!"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 8.0,
+      "giudizio": "'OH MIO DDDDDIIIOOOO. FANTASTICO'. 'Che con Luna era COVID e non hai potuto esserci, ricordo bene?'. 'Harry Potter? Bellisssssimo'. 'Potrebbe succedere a me oggi pomeriggio'. 'Holy moly, che roba' sulla musica. Spiega 'moly'. Entusiasta e colto.",
+      "messaggi": 10,
+      "mediaGiornaliera": 1.4,
+      "highlights": [
+        "Auguri Diego",
+        "Holy moly spiegato"
+      ],
+      "citazioneTop": "OH MIO DDDDDIIIOOOO. FANTASTICO"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 7.5,
+      "giudizio": "'Grande Piego!'. 'Il sette nel capo' sulla ferita. Articolo Demolition Man 30 anni. Ti.Pi.Cal: 'A me quel pezzo piaceva un casino, e' proprio un pezzo della mia adolescenza'. 'Moly che vuol dire?'. Nostalgico e curioso.",
+      "messaggi": 6,
+      "mediaGiornaliera": 0.9,
+      "highlights": [
+        "Auguri Diego",
+        "Nostalgia anni 90"
+      ],
+      "citazioneTop": "A me quel pezzo piaceva un casino, e' proprio un pezzo della mia adolescenza"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 7.5,
+      "giudizio": "'Ma che bellezza!!!! Grandissimi! Auguroni belli!'. 'Fantastici, ma come ha fatto?' sulla ferita. Presente e affettuoso.",
+      "messaggi": 6,
+      "mediaGiornaliera": 0.9,
+      "highlights": [
+        "Auguri Diego",
+        "Domanda ferita"
+      ],
+      "citazioneTop": "Ma che bellezza!!!! Grandissimi!"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 7.0,
+      "giudizio": "'Alla grande! Complimenti!' sulla nascita. 'Tipico' x3 su tutto. 'Per ora prevale la curiosita'' sulla ferita. Il re del 'Tipico'.",
+      "messaggi": 6,
+      "mediaGiornaliera": 0.9,
+      "highlights": [
+        "Auguri Diego",
+        "Tipico x3"
+      ],
+      "citazioneTop": "Tipico"
+    }
+  ],
+  "awards": {
+    "mvp": "Cosimo Nenciòni",
+    "comico": "Alessio Macalùso",
+    "cuore": "Adriano Sergio Lorenzo Facchini",
+    "fantasma": null
+  }
+}

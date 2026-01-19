@@ -1,0 +1,103 @@
+{
+  "anno": 2021,
+  "settimana": 32,
+  "startDate": "2021-08-09",
+  "endDate": "2021-08-15",
+  "stats": {
+    "totalMessages": 110,
+    "activeMembers": 6,
+    "avgPerMember": 18.3
+  },
+  "riassunto": "Settimana 32 con 110 messaggi. Cosimo guida le danze con 25 contributi.",
+  "bestQuotes": [
+    {
+      "quote": "location: https://maps.google.com/?q=42.370967864990234,14.391032218933105",
+      "author": "Alessio Macalùso",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Fausto come va voi? Sistemati bene? Almeno starete al fresco. Noi domani si torna a Firenze a crepa'.",
+      "author": "Cosimo Nenciòni",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Speriamo sia caldo anche il prossimo anno! Oggi hanno deciso di mettermi l'aria condizionata",
+      "author": "Giacomo Dolfi",
+      "context": "Momento memorabile della settimana"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 7.1,
+      "giudizio": "Non ha brillato, ma neanche deluso. Il suo 'mah' valeva mille parole.",
+      "messaggi": 25,
+      "mediaGiornaliera": 3.6,
+      "highlights": [
+        "Tra i piu' attivi con 25 messaggi"
+      ],
+      "citazioneTop": "Fausto come va voi? Sistemati bene? Almeno starete al fresco. Noi domani si torna a Firenze a crepa'."
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 6.5,
+      "giudizio": "Il solito Adriano: affidabile, verboso, immancabile.",
+      "messaggi": 22,
+      "mediaGiornaliera": 3.1,
+      "highlights": [
+        "Tra i piu' attivi con 22 messaggi"
+      ],
+      "citazioneTop": ""
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 6.8,
+      "giudizio": "Il solito Fausto: ci prova, ogni tanto ci riesce.",
+      "messaggi": 22,
+      "mediaGiornaliera": 3.1,
+      "highlights": [
+        "Tra i piu' attivi con 22 messaggi"
+      ],
+      "citazioneTop": "Sie secondo te questo mangia non dalla mano del padrone? Questo te la stacca"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 6.4,
+      "giudizio": "Contributo misurato, come nel suo stile. Ogni parola al suo posto.",
+      "messaggi": 17,
+      "mediaGiornaliera": 2.4,
+      "highlights": [
+        "Tra i piu' attivi con 17 messaggi"
+      ],
+      "citazioneTop": "location: https://maps.google.com/?q=42.370967864990234,14.391032218933105"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 6.4,
+      "giudizio": "Presente nonostante i fusi orari avversi. Sempre affidabile.",
+      "messaggi": 15,
+      "mediaGiornaliera": 2.1,
+      "highlights": [
+        "Ha contribuito con 15 messaggi"
+      ],
+      "citazioneTop": ""
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 5.0,
+      "giudizio": "Silenzio da Poggibonsi. Niente domande innocue questa settimana.",
+      "messaggi": 9,
+      "mediaGiornaliera": 1.3,
+      "highlights": [
+        "Ha contribuito con 9 messaggi"
+      ],
+      "citazioneTop": "Speriamo sia caldo anche il prossimo anno! Oggi hanno deciso di mettermi l'aria condizionata"
+    }
+  ],
+  "awards": {
+    "mvp": "Cosimo Nenciòni - Miglior voto della settimana con 7.1",
+    "comico": "Alessio Valentini - Il piu' divertente della settimana",
+    "cuore": "Alessio Macalùso - Presenza equilibrata e costante",
+    "fantasma": "Giacomo Dolfi - Il piu' silenzioso con 9 messaggi"
+  }
+}

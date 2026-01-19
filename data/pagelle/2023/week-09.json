@@ -1,0 +1,109 @@
+{
+  "anno": 2023,
+  "settimana": 9,
+  "startDate": "2023-02-27",
+  "endDate": "2023-03-05",
+  "stats": {
+    "totalMessages": 90,
+    "activeMembers": 6,
+    "avgPerMember": 15.0
+  },
+  "riassunto": "Settimana degli AUGURI! Compleanno di Giacomo il 2 marzo, onomastico di Adriano il 5. Fausto cerca adozione per domenica 5 (Eleonora e Giulio alle terme). Alessio M. difende le uscite miste: 'Mi farebbe parecchio piacere vedere Elena ogni tanto'. Adriano propone treno natura o trekking. Dark Side of the Moon compie 50 anni. Bristol scale delle feci diventa argomento.",
+  "bestQuotes": [
+    {
+      "quote": "L'età è l'equivalente di una targa appiccicata all'auto, ma poi com'è l'auto, cosa c'è dentro, chi la guida, è tutta un'altra storia. - Alberto Angela",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Auguri filosofici a Giacomo"
+    },
+    {
+      "quote": "In realtà se ci pensi bene quando compri un'auto usata l'anno di immatricolazione è super importante. Alberto Angela ha detto un po' na cazzaaa' se l'ha detta",
+      "author": "Alessio Valentini",
+      "context": "Smontaggio della citazione"
+    },
+    {
+      "quote": "L'onomastico è da gay. Cmq buon onomastico",
+      "author": "Cosimo Nenciòni",
+      "context": "Auguri speciali ad Adriano"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 8.5,
+      "giudizio": "Citazione di Alberto Angela per Giacomo (poi smontata da Alessio V.). Propone treno natura e trekking. Discussione sulla Bristol scale delle feci ('Tipo 3. Barra 4'). Festeggiato per l'onomastico. Settimana eclettica.",
+      "messaggi": 28,
+      "mediaGiornaliera": 4.0,
+      "highlights": [
+        "Citazione Alberto Angela",
+        "Proposta escursioni di gruppo"
+      ],
+      "citazioneTop": "Cacherai benissimo -> Si molto bene. Tipo 3 barra 4"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 7.5,
+      "giudizio": "Cerca adozione per domenica 5 con garbo. Primo a fare gli auguri a Giacomo. Condivide articolo Jacobin sul PD. 'Purtroppo per capire le cose bisogna leggere di più' - il professore.",
+      "messaggi": 18,
+      "mediaGiornaliera": 2.6,
+      "highlights": [
+        "Ricerca adozione domenicale",
+        "Primo auguri a Giacomo"
+      ],
+      "citazioneTop": "Bovi, io domenica 5 sono da solo... qualcuno mi adotta anche da solo?"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 7.5,
+      "giudizio": "50 anni di Dark Side of the Moon celebrati. 'L'onomastico è da gay' ad Adriano. A Pitigliano il 5, quindi niente adozione Fausto. Link Twitter di qualità. Sarcastico come sempre.",
+      "messaggi": 16,
+      "mediaGiornaliera": 2.3,
+      "highlights": [
+        "Celebrazione Pink Floyd",
+        "Auguri gay ad Adriano"
+      ],
+      "citazioneTop": "L'onomastico è da gay. Cmq buon onomastico"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 7.0,
+      "giudizio": "Smonta la citazione di Alberto Angela con logica impeccabile. 'La bristol scale è sempre bella'. Auguri a Giacomo. Qualità alta nonostante pochi messaggi.",
+      "messaggi": 10,
+      "mediaGiornaliera": 1.4,
+      "highlights": [
+        "Smontaggio citazione",
+        "Apprezzamento Bristol scale"
+      ],
+      "citazioneTop": "Alberto Angela ha detto un po' na cazzaaa' se l'ha detta"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 7.0,
+      "giudizio": "Difende le uscite miste: 'Mi farebbe parecchio piacere vedere Elena ogni tanto'. 'Tipica frase da anziano' sulla citazione. Presente e propositivo. Aggiunge biustel.",
+      "messaggi": 10,
+      "mediaGiornaliera": 1.4,
+      "highlights": [
+        "Difesa uscite miste",
+        "Aggiunta biustel"
+      ],
+      "citazioneTop": "Mi farebbe parecchio piacere vedere Elena ogni tanto"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 6.5,
+      "giudizio": "Festeggiato il compleanno. A Follonica il 5 (si vede che hai votato Meloni, secondo Adriano). 'Grazie compagni'. Il Fondatore ringrazia con stile.",
+      "messaggi": 8,
+      "mediaGiornaliera": 1.1,
+      "highlights": [
+        "Compleanno festeggiato",
+        "Ringraziamenti ai compagni"
+      ],
+      "citazioneTop": "Grazie compagni"
+    }
+  ],
+  "awards": {
+    "mvp": "Adriano Sergio Lorenzo Facchini",
+    "comico": "Cosimo Nenciòni",
+    "cuore": "Alessio Macalùso",
+    "fantasma": null
+  }
+}

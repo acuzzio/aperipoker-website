@@ -1,0 +1,104 @@
+{
+  "anno": 2021,
+  "settimana": 18,
+  "startDate": "2021-05-03",
+  "endDate": "2021-05-09",
+  "stats": {
+    "totalMessages": 171,
+    "activeMembers": 6,
+    "avgPerMember": 28.5
+  },
+  "riassunto": "Una settimana di ordinaria follia con 171 messaggi. Adriano in testa alla classifica.",
+  "bestQuotes": [
+    {
+      "quote": "Facciamo quella dopo, questa mi sa che è troppo a ridosso?!?!?",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "a me farebbe parecchia voglia di fare un pranzo all'aperto, proviamo ad organizzare magari per il prossimo fine settimana? io questo sono incasinato",
+      "author": "Giacomo Dolfi",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Ma intanto se si facesse un aperitivo noi in settimana?",
+      "author": "Giacomo Dolfi",
+      "context": "Momento memorabile della settimana"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 8.3,
+      "giudizio": "Il Re della Chat ha regnato con mano ferma e tastiera fumante.",
+      "messaggi": 65,
+      "mediaGiornaliera": 9.3,
+      "highlights": [
+        "Ha dominato la conversazione con il 38% dei messaggi"
+      ],
+      "citazioneTop": "Facciamo quella dopo, questa mi sa che è troppo a ridosso?!?!?"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 6.7,
+      "giudizio": "Il solito Fausto: ci prova, ogni tanto ci riesce.",
+      "messaggi": 35,
+      "mediaGiornaliera": 5.0,
+      "highlights": [
+        "Tra i piu' attivi con 35 messaggi"
+      ],
+      "citazioneTop": ""
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 6.1,
+      "giudizio": "Non ha brillato, ma neanche deluso. Il suo 'mah' valeva mille parole.",
+      "messaggi": 26,
+      "mediaGiornaliera": 3.7,
+      "highlights": [
+        "Tra i piu' attivi con 26 messaggi"
+      ],
+      "citazioneTop": ""
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 7.0,
+      "giudizio": "Ha partecipato senza eccessi. Il Fondatore veglia.",
+      "messaggi": 25,
+      "mediaGiornaliera": 3.6,
+      "highlights": [
+        "Ha contribuito con 25 messaggi",
+        "Ha stimolato la discussione con molte domande"
+      ],
+      "citazioneTop": "a me farebbe parecchia voglia di fare un pranzo all'aperto, proviamo ad organizzare magari per il prossimo fine settimana? io questo sono incasinato"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 6.1,
+      "giudizio": "Disperso in qualche angolo del mondo. Internet troppo di merda.",
+      "messaggi": 14,
+      "mediaGiornaliera": 2.0,
+      "highlights": [
+        "Ha contribuito con 14 messaggi"
+      ],
+      "citazioneTop": ""
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 5.4,
+      "giudizio": "Assente o quasi. Probabilmente raggiungeva l'illuminazione.",
+      "messaggi": 6,
+      "mediaGiornaliera": 0.9,
+      "highlights": [
+        "Ha contribuito con 6 messaggi"
+      ],
+      "citazioneTop": ""
+    }
+  ],
+  "awards": {
+    "mvp": "Adriano Sergio Lorenzo Facchini - Miglior voto della settimana con 8.3",
+    "comico": "Adriano Sergio Lorenzo Facchini - Il piu' divertente della settimana",
+    "cuore": "Cosimo Nenciòni - Presenza equilibrata e costante",
+    "fantasma": "Alessio Macalùso - Il piu' silenzioso con 6 messaggi"
+  }
+}

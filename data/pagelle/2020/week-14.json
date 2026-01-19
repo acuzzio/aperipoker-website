@@ -1,0 +1,109 @@
+{
+  "anno": 2020,
+  "settimana": 14,
+  "startDate": "2020-03-30",
+  "endDate": "2020-04-05",
+  "stats": {
+    "totalMessages": 109,
+    "activeMembers": 6,
+    "avgPerMember": 18.2
+  },
+  "riassunto": "Il gruppo si è ritrovato per discutere di poker, politica, uscite/cene in pieno lockdown. Con 109 messaggi totali, la settimana è stata nella norma.",
+  "bestQuotes": [
+    {
+      "quote": "Appena possibile vai a vedere le cazzo di balene",
+      "author": "Cosimo Nenciòni",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Il pallino blu è la presa elettrica? O il cuore cibernetico di Ironman?",
+      "author": "Cosimo Nenciòni",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Ma con una cosa del genere, ci si potrebbe vedere?",
+      "author": "Giacomo Dolfi",
+      "context": "Momento memorabile della settimana"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 7.5,
+      "giudizio": "Maestro del sarcasmo, questa settimana era in forma smagliante. Nessuno è stato risparmiato.",
+      "messaggi": 27,
+      "mediaGiornaliera": 5.4,
+      "highlights": [
+        "Buona partecipazione alle discussioni",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "Il pallino blu è la presa elettrica? O il cuore cibernetico di Ironman?"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 7.5,
+      "giudizio": "Giacomo in grande spolvero. Le sue osservazioni hanno acceso la chat.",
+      "messaggi": 17,
+      "mediaGiornaliera": 2.8,
+      "highlights": [
+        "Buona partecipazione alle discussioni",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "Milo Manara in questo periodo su Facebook sta regalando perle notevoli...."
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 7.0,
+      "giudizio": "Ha partecipato con i suoi orari improbabili. Niente di nuovo sotto il sole (tropicale).",
+      "messaggi": 23,
+      "mediaGiornaliera": 5.8,
+      "highlights": [
+        "Buona partecipazione alle discussioni",
+        "Presente per buona parte della settimana"
+      ],
+      "citazioneTop": "i parrucchieri sono sopravvalutati"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 7.0,
+      "giudizio": "Ha contribuito con la consueta energia. Non tutte le proposte sono andate a buon fine, ma ci ha provato.",
+      "messaggi": 16,
+      "mediaGiornaliera": 3.2,
+      "highlights": [
+        "Buona partecipazione alle discussioni",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "Mah, chiavano pochissomo...."
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 7.0,
+      "giudizio": "Il solito Alessio Mac: pacato, presente, essenziale. Niente sprechi di parole.",
+      "messaggi": 16,
+      "mediaGiornaliera": 3.2,
+      "highlights": [
+        "Buona partecipazione alle discussioni",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "È possibile vedere cosa mangia Adriano stasera?"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 6.5,
+      "giudizio": "Contributi costanti, ma questa settimana il Re ha mantenuto un profilo insolitamente basso.",
+      "messaggi": 10,
+      "mediaGiornaliera": 1.7,
+      "highlights": [
+        "Presente ma non dominante",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "Dopo di che fui sommerso da 100 kili di agilità pura.."
+    }
+  ],
+  "awards": {
+    "mvp": "Cosimo Nenciòni",
+    "comico": "Giacomo Dolfi",
+    "cuore": "Giacomo Dolfi",
+    "fantasma": "Adriano Sergio Lorenzo Facchini"
+  }
+}

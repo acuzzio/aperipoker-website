@@ -1,0 +1,103 @@
+{
+  "anno": 2020,
+  "settimana": 30,
+  "startDate": "2020-07-20",
+  "endDate": "2020-07-26",
+  "stats": {
+    "totalMessages": 15,
+    "activeMembers": 3,
+    "avgPerMember": 5.0
+  },
+  "riassunto": "Il gruppo si è ritrovato per discutere di conversazioni varie nella fase di riapertura. Con 15 messaggi totali, la settimana è stata nella norma.",
+  "bestQuotes": [
+    {
+      "quote": "chi sono i partecipanti qua? non riesco a capirli tutti",
+      "author": "Alessio Valentini",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Allora ci so:\nIo, la Petri e il Mac\nVs\ngiec e due tizi di Livorno",
+      "author": "Cosimo Nenciòni",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Di cui uno che mulina come motoscafo",
+      "author": "Cosimo Nenciòni",
+      "context": "Momento memorabile della settimana"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Alessio Valentini",
+      "voto": 8.0,
+      "giudizio": "Nonostante il fuso orario impossibile, Alessio V. ha tenuto alto il morale del gruppo.",
+      "messaggi": 8,
+      "mediaGiornaliera": 4.0,
+      "highlights": [
+        "Presente ma non dominante"
+      ],
+      "citazioneTop": "chi sono i partecipanti qua? non riesco a capirli tutti"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 7.0,
+      "giudizio": "Il solito Cosimo: poche parole, tutte giuste. O quasi.",
+      "messaggi": 5,
+      "mediaGiornaliera": 5.0,
+      "highlights": [
+        "Interventi sporadici ma mirati"
+      ],
+      "citazioneTop": "Allora ci so:\nIo, la Petri e il Mac\nVs\ngiec e due tizi di Livorno"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 6.0,
+      "giudizio": "Contributi costanti, ma questa settimana il Re ha mantenuto un profilo insolitamente basso.",
+      "messaggi": 2,
+      "mediaGiornaliera": 2.0,
+      "highlights": [
+        "Interventi sporadici ma mirati"
+      ],
+      "citazioneTop": null
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 3.0,
+      "giudizio": "Pochi interventi questa settimana. Sta accumulando energie per la prossima offensiva organizzativa.",
+      "messaggi": 0,
+      "mediaGiornaliera": 0.0,
+      "highlights": [
+        "Assente dalla chat questa settimana"
+      ],
+      "citazioneTop": null
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 3.0,
+      "giudizio": "Alessio Mac in modalità fantasma. Forse stava meditando.",
+      "messaggi": 0,
+      "mediaGiornaliera": 0.0,
+      "highlights": [
+        "Assente dalla chat questa settimana"
+      ],
+      "citazioneTop": null
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 3.0,
+      "giudizio": "Il Fondatore ha delegato questa settimana. O forse stava guardando qualche talk show.",
+      "messaggi": 0,
+      "mediaGiornaliera": 0.0,
+      "highlights": [
+        "Assente dalla chat questa settimana"
+      ],
+      "citazioneTop": null
+    }
+  ],
+  "awards": {
+    "mvp": "Alessio Valentini",
+    "comico": "Alessio Valentini",
+    "cuore": "Cosimo Nenciòni",
+    "fantasma": "Fausto Petrini"
+  }
+}

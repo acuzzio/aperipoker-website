@@ -1,0 +1,104 @@
+{
+  "anno": 2021,
+  "settimana": 2,
+  "startDate": "2021-01-11",
+  "endDate": "2021-01-17",
+  "stats": {
+    "totalMessages": 202,
+    "activeMembers": 6,
+    "avgPerMember": 33.7
+  },
+  "riassunto": "Il gruppo si fa sentire con 202 messaggi. Alessio V. il piu' loquace con 48 messaggi.",
+  "bestQuotes": [
+    {
+      "quote": "voi ragazzi non potete capire quanto tornerei in quel cazzo di ristorante",
+      "author": "Alessio Valentini",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "https://www.youtube.com/watch?v=lYgu75EwuPo&t=2517s",
+      "author": "Alessio Valentini",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Vuoi venire quia cena così sei subito sul pezzo? Se vuoi anche a dormire",
+      "author": "Fausto Petrini",
+      "context": "Momento memorabile della settimana"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Alessio Valentini",
+      "voto": 7.4,
+      "giudizio": "Ha partecipato con il suo solito stile affettuoso e diretto.",
+      "messaggi": 48,
+      "mediaGiornaliera": 6.9,
+      "highlights": [
+        "Tra i piu' attivi con 48 messaggi",
+        "Ha stimolato la discussione con molte domande"
+      ],
+      "citazioneTop": "voi ragazzi non potete capire quanto tornerei in quel cazzo di ristorante"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 6.5,
+      "giudizio": "Contributo equilibrato, con qualche perla sarcastica.",
+      "messaggi": 42,
+      "mediaGiornaliera": 6.0,
+      "highlights": [
+        "Tra i piu' attivi con 42 messaggi"
+      ],
+      "citazioneTop": ""
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 6.4,
+      "giudizio": "Il solito Adriano: affidabile, verboso, immancabile.",
+      "messaggi": 36,
+      "mediaGiornaliera": 5.1,
+      "highlights": [
+        "Tra i piu' attivi con 36 messaggi"
+      ],
+      "citazioneTop": "Un dai cazzo ci sta sempre bene e quindi..."
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 6.1,
+      "giudizio": "Ha fatto il suo, tra proposte e organizzazione. Qualcuno l'ha pure ascoltato.",
+      "messaggi": 32,
+      "mediaGiornaliera": 4.6,
+      "highlights": [
+        "Tra i piu' attivi con 32 messaggi"
+      ],
+      "citazioneTop": "Vuoi venire quia cena così sei subito sul pezzo? Se vuoi anche a dormire"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 6.6,
+      "giudizio": "Contributo equilibrato del patriarca benevolo.",
+      "messaggi": 29,
+      "mediaGiornaliera": 4.1,
+      "highlights": [
+        "Ha contribuito con 29 messaggi"
+      ],
+      "citazioneTop": ""
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 5.1,
+      "giudizio": "Assente o quasi. Probabilmente raggiungeva l'illuminazione.",
+      "messaggi": 15,
+      "mediaGiornaliera": 2.1,
+      "highlights": [
+        "Ha contribuito con 15 messaggi"
+      ],
+      "citazioneTop": "Ohhh belloccia sembra già grande! Complimenti !!!!!🎉"
+    }
+  ],
+  "awards": {
+    "mvp": "Alessio Valentini - Miglior voto della settimana con 7.4",
+    "comico": "Giacomo Dolfi - Il piu' divertente della settimana",
+    "cuore": "Fausto Petrini - Presenza equilibrata e costante",
+    "fantasma": null
+  }
+}

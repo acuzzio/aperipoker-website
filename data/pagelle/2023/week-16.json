@@ -1,0 +1,109 @@
+{
+  "anno": 2023,
+  "settimana": 16,
+  "startDate": "2023-04-17",
+  "endDate": "2023-04-23",
+  "stats": {
+    "totalMessages": 99,
+    "activeMembers": 6,
+    "avgPerMember": 16.5
+  },
+  "riassunto": "Settimana del compleanno di Alessio V. (41 anni!) e del Bike Day/LSD Day (19 aprile). Alessio a Yosemite senza internet, torna con foto di Nevada Falls e GRIZZLY a 10 metri. Discussione infinita sulla data della cena: 10? 16? Cocco in Scozia, Giacomo 'Rompicazzo'. Trattato scientifico sui biscotti da inzuppare: Galletti > Macine, scala di difficolta 2-5.",
+  "bestQuotes": [
+    {
+      "quote": "I galletti sono il biscotto per eccellenza con il giusto equilibrio di dolcezza e un retrogusto quasi salato che non ti fa smettere di mangiarli.",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Trattato sui biscotti da inzuppare"
+    },
+    {
+      "quote": "Benvenuto fra noi 41enni",
+      "author": "Alessio Macalùso",
+      "context": "Auguri ad Alessio V."
+    },
+    {
+      "quote": "Rompicazzo",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "A Giacomo che non puo il 16"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 8.5,
+      "giudizio": "Scala di difficolta biscotti da inzuppare (2 easy, 3 medium, 4 hard, 5 pro). Elogio dei Galletti. 'Ti ricordo che hai appena buttato un tocco di fumo'. 'Rompicazzo' a Giacomo. Propone cena con mogli in un weekend. Organizzatore frustrato.",
+      "messaggi": 36,
+      "mediaGiornaliera": 5.1,
+      "highlights": [
+        "Trattato scientifico sui biscotti",
+        "Tentativi di organizzazione cena"
+      ],
+      "citazioneTop": "Il numero minimo da inzuppare contemporaneamente è 3. Il massimo 5."
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 8.0,
+      "giudizio": "Compie 41 anni! A Yosemite senza internet per 3 giorni. Nevada Falls, foto del GRIZZLY a 10 metri ('Javi e Miguel sono tipo 10 metri piu vicini'). 'La prima volta che ce la trovo' la neve. Festeggiato dal gruppo.",
+      "messaggi": 18,
+      "mediaGiornaliera": 2.6,
+      "highlights": [
+        "Compleanno 41 anni",
+        "Foto grizzly a Yosemite"
+      ],
+      "citazioneTop": "Sono a Yosemite senza internet raga. Ho scoperto da poco che 19 aprile è bike day"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 7.5,
+      "giudizio": "'Il 10 sono in Scozia' - colpo di scena. 'I Galletti sono il giusto mix'. 'Auguri Lillo. Manna foto alce dello Yosemite'. Una grande storia italiana sui biscotti Mulino Bianco. Torna alla grande.",
+      "messaggi": 16,
+      "mediaGiornaliera": 2.3,
+      "highlights": [
+        "Contributo dibattito biscotti",
+        "Auguri ad Alessio"
+      ],
+      "citazioneTop": "5 è tipo una fetta di torta"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 7.5,
+      "giudizio": "Link sul primo trip di LSD per il Bike Day. 'Buon bike day a tutti, fate dei bei trip ovunque voi siate!' Donna incinta di un pupazzo condivisa. 'Saluti da Valencia la grande'. Il 16 ok ma paziente fino alle 8.",
+      "messaggi": 14,
+      "mediaGiornaliera": 2.0,
+      "highlights": [
+        "Link LSD/Bike Day",
+        "Auguri a Alessio"
+      ],
+      "citazioneTop": "E già che ci siamo auguri Alessio, sono 41!!"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 7.0,
+      "giudizio": "'Benvenuto fra noi 41enni'. Manda i turni per la cena. 'Quando faccio notte non ce la faccio'. 'Hai gelato tutti' a Giacomo che blocca le date. Pragmatico e ironico.",
+      "messaggi": 12,
+      "mediaGiornaliera": 1.7,
+      "highlights": [
+        "Benvenuto ai 41enni",
+        "Condivisione turni"
+      ],
+      "citazioneTop": "Fa fede il nostro fuso orario"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 6.0,
+      "giudizio": "'Il 10 va bene' poi Cocco in Scozia. 'A me il 16 no' - gela tutti. 'Il leggerone' e 'Vecchio fradicio' per Fausto. Sempre l'ultimo a rispondere e quello che mette dubbi.",
+      "messaggi": 8,
+      "mediaGiornaliera": 1.1,
+      "highlights": [
+        "Blocco delle date",
+        "Commenti su Fausto"
+      ],
+      "citazioneTop": "A me il 16 no"
+    }
+  ],
+  "awards": {
+    "mvp": "Adriano Sergio Lorenzo Facchini",
+    "comico": "Alessio Valentini",
+    "cuore": "Fausto Petrini",
+    "fantasma": null
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "anno": 2021,
+  "settimana": 31,
+  "startDate": "2021-08-02",
+  "endDate": "2021-08-08",
+  "stats": {
+    "totalMessages": 45,
+    "activeMembers": 6,
+    "avgPerMember": 7.5
+  },
+  "riassunto": "Una settimana di ordinaria follia con 45 messaggi. Fausto in testa alla classifica.",
+  "bestQuotes": [
+    {
+      "quote": "Bella roba! Dormite in macchina?",
+      "author": "Giacomo Dolfi",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "ragazzi qualcuno di voi ha modo di registrare/scaricare gli streaming delle olimpiadi in italiano?",
+      "author": "Alessio Valentini",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Ancora non ci sono a honolulu. Sono in un'altra isola",
+      "author": "Alessio Valentini",
+      "context": "Momento memorabile della settimana"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Fausto Petrini",
+      "voto": 8.0,
+      "giudizio": "W il bollore! Fausto on fire questa settimana, peccato per gli altri.",
+      "messaggi": 15,
+      "mediaGiornaliera": 2.1,
+      "highlights": [
+        "Ha dominato la conversazione con il 33% dei messaggi"
+      ],
+      "citazioneTop": "Noi fino a giovedì, poi puntata a firenze per fare valigie, poi montagna, fino al 14"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 6.4,
+      "giudizio": "Non ha brillato, ma neanche deluso. Il suo 'mah' valeva mille parole.",
+      "messaggi": 9,
+      "mediaGiornaliera": 1.3,
+      "highlights": [
+        "Tra i piu' attivi con 9 messaggi"
+      ],
+      "citazioneTop": ""
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 7.6,
+      "giudizio": "Il solito Adriano: affidabile, verboso, immancabile.",
+      "messaggi": 8,
+      "mediaGiornaliera": 1.1,
+      "highlights": [
+        "Tra i piu' attivi con 8 messaggi"
+      ],
+      "citazioneTop": "Allora ragazzi, quanto rimanete ancora a i mare?"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 6.3,
+      "giudizio": "Ha partecipato con il suo solito stile affettuoso e diretto.",
+      "messaggi": 7,
+      "mediaGiornaliera": 1.0,
+      "highlights": [
+        "Tra i piu' attivi con 7 messaggi"
+      ],
+      "citazioneTop": "ragazzi qualcuno di voi ha modo di registrare/scaricare gli streaming delle olimpiadi in italiano?"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 6.6,
+      "giudizio": "Contributo equilibrato del patriarca benevolo.",
+      "messaggi": 4,
+      "mediaGiornaliera": 0.6,
+      "highlights": [
+        "Ha contribuito con 4 messaggi"
+      ],
+      "citazioneTop": "Bella roba! Dormite in macchina?"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 4.5,
+      "giudizio": "Anche per i suoi standard, troppo silenzioso. Meditava?",
+      "messaggi": 2,
+      "mediaGiornaliera": 0.3,
+      "highlights": [
+        "Ha contribuito con 2 messaggi"
+      ],
+      "citazioneTop": ""
+    }
+  ],
+  "awards": {
+    "mvp": "Fausto Petrini - Miglior voto della settimana con 8.0",
+    "comico": "Cosimo Nenciòni - Il piu' divertente della settimana",
+    "cuore": "Adriano Sergio Lorenzo Facchini - Presenza equilibrata e costante",
+    "fantasma": "Alessio Macalùso - Il piu' silenzioso con 2 messaggi"
+  }
+}

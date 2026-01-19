@@ -1,0 +1,109 @@
+{
+  "anno": 2023,
+  "settimana": 4,
+  "startDate": "2023-01-23",
+  "endDate": "2023-01-29",
+  "stats": {
+    "totalMessages": 79,
+    "activeMembers": 6,
+    "avgPerMember": 13.2
+  },
+  "riassunto": "Settimana della 'Smaialation Day' e organizzazione poker del 3 febbraio. Alessio V. incontra il Premio Nobel per la chimica che suonava con Tom Morello al college. Adriano commenta in modo... creativo. Grande discussione su dove fare la serata: casa Cosimo, casa Giacomo o casa Alessio M.? Vince Sienona. Il Mac regala la PS3 ad Adriano.",
+  "bestQuotes": [
+    {
+      "quote": "E magari gli ha pure succhiato il cazzo. Con tutto il rispetto parlando..",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Commento sul rapporto tra il Premio Nobel e Tom Morello"
+    },
+    {
+      "quote": "Io al massimo col vincitore del torneo sociale al circolo dell'anchetta.",
+      "author": "Cosimo Nenciòni",
+      "context": "Confronto con le frequentazioni di Alessio V."
+    },
+    {
+      "quote": "Long life to the pork!!!",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Celebrazione del giorno della smaialatura"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 8.0,
+      "giudizio": "Il re della settimana. Dal 'Long life to the pork' al commento sul Nobel e Tom Morello che farà storia. Interroga Giacomo sul costo del biglietto, celebra la smaialatura, e si accaparra la PS3 del Mac. Poliedrico.",
+      "messaggi": 22,
+      "mediaGiornaliera": 3.1,
+      "highlights": [
+        "Celebrazione della Smaialation Day",
+        "Commento memorabile sul Premio Nobel"
+      ],
+      "citazioneTop": "E magari gli ha pure succhiato il cazzo. Con tutto il rispetto parlando.."
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 8.0,
+      "giudizio": "Foto col Premio Nobel per la chimica che ha suonato con Tom Morello. 'Che spettacolo di donna, guarda. Mostruosa.' Racconta la bioorthogonal-click chemistry come se fosse normale. Vita da film.",
+      "messaggi": 9,
+      "mediaGiornaliera": 1.3,
+      "highlights": [
+        "Incontro con il Premio Nobel",
+        "Spiegazione della click chemistry"
+      ],
+      "citazioneTop": "In college a Boston ha suonato in una band con Tom Morello"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 7.5,
+      "giudizio": "L'autoironia del 'vincitore del torneo sociale al circolo dell'anchetta' è geniale. Offre casa sua per il poker nonostante sia piccola. 'Renata e luna alle 9 vanno a letto' - padre responsabile. 'Today is that day' per la smaialatura.",
+      "messaggi": 13,
+      "mediaGiornaliera": 1.9,
+      "highlights": [
+        "Autoironia sulle proprie frequentazioni",
+        "Offerta generosa della casa"
+      ],
+      "citazioneTop": "Io al massimo col vincitore del torneo sociale al circolo dell'anchetta."
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 7.0,
+      "giudizio": "Zen master dell'organizzazione. Crea il sondaggio per la location, offre casa sua senza chiedere contributi, regala la PS3. 'A me non fa altro che piacere se venite da me' - generosità silenziosa.",
+      "messaggi": 12,
+      "mediaGiornaliera": 1.7,
+      "highlights": [
+        "Regalo della PS3 ad Adriano",
+        "Organizzazione serata poker"
+      ],
+      "citazioneTop": "E non chiedo contributi"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 6.5,
+      "giudizio": "Il trascinatore si innervosisce quando Giacomo non risponde sulla cena. 'Il fatto che tu commenti altro ma non dia ancora risposta mi fa vagamente innervosire'. Porta cocco e si offre per il dolce. Il solito bollore.",
+      "messaggi": 13,
+      "mediaGiornaliera": 1.9,
+      "highlights": [
+        "Pressione su Giacomo per la risposta",
+        "Disponibilità per la cena"
+      ],
+      "citazioneTop": "Il fatto che tu commenti altro ma non dia ancora risposta sulla cena del 3 mi fa vagamente innervosire"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 6.0,
+      "giudizio": "Confessa i 117,25 euro a testa per Robbie. 'Smaialation day?' chiede innocente. Propone casa sua ma preferisce Siena. Il compleanno di Roned lo limita. Presente ma defilato dopo la settimana di Robbie.",
+      "messaggi": 10,
+      "mediaGiornaliera": 1.4,
+      "highlights": [
+        "Rivelazione del costo del concerto",
+        "Disponibilità per la casa"
+      ],
+      "citazioneTop": "Ho speso 117,25"
+    }
+  ],
+  "awards": {
+    "mvp": "Adriano Sergio Lorenzo Facchini",
+    "comico": "Cosimo Nenciòni",
+    "cuore": "Alessio Macalùso",
+    "fantasma": null
+  }
+}

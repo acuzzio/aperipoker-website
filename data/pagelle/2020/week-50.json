@@ -1,0 +1,109 @@
+{
+  "anno": 2020,
+  "settimana": 50,
+  "startDate": "2020-12-07",
+  "endDate": "2020-12-13",
+  "stats": {
+    "totalMessages": 185,
+    "activeMembers": 6,
+    "avgPerMember": 30.8
+  },
+  "riassunto": "Una settimana all'insegna di poker, calcio, uscite/cene con le restrizioni autunnali. 185 messaggi scambiati tra i 6 membri attivi, con il solito mix di ironia e discussioni serie.",
+  "bestQuotes": [
+    {
+      "quote": "Tipo di sanitario inventato a Livorno?",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Non si capisce un cazzo. È una definnizione?",
+      "author": "Fausto Petrini",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Si ma che so le parole crociate di topolino?",
+      "author": "Fausto Petrini",
+      "context": "Momento memorabile della settimana"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 8.5,
+      "giudizio": "Ha scritto più lui in tre giorni che alcuni in un mese. Ma almeno era divertente.",
+      "messaggi": 47,
+      "mediaGiornaliera": 7.8,
+      "highlights": [
+        "Molto attivo, tra i più presenti della settimana",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "Ciao amici, volevo fare un saluto a tutti visto che ormai non ci vediamo più."
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 7.5,
+      "giudizio": "Il Provocatore Raffinato colpisce ancora. Con tre frasi ha detto più di altri in venti messaggi.",
+      "messaggi": 33,
+      "mediaGiornaliera": 6.6,
+      "highlights": [
+        "Molto attivo, tra i più presenti della settimana",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "Tipo un quarto di questa zucca"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 7.5,
+      "giudizio": "Ha portato freschezza e prospettive esotiche nelle discussioni. Bravo nomade digitale.",
+      "messaggi": 38,
+      "mediaGiornaliera": 6.3,
+      "highlights": [
+        "Molto attivo, tra i più presenti della settimana",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "quindi le hai ribollite tutte in acqua dopo averle chiuse?"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 7.0,
+      "giudizio": "Il solito Fausto: propositivo, ottimista, e leggermente frustrato dalle mancate risposte.",
+      "messaggi": 30,
+      "mediaGiornaliera": 7.5,
+      "highlights": [
+        "Buona partecipazione alle discussioni",
+        "Presente per buona parte della settimana"
+      ],
+      "citazioneTop": "Buona immacolata concezione, che il signore vi applauda"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 6.5,
+      "giudizio": "Ha contribuito con la sua calma zen. Pochi messaggi ma sempre pertinenti.",
+      "messaggi": 13,
+      "mediaGiornaliera": 2.2,
+      "highlights": [
+        "Presente ma non dominante",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "Buonanotte e buongiorno che il signore vi plauda"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 6.5,
+      "giudizio": "Presente come un patriarca benevolo: osserva, ogni tanto commenta, sempre con ironia.",
+      "messaggi": 24,
+      "mediaGiornaliera": 6.0,
+      "highlights": [
+        "Buona partecipazione alle discussioni",
+        "Presente per buona parte della settimana"
+      ],
+      "citazioneTop": "Noi vellutata di zucca (dell'orto) ma in versione super slim rispetto a voi!"
+    }
+  ],
+  "awards": {
+    "mvp": "Adriano Sergio Lorenzo Facchini",
+    "comico": "Giacomo Dolfi",
+    "cuore": "Adriano Sergio Lorenzo Facchini",
+    "fantasma": "Alessio Macalùso"
+  }
+}

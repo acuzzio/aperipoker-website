@@ -1,0 +1,119 @@
+{
+  "anno": 2022,
+  "settimana": 31,
+  "startDate": "2022-08-01",
+  "endDate": "2022-08-07",
+  "stats": {
+    "totalMessages": 121,
+    "activeMembers": 6,
+    "avgPerMember": 20.2
+  },
+  "riassunto": "Nasce Virginia Galli! Giacomo ha febbre a 39.3 ('Avrai l'otite... o il gayolodellescimmie'). Cosimo teorizza sull'antibiotico resistenza ('Sara' solo colpa vostra'). Fausto organizza weekend al mare, Adriano viene con Elena ('Evvieni co Elena che di certo e' meglio di te in costume'). 'La fregna che t'acceca!' e 'Da sborra super flu h24' sono i commenti sulla situazione estiva.",
+  "bestQuotes": [
+    {
+      "quote": "Avrai l'otite. O l'okite. O il gayolodellescimmie",
+      "author": "Cosimo Nenciòni",
+      "context": "Su Giacomo con febbre alta"
+    },
+    {
+      "quote": "Evvieni co Elena che di certo e' meglio di te in costume",
+      "author": "Cosimo Nenciòni",
+      "context": "Ad Adriano sul weekend al mare"
+    },
+    {
+      "quote": "La fregna che t'acceca!",
+      "author": "Cosimo Nenciòni",
+      "context": "Sull'estate"
+    },
+    {
+      "quote": "Da sborra super flu h24",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Sul caldo estivo"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Alessio Valentini",
+      "voto": 7.5,
+      "giudizio": "Ha condiviso video della Gialappa's, ha commentato 'io sto aspettando' sulla gravidanza. Presente con contenuti e commenti. Dall'America con affetto.",
+      "messaggi": 31,
+      "mediaGiornaliera": 4.4,
+      "highlights": [
+        "Sto aspettando",
+        "Video condivisi",
+        "Commenti estivi"
+      ],
+      "citazioneTop": "io sto aspettando"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 8.5,
+      "giudizio": "'Gayolodellescimmie' su Giacomo e' perfetta. 'La fregna che t'acceca' e 'Evvieni co Elena' dominano la settimana. Aperitivo dopo cena per far aspettare a figliare. Maestro dell'estate.",
+      "messaggi": 30,
+      "mediaGiornaliera": 4.3,
+      "highlights": [
+        "Gayolodellescimmie",
+        "La fregna che t'acceca",
+        "Elena meglio di Adriano in costume"
+      ],
+      "citazioneTop": "La fregna che t'acceca!"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 8.0,
+      "giudizio": "Ha notato il cognome Virginia ('Galli'). 'Da sborra super flu h24' e' memorabile. Ha organizzato il weekend al mare, teorizzando sull'antibiotico resistenza. Presente e incisivo.",
+      "messaggi": 27,
+      "mediaGiornaliera": 3.9,
+      "highlights": [
+        "Sborra super flu h24",
+        "Weekend al mare",
+        "Antibiotico resistenza"
+      ],
+      "citazioneTop": "Da sborra super flu h24"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 7.0,
+      "giudizio": "Ha avuto febbre a 39.3 ma tamponi negativi. 'Il dottore potevo anche non chiamarlo, gia' avevo preparato tutto'. Antibiotico per 6 giorni. Malato ma presente.",
+      "messaggi": 14,
+      "mediaGiornaliera": 2.0,
+      "highlights": [
+        "Febbre 39.3",
+        "Tamponi negativi",
+        "Si cura da solo"
+      ],
+      "citazioneTop": "Il dottore potevo anche non chiamarlo"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 7.0,
+      "giudizio": "Ha organizzato il weekend al mare ('Citti questo fine noi siamo al mare'). 'Ciccia baffina' e 'Piu' poppe che al porto di Livorno'. Notizie sulla nascita di Virginia.",
+      "messaggi": 11,
+      "mediaGiornaliera": 1.6,
+      "highlights": [
+        "Ha organizzato weekend",
+        "Ciccia baffina",
+        "Poppe al porto di Livorno"
+      ],
+      "citazioneTop": "Piu' poppe che al porto di livorno"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 6.0,
+      "giudizio": "Presente ma contenuto questa settimana. Ha fatto gli auguri per Virginia. Pochi messaggi ma c'e'.",
+      "messaggi": 8,
+      "mediaGiornaliera": 1.1,
+      "highlights": [
+        "Auguri per Virginia",
+        "Presente alle discussioni"
+      ],
+      "citazioneTop": ""
+    }
+  ],
+  "awards": {
+    "mvp": "Cosimo Nenciòni - Gayolodellescimmie e fregna che t'acceca",
+    "comico": "Adriano Sergio Lorenzo Facchini - Sborra super flu h24",
+    "cuore": "Fausto Petrini - Ha organizzato il weekend al mare",
+    "fantasma": "Alessio Macalùso - Solo 8 messaggi"
+  }
+}

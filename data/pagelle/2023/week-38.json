@@ -1,0 +1,95 @@
+{
+  "anno": 2023,
+  "settimana": 38,
+  "startDate": "2023-09-18",
+  "endDate": "2023-09-24",
+  "stats": {
+    "totalMessages": 22,
+    "activeMembers": 5,
+    "avgPerMember": 4.4
+  },
+  "riassunto": "Settimana dell'amico Amish e delle placche! Adriano propone cena a Firenze. Fausto: 'Eeehhhhh sarebbe top. Ma e' dura'. Cocco annuncia ritiro sociale: 'Ragazzi io stasera sono uscito a cena con un mio ex collega. Ora non usciro' tipo mai piu'. Ci rivediamo nel 2024. Pero' scrivetemi'. Adriano: 'Ti veniamo a trovare noi. Le visite di cortesia. Il nostro amico Amish'. Mac: 'Vengo anch'io'. Poi Cocco malato! 'Ho la febbre alta da ieri. Ho mal di gola e sono pieno di placche'. Foto placche. 'Come faccio a sapere se e' batterica?'. Adriano medico: 'Vai tranquillo e pigliate un amoxicillina. E segui la posologia'. Mac: 'L'importante e' che se inizi devi fare tutto il ciclo'. Adriano: 'Hai le placche, mi sembra piu' che sufficiente. Tocca smette di fumare Cocco'. 'La prossima volta fai che sia della Sandoz!'.",
+  "bestQuotes": [
+    {
+      "quote": "Ora non usciro' tipo mai piu'. Ci rivediamo nel 2024. Pero' scrivetemi",
+      "author": "Cosimo Nenciòni",
+      "context": "Ritiro sociale"
+    },
+    {
+      "quote": "Ti veniamo a trovare noi. Le visite di cortesia. Il nostro amico Amish",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Su Cocco ritirato"
+    },
+    {
+      "quote": "Tocca smette di fumare Cocco. O almeno limitare a una due siga, ma non di piu'",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Consiglio medico"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 8.5,
+      "giudizio": "Il medico del gruppo! 'Organizziamo una cena a Firenze?'. 'Ti veniamo a trovare noi. Le visite di cortesia'. 'Il nostro amico Amish'. Consulenza medica a Cocco: 'Vai tranquillo e pigliate un amoxicillina'. 'E segui la posologia'. 'Hai le placche, mi sembra piu' che sufficiente'. 'Tocca smette di fumare Cocco'. 'La prossima volta fai che sia della Sandoz!'. Dottore e organizzatore.",
+      "messaggi": 10,
+      "mediaGiornaliera": 1.4,
+      "highlights": [
+        "Consulenza medica",
+        "Amico Amish"
+      ],
+      "citazioneTop": "Il nostro amico Amish"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 8.0,
+      "giudizio": "Il ritirato malato! 'Ora non usciro' tipo mai piu'. Ci rivediamo nel 2024'. 'Ho la febbre alta da ieri e la tengo a bada col Brufen'. 'Sono pieno di placche'. 'Perche' sto abb di merda'. 'Come faccio a sapere se e' batterica?'. Condivide foto placche. Amish ma presente.",
+      "messaggi": 6,
+      "mediaGiornaliera": 0.9,
+      "highlights": [
+        "Ritiro sociale",
+        "Placche"
+      ],
+      "citazioneTop": "Ora non usciro' tipo mai piu'. Ci rivediamo nel 2024"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 7.0,
+      "giudizio": "'Non male'. 'Hahaha sei un mito'. Presente ma limitato questa settimana.",
+      "messaggi": 4,
+      "mediaGiornaliera": 0.6,
+      "highlights": [
+        "Supporto Cocco"
+      ],
+      "citazioneTop": "Sei un mito"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 7.0,
+      "giudizio": "'Vengo anch'io' per la visita a Cocco. 'L'importante e' che se inizi devi fare tutto il ciclo' sull'antibiotico. Solidale e informato.",
+      "messaggi": 2,
+      "mediaGiornaliera": 0.3,
+      "highlights": [
+        "Visita Cocco",
+        "Consiglio antibiotico"
+      ],
+      "citazioneTop": "L'importante e' che se inizi devi fare tutto il ciclo"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 6.5,
+      "giudizio": "'Eeehhhhh sarebbe top. Ma e' dura' sulla cena. Presente ma silenzioso.",
+      "messaggi": 2,
+      "mediaGiornaliera": 0.3,
+      "highlights": [
+        "Risposta cena"
+      ],
+      "citazioneTop": "Eeehhhhh sarebbe top. Ma e' dura"
+    }
+  ],
+  "awards": {
+    "mvp": "Adriano Sergio Lorenzo Facchini",
+    "comico": "Cosimo Nenciòni",
+    "cuore": "Alessio Macalùso",
+    "fantasma": "Giacomo Dolfi"
+  }
+}

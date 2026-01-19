@@ -1,0 +1,109 @@
+{
+  "anno": 2020,
+  "settimana": 18,
+  "startDate": "2020-04-27",
+  "endDate": "2020-05-03",
+  "stats": {
+    "totalMessages": 244,
+    "activeMembers": 6,
+    "avgPerMember": 40.7
+  },
+  "riassunto": "Una settimana all'insegna di poker, viaggi, calcio in pieno lockdown. 244 messaggi scambiati tra i 6 membri attivi, con il solito mix di ironia e discussioni serie.",
+  "bestQuotes": [
+    {
+      "quote": "hahahaha che lacche al cervello",
+      "author": "Alessio Valentini",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Vieni te cazzo approfittane! Si va sul fiume almeno. però presto perché se c'è il sole esce il mondo e io mi giro il cazzo",
+      "author": "Cosimo Nenciòni",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Hai preso delle carote del cazzo sappilo",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Momento memorabile della settimana"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 8.5,
+      "giudizio": "Maestro del sarcasmo, questa settimana era in forma smagliante. Nessuno è stato risparmiato.",
+      "messaggi": 50,
+      "mediaGiornaliera": 10.0,
+      "highlights": [
+        "Molto attivo, tra i più presenti della settimana",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "Chi primo arriva meglio alloggia"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 8.0,
+      "giudizio": "Lo Zen Master ha parlato, e il gruppo ha ascoltato. Le sue poche parole erano tutte oro.",
+      "messaggi": 48,
+      "mediaGiornaliera": 9.6,
+      "highlights": [
+        "Molto attivo, tra i più presenti della settimana",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "Ma è l’Adriano di Giulio con la gente"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 8.0,
+      "giudizio": "Il Lider Maximo ha guidato le discussioni con mano ferma e battute pungenti.",
+      "messaggi": 61,
+      "mediaGiornaliera": 12.2,
+      "highlights": [
+        "Molto attivo, tra i più presenti della settimana",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "Fausto è palesemente il Camilla di aperipoker"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 7.5,
+      "giudizio": "Il Trascinatore ha proposto, organizzato, coordinato. Che poi nessuno abbia risposto è un altro discorso.",
+      "messaggi": 35,
+      "mediaGiornaliera": 7.0,
+      "highlights": [
+        "Molto attivo, tra i più presenti della settimana",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "Allora sei duro: non ti poi moveeee"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 7.0,
+      "giudizio": "Presente e loquace, ma senza picchi memorabili. L'Adriano ordinario, che è già tanto.",
+      "messaggi": 34,
+      "mediaGiornaliera": 6.8,
+      "highlights": [
+        "Molto attivo, tra i più presenti della settimana",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "Si chiama Nencioni Cosimo.."
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 7.0,
+      "giudizio": "Presente quando connesso, assente quando scollegato. Il solito Alessio V.",
+      "messaggi": 16,
+      "mediaGiornaliera": 3.2,
+      "highlights": [
+        "Buona partecipazione alle discussioni",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "Tu hai fatto come gollum, io lo avevo dato al buon Sam..."
+    }
+  ],
+  "awards": {
+    "mvp": "Giacomo Dolfi",
+    "comico": "Cosimo Nenciòni",
+    "cuore": "Giacomo Dolfi",
+    "fantasma": "Alessio Valentini"
+  }
+}

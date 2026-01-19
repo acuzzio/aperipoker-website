@@ -1,0 +1,105 @@
+{
+  "anno": 2021,
+  "settimana": 27,
+  "startDate": "2021-07-05",
+  "endDate": "2021-07-11",
+  "stats": {
+    "totalMessages": 202,
+    "activeMembers": 6,
+    "avgPerMember": 33.7
+  },
+  "riassunto": "Una settimana di ordinaria follia con 202 messaggi. Cosimo in testa alla classifica.",
+  "bestQuotes": [
+    {
+      "quote": "Ma che davero? Maccheccazzo",
+      "author": "Cosimo Nenciòni",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Ahahahah è sul 3-3 al terzo",
+      "author": "Giacomo Dolfi",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "https://twitter.com/marco__lecce/status/1412682007511982081?s=08",
+      "author": "Cosimo Nenciòni",
+      "context": "Momento memorabile della settimana"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 7.8,
+      "giudizio": "Poche parole, massimo impatto. Il cecchino colpisce ancora.",
+      "messaggi": 54,
+      "mediaGiornaliera": 7.7,
+      "highlights": [
+        "Ha dominato la conversazione con il 27% dei messaggi",
+        "Ha stimolato la discussione con molte domande"
+      ],
+      "citazioneTop": "Ma che davero? Maccheccazzo"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 7.7,
+      "giudizio": "Per lui tanti messaggi! Deve essere successo qualcosa di importante.",
+      "messaggi": 53,
+      "mediaGiornaliera": 7.6,
+      "highlights": [
+        "Ha dominato la conversazione con il 26% dei messaggi",
+        "Ha fatto ridere il gruppo 4 volte"
+      ],
+      "citazioneTop": ""
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 6.5,
+      "giudizio": "Il solito Adriano: affidabile, verboso, immancabile.",
+      "messaggi": 34,
+      "mediaGiornaliera": 4.9,
+      "highlights": [
+        "Tra i piu' attivi con 34 messaggi"
+      ],
+      "citazioneTop": ""
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 6.1,
+      "giudizio": "Presente con il suo solito stile: curioso, ironico, pungente.",
+      "messaggi": 25,
+      "mediaGiornaliera": 3.6,
+      "highlights": [
+        "Ha contribuito con 25 messaggi"
+      ],
+      "citazioneTop": "Ahahahah è sul 3-3 al terzo"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 5.8,
+      "giudizio": "Ha fatto il suo, tra proposte e organizzazione. Qualcuno l'ha pure ascoltato.",
+      "messaggi": 20,
+      "mediaGiornaliera": 2.9,
+      "highlights": [
+        "Ha contribuito con 20 messaggi"
+      ],
+      "citazioneTop": ""
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 5.3,
+      "giudizio": "Assente o quasi. Forse cercava connessione WiFi.",
+      "messaggi": 16,
+      "mediaGiornaliera": 2.3,
+      "highlights": [
+        "Ha contribuito con 16 messaggi"
+      ],
+      "citazioneTop": ""
+    }
+  ],
+  "awards": {
+    "mvp": "Cosimo Nenciòni - Miglior voto della settimana con 7.8",
+    "comico": "Alessio Macalùso - Il piu' divertente della settimana",
+    "cuore": "Adriano Sergio Lorenzo Facchini - Presenza equilibrata e costante",
+    "fantasma": null
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "anno": 2021,
+  "settimana": 22,
+  "startDate": "2021-05-31",
+  "endDate": "2021-06-06",
+  "stats": {
+    "totalMessages": 307,
+    "activeMembers": 6,
+    "avgPerMember": 51.2
+  },
+  "riassunto": "Settimana 22 con 307 messaggi. Fausto guida le danze con 91 contributi.",
+  "bestQuotes": [
+    {
+      "quote": "ahahaha ma che diavoleria è mai questa?",
+      "author": "Alessio Valentini",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "hahha, lo so lo so. Che lo metteranno a fare? Lo sai?",
+      "author": "Alessio Valentini",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Alle ville scusa ahahaha",
+      "author": "Alessio Macalùso",
+      "context": "Momento memorabile della settimana"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Fausto Petrini",
+      "voto": 7.8,
+      "giudizio": "Il Trascinatore ha proposto, organizzato, coordinato. Come sempre nessuno l'ha seguito.",
+      "messaggi": 91,
+      "mediaGiornaliera": 13.0,
+      "highlights": [
+        "Ha dominato la conversazione con il 30% dei messaggi",
+        "Ha stimolato la discussione con molte domande"
+      ],
+      "citazioneTop": ""
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 7.4,
+      "giudizio": "Ha scritto piu' lui che il resto del gruppo messo insieme. E per una volta aveva senso.",
+      "messaggi": 78,
+      "mediaGiornaliera": 11.1,
+      "highlights": [
+        "Ha dominato la conversazione con il 25% dei messaggi",
+        "Ha stimolato la discussione con molte domande"
+      ],
+      "citazioneTop": ""
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 7.2,
+      "giudizio": "Presente con il suo solito stile: curioso, ironico, pungente.",
+      "messaggi": 65,
+      "mediaGiornaliera": 9.3,
+      "highlights": [
+        "Tra i piu' attivi con 65 messaggi",
+        "Ha stimolato la discussione con molte domande"
+      ],
+      "citazioneTop": "Ma cazzo, una volta che che si può andare a Siena, andiamo a Siena!"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 5.9,
+      "giudizio": "Contributo misurato, come nel suo stile. Ogni parola al suo posto.",
+      "messaggi": 31,
+      "mediaGiornaliera": 4.4,
+      "highlights": [
+        "Ha contribuito con 31 messaggi"
+      ],
+      "citazioneTop": "Alle ville scusa ahahaha"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 5.4,
+      "giudizio": "Presente con il suo solito stile minimale ma incisivo.",
+      "messaggi": 29,
+      "mediaGiornaliera": 4.1,
+      "highlights": [
+        "Ha contribuito con 29 messaggi"
+      ],
+      "citazioneTop": "No capito. Le sneakers sotto il completo? Spero tu non voglia insegnare al culo a cacare. Invece mitico che ha di male? La calvizie mortifera?"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 5.4,
+      "giudizio": "Il Giramondo si e' perso. Nessun segnale da terre lontane.",
+      "messaggi": 13,
+      "mediaGiornaliera": 1.9,
+      "highlights": [
+        "Ha contribuito con 13 messaggi"
+      ],
+      "citazioneTop": "ahahaha ma che diavoleria è mai questa?"
+    }
+  ],
+  "awards": {
+    "mvp": "Fausto Petrini - Miglior voto della settimana con 7.8",
+    "comico": "Alessio Macalùso - Il piu' divertente della settimana",
+    "cuore": "Giacomo Dolfi - Presenza equilibrata e costante",
+    "fantasma": null
+  }
+}

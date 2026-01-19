@@ -1,0 +1,118 @@
+{
+  "anno": 2022,
+  "settimana": 28,
+  "startDate": "2022-07-11",
+  "endDate": "2022-07-17",
+  "stats": {
+    "totalMessages": 43,
+    "activeMembers": 6,
+    "avgPerMember": 7.2
+  },
+  "riassunto": "Selfie time! Alessio Mac chiede selfie a tutti. Giacomo e' ad Arles a 800 gradi, Cosimo vede 'laggente nuda'. Alessio V. ha cacato sciolto 4 volte stanotte (Covid?). Adriano incontra Alberto Angela a Firenze ('un semplice ciao e lui si e' levato dai coglioni'). 'Pasquale e' fiero di te'. Si discute di coniglio fritto vs piccione.",
+  "bestQuotes": [
+    {
+      "quote": "Non ci crederai ma sono a firenze e ho appena salutato alberto angela",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Incontro con Alberto Angela"
+    },
+    {
+      "quote": "Stanotte cacato sciolto 4 volte",
+      "author": "Alessio Valentini",
+      "context": "Possibile sintomo Covid"
+    },
+    {
+      "quote": "Pasquale e' fiero di te",
+      "author": "Alessio Macalùso",
+      "context": "Ad Adriano per Alberto Angela"
+    },
+    {
+      "quote": "un semplice ciao e lui si e' levato dai coglioni perche' era al telefono",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Su come ha salutato Alberto Angela"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Alessio Macalùso",
+      "voto": 8.0,
+      "giudizio": "Ha lanciato il selfie time! Ha esentato Alessio perche' dorme. 'Pasquale e' fiero di te' ad Adriano per Alberto Angela. Ha spiegato che il Covid fa cacata sciolta.",
+      "messaggi": 15,
+      "mediaGiornaliera": 2.1,
+      "highlights": [
+        "Ha lanciato selfie time",
+        "Pasquale e' fiero",
+        "Ha spiegato il Covid"
+      ],
+      "citazioneTop": "Pasquale e' fiero di te"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 7.0,
+      "giudizio": "Cacato sciolto 4 volte stanotte. Vuole coniglio fritto e piccione. Ha commentato il video dell'elicottero ('fatto a pezzettini'). Presente con problemi intestinali.",
+      "messaggi": 9,
+      "mediaGiornaliera": 1.3,
+      "highlights": [
+        "Cacato sciolto",
+        "Coniglio fritto",
+        "Video elicottero"
+      ],
+      "citazioneTop": "Stanotte cacato sciolto 4 volte"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 6.5,
+      "giudizio": "Ha mandato selfie da lavoro, ha chiesto se Mac e' fuori dal Covid, ha condiviso media. Grande lavoratore.",
+      "messaggi": 5,
+      "mediaGiornaliera": 0.7,
+      "highlights": [
+        "Selfie da lavoro",
+        "Si e' preoccupato per Mac"
+      ],
+      "citazioneTop": "Ma mittico Pasquale"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 7.0,
+      "giudizio": "Ha mandato selfie con laggente nuda. Ha citato Piero Angela sulla classe politica. Ha condiviso Darwin Awards. Vede cose.",
+      "messaggi": 5,
+      "mediaGiornaliera": 0.7,
+      "highlights": [
+        "Laggente nuda",
+        "Piero Angela",
+        "Darwin Awards"
+      ],
+      "citazioneTop": "Vedo laggente nuda"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 8.5,
+      "giudizio": "Ha incontrato Alberto Angela! 'Un semplice ciao e lui si e' levato dai coglioni'. Ha condiviso foto. Momento storico per il gruppo.",
+      "messaggi": 5,
+      "mediaGiornaliera": 0.7,
+      "highlights": [
+        "Ha incontrato Alberto Angela",
+        "Ha salutato e lui se n'e' andato",
+        "Foto di prova"
+      ],
+      "citazioneTop": "ho appena salutato alberto angela"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 6.5,
+      "giudizio": "Ad Arles a 800 gradi, ha mandato selfie dalla Francia. Ha commentato le foto del gruppo. Vacanze calde.",
+      "messaggi": 4,
+      "mediaGiornaliera": 0.6,
+      "highlights": [
+        "Ad Arles a 800 gradi",
+        "Selfie dalla Francia"
+      ],
+      "citazioneTop": "Ad arles sono 800 gradi"
+    }
+  ],
+  "awards": {
+    "mvp": "Adriano Sergio Lorenzo Facchini - Ha incontrato Alberto Angela",
+    "comico": "Alessio Valentini - Cacato sciolto 4 volte",
+    "cuore": "Alessio Macalùso - Ha lanciato selfie time",
+    "fantasma": "Nessuno - Tutti hanno mandato selfie"
+  }
+}

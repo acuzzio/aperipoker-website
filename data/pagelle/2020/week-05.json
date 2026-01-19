@@ -1,0 +1,109 @@
+{
+  "anno": 2020,
+  "settimana": 5,
+  "startDate": "2020-01-27",
+  "endDate": "2020-02-02",
+  "stats": {
+    "totalMessages": 63,
+    "activeMembers": 6,
+    "avgPerMember": 10.5
+  },
+  "riassunto": "Il gruppo si è ritrovato per discutere di politica, uscite/cene, covid/virus. Con 63 messaggi totali, la settimana è stata nella norma.",
+  "bestQuotes": [
+    {
+      "quote": "Sisaunaseganodelcazzocheciraccontano",
+      "author": "Cosimo Nenciòni",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Na soprattutto non puoi scoparti i pipiatrelli...cazzo è la nuova frontiera...",
+      "author": "Fausto Petrini",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "infilaci la terza quando vedi che le 2 non ti fanno proprio un cazzo",
+      "author": "Alessio Valentini",
+      "context": "Momento memorabile della settimana"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Fausto Petrini",
+      "voto": 9.0,
+      "giudizio": "L'anima organizzativa del gruppo ha brillato. Quante uscite proposte? Quante andate in porto? Non importa.",
+      "messaggi": 16,
+      "mediaGiornaliera": 3.2,
+      "highlights": [
+        "Buona partecipazione alle discussioni",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "Città di 10milioni di persone-81 morti, su qualche migliaio di contagiati. Livello di paura: moderatamente ottimista"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 7.5,
+      "giudizio": "Fiume in piena come sempre, ma questa settimana i suoi monologhi avevano un senso. Miracolo natalizio?",
+      "messaggi": 10,
+      "mediaGiornaliera": 3.3,
+      "highlights": [
+        "Presente ma non dominante",
+        "Presente per buona parte della settimana"
+      ],
+      "citazioneTop": "Io volevo sapere le vostre"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 7.0,
+      "giudizio": "Presente con la consueta economia di parole. Nessun eccesso, nessun deficit.",
+      "messaggi": 12,
+      "mediaGiornaliera": 4.0,
+      "highlights": [
+        "Presente ma non dominante",
+        "Presente per buona parte della settimana"
+      ],
+      "citazioneTop": "Sisaunaseganodelcazzocheciraccontano"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 7.0,
+      "giudizio": "Il Lider ha supervisionato con discrezione. Interventi mirati, niente sprechi.",
+      "messaggi": 11,
+      "mediaGiornaliera": 3.7,
+      "highlights": [
+        "Presente ma non dominante",
+        "Presente per buona parte della settimana"
+      ],
+      "citazioneTop": "Ormai s'è perso il capo completamente"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 6.5,
+      "giudizio": "Presente quando connesso, assente quando scollegato. Il solito Alessio V.",
+      "messaggi": 9,
+      "mediaGiornaliera": 3.0,
+      "highlights": [
+        "Presente ma non dominante",
+        "Presente per buona parte della settimana"
+      ],
+      "citazioneTop": "i primi 2 mesi sono devastanti"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 6.0,
+      "giudizio": "Presente senza eccessi. L'equilibratore fa il suo lavoro in silenzio.",
+      "messaggi": 5,
+      "mediaGiornaliera": 1.2,
+      "highlights": [
+        "Interventi sporadici ma mirati",
+        "Presente per buona parte della settimana"
+      ],
+      "citazioneTop": "Vorrei tanto saper saldare"
+    }
+  ],
+  "awards": {
+    "mvp": "Fausto Petrini",
+    "comico": "Giacomo Dolfi",
+    "cuore": "Alessio Valentini",
+    "fantasma": "Alessio Macalùso"
+  }
+}

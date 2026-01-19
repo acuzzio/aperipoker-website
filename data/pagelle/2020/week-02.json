@@ -1,0 +1,108 @@
+{
+  "anno": 2020,
+  "settimana": 2,
+  "startDate": "2020-01-06",
+  "endDate": "2020-01-12",
+  "stats": {
+    "totalMessages": 85,
+    "activeMembers": 6,
+    "avgPerMember": 14.2
+  },
+  "riassunto": "Una settimana all'insegna di viaggi, lavoro, cinema/film. 85 messaggi scambiati tra i 6 membri attivi, con il solito mix di ironia e discussioni serie.",
+  "bestQuotes": [
+    {
+      "quote": "Ahahahah grande. Ma chi è che sta male",
+      "author": "Fausto Petrini",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Come cazzo ha fatto a scappare da un tamponamento????",
+      "author": "Giacomo Dolfi",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Che dite di questo guerre stellari?",
+      "author": "Giacomo Dolfi",
+      "context": "Momento memorabile della settimana"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Fausto Petrini",
+      "voto": 8.0,
+      "giudizio": "L'anima organizzativa del gruppo ha brillato. Quante uscite proposte? Quante andate in porto? Non importa.",
+      "messaggi": 17,
+      "mediaGiornaliera": 5.7,
+      "highlights": [
+        "Buona partecipazione alle discussioni",
+        "Presente per buona parte della settimana"
+      ],
+      "citazioneTop": "Purtroppo non abbiamo potuto mettere la firma del titolare"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 7.5,
+      "giudizio": "Maestro del sarcasmo, questa settimana era in forma smagliante. Nessuno è stato risparmiato.",
+      "messaggi": 17,
+      "mediaGiornaliera": 4.2,
+      "highlights": [
+        "Buona partecipazione alle discussioni",
+        "Presente per buona parte della settimana"
+      ],
+      "citazioneTop": "Dice che co  le telecamere non si vede una ceppa perché so vecchie transite"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 7.5,
+      "giudizio": "Il Giramondo ha scritto da qualche angolo del mondo con entusiasmo contagioso.",
+      "messaggi": 22,
+      "mediaGiornaliera": 5.5,
+      "highlights": [
+        "Buona partecipazione alle discussioni",
+        "Presente per buona parte della settimana"
+      ],
+      "citazioneTop": "Niente male. Grazie per la dedica."
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 6.5,
+      "giudizio": "Il Lider ha supervisionato con discrezione. Interventi mirati, niente sprechi.",
+      "messaggi": 12,
+      "mediaGiornaliera": 4.0,
+      "highlights": [
+        "Presente ma non dominante",
+        "Presente per buona parte della settimana"
+      ],
+      "citazioneTop": "Che dite di questo guerre stellari?"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 6.0,
+      "giudizio": "Ha partecipato con la consueta costanza. Niente di eclatante, ma neanche assenze ingiustificate.",
+      "messaggi": 11,
+      "mediaGiornaliera": 5.5,
+      "highlights": [
+        "Presente ma non dominante"
+      ],
+      "citazioneTop": "Mi hanno portato non meno di 700 mila kalorie in dolcetti"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 6.0,
+      "giudizio": "Presente senza eccessi. L'equilibratore fa il suo lavoro in silenzio.",
+      "messaggi": 6,
+      "mediaGiornaliera": 2.0,
+      "highlights": [
+        "Presente ma non dominante",
+        "Presente per buona parte della settimana"
+      ],
+      "citazioneTop": "Ho la febbra voi come state?"
+    }
+  ],
+  "awards": {
+    "mvp": "Alessio Valentini",
+    "comico": "Alessio Valentini",
+    "cuore": "Fausto Petrini",
+    "fantasma": "Alessio Macalùso"
+  }
+}

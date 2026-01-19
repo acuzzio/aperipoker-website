@@ -1,0 +1,118 @@
+{
+  "anno": 2022,
+  "settimana": 11,
+  "startDate": "2022-03-16",
+  "endDate": "2022-03-20",
+  "stats": {
+    "totalMessages": 62,
+    "activeMembers": 6,
+    "avgPerMember": 10.3
+  },
+  "riassunto": "Alessio Mac propone cinema (Batma!) ma Cosimo va a Sbiriliano. Fausto propone cena l'8 aprile perche' sara' solo... o quasi. Adriano scopre che moglie e figlio tornano alle 22:30 ('Quindi che eri solo e' una cazzata'). La puntata di Cattelan con Baggio commuove Alessio Mac ('Con tutto rispetto per Gilardino'). Si organizza tra incroci, disponibilita' e la solita difficolta' a combinare.",
+  "bestQuotes": [
+    {
+      "quote": "Batma",
+      "author": "Alessio Macalùso",
+      "context": "Proposta cinema sintetica"
+    },
+    {
+      "quote": "Quindi che eri solo e' una cazzata. Bene a sapersi",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Scoprendo che Fausto non era davvero solo l'8 aprile"
+    },
+    {
+      "quote": "Incrociare mi moglie e mi figliolo incide sulla tua presenza o meno, buono a sapersi",
+      "author": "Fausto Petrini",
+      "context": "Risposta piccata ad Adriano"
+    },
+    {
+      "quote": "Mi sono commosso. Con tutto rispetto per gilardino",
+      "author": "Alessio Macalùso",
+      "context": "Sulla puntata di Cattelan con Baggio"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Alessio Macalùso",
+      "voto": 8.0,
+      "giudizio": "L'organizzatore della settimana. Propone cinema, consiglia la puntata di Baggio, si commuove (con rispetto per Gilardino). Da aprile lavorera' anche i weekend, quindi preme per vedersi. 'Batma' e' poesia.",
+      "messaggi": 18,
+      "mediaGiornaliera": 2.6,
+      "highlights": [
+        "Ha proposto cinema",
+        "Si e' commosso per Baggio",
+        "Ha avvisato dei weekend lavorativi"
+      ],
+      "citazioneTop": "Mi sono commosso. Con tutto rispetto per gilardino"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 7.5,
+      "giudizio": "Propone cena l'8 aprile 'da solo' (spoiler: non proprio). Si difende con classe da Adriano che lo inquisisce. 'Babbi dispensati' e' una filosofia di vita. Ha risposto piccato ma con stile.",
+      "messaggi": 16,
+      "mediaGiornaliera": 2.3,
+      "highlights": [
+        "Ha proposto cena",
+        "Si e' difeso da Adriano",
+        "Ha offerto notte fonda con piano di sopra"
+      ],
+      "citazioneTop": "Incrociare mi moglie e mi figliolo incide sulla tua presenza o meno, buono a sapersi"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 7.0,
+      "giudizio": "L'inquisitore: 'Come mai l'8 aprile ti lasciano solo?', 'Quindi che eri solo e' una cazzata'. Pero' poi si impegna a venire e magari porta Elena. Il treno natura e' stato ripristinato!",
+      "messaggi": 13,
+      "mediaGiornaliera": 1.9,
+      "highlights": [
+        "Ha interrogato Fausto sulla solitudine",
+        "Si e' impegnato a partecipare",
+        "Notizie sul treno natura"
+      ],
+      "citazioneTop": "Quindi che eri solo e' una cazzata. Bene a sapersi"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 6.5,
+      "giudizio": "Va a Sbiriliano tutto il weekend cosi' Luna si ammala di nuovo. Condivide link di Rai Scuola ('Roba da chiodi'). Pochi messaggi ma sempre sul pezzo.",
+      "messaggi": 8,
+      "mediaGiornaliera": 1.1,
+      "highlights": [
+        "Va a Sbiriliano",
+        "Ha condiviso Rai Scuola",
+        "Si e' flashato con qualcosa"
+      ],
+      "citazioneTop": "Roba da chiodi"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 6.0,
+      "giudizio": "Si e' svegliato ora e gli andrebbe il cinema. Pochi messaggi ma apprezza la puntata di Baggio. 'Spettacolo' e' il suo commento standard.",
+      "messaggi": 5,
+      "mediaGiornaliera": 0.7,
+      "highlights": [
+        "Si e' svegliato tardi",
+        "Ha apprezzato Baggio"
+      ],
+      "citazioneTop": "Mi ci andrebbe anche, e mi sono svegliato ora..."
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 5.5,
+      "giudizio": "Due soli messaggi: Batma deve essere bello ma non puo'. E la serie con Vialli e' anche meglio. Il Lider questa settimana osserva.",
+      "messaggi": 2,
+      "mediaGiornaliera": 0.3,
+      "highlights": [
+        "Ha apprezzato Batma a distanza",
+        "Ha consigliato la serie con Vialli"
+      ],
+      "citazioneTop": "Quella con vialli anche meglio"
+    }
+  ],
+  "awards": {
+    "mvp": "Alessio Macalùso - Tra Batma, Baggio e organizzazione",
+    "comico": "Adriano Sergio Lorenzo Facchini - L'inquisitore della solitudine",
+    "cuore": "Alessio Macalùso - Si e' commosso per Baggio",
+    "fantasma": "Giacomo Dolfi - Solo due messaggi"
+  }
+}

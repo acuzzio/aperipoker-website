@@ -1,0 +1,109 @@
+{
+  "anno": 2020,
+  "settimana": 24,
+  "startDate": "2020-06-08",
+  "endDate": "2020-06-14",
+  "stats": {
+    "totalMessages": 107,
+    "activeMembers": 6,
+    "avgPerMember": 17.8
+  },
+  "riassunto": "Il gruppo si è ritrovato per discutere di poker, uscite/cene, covid/virus nella fase di riapertura. Con 107 messaggi totali, la settimana è stata nella norma.",
+  "bestQuotes": [
+    {
+      "quote": "Maaaaa...secondo il nuovo dpcm si potrà giocare a carte?",
+      "author": "Fausto Petrini",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Io posso portare il mio ma ditemi voi. Il fumo darà noia?",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Ma domani sera allora chi saremmo?",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Momento memorabile della settimana"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 8.0,
+      "giudizio": "Ha scritto più lui in tre giorni che alcuni in un mese. Ma almeno era divertente.",
+      "messaggi": 28,
+      "mediaGiornaliera": 4.7,
+      "highlights": [
+        "Buona partecipazione alle discussioni",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "Ce l’ho pure io, meno nuovo.."
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 8.0,
+      "giudizio": "Il Trascinatore ha proposto, organizzato, coordinato. Che poi nessuno abbia risposto è un altro discorso.",
+      "messaggi": 25,
+      "mediaGiornaliera": 5.0,
+      "highlights": [
+        "Buona partecipazione alle discussioni",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "Nuovo nuovo, l'avrà usato 3 volte"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 7.5,
+      "giudizio": "Il Provocatore Raffinato colpisce ancora. Con tre frasi ha detto più di altri in venti messaggi.",
+      "messaggi": 11,
+      "mediaGiornaliera": 2.2,
+      "highlights": [
+        "Presente ma non dominante",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "Ragazzi io ovviamente non ci sarò"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 7.5,
+      "giudizio": "Lo Zen Master ha parlato, e il gruppo ha ascoltato. Le sue poche parole erano tutte oro.",
+      "messaggi": 19,
+      "mediaGiornaliera": 3.8,
+      "highlights": [
+        "Buona partecipazione alle discussioni",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "Grazie del consiglio ma non sono attrezzato e ci sta anche che piova"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 7.0,
+      "giudizio": "Contributi sporadici ma sempre affettuosi. Il Giramondo mantiene i contatti.",
+      "messaggi": 14,
+      "mediaGiornaliera": 2.8,
+      "highlights": [
+        "Presente ma non dominante",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "io ce li ho due o tre, ma in silicone"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 6.5,
+      "giudizio": "Presente come un patriarca benevolo: osserva, ogni tanto commenta, sempre con ironia.",
+      "messaggi": 10,
+      "mediaGiornaliera": 2.5,
+      "highlights": [
+        "Presente ma non dominante",
+        "Presente per buona parte della settimana"
+      ],
+      "citazioneTop": "Per spostare il mio bisognerebbe trovare una bombola di gas e una macchina dove entri....meglio altro direi"
+    }
+  ],
+  "awards": {
+    "mvp": "Adriano Sergio Lorenzo Facchini",
+    "comico": "Alessio Macalùso",
+    "cuore": "Alessio Valentini",
+    "fantasma": "Giacomo Dolfi"
+  }
+}

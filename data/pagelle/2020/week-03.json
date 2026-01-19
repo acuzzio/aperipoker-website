@@ -1,0 +1,109 @@
+{
+  "anno": 2020,
+  "settimana": 3,
+  "startDate": "2020-01-13",
+  "endDate": "2020-01-19",
+  "stats": {
+    "totalMessages": 163,
+    "activeMembers": 6,
+    "avgPerMember": 27.2
+  },
+  "riassunto": "Il gruppo si è ritrovato per discutere di cinema/film, uscite/cene, poker. Con 163 messaggi totali, la settimana è stata nella norma.",
+  "bestQuotes": [
+    {
+      "quote": "Ahahah ottimo incontro chiave!",
+      "author": "Giacomo Dolfi",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "che giramento di cazzo incredibile",
+      "author": "Alessio Valentini",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "qualcuno ha carta di debito visa o mastercard?",
+      "author": "Alessio Valentini",
+      "context": "Momento memorabile della settimana"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 8.0,
+      "giudizio": "Sintetico ma letale come sempre. Le sue battute secche hanno fatto centro.",
+      "messaggi": 30,
+      "mediaGiornaliera": 6.0,
+      "highlights": [
+        "Buona partecipazione alle discussioni",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "Qual è la domanda non si capisce una sega"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 8.0,
+      "giudizio": "Fausto on fire! Ha tenuto vivo il gruppo con entusiasmo invidiabile.",
+      "messaggi": 33,
+      "mediaGiornaliera": 6.6,
+      "highlights": [
+        "Molto attivo, tra i più presenti della settimana",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "Dai se no  sbaglio pensavi di più no? Puoi farcela. Ti si verrà a trovare alla mise, magari ci scappa di farti prendere una nota  negativa"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 7.5,
+      "giudizio": "Il Re della Chat ha dominato la settimana con la consueta verbosità. Quando Adriano parla, il gruppo ascolta (volente o nolente).",
+      "messaggi": 37,
+      "mediaGiornaliera": 7.4,
+      "highlights": [
+        "Molto attivo, tra i più presenti della settimana",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "È un dono di Dio, non si può comprare."
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 7.5,
+      "giudizio": "Nonostante il fuso orario impossibile, Alessio V. ha tenuto alto il morale del gruppo.",
+      "messaggi": 38,
+      "mediaGiornaliera": 7.6,
+      "highlights": [
+        "Molto attivo, tra i più presenti della settimana",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "qualcuno ha carta di debito visa o mastercard?"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 7.0,
+      "giudizio": "Presente come un patriarca benevolo: osserva, ogni tanto commenta, sempre con ironia.",
+      "messaggi": 15,
+      "mediaGiornaliera": 3.8,
+      "highlights": [
+        "Presente ma non dominante",
+        "Presente per buona parte della settimana"
+      ],
+      "citazioneTop": "Altezza medie delle fette?"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 6.5,
+      "giudizio": "Il solito Alessio Mac: pacato, presente, essenziale. Niente sprechi di parole.",
+      "messaggi": 10,
+      "mediaGiornaliera": 1.7,
+      "highlights": [
+        "Presente ma non dominante",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "Mmmm io entro a lavoro alle 6 di mattina"
+    }
+  ],
+  "awards": {
+    "mvp": "Alessio Valentini",
+    "comico": "Alessio Valentini",
+    "cuore": "Alessio Valentini",
+    "fantasma": "Alessio Macalùso"
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "anno": 2020,
+  "settimana": 49,
+  "startDate": "2020-11-30",
+  "endDate": "2020-12-06",
+  "stats": {
+    "totalMessages": 128,
+    "activeMembers": 6,
+    "avgPerMember": 21.3
+  },
+  "riassunto": "Il gruppo si è ritrovato per discutere di viaggi, lavoro, uscite/cene con le restrizioni autunnali. Con 128 messaggi totali, la settimana è stata positivo.",
+  "bestQuotes": [
+    {
+      "quote": "Ahahahah mi ricordo! Non mi ricordo la faccia ma la scena sì",
+      "author": "Alessio Macalùso",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Ahahah bene! Ma fattele grattare...anzi no, meglio fare da soli, da più soddisfazione",
+      "author": "Giacomo Dolfi",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Che fate per capodanno? ahahahah",
+      "author": "Alessio Macalùso",
+      "context": "Momento memorabile della settimana"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 8.0,
+      "giudizio": "Il Lider Maximo ha guidato le discussioni con mano ferma e battute pungenti.",
+      "messaggi": 27,
+      "mediaGiornaliera": 5.4,
+      "highlights": [
+        "Buona partecipazione alle discussioni",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "Zitti zitti oggi sono distrutto"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 7.5,
+      "giudizio": "Il Re della Chat ha dominato la settimana con la consueta verbosità. Quando Adriano parla, il gruppo ascolta (volente o nolente).",
+      "messaggi": 27,
+      "mediaGiornaliera": 3.9,
+      "highlights": [
+        "Buona partecipazione alle discussioni",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "Seduto 🪑, va anche al bar"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 7.5,
+      "giudizio": "Nonostante il fuso orario impossibile, Alessio V. ha tenuto alto il morale del gruppo.",
+      "messaggi": 30,
+      "mediaGiornaliera": 6.0,
+      "highlights": [
+        "Buona partecipazione alle discussioni",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "l'hai comprata a 24 perché prima 'un c' erano"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 7.5,
+      "giudizio": "La Voce della Ragione si è fatta sentire con saggezza e tempismo perfetto.",
+      "messaggi": 12,
+      "mediaGiornaliera": 2.0,
+      "highlights": [
+        "Presente ma non dominante",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "Nel senso che vai a lavoro ma al comune non si fa una sega"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 7.0,
+      "giudizio": "Il solito Fausto: propositivo, ottimista, e leggermente frustrato dalle mancate risposte.",
+      "messaggi": 19,
+      "mediaGiornaliera": 3.2,
+      "highlights": [
+        "Buona partecipazione alle discussioni",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "Cellino san marco...uhm..."
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 6.5,
+      "giudizio": "Ha contribuito con il suo stile minimalista. Efficace, anche se non memorabile.",
+      "messaggi": 13,
+      "mediaGiornaliera": 4.3,
+      "highlights": [
+        "Presente ma non dominante",
+        "Presente per buona parte della settimana"
+      ],
+      "citazioneTop": "È una vita di stenti e privazioni"
+    }
+  ],
+  "awards": {
+    "mvp": "Adriano Sergio Lorenzo Facchini",
+    "comico": "Alessio Macalùso",
+    "cuore": "Adriano Sergio Lorenzo Facchini",
+    "fantasma": "Alessio Macalùso"
+  }
+}

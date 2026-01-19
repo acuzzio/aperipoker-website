@@ -1,0 +1,108 @@
+{
+  "anno": 2023,
+  "settimana": 23,
+  "startDate": "2023-06-05",
+  "endDate": "2023-06-11",
+  "stats": {
+    "totalMessages": 84,
+    "activeMembers": 6,
+    "avgPerMember": 14.0
+  },
+  "riassunto": "Settimana dell'avvocato incompetente e della teoria del complotto! Alessio V. furioso: 'Il mio avvocato mi dice OGGI che NON HA APPLICATO PER IL MIO TRAVEL PERMIT... sono incazzato NERO'. Costa 6000 dollari per la Green Card, 15000 in coppia. Adriano: 'Io spero che una civiltà superiore stermini solo gli abitanti degli USA'. Discussione sulla profilazione: 'Non ho mai nominato Panerai negli ultimi mesi. L'ho solo pensato'. Fausto: 'Cmq ci ascoltano'. Cocco cita Danny De Vito in The Rainmaker. Mac: 'Quindi cena aperipoker a Natale?' Se Alessio V. torna a dicembre 'è grassa'.",
+  "bestQuotes": [
+    {
+      "quote": "Il mio avvocato mi dice OGGI che NON HA APPLICATO PER IL MIO TRAVEL PERMIT... sono incazzato NERO",
+      "author": "Alessio Valentini",
+      "context": "Sfogo sull'avvocato"
+    },
+    {
+      "quote": "Io spero che una civiltà superiore venuta da lontano stermini solo gli abitanti degli USA",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Solidarietà con Alessio V."
+    },
+    {
+      "quote": "Non ho mai nominato Panerai negli ultimi mesi. L'ho solo pensato",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Sulla profilazione e le pubblicità"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 8.5,
+      "giudizio": "Video che 'mi fa impazzire'. 'Non ho mai nominato Panerai, l'ho solo pensato' - teoria del complotto. 'Io spero che una civiltà superiore stermini solo gli abitanti degli USA'. '6 mila dollari per fare cosa nel dettaglio?!?!' Molto preciso il tuo avvocato'. Solidale e complottista.",
+      "messaggi": 28,
+      "mediaGiornaliera": 4.0,
+      "highlights": [
+        "Teoria profilazione",
+        "Solidarietà con Alessio V."
+      ],
+      "citazioneTop": "Io spero che una civiltà superiore venuta da lontano stermini solo gli abitanti degli USA"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 8.0,
+      "giudizio": "Sfogo epico sull'avvocato: 'NON HA APPLICATO PER IL MIO TRAVEL PERMIT'. 'Sono così incazzato che ho preso giorno di ferie'. 'Era quello che costava meno, ovviamente. Solo 6 mila dollari'. 'Mi sono sposato praticamente solo per questo'. 'Se torno a Dicembre è grassa'. Momento difficile.",
+      "messaggi": 22,
+      "mediaGiornaliera": 3.1,
+      "highlights": [
+        "Sfogo avvocato",
+        "Rivelazione matrimonio"
+      ],
+      "citazioneTop": "Guarda che io mi sono sposato praticamente solo per questo"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 7.5,
+      "giudizio": "Teoria sulla profilazione: 'Può essere che l'ha cercato il tuo amico e Google ha registrato'. 'Oppure ci ascoltano, ma dice sia fuorilegge'. 'Cmq ci ascoltano'. 'Ma gnomo via... MA VIAAAAAAA. Mongolo di merda' sull'avvocato. 'La mixmoglie me lo avrà fatto vedere 100 volte' su The Rainmaker. Complottista solidale.",
+      "messaggi": 14,
+      "mediaGiornaliera": 2.0,
+      "highlights": [
+        "Teoria profilazione",
+        "Solidarietà con Alessio V."
+      ],
+      "citazioneTop": "Cmq ci ascoltano"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 7.0,
+      "giudizio": "'Un cocktail Martini per me'. Articolo su Spalletti: 'Fenomenali'. 'Mi fa pensare a Danny De Vito in The Rainmaker' sull'avvocato. 'Due giganti'. 'Vero. Cmq io ne ho viste di peggiori' sul calcio. Cinefilo e distaccato.",
+      "messaggi": 10,
+      "mediaGiornaliera": 1.4,
+      "highlights": [
+        "Citazione The Rainmaker",
+        "Commento calcio"
+      ],
+      "citazioneTop": "Mi fa pensare a Danny De Vito in The Rainmaker"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 7.0,
+      "giudizio": "'Anche a me' sul video. 'Siete in una baita di montagna' sul bar. 'Yess' sulla Trattoria del Pesce. 'Forza Inter'. 'Quindi cena aperipoker a Natale?' - già organizza. Pratico e ottimista.",
+      "messaggi": 6,
+      "mediaGiornaliera": 0.9,
+      "highlights": [
+        "Proposta cena Natale",
+        "Supporto Inter"
+      ],
+      "citazioneTop": "Quindi cena aperipoker a Natale?"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 6.5,
+      "giudizio": "'C'è il panino al piccione?' Presente ma con pochi contributi questa settimana. Il Fondatore silenzioso.",
+      "messaggi": 4,
+      "mediaGiornaliera": 0.6,
+      "highlights": [
+        "Domanda sul piccione"
+      ],
+      "citazioneTop": "C'è il panino al piccione?"
+    }
+  ],
+  "awards": {
+    "mvp": "Adriano Sergio Lorenzo Facchini",
+    "comico": "Fausto Petrini",
+    "cuore": "Alessio Macalùso",
+    "fantasma": null
+  }
+}

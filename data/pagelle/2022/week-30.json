@@ -1,0 +1,117 @@
+{
+  "anno": 2022,
+  "settimana": 30,
+  "startDate": "2022-07-25",
+  "endDate": "2022-07-31",
+  "stats": {
+    "totalMessages": 110,
+    "activeMembers": 6,
+    "avgPerMember": 18.3
+  },
+  "riassunto": "Cosimo ha febbre alta ma non e' Covid, e' otite. 'Dovrei fare antibiotico ma mi sa che non faccio un cazzo'. Luna e' 'ben piantata' per il rugby. Adriano nota la moda delle ragazze senza reggiseno ('Se non dai il culo dovresti indossare quantomeno burka!'). Alessio V. condivide video di elicotteri che fanno a pezzettini la gente. 'Odio tutti' dice Adriano ricordando il pranzo dove aveva i sintomi.",
+  "bestQuotes": [
+    {
+      "quote": "Se non dai il culo dovresti indossare quantomeno burka!",
+      "author": "Cosimo Nenciòni",
+      "context": "Sulle ragazze senza reggiseno"
+    },
+    {
+      "quote": "Io quando avevo i sintomi ero con voi a pranzo. Odio tutti",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Sul suo contagio al pranzo"
+    },
+    {
+      "quote": "bravo coglione, ora non lo fai piu'",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Citando il babbo su un incidente"
+    },
+    {
+      "quote": "Iscrivila a rugby, la vedo ben piantata!",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Su Luna"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Alessio Valentini",
+      "voto": 7.5,
+      "giudizio": "Ha condiviso video di incidenti con elicotteri ('fatto a pezzettini'). Ha avvertito di non andare alle Hawaii. Ha commentato la moda senza reggiseno. Presente con contenuti splatter.",
+      "messaggi": 30,
+      "mediaGiornaliera": 4.3,
+      "highlights": [
+        "Video elicotteri splatter",
+        "Avvertimento Hawaii",
+        "Commenti sulla moda"
+      ],
+      "citazioneTop": "cose cosi' ti rovinano la giornata"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 8.0,
+      "giudizio": "Ha l'otite, non il Covid. Non fara' un cazzo di antibiotico. Luna e' ben piantata. 'Se non dai il culo, burka!' e' leggendaria. Ha guarito (quasi).",
+      "messaggi": 28,
+      "mediaGiornaliera": 4.0,
+      "highlights": [
+        "Otite non Covid",
+        "Non fa antibiotico",
+        "Burka per chi non da' il culo"
+      ],
+      "citazioneTop": "Se non dai il culo dovresti indossare quantomeno burka!"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 7.5,
+      "giudizio": "Ha notato la moda senza reggiseno. 'Odio tutti' sul contagio. Ha citato il babbo ('bravo coglione'). Propone rugby per Luna. Sempre osservatore attento.",
+      "messaggi": 25,
+      "mediaGiornaliera": 3.6,
+      "highlights": [
+        "Moda senza reggiseno",
+        "Odio tutti",
+        "Rugby per Luna"
+      ],
+      "citazioneTop": "Io quando avevo i sintomi ero con voi a pranzo. Odio tutti"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 6.5,
+      "giudizio": "Ha confermato che il Covid fa sintomi strani. Ha commentato la moda ('Penso di essere d'accordo'). Presente alle discussioni.",
+      "messaggi": 12,
+      "mediaGiornaliera": 1.7,
+      "highlights": [
+        "Ha confermato sintomi Covid",
+        "D'accordo sulla moda"
+      ],
+      "citazioneTop": "Penso di essere d'accordo anch'io"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 6.5,
+      "giudizio": "Ha chiesto notizie su Cosimo, ha riso della foto di Luna. 'Buon per te' sulla guarigione. Presente ma contenuto.",
+      "messaggi": 11,
+      "mediaGiornaliera": 1.6,
+      "highlights": [
+        "Ha chiesto di Cosimo",
+        "Buon per te"
+      ],
+      "citazioneTop": "Buon per te"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 5.5,
+      "giudizio": "Quattro messaggi in tutta la settimana. Ancora in Francia? Il Lider in pausa estiva.",
+      "messaggi": 4,
+      "mediaGiornaliera": 0.6,
+      "highlights": [
+        "Pochi messaggi",
+        "Pausa estiva"
+      ],
+      "citazioneTop": ""
+    }
+  ],
+  "awards": {
+    "mvp": "Cosimo Nenciòni - Otite, burka e guarigione senza antibiotico",
+    "comico": "Adriano Sergio Lorenzo Facchini - 'Odio tutti' sul contagio",
+    "cuore": "Alessio Valentini - Video splatter per la comunita'",
+    "fantasma": "Giacomo Dolfi - Solo quattro messaggi"
+  }
+}

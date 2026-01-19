@@ -1,0 +1,120 @@
+{
+  "anno": 2022,
+  "settimana": 38,
+  "startDate": "2022-09-20",
+  "endDate": "2022-09-25",
+  "stats": {
+    "totalMessages": 95,
+    "activeMembers": 6,
+    "avgPerMember": 15.8
+  },
+  "riassunto": "Settimana elettorale! Si organizza il viaggio per i 40 anni: Budapest, Langhe, Barcellona, Bilbao. Adriano propone 'una bella bomba atomica a Budapest'. Cosimo non puo' ('Renata potrebbe incularmi'). Giacomo vota alle 22.50. Alessio Mac va a votare ma non vota ('troppa coda'). Giec vota alle 7.03 lasciando sopra il dito.",
+  "bestQuotes": [
+    {
+      "quote": "Direi di prendere una bella bomba atomica a Budapest",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Sul viaggio dei 40 anni"
+    },
+    {
+      "quote": "Renata potrebbe incularmi",
+      "author": "Cosimo Nenciòni",
+      "context": "Sulla possibilita' di partecipare"
+    },
+    {
+      "quote": "Giec sicuramente alle 7.03 avra' infilato la scheda nell'urna lasciandoci sopra il dito",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Su Giacomo che vota presto"
+    },
+    {
+      "quote": "Io sono andato ma non ho votato troppa coda",
+      "author": "Alessio Macalùso",
+      "context": "Sull'astensione forzata"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 8.0,
+      "giudizio": "'Bomba atomica a Budapest' e' il piano. Ha preso in giro Giec per il voto alle 7.03. Ha commentato Putin ('Un amicone'). Organizzatore ironico.",
+      "messaggi": 34,
+      "mediaGiornaliera": 5.7,
+      "highlights": [
+        "Bomba atomica Budapest",
+        "Giec alle 7.03",
+        "Putin amicone"
+      ],
+      "citazioneTop": "Direi di prendere una bella bomba atomica a Budapest"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 7.5,
+      "giudizio": "'Renata potrebbe incularmi' sul viaggio e' sincero. Ha condiviso il Terzo Segreto di Satira. Ha votato senza coda. Putin e' 'un amicone'. Presente e politico.",
+      "messaggi": 24,
+      "mediaGiornaliera": 4.0,
+      "highlights": [
+        "Renata potrebbe incularmi",
+        "Terzo Segreto",
+        "Ha votato senza coda"
+      ],
+      "citazioneTop": "Renata potrebbe incularmi"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 7.5,
+      "giudizio": "Ha proposto le destinazioni: Langhe, Budapest, Barcellona, Bilbao, Monaco. Ha sollecitato le risposte. '40 anni e non sentirli'. Organizzatore del gruppo.",
+      "messaggi": 12,
+      "mediaGiornaliera": 2.0,
+      "highlights": [
+        "Ha proposto destinazioni",
+        "Ha sollecitato",
+        "40 anni e non sentirli"
+      ],
+      "citazioneTop": "40 anni e non sentirli"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 7.0,
+      "giudizio": "Vota alle 22.50. Per lui solo 18/20 novembre. Ha commentato il Terzo Segreto ('Fantastici'). Code anche all'Arbia.",
+      "messaggi": 11,
+      "mediaGiornaliera": 1.8,
+      "highlights": [
+        "Vota alle 22.50",
+        "Solo 18/20 novembre",
+        "Code all'Arbia"
+      ],
+      "citazioneTop": "Io voto alle 22.50"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 6.5,
+      "giudizio": "'Che ha fatto?' su Putin. 'Bravissimo' su Cosimo. Presente ma contenuto in settimana elettorale.",
+      "messaggi": 9,
+      "mediaGiornaliera": 1.5,
+      "highlights": [
+        "Che ha fatto Putin",
+        "Bravissimo",
+        "Presente"
+      ],
+      "citazioneTop": "che ha fatto?"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 7.0,
+      "giudizio": "E' andato a votare ma non ha votato per la coda. 'Budapest top' e ok per entrambe le date. Quest'anno vota a San Miniato, quartiere di anziani.",
+      "messaggi": 5,
+      "mediaGiornaliera": 0.8,
+      "highlights": [
+        "Non ha votato per la coda",
+        "Budapest top",
+        "Quartiere di anziani"
+      ],
+      "citazioneTop": "Io sono andato ma non ho votato troppa coda"
+    }
+  ],
+  "awards": {
+    "mvp": "Adriano Sergio Lorenzo Facchini - Bomba atomica a Budapest",
+    "comico": "Cosimo Nenciòni - Renata potrebbe incularmi",
+    "cuore": "Fausto Petrini - Ha organizzato il viaggio dei 40 anni",
+    "fantasma": "Nessuno - Tutti presenti per le elezioni"
+  }
+}

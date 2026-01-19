@@ -1,0 +1,109 @@
+{
+  "anno": 2020,
+  "settimana": 21,
+  "startDate": "2020-05-18",
+  "endDate": "2020-05-24",
+  "stats": {
+    "totalMessages": 140,
+    "activeMembers": 6,
+    "avgPerMember": 23.3
+  },
+  "riassunto": "Una settimana all'insegna di viaggi, calcio, uscite/cene in pieno lockdown. 140 messaggi scambiati tra i 6 membri attivi, con il solito mix di ironia e discussioni serie.",
+  "bestQuotes": [
+    {
+      "quote": "Ahahahahah era prevedibile!",
+      "author": "Giacomo Dolfi",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Pinocchio hai rotto le palle ma non i coglioni, il cazzo",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Ragazzi, io sabato ci sono! Non a cena ma a pranzo",
+      "author": "Giacomo Dolfi",
+      "context": "Momento memorabile della settimana"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Fausto Petrini",
+      "voto": 8.5,
+      "giudizio": "L'anima organizzativa del gruppo ha brillato. Quante uscite proposte? Quante andate in porto? Non importa.",
+      "messaggi": 30,
+      "mediaGiornaliera": 6.0,
+      "highlights": [
+        "Buona partecipazione alle discussioni",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "Oviettivo autofocus 18-100 se vuoi essere decente."
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 8.0,
+      "giudizio": "Fiume in piena come sempre, ma questa settimana i suoi monologhi avevano un senso. Miracolo natalizio?",
+      "messaggi": 42,
+      "mediaGiornaliera": 7.0,
+      "highlights": [
+        "Molto attivo, tra i più presenti della settimana",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "Non perplimerti troppo, la libertà di parola esiste ancora per fortuna."
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 8.0,
+      "giudizio": "Maestro del sarcasmo, questa settimana era in forma smagliante. Nessuno è stato risparmiato.",
+      "messaggi": 30,
+      "mediaGiornaliera": 6.0,
+      "highlights": [
+        "Buona partecipazione alle discussioni",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "A me piace più per l'estetica e per il peso leggero. Le foto non le so fare."
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 6.5,
+      "giudizio": "Ha partecipato con i suoi orari improbabili. Niente di nuovo sotto il sole (tropicale).",
+      "messaggi": 14,
+      "mediaGiornaliera": 3.5,
+      "highlights": [
+        "Presente ma non dominante",
+        "Presente per buona parte della settimana"
+      ],
+      "citazioneTop": "buongiorno, mi spiace molto di questo."
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 6.5,
+      "giudizio": "Ha contribuito con la sua calma zen. Pochi messaggi ma sempre pertinenti.",
+      "messaggi": 11,
+      "mediaGiornaliera": 1.8,
+      "highlights": [
+        "Presente ma non dominante",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "Quando ci vediamo ti spiego per bene"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 6.5,
+      "giudizio": "Ha contribuito con la saggezza del fondatore. Pochi messaggi, tutti significativi.",
+      "messaggi": 13,
+      "mediaGiornaliera": 2.6,
+      "highlights": [
+        "Presente ma non dominante",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "Ragazzi, io sabato ci sono! Non a cena ma a pranzo"
+    }
+  ],
+  "awards": {
+    "mvp": "Adriano Sergio Lorenzo Facchini",
+    "comico": "Giacomo Dolfi",
+    "cuore": "Fausto Petrini",
+    "fantasma": "Alessio Macalùso"
+  }
+}

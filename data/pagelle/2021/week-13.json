@@ -1,0 +1,103 @@
+{
+  "anno": 2021,
+  "settimana": 13,
+  "startDate": "2021-03-29",
+  "endDate": "2021-04-04",
+  "stats": {
+    "totalMessages": 107,
+    "activeMembers": 6,
+    "avgPerMember": 17.8
+  },
+  "riassunto": "Settimana 13 con 107 messaggi. Cosimo guida le danze con 25 contributi.",
+  "bestQuotes": [
+    {
+      "quote": "Però cazzo non dovrebbe succedere. Un monte di gente piglia la pasta per la pressione ma non ha questo effetto. Forse devi abituarti ?",
+      "author": "Cosimo Nenciòni",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "io non molto bene, devo essere sincero. Pandemia + mangio di merda + la pressione cmq non scende.",
+      "author": "Alessio Valentini",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Dai cazzo la pandemia si vede la fine.. il resto è una menata ci credo. Botticelle di collasso o botticelle di schizzo",
+      "author": "Cosimo Nenciòni",
+      "context": "Momento memorabile della settimana"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 7.3,
+      "giudizio": "Non ha brillato, ma neanche deluso. Il suo 'mah' valeva mille parole.",
+      "messaggi": 25,
+      "mediaGiornaliera": 3.6,
+      "highlights": [
+        "Tra i piu' attivi con 25 messaggi"
+      ],
+      "citazioneTop": "Però cazzo non dovrebbe succedere. Un monte di gente piglia la pasta per la pressione ma non ha questo effetto. Forse devi abituarti ?"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 7.1,
+      "giudizio": "Presente con il suo solito stile: curioso, ironico, pungente.",
+      "messaggi": 22,
+      "mediaGiornaliera": 3.1,
+      "highlights": [
+        "Tra i piu' attivi con 22 messaggi"
+      ],
+      "citazioneTop": ""
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 6.5,
+      "giudizio": "Il solito Adriano: affidabile, verboso, immancabile.",
+      "messaggi": 15,
+      "mediaGiornaliera": 2.1,
+      "highlights": [
+        "Ha contribuito con 15 messaggi"
+      ],
+      "citazioneTop": ""
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 6.1,
+      "giudizio": "Il solito Fausto: ci prova, ogni tanto ci riesce.",
+      "messaggi": 15,
+      "mediaGiornaliera": 2.1,
+      "highlights": [
+        "Ha contribuito con 15 messaggi"
+      ],
+      "citazioneTop": ""
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 6.7,
+      "giudizio": "Il suo 'Credo' di meta' settimana valeva un trattato filosofico.",
+      "messaggi": 15,
+      "mediaGiornaliera": 2.1,
+      "highlights": [
+        "Ha contribuito con 15 messaggi"
+      ],
+      "citazioneTop": ""
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 5.9,
+      "giudizio": "Presente nonostante i fusi orari avversi. Sempre affidabile.",
+      "messaggi": 15,
+      "mediaGiornaliera": 2.1,
+      "highlights": [
+        "Ha contribuito con 15 messaggi"
+      ],
+      "citazioneTop": "io non molto bene, devo essere sincero. Pandemia + mangio di merda + la pressione cmq non scende."
+    }
+  ],
+  "awards": {
+    "mvp": "Cosimo Nenciòni - Miglior voto della settimana con 7.3",
+    "comico": "Alessio Macalùso - Il piu' divertente della settimana",
+    "cuore": "Adriano Sergio Lorenzo Facchini - Presenza equilibrata e costante",
+    "fantasma": null
+  }
+}

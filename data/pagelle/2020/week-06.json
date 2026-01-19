@@ -1,0 +1,109 @@
+{
+  "anno": 2020,
+  "settimana": 6,
+  "startDate": "2020-02-03",
+  "endDate": "2020-02-09",
+  "stats": {
+    "totalMessages": 99,
+    "activeMembers": 6,
+    "avgPerMember": 16.5
+  },
+  "riassunto": "Una settimana all'insegna di poker, lavoro, uscite/cene. 99 messaggi scambiati tra i 6 membri attivi, con il solito mix di ironia e discussioni serie.",
+  "bestQuotes": [
+    {
+      "quote": "L'Avvenire sta prendendo il posto di unità e manifesto!",
+      "author": "Giacomo Dolfi",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Allora sarai lider a vita....\nOppure si fa di lunedì del cazzo",
+      "author": "Fausto Petrini",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Sul tuo comodino? Eh ma si sapeva. Da comunista a democristiano è un attimo....",
+      "author": "Fausto Petrini",
+      "context": "Momento memorabile della settimana"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Fausto Petrini",
+      "voto": 8.0,
+      "giudizio": "Il Trascinatore ha proposto, organizzato, coordinato. Che poi nessuno abbia risposto è un altro discorso.",
+      "messaggi": 23,
+      "mediaGiornaliera": 3.8,
+      "highlights": [
+        "Buona partecipazione alle discussioni",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "Sul tuo comodino? Eh ma si sapeva. Da comunista a democristiano è un attimo...."
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 7.5,
+      "giudizio": "Il Re della Chat ha dominato la settimana con la consueta verbosità. Quando Adriano parla, il gruppo ascolta (volente o nolente).",
+      "messaggi": 17,
+      "mediaGiornaliera": 4.2,
+      "highlights": [
+        "Buona partecipazione alle discussioni",
+        "Presente per buona parte della settimana"
+      ],
+      "citazioneTop": "Bello vedere la gente che si cura"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 7.5,
+      "giudizio": "Nonostante il fuso orario impossibile, Alessio V. ha tenuto alto il morale del gruppo.",
+      "messaggi": 20,
+      "mediaGiornaliera": 4.0,
+      "highlights": [
+        "Buona partecipazione alle discussioni",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "Spero di non averti svegliato Fau, sono venuto un paio di volte nella stanzina"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 7.0,
+      "giudizio": "Ha contribuito con il suo stile minimalista. Efficace, anche se non memorabile.",
+      "messaggi": 18,
+      "mediaGiornaliera": 4.5,
+      "highlights": [
+        "Buona partecipazione alle discussioni",
+        "Presente per buona parte della settimana"
+      ],
+      "citazioneTop": "Ho fatto il ragù di cinghiale"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 6.5,
+      "giudizio": "Il solito Alessio Mac: pacato, presente, essenziale. Niente sprechi di parole.",
+      "messaggi": 12,
+      "mediaGiornaliera": 4.0,
+      "highlights": [
+        "Presente ma non dominante",
+        "Presente per buona parte della settimana"
+      ],
+      "citazioneTop": "Giacomo sono alla mise c’è il tuo babbo"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 6.0,
+      "giudizio": "Presente come un patriarca benevolo: osserva, ogni tanto commenta, sempre con ironia.",
+      "messaggi": 9,
+      "mediaGiornaliera": 3.0,
+      "highlights": [
+        "Presente ma non dominante",
+        "Presente per buona parte della settimana"
+      ],
+      "citazioneTop": "L'Avvenire sta prendendo il posto di unità e manifesto!"
+    }
+  ],
+  "awards": {
+    "mvp": "Fausto Petrini",
+    "comico": "Adriano Sergio Lorenzo Facchini",
+    "cuore": "Fausto Petrini",
+    "fantasma": "Giacomo Dolfi"
+  }
+}

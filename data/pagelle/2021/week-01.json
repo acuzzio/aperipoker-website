@@ -1,0 +1,104 @@
+{
+  "anno": 2021,
+  "settimana": 1,
+  "startDate": "2021-01-04",
+  "endDate": "2021-01-10",
+  "stats": {
+    "totalMessages": 209,
+    "activeMembers": 6,
+    "avgPerMember": 34.8
+  },
+  "riassunto": "Il gruppo si fa sentire con 209 messaggi. Alessio V. il piu' loquace con 75 messaggi.",
+  "bestQuotes": [
+    {
+      "quote": "I got to the 2048 tile! @2048_game https://itunes.apple.com/app/2048/id840919914",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Non c’è nulla da capire, è solo un gioco di merda ma carino . Si chiama 2048 ideale per cagare",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Faccio solo giochini di merda di memoria e di cultura generale",
+      "author": "Cosimo Nenciòni",
+      "context": "Momento memorabile della settimana"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Alessio Valentini",
+      "voto": 8.3,
+      "giudizio": "Il Giramondo ha dominato la chat con i suoi orari impossibili. Fuso orario: caos.",
+      "messaggi": 75,
+      "mediaGiornaliera": 10.7,
+      "highlights": [
+        "Ha dominato la conversazione con il 36% dei messaggi",
+        "Ha stimolato la discussione con molte domande"
+      ],
+      "citazioneTop": ""
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 6.7,
+      "giudizio": "Il solito Fausto: ci prova, ogni tanto ci riesce.",
+      "messaggi": 43,
+      "mediaGiornaliera": 6.1,
+      "highlights": [
+        "Tra i piu' attivi con 43 messaggi"
+      ],
+      "citazioneTop": ""
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 6.3,
+      "giudizio": "Presente con il suo solito stile minimale ma incisivo.",
+      "messaggi": 33,
+      "mediaGiornaliera": 4.7,
+      "highlights": [
+        "Tra i piu' attivi con 33 messaggi"
+      ],
+      "citazioneTop": "Faccio solo giochini di merda di memoria e di cultura generale"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 5.8,
+      "giudizio": "Presente con la solita parsimonia. Zen master della settimana.",
+      "messaggi": 21,
+      "mediaGiornaliera": 3.0,
+      "highlights": [
+        "Ha contribuito con 21 messaggi"
+      ],
+      "citazioneTop": ""
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 5.9,
+      "giudizio": "Presente con il suo solito stile: curioso, ironico, pungente.",
+      "messaggi": 21,
+      "mediaGiornaliera": 3.0,
+      "highlights": [
+        "Ha contribuito con 21 messaggi"
+      ],
+      "citazioneTop": "Con quante volte ti ho chiesto di farci fare un affare a modo!!!"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 5.7,
+      "giudizio": "Il Re abdica? Settimana stranamente sottotono.",
+      "messaggi": 16,
+      "mediaGiornaliera": 2.3,
+      "highlights": [
+        "Ha contribuito con 16 messaggi"
+      ],
+      "citazioneTop": "I got to the 2048 tile! @2048_game https://itunes.apple.com/app/2048/id840919914"
+    }
+  ],
+  "awards": {
+    "mvp": "Alessio Valentini - Miglior voto della settimana con 8.3",
+    "comico": "Alessio Macalùso - Il piu' divertente della settimana",
+    "cuore": "Cosimo Nenciòni - Presenza equilibrata e costante",
+    "fantasma": null
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "anno": 2023,
+  "settimana": 15,
+  "startDate": "2023-04-10",
+  "endDate": "2023-04-16",
+  "stats": {
+    "totalMessages": 60,
+    "activeMembers": 6,
+    "avgPerMember": 10.0
+  },
+  "riassunto": "Settimana delle canne, della Giorgi e della scarsa reattivita maschile. Fausto ritrova il telefono ('Mongis!'). Discussione notturna su fumo e regole. 'Quando in un gruppo di uomini non c'è più tempo o voglia nemmeno di commentare la fica è inutile stare a disquisire di cene'. 'La fica non ci interessa, a noi ci garba farsi le canne'. Adriano trova la regola: fumo solo quando il giorno dopo non ho un cazzo da fare.",
+  "bestQuotes": [
+    {
+      "quote": "Quando in un gruppo di uomini non c'è più tempo o voglia nemmeno di commentare la fica è inutile stare a disquisire di cene e cenette...",
+      "author": "Fausto Petrini",
+      "context": "Sulla mancata reazione alla Giorgi"
+    },
+    {
+      "quote": "La fica non ci interessa. A noi ci garba farsi le canne",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Autodefinizione del gruppo"
+    },
+    {
+      "quote": "Prima di buttare il fumo lo potevi regalare. Come sempre ti dimostri un egoista",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "A Fausto che ha buttato il fumo"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 8.5,
+      "giudizio": "Filosofo delle canne: 'Fumo quando il giorno dopo non ho un cazzo da fare'. Sul maestro e la Giorgi: 'Gli sborrava dentro. Beato lui. E noi a fassi le canne'. 'Scatola chiave e fumo' come 'riso patate e cozze'. Geniale.",
+      "messaggi": 24,
+      "mediaGiornaliera": 3.4,
+      "highlights": [
+        "Regola del fumo",
+        "Filosofia 'la fica non ci interessa'"
+      ],
+      "citazioneTop": "A noi ci garba farsi le canne"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 8.0,
+      "giudizio": "'Mongis!' - ritrova il telefono. La Giorgi del tennis lo fa riflettere sulla decadenza del gruppo. Ha buttato il fumo: 'È un gesto che faccio per me'. Salvadanaio condiviso su Satispay = sogno del vecchio lider.",
+      "messaggi": 18,
+      "mediaGiornaliera": 2.6,
+      "highlights": [
+        "Riflessione sulla Giorgi",
+        "Discussione notturna sul fumo"
+      ],
+      "citazioneTop": "Quando in un gruppo di uomini non c'è più tempo o voglia nemmeno di commentare la fica..."
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 7.0,
+      "giudizio": "'Ciao Mongus'. 'Oppure dare solo la chiave ad Adriano'. Link Propaganda Live su Mario Mario. 'Io non ho capito niente' - sincero come sempre.",
+      "messaggi": 10,
+      "mediaGiornaliera": 1.4,
+      "highlights": [
+        "Contributo alla catena scatola-chiave-fumo",
+        "Link Propaganda Live"
+      ],
+      "citazioneTop": "Oppure dare solo la chiave a Adriano"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 6.5,
+      "giudizio": "'Potevi mettere il fumo in una scatola e poi dare la chiave ad Adriano'. 'Tremendissssssimo' per la foto del matrimonio. Presente da lontano con battute di qualita.",
+      "messaggi": 6,
+      "mediaGiornaliera": 0.9,
+      "highlights": [
+        "Proposta scatola con chiave",
+        "Commenti"
+      ],
+      "citazioneTop": "Potevi mettere il fumo in una scatola e poi dare la chiave a Adriano"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 6.0,
+      "giudizio": "Una sola emoji (chiesa) nella conversazione notturna. 'Cocco ma te vivi li ormai?' gli chiede Adriano. Settimana di elaborazione del lutto.",
+      "messaggi": 2,
+      "mediaGiornaliera": 0.3,
+      "highlights": [
+        "Emoji significativa"
+      ],
+      "citazioneTop": null
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 5.5,
+      "giudizio": "'Momiano' - un solo contributo misterioso. Il Fondatore latita.",
+      "messaggi": 2,
+      "mediaGiornaliera": 0.3,
+      "highlights": [
+        "Contributo misterioso"
+      ],
+      "citazioneTop": "Momiano"
+    }
+  ],
+  "awards": {
+    "mvp": "Adriano Sergio Lorenzo Facchini",
+    "comico": "Fausto Petrini",
+    "cuore": "Alessio Macalùso",
+    "fantasma": "Cosimo Nenciòni"
+  }
+}

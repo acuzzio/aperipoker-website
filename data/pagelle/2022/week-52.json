@@ -1,0 +1,117 @@
+{
+  "anno": 2022,
+  "settimana": 52,
+  "startDate": "2022-12-26",
+  "endDate": "2022-12-31",
+  "stats": {
+    "totalMessages": 98,
+    "activeMembers": 6,
+    "avgPerMember": 16.3
+  },
+  "riassunto": "Cosimo ha il Covid di nuovo ('So positivo, ma venite lo stesso'). Febbre alta, Tachipirina a 3 grammi al giorno. Adriano ammette: 'Le canne fanno male, ero sotto effetto palesemente di stupefacenti, low tolerance'. 'Non ci siamo scambiati gli auguri!' e poi arriva il messaggio: 'Buon Natale, buon Santo Stefano e buon tutto'. La sera sperimenta cocktail e beccaccino (THC).",
+  "bestQuotes": [
+    {
+      "quote": "Le canne fanno male. Ed ero sotto effetto palesemente di stupefacenti. Low tolerance",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Ammissione natalizia"
+    },
+    {
+      "quote": "Ho rifatto il rapido, so positivo. Ma venite lo stesso",
+      "author": "Cosimo Nenciòni",
+      "context": "Sul Covid pre-cena"
+    },
+    {
+      "quote": "Di Tachipirina anche 3 grammi al giorno e stai sereno",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Consiglio medico"
+    },
+    {
+      "quote": "Il solito zio bacchettone",
+      "author": "Giacomo Dolfi",
+      "context": "Su Adriano"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 8.5,
+      "giudizio": "'Le canne fanno male, low tolerance' e' ammissione storica. 'Di Tachipirina 3 grammi al giorno'. La sera sperimenta cocktail e beccaccino (THC). 'Buon Natale a tutti!' finalmente. Protagonista natalizio.",
+      "messaggi": 27,
+      "mediaGiornaliera": 4.5,
+      "highlights": [
+        "Canne fanno male",
+        "Low tolerance",
+        "Cocktail e beccaccino"
+      ],
+      "citazioneTop": "Le canne fanno male, ero sotto effetto di stupefacenti"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 7.5,
+      "giudizio": "Covid per l'ennesima volta ('Ma venite lo stesso'). Ha spiegato la confusione dei tamponi: rapido positivo, molecolare negativo. 'Troppe cose non funzionano'. Malato cronico.",
+      "messaggi": 24,
+      "mediaGiornaliera": 4.0,
+      "highlights": [
+        "Covid ancora",
+        "Venite lo stesso",
+        "Confusione tamponi"
+      ],
+      "citazioneTop": "So positivo. Ma venite lo stesso"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 7.0,
+      "giudizio": "'Ne rimarra' soltanto uno, Cocchi' augura a tutti. 'Mi comporterei come se fosse tutto positivo'. 'Fanno male moderatamente' sulle canne. Filosofo delle feste.",
+      "messaggi": 21,
+      "mediaGiornaliera": 3.5,
+      "highlights": [
+        "Ne rimarra' uno",
+        "Tutto positivo",
+        "Moderatamente"
+      ],
+      "citazioneTop": "Ne rimarra' soltanto uno, Cocchi"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 6.5,
+      "giudizio": "'Forza Cocco!' supporto morale. 'Bene che loro stiano bene' su Renata e Luna. Presente con affetto.",
+      "messaggi": 14,
+      "mediaGiornaliera": 2.3,
+      "highlights": [
+        "Forza Cocco",
+        "Bene che stiano bene"
+      ],
+      "citazioneTop": "Forza Cocco!"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 6.5,
+      "giudizio": "'Il solito zio bacchettone' su Adriano. 'Cavolo mi dispiace' su Cosimo. Presente con commenti.",
+      "messaggi": 6,
+      "mediaGiornaliera": 1.0,
+      "highlights": [
+        "Zio bacchettone",
+        "Mi dispiace"
+      ],
+      "citazioneTop": "Il solito zio bacchettone"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 6.0,
+      "giudizio": "'Dicono che il febbrone dura 2 giorni' sul Covid. 'Obg' (obbligato). Presente con consigli.",
+      "messaggi": 6,
+      "mediaGiornaliera": 1.0,
+      "highlights": [
+        "Febbrone 2 giorni",
+        "Obg"
+      ],
+      "citazioneTop": "Dicono che il febbrone dura 2 giorni"
+    }
+  ],
+  "awards": {
+    "mvp": "Adriano Sergio Lorenzo Facchini - Ammette le canne, low tolerance, cocktail e beccaccino",
+    "comico": "Giacomo Dolfi - Il solito zio bacchettone",
+    "cuore": "Fausto Petrini - Forza Cocco!",
+    "fantasma": "Nessuno - Tutti presenti per le feste"
+  }
+}

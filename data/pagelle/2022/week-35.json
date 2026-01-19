@@ -1,0 +1,118 @@
+{
+  "anno": 2022,
+  "settimana": 35,
+  "startDate": "2022-08-31",
+  "endDate": "2022-09-03",
+  "stats": {
+    "totalMessages": 36,
+    "activeMembers": 6,
+    "avgPerMember": 6.0
+  },
+  "riassunto": "Alessio Mac fa l'esame della prostata ('Altra tappa fondamentale della vita di un uomo'). 'Mi ha violato il culo, non ho capito con quante dita'. Alessio V. suggerisce lo stimolatore di prostata ('De gustibus'). Adriano riflette su quando 'te la tirano in culo'. Si organizzano le date per poker: 7/9 Ottobre, 21/23 Ottobre, 18/20 Novembre.",
+  "bestQuotes": [
+    {
+      "quote": "Oggi ho fatto l'esame della prostata. Altra tappa fondamentale della vita di un uomo",
+      "author": "Alessio Macalùso",
+      "context": "Sull'esame"
+    },
+    {
+      "quote": "Mi ha violato il culo. Non ho capito con quante dita",
+      "author": "Alessio Macalùso",
+      "context": "Dettagli dell'esame"
+    },
+    {
+      "quote": "Io rinnovo il mio suggerimento di comprare uno stimolatore di prostata e usarlo con calma",
+      "author": "Alessio Valentini",
+      "context": "Consiglio non richiesto"
+    },
+    {
+      "quote": "Secondo me la presenza di quello dietro fa sentire Adriano una persona migliore",
+      "author": "Giacomo Dolfi",
+      "context": "Su una foto di Adriano"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Alessio Macalùso",
+      "voto": 8.0,
+      "giudizio": "Protagonista assoluto con l'esame della prostata. 'Mi ha violato il culo, non ho capito con quante dita' e' cronaca medica di alto livello. Tappa fondamentale della vita.",
+      "messaggi": 8,
+      "mediaGiornaliera": 2.0,
+      "highlights": [
+        "Esame prostata",
+        "Violato il culo",
+        "Tappa fondamentale"
+      ],
+      "citazioneTop": "Mi ha violato il culo"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 7.5,
+      "giudizio": "Ha suggerito lo stimolatore di prostata ('De gustibus'). Ha paragonato l'esame al ginecologo. 'Te lo levo se vuoi' sulla foto. Filosofo del piacere.",
+      "messaggi": 8,
+      "mediaGiornaliera": 2.0,
+      "highlights": [
+        "Stimolatore prostata",
+        "De gustibus",
+        "Paragone ginecologo"
+      ],
+      "citazioneTop": "Rinnovo il mio suggerimento di comprare uno stimolatore di prostata"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 7.0,
+      "giudizio": "Ha riflettuto su quando 'te la tirano in culo' non fisicamente. Ha proposto le date per poker. Ha apprezzato la modifica alla foto. Organizzatore e filosofo.",
+      "messaggi": 7,
+      "mediaGiornaliera": 1.8,
+      "highlights": [
+        "Tirato in culo metaforico",
+        "Date poker",
+        "Foto modificata"
+      ],
+      "citazioneTop": "Nel senso quando te la tirano in culo"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 7.0,
+      "giudizio": "'Non ho capito se l'esame della prostata e' una tortura o figata pazzesca' riassume perfettamente. 'Levalo perdio' sulla foto. Presente con commenti acuti.",
+      "messaggi": 6,
+      "mediaGiornaliera": 1.5,
+      "highlights": [
+        "Tortura o figata",
+        "Levalo perdio",
+        "Fa rimuginare Adriano"
+      ],
+      "citazioneTop": "Non ho capito se l'esame della prostata e' una tortura o figata pazzesca"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 7.0,
+      "giudizio": "Ha condiviso la notizia della Iervolino (i figli smentiscono la morte). 'La presenza di quello dietro fa sentire Adriano una persona migliore' e' osservazione geniale.",
+      "messaggi": 4,
+      "mediaGiornaliera": 1.0,
+      "highlights": [
+        "Notizia Iervolino",
+        "Osservazione su Adriano"
+      ],
+      "citazioneTop": "La presenza di quello dietro fa sentire Adriano una persona migliore"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 6.5,
+      "giudizio": "'Te li ha dati gli schiaffettini nel culo per farti cedere?' sul'esame prostata. Ha chiesto se ha la prostatite. Medico del gruppo.",
+      "messaggi": 3,
+      "mediaGiornaliera": 0.8,
+      "highlights": [
+        "Schiaffettini nel culo",
+        "Ha chiesto della prostatite"
+      ],
+      "citazioneTop": "Te li ha dati gli schiaffettini nel culo per farti cedere?"
+    }
+  ],
+  "awards": {
+    "mvp": "Alessio Macalùso - Cronaca dell'esame della prostata",
+    "comico": "Alessio Valentini - Consiglia lo stimolatore di prostata",
+    "cuore": "Giacomo Dolfi - Osservazione geniale su Adriano",
+    "fantasma": "Nessuno - Settimana corta ma tutti presenti"
+  }
+}

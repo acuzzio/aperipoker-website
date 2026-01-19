@@ -1,0 +1,109 @@
+{
+  "anno": 2020,
+  "settimana": 22,
+  "startDate": "2020-05-25",
+  "endDate": "2020-05-31",
+  "stats": {
+    "totalMessages": 160,
+    "activeMembers": 6,
+    "avgPerMember": 26.7
+  },
+  "riassunto": "Una settimana all'insegna di cinema/film, uscite/cene, poker in pieno lockdown. 160 messaggi scambiati tra i 6 membri attivi, con il solito mix di ironia e discussioni serie.",
+  "bestQuotes": [
+    {
+      "quote": "Ahahah ma te lavorare mai eh?",
+      "author": "Giacomo Dolfi",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Ma ora i gilet arancioni chi cazzo so'?????",
+      "author": "Cosimo Nenciòni",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Se vuoi ti scarico qualcosa con gli animali?",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Momento memorabile della settimana"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 8.5,
+      "giudizio": "Maestro del sarcasmo, questa settimana era in forma smagliante. Nessuno è stato risparmiato.",
+      "messaggi": 47,
+      "mediaGiornaliera": 11.8,
+      "highlights": [
+        "Molto attivo, tra i più presenti della settimana",
+        "Presente per buona parte della settimana"
+      ],
+      "citazioneTop": "Io per esempio ho preso oggi il mio primo giorno di ferie dell'anno"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 8.0,
+      "giudizio": "L'anima organizzativa del gruppo ha brillato. Quante uscite proposte? Quante andate in porto? Non importa.",
+      "messaggi": 38,
+      "mediaGiornaliera": 6.3,
+      "highlights": [
+        "Molto attivo, tra i più presenti della settimana",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "Ma erotic massage story ma perchè...."
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 7.5,
+      "giudizio": "Ha scritto più lui in tre giorni che alcuni in un mese. Ma almeno era divertente.",
+      "messaggi": 37,
+      "mediaGiornaliera": 6.2,
+      "highlights": [
+        "Molto attivo, tra i più presenti della settimana",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "Perché mi garbava si vede"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 7.0,
+      "giudizio": "Ha contribuito con la saggezza del fondatore. Pochi messaggi, tutti significativi.",
+      "messaggi": 13,
+      "mediaGiornaliera": 3.2,
+      "highlights": [
+        "Presente ma non dominante",
+        "Presente per buona parte della settimana"
+      ],
+      "citazioneTop": "È evidente che ha vinto Fausto"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 6.0,
+      "giudizio": "Contributi sporadici ma sempre affettuosi. Il Giramondo mantiene i contatti.",
+      "messaggi": 12,
+      "mediaGiornaliera": 4.0,
+      "highlights": [
+        "Presente ma non dominante",
+        "Presente per buona parte della settimana"
+      ],
+      "citazioneTop": "buongiorno ragazzi. è molto triste essere sempre fuori sync nelle discussioni"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 6.0,
+      "giudizio": "Ha contribuito con la sua calma zen. Pochi messaggi ma sempre pertinenti.",
+      "messaggi": 13,
+      "mediaGiornaliera": 4.3,
+      "highlights": [
+        "Presente ma non dominante",
+        "Presente per buona parte della settimana"
+      ],
+      "citazioneTop": "Domani sera una pizza a Firenze prima che entro a lavoro?"
+    }
+  ],
+  "awards": {
+    "mvp": "Cosimo Nenciòni",
+    "comico": "Giacomo Dolfi",
+    "cuore": "Fausto Petrini",
+    "fantasma": "Alessio Valentini"
+  }
+}

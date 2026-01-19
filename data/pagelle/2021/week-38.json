@@ -1,0 +1,103 @@
+{
+  "anno": 2021,
+  "settimana": 38,
+  "startDate": "2021-09-20",
+  "endDate": "2021-09-26",
+  "stats": {
+    "totalMessages": 45,
+    "activeMembers": 6,
+    "avgPerMember": 7.5
+  },
+  "riassunto": "Settimana 38 con 45 messaggi. Alessio V. guida le danze con 17 contributi.",
+  "bestQuotes": [
+    {
+      "quote": "ahahha, perche' usi termini moooooolto lontani da cose che posso capire io",
+      "author": "Alessio Valentini",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Fausto che ti eri rimesso il vestito del tuo matrimonio?",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "https://www.matrimonio.com/web/wedshoots/photo/21189894/0?tc=e9562ef49c5fc9f4c88d39ff586c563762065bd8",
+      "author": "Fausto Petrini",
+      "context": "Momento memorabile della settimana"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Alessio Valentini",
+      "voto": 8.5,
+      "giudizio": "Internet di merda ma contributo d'oro. Ha illuminato la settimana.",
+      "messaggi": 17,
+      "mediaGiornaliera": 2.4,
+      "highlights": [
+        "Ha dominato la conversazione con il 38% dei messaggi"
+      ],
+      "citazioneTop": "ahahha, perche' usi termini moooooolto lontani da cose che posso capire io"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 7.3,
+      "giudizio": "Presente come sempre, non ha fatto mancare la sua voce al coro.",
+      "messaggi": 10,
+      "mediaGiornaliera": 1.4,
+      "highlights": [
+        "Tra i piu' attivi con 10 messaggi"
+      ],
+      "citazioneTop": "Fausto che ti eri rimesso il vestito del tuo matrimonio?"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 7.9,
+      "giudizio": "Ha fatto il suo, tra proposte e organizzazione. Qualcuno l'ha pure ascoltato.",
+      "messaggi": 9,
+      "mediaGiornaliera": 1.3,
+      "highlights": [
+        "Tra i piu' attivi con 9 messaggi"
+      ],
+      "citazioneTop": "https://www.matrimonio.com/web/wedshoots/photo/21189894/0?tc=e9562ef49c5fc9f4c88d39ff586c563762065bd8"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 5.1,
+      "giudizio": "Non ha brillato, ma neanche deluso. Il suo 'mah' valeva mille parole.",
+      "messaggi": 4,
+      "mediaGiornaliera": 0.6,
+      "highlights": [
+        "Ha contribuito con 4 messaggi"
+      ],
+      "citazioneTop": ""
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 5.8,
+      "giudizio": "Assente o quasi. Probabilmente raggiungeva l'illuminazione.",
+      "messaggi": 3,
+      "mediaGiornaliera": 0.4,
+      "highlights": [
+        "Ha contribuito con 3 messaggi"
+      ],
+      "citazioneTop": ""
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 6.0,
+      "giudizio": "Silenzio da Poggibonsi. Niente domande innocue questa settimana.",
+      "messaggi": 2,
+      "mediaGiornaliera": 0.3,
+      "highlights": [
+        "Ha contribuito con 2 messaggi"
+      ],
+      "citazioneTop": ""
+    }
+  ],
+  "awards": {
+    "mvp": "Alessio Valentini - Miglior voto della settimana con 8.5",
+    "comico": "Alessio Valentini - Il piu' divertente della settimana",
+    "cuore": "Fausto Petrini - Presenza equilibrata e costante",
+    "fantasma": "Giacomo Dolfi - Il piu' silenzioso con 2 messaggi"
+  }
+}

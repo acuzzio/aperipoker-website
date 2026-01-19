@@ -1,0 +1,103 @@
+{
+  "anno": 2021,
+  "settimana": 26,
+  "startDate": "2021-06-28",
+  "endDate": "2021-07-04",
+  "stats": {
+    "totalMessages": 124,
+    "activeMembers": 6,
+    "avgPerMember": 20.7
+  },
+  "riassunto": "Una settimana di ordinaria follia con 124 messaggi. Fausto in testa alla classifica.",
+  "bestQuotes": [
+    {
+      "quote": "@⁨Fausto Petrini⁩ ma te attualmente sei più un grillino o un contiano?",
+      "author": "Giacomo Dolfi",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "https://twitter.com/gditom/status/1409632113435942915?s=08",
+      "author": "Cosimo Nenciòni",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "https://twitter.com/GliAutogol/status/1409937676049002499?s=08",
+      "author": "Cosimo Nenciòni",
+      "context": "Momento memorabile della settimana"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Fausto Petrini",
+      "voto": 7.7,
+      "giudizio": "Entusiasmo alle stelle. Ha provato a organizzare 5 uscite, ne sono andate in porto 0.",
+      "messaggi": 36,
+      "mediaGiornaliera": 5.1,
+      "highlights": [
+        "Ha dominato la conversazione con il 29% dei messaggi"
+      ],
+      "citazioneTop": ""
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 6.9,
+      "giudizio": "Presente con il suo solito stile minimale ma incisivo.",
+      "messaggi": 25,
+      "mediaGiornaliera": 3.6,
+      "highlights": [
+        "Tra i piu' attivi con 25 messaggi"
+      ],
+      "citazioneTop": "https://twitter.com/gditom/status/1409632113435942915?s=08"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 6.4,
+      "giudizio": "Presente con il suo solito stile: curioso, ironico, pungente.",
+      "messaggi": 18,
+      "mediaGiornaliera": 2.6,
+      "highlights": [
+        "Ha contribuito con 18 messaggi"
+      ],
+      "citazioneTop": "@⁨Fausto Petrini⁩ ma te attualmente sei più un grillino o un contiano?"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 6.4,
+      "giudizio": "Presente nonostante i fusi orari avversi. Sempre affidabile.",
+      "messaggi": 17,
+      "mediaGiornaliera": 2.4,
+      "highlights": [
+        "Ha contribuito con 17 messaggi"
+      ],
+      "citazioneTop": ""
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 6.0,
+      "giudizio": "Contributo misurato, come nel suo stile. Ogni parola al suo posto.",
+      "messaggi": 14,
+      "mediaGiornaliera": 2.0,
+      "highlights": [
+        "Ha contribuito con 14 messaggi"
+      ],
+      "citazioneTop": ""
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 5.6,
+      "giudizio": "Contributo solido, senza eccessi. Sta bene?",
+      "messaggi": 14,
+      "mediaGiornaliera": 2.0,
+      "highlights": [
+        "Ha contribuito con 14 messaggi"
+      ],
+      "citazioneTop": ""
+    }
+  ],
+  "awards": {
+    "mvp": "Fausto Petrini - Miglior voto della settimana con 7.7",
+    "comico": "Giacomo Dolfi - Il piu' divertente della settimana",
+    "cuore": "Giacomo Dolfi - Presenza equilibrata e costante",
+    "fantasma": null
+  }
+}

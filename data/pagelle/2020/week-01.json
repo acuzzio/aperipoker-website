@@ -1,0 +1,106 @@
+{
+  "anno": 2020,
+  "settimana": 1,
+  "startDate": "2019-12-30",
+  "endDate": "2020-01-05",
+  "stats": {
+    "totalMessages": 63,
+    "activeMembers": 6,
+    "avgPerMember": 10.5
+  },
+  "riassunto": "Il gruppo si è ritrovato per discutere di viaggi, cinema/film, uscite/cene. Con 63 messaggi totali, la settimana è stata nella norma.",
+  "bestQuotes": [
+    {
+      "quote": "Mi sa che tocca andare a the space a Novoli porco2",
+      "author": "Cosimo Nenciòni",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Qualcuno domani sera alle 9.30 vuole venire con me al cine a vedere star wars??",
+      "author": "Fausto Petrini",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Mi date risposta così eventualmente mi organizzo?",
+      "author": "Fausto Petrini",
+      "context": "Momento memorabile della settimana"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Fausto Petrini",
+      "voto": 8.0,
+      "giudizio": "L'anima organizzativa del gruppo ha brillato. Quante uscite proposte? Quante andate in porto? Non importa.",
+      "messaggi": 23,
+      "mediaGiornaliera": 5.8,
+      "highlights": [
+        "Buona partecipazione alle discussioni",
+        "Presente per buona parte della settimana"
+      ],
+      "citazioneTop": "Qualcuno domani sera alle 9.30 vuole venire con me al cine a vedere star wars??"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 7.5,
+      "giudizio": "Sintetico ma letale come sempre. Le sue battute secche hanno fatto centro.",
+      "messaggi": 20,
+      "mediaGiornaliera": 6.7,
+      "highlights": [
+        "Buona partecipazione alle discussioni",
+        "Presente per buona parte della settimana"
+      ],
+      "citazioneTop": "Ma potendo scegliere, preferirei domenica"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 7.0,
+      "giudizio": "Contributi costanti, ma questa settimana il Re ha mantenuto un profilo insolitamente basso.",
+      "messaggi": 7,
+      "mediaGiornaliera": 2.3,
+      "highlights": [
+        "Presente ma non dominante",
+        "Presente per buona parte della settimana"
+      ],
+      "citazioneTop": "Alessio a che ore partiresti da siena?"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 6.5,
+      "giudizio": "Presente senza eccessi. L'equilibratore fa il suo lavoro in silenzio.",
+      "messaggi": 9,
+      "mediaGiornaliera": 4.5,
+      "highlights": [
+        "Presente ma non dominante"
+      ],
+      "citazioneTop": "Io penso di rimanere a dormire da Cosimo e inoltre devo passare prima da sesto fiorentino"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 5.0,
+      "giudizio": "Internet di merda o disinteresse? Con Alessio V. non si sa mai.",
+      "messaggi": 3,
+      "mediaGiornaliera": 1.5,
+      "highlights": [
+        "Interventi sporadici ma mirati"
+      ],
+      "citazioneTop": "Amen brother. Io vengo da carote fagiolini e spinaci."
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 5.0,
+      "giudizio": "Il Lider in esilio spirituale. Forse impegnato a governare altri regni.",
+      "messaggi": 1,
+      "mediaGiornaliera": 1.0,
+      "highlights": [
+        "Interventi sporadici ma mirati"
+      ],
+      "citazioneTop": null
+    }
+  ],
+  "awards": {
+    "mvp": "Fausto Petrini",
+    "comico": "Fausto Petrini",
+    "cuore": "Fausto Petrini",
+    "fantasma": "Giacomo Dolfi"
+  }
+}

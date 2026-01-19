@@ -1,0 +1,106 @@
+{
+  "anno": 2023,
+  "settimana": 46,
+  "startDate": "2023-11-13",
+  "endDate": "2023-11-19",
+  "stats": {
+    "totalMessages": 24,
+    "activeMembers": 6,
+    "avgPerMember": 4.0
+  },
+  "riassunto": "Settimana delle bestemmie a Stanford e dell'addio al celibato! Alessio V. al supercomputer di Stanford: 'Quando entri ci sono frasi famose degli ex del gruppo. Mi hanno sentito programmare per 3 anni. Immaginatevi le bestemmie che sono volate'. Cocco: 'Eccezionale'. Fausto condivide articolo sui robot e meteoriti. Giacomo: 'Quanto mi piacerebbe!'. Adriano si lamenta: 'Che cazzo di freddo'. 'Ma quest'anno non si e' fatto nulla, peccato..'. Alessio V.: 'Non s'e' sposato nessuno'. Fausto: 'Tranne te. Urge(rebbe) farti l'addio al celibato'. Alessio V.: 'Ao, si va a Rex (detto con accento albanese)'. Mac: 'Giusto'. Settimana tranquilla pre-cena.",
+  "bestQuotes": [
+    {
+      "quote": "Mi hanno sentito programmare per 3 anni. Immaginatevi le bestemmie che sono volate",
+      "author": "Alessio Valentini",
+      "context": "Supercomputer Stanford"
+    },
+    {
+      "quote": "Tranne te. Urge(rebbe) farti l'addio al celibato",
+      "author": "Fausto Petrini",
+      "context": "Ad Alessio V. che si sposa"
+    },
+    {
+      "quote": "Si va a Rex (detto con accento albanese)",
+      "author": "Alessio Valentini",
+      "context": "Proposta addio celibato"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Alessio Valentini",
+      "voto": 8.5,
+      "giudizio": "Il bestemmiatore di Stanford! 'Nel supercomputer ci sono frasi famose degli ex del gruppo. Mi hanno sentito programmare per 3 anni. Immaginatevi le bestemmie'. 'Non s'e' sposato nessuno' sulla mancanza di eventi. 'Ao, si va a Rex detto con accento albanese'. Protagonista e futuro sposo.",
+      "messaggi": 8,
+      "mediaGiornaliera": 1.1,
+      "highlights": [
+        "Bestemmie Stanford",
+        "Addio celibato"
+      ],
+      "citazioneTop": "Mi hanno sentito programmare per 3 anni. Immaginatevi le bestemmie"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 8.0,
+      "giudizio": "Articolo robot e meteoriti. 'Tranne te. Urge(rebbe) farti l'addio al celibato'. Propositivo e presente.",
+      "messaggi": 4,
+      "mediaGiornaliera": 0.6,
+      "highlights": [
+        "Proposta addio celibato",
+        "Articolo robot"
+      ],
+      "citazioneTop": "Urge(rebbe) farti l'addio al celibato"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 7.5,
+      "giudizio": "'Che cazzo di freddo'. 'Da rifare'. 'Ma quest'anno non si e' fatto nulla, peccato..'. 'Effettivamente'. Nostalgico e freddoloso.",
+      "messaggi": 4,
+      "mediaGiornaliera": 0.6,
+      "highlights": [
+        "Lamento freddo",
+        "Nostalgia eventi"
+      ],
+      "citazioneTop": "Ma quest'anno non si e' fatto nulla, peccato"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 7.0,
+      "giudizio": "'Eccezionale' sulle bestemmie. 'Cmq di questo tocca parlarne a voce'. 'Molto bene'. 'Ao'. Presente ma minimale.",
+      "messaggi": 4,
+      "mediaGiornaliera": 0.6,
+      "highlights": [
+        "Commento bestemmie"
+      ],
+      "citazioneTop": "Eccezionale"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 7.0,
+      "giudizio": "'Quanto mi piacerebbe!' sui robot. 'Fresco'. Presente ma silenzioso.",
+      "messaggi": 2,
+      "mediaGiornaliera": 0.3,
+      "highlights": [
+        "Sogno robot"
+      ],
+      "citazioneTop": "Quanto mi piacerebbe!"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 6.5,
+      "giudizio": "'Chi non lo vorrebbe'. 'Giusto' sull'addio. Presente ma minimale.",
+      "messaggi": 2,
+      "mediaGiornaliera": 0.3,
+      "highlights": [
+        "Approvazione addio"
+      ],
+      "citazioneTop": "Giusto"
+    }
+  ],
+  "awards": {
+    "mvp": "Alessio Valentini",
+    "comico": "Fausto Petrini",
+    "cuore": "Adriano Sergio Lorenzo Facchini",
+    "fantasma": null
+  }
+}

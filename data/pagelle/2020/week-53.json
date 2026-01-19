@@ -1,0 +1,106 @@
+{
+  "anno": 2020,
+  "settimana": 53,
+  "startDate": "2020-12-28",
+  "endDate": "2021-01-03",
+  "stats": {
+    "totalMessages": 60,
+    "activeMembers": 6,
+    "avgPerMember": 10.0
+  },
+  "riassunto": "Settimana normale con 60 messaggi e 6 membri attivi con le restrizioni autunnali. Si è parlato principalmente di poker. Il gruppo ha mantenuto il suo ritmo consueto tra battute e organizzazione di uscite.",
+  "bestQuotes": [
+    {
+      "quote": "Ahahah a me alcuni passaggi mi fanno morire da ridere! Notte amici miei",
+      "author": "Giacomo Dolfi",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "traduzione: se lo vedi, cacati sotto!",
+      "author": "Giacomo Dolfi",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Grandi.Tanti auguri! Come al solito soprattutto a Elena.",
+      "author": "Cosimo Nenciòni",
+      "context": "Momento memorabile della settimana"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 7.0,
+      "giudizio": "Ha contribuito con il suo stile minimalista. Efficace, anche se non memorabile.",
+      "messaggi": 15,
+      "mediaGiornaliera": 5.0,
+      "highlights": [
+        "Presente ma non dominante",
+        "Presente per buona parte della settimana"
+      ],
+      "citazioneTop": "Si è automatica ma non è così grande.."
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 7.0,
+      "giudizio": "Ha partecipato con i suoi orari improbabili. Niente di nuovo sotto il sole (tropicale).",
+      "messaggi": 11,
+      "mediaGiornaliera": 3.7,
+      "highlights": [
+        "Presente ma non dominante",
+        "Presente per buona parte della settimana"
+      ],
+      "citazioneTop": "Francisco è tornato a Francisco. Appena atterrato."
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 6.5,
+      "giudizio": "Ha contribuito con la saggezza del fondatore. Pochi messaggi, tutti significativi.",
+      "messaggi": 8,
+      "mediaGiornaliera": 2.7,
+      "highlights": [
+        "Presente ma non dominante",
+        "Presente per buona parte della settimana"
+      ],
+      "citazioneTop": "traduzione: se lo vedi, cacati sotto!"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 6.0,
+      "giudizio": "Ha partecipato con la consueta costanza. Niente di eclatante, ma neanche assenze ingiustificate.",
+      "messaggi": 8,
+      "mediaGiornaliera": 4.0,
+      "highlights": [
+        "Presente ma non dominante"
+      ],
+      "citazioneTop": "La scoperta dell’acqua calda.."
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 6.0,
+      "giudizio": "Presente e attivo, anche se questa settimana le sue proposte hanno avuto fortuna alterna.",
+      "messaggi": 9,
+      "mediaGiornaliera": 4.5,
+      "highlights": [
+        "Presente ma non dominante"
+      ],
+      "citazioneTop": "Interessante articolo. Titolo fuorviante"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 6.0,
+      "giudizio": "Il solito Alessio Mac: pacato, presente, essenziale. Niente sprechi di parole.",
+      "messaggi": 9,
+      "mediaGiornaliera": 4.5,
+      "highlights": [
+        "Presente ma non dominante"
+      ],
+      "citazioneTop": "La focus ce l’hai ancora?"
+    }
+  ],
+  "awards": {
+    "mvp": "Cosimo Nenciòni",
+    "comico": "Giacomo Dolfi",
+    "cuore": "Adriano Sergio Lorenzo Facchini",
+    "fantasma": "Giacomo Dolfi"
+  }
+}

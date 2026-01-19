@@ -1,0 +1,115 @@
+{
+  "anno": 2022,
+  "settimana": 5,
+  "startDate": "2022-01-31",
+  "endDate": "2022-02-06",
+  "stats": {
+    "totalMessages": 40,
+    "activeMembers": 5,
+    "avgPerMember": 8.0
+  },
+  "riassunto": "Nadal vince gli Australian Open e Adriano ne esalta la 'moralita' etica e sportiva superiore a quella di Del Piero'. Fausto inizia il nuovo lavoro nel pubblico ('con tutti i pregi e i difetti'). Giacomo e tutta la famiglia positivi. Ma il vero evento e' il vocale di 4 minuti di Fausto su Sanremo che fa uscire Alessio V. da un meeting. Achille Lauro viene demolito, ma 'il finale top' salva tutto.",
+  "bestQuotes": [
+    {
+      "quote": "La moralita' etica e sportiva di Nadal e' superiore a quella di Alessandro Del Piero..il resto vien da se.",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Analisi sportivo-etica sulla vittoria di Nadal"
+    },
+    {
+      "quote": "Quattro minuti di vocale??????????",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Reazione al vocale di Fausto su Sanremo"
+    },
+    {
+      "quote": "sono uscito da un meeting per sentire sta roba",
+      "author": "Alessio Valentini",
+      "context": "Reazione al vocale di Fausto su Sanremo"
+    },
+    {
+      "quote": "Ma Achille Lauro e' evidente che s'e' scopato Elena",
+      "author": "Giacomo Dolfi",
+      "context": "Teoria su Achille Lauro e Eleonora di Fausto"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 7.5,
+      "giudizio": "Filosofo dello sport e critico dei vocali. La sua analisi su Nadal vs Del Piero e' da Nobel. La reazione ai 4 minuti di vocale ('Ascoltatelo col x2', 'Il COVID ti ha fatto male') e' perfetta. Propone cena appena possibile.",
+      "messaggi": 12,
+      "mediaGiornaliera": 2.4,
+      "highlights": [
+        "Analisi etica Nadal vs Del Piero",
+        "Critica costruttiva al vocale di Fausto",
+        "Ha proposto una cena"
+      ],
+      "citazioneTop": "Quattro minuti di vocale??????????"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 8.0,
+      "giudizio": "Il vocale di 4 minuti su Sanremo e' leggendario. Ha fatto uscire Alessio da un meeting. La demolizione di Achille Lauro ('merdalauro') ha conquistato tutti. Primo giorno nel pubblico: 'con tutti i pregi e i difetti'. Maestro.",
+      "messaggi": 11,
+      "mediaGiornaliera": 2.2,
+      "highlights": [
+        "Il vocale di 4 minuti su Sanremo",
+        "Ha fatto uscire Alessio V. da un meeting",
+        "Primo giorno al nuovo lavoro"
+      ],
+      "citazioneTop": "altri du scappati dal centro diurno"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 7.5,
+      "giudizio": "Positivo con tutta la famiglia ma sempre sul pezzo. La teoria su Achille Lauro e Elena e' un colpo basso geniale. Chiede l'analisi di Fausto anche su Iva e Donatella. Vuole sentire la voce di Elia.",
+      "messaggi": 11,
+      "mediaGiornaliera": 2.2,
+      "highlights": [
+        "La teoria su Achille Lauro e Elena",
+        "Ha chiesto altre analisi a Fausto",
+        "Ha gestito la famiglia positiva"
+      ],
+      "citazioneTop": "Ma Achille Lauro e' evidente che s'e' scopato Elena"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 7.0,
+      "giudizio": "E' uscito da un meeting per sentire il vocale di Fausto. 'se non ti riprendevi nel finale, ti mandavo a fanculo' e' la recensione perfetta. Poi precisa: 'fanculo figurato, fa piacere sentire pareri approfonditi'. Diplomatico.",
+      "messaggi": 4,
+      "mediaGiornaliera": 0.8,
+      "highlights": [
+        "E' uscito da un meeting per il vocale",
+        "Recensione perfetta del vocale",
+        "Diplomatico nel finale"
+      ],
+      "citazioneTop": "sono uscito da un meeting per sentire sta roba"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 5.5,
+      "giudizio": "Due soli messaggi, entrambi simbolici: una chiesa per Nadal e 'Stitico' su Fausto al lavoro pubblico. Sintetico al massimo, forse troppo. Settimana da fantasma per gli standard di Cosimo.",
+      "messaggi": 2,
+      "mediaGiornaliera": 0.4,
+      "highlights": [
+        "Chiesa per Nadal",
+        "Stitico per il lavoro pubblico"
+      ],
+      "citazioneTop": "Stitico"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 4.0,
+      "giudizio": "Assente dalla chat questa settimana. Zero messaggi mentre il gruppo discuteva di Nadal, Sanremo e vocali epici. Il Covid familiare lo ha probabilmente assorbito, ma manca la sua presenza zen.",
+      "messaggi": 0,
+      "mediaGiornaliera": 0.0,
+      "highlights": [],
+      "citazioneTop": ""
+    }
+  ],
+  "awards": {
+    "mvp": "Fausto Petrini - Il vocale di 4 minuti e' storia del gruppo",
+    "comico": "Giacomo Dolfi - La teoria su Achille Lauro e Elena",
+    "cuore": "Alessio Valentini - E' uscito da un meeting per gli amici",
+    "fantasma": "Alessio Macalùso - Assente giustificato ma assente"
+  }
+}

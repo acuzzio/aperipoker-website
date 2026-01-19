@@ -1,0 +1,108 @@
+{
+  "anno": 2023,
+  "settimana": 41,
+  "startDate": "2023-10-09",
+  "endDate": "2023-10-15",
+  "stats": {
+    "totalMessages": 41,
+    "activeMembers": 6,
+    "avgPerMember": 6.8
+  },
+  "riassunto": "Settimana del passaggio di consegne del Lider e del reggiborsa! Il Lider Pasquale annuncia: 'Ciao creature, il Pasquale vostro lider sta per lasciare il posto ad uno di voi. E lo faro' fra poco. Ma non troppo. Iniziate a prepararvi'. Adriano candidato: 'Il posto per la cena io gia' saprei'. Mac: 'Per questo hai buone possibilita' di divenire lider'. Fausto: 'Fremente e vibrante attesa'. 'Ho fede nella saggezza pasquale'. Fine novembre la cena, zona Valdarno per il figlioletto di Alessio V. Bistecca assicurata! Adriano spiega il reggiborsa: 'Invece che appoggiarla su una piaciuta di cane o scaracchio di vecchio se sei in via Pantaneto a fare una bevuta, puoi ancorarla al tavolo'. Giacomo su Belve: 'Emma Bonino, una di noi'. Adriano: 'Te perdi ancora il tuo tempo a guardare le reti governative?'. Giacomo: 'Mi sa che non hai mai visto ne' la moglie di Mentana ne' Emma Bonino'.",
+  "bestQuotes": [
+    {
+      "quote": "Ciao creature, il Pasquale vostro lider sta per lasciare il posto ad uno di voi. Iniziate a prepararvi",
+      "author": "Alessio Macalùso",
+      "context": "Passaggio di consegne"
+    },
+    {
+      "quote": "Invece che appoggiarla su una piaciuta di cane o scaracchio di vecchio se sei in via Pantaneto, puoi ancorarla al tavolo",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Spiegazione reggiborsa"
+    },
+    {
+      "quote": "Mi sa che non hai mai visto ne' la moglie di Mentana ne' Emma Bonino",
+      "author": "Giacomo Dolfi",
+      "context": "Risposta ad Adriano"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Alessio Macalùso",
+      "voto": 9.0,
+      "giudizio": "Il Lider che abdica! 'Ciao creature, il Pasquale sta per lasciare il posto'. 'Iniziate a prepararvi'. 'E per questo hai buone possibilita' di divenire lider' - ripetuto 3 volte. 'Mi piacerebbe fare fine novembre'. 'Faro' in zona mio lavoro per lo zio che gli nasce il figlioletto'. '[spoiler] In questo sarai accontentato' sulla bistecca. Maestro cerimoniere.",
+      "messaggi": 12,
+      "mediaGiornaliera": 1.7,
+      "highlights": [
+        "Abdica da Lider",
+        "Organizza cena"
+      ],
+      "citazioneTop": "Ciao creature, il Pasquale vostro lider sta per lasciare il posto ad uno di voi"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 8.5,
+      "giudizio": "Il candidato Lider! 'Il posto per la cena io gia' saprei'. 'Dopo una decina di cocktail e canne' sulla foto. Spiega il reggiborsa con dettagli epici. 'Speriamo in una bella bistecca'. 'Specifica che si tratta di una cena in zona Reggello'. Critica RAI: 'Te perdi ancora il tempo a guardare le reti governative?'. Vulcanico.",
+      "messaggi": 12,
+      "mediaGiornaliera": 1.7,
+      "highlights": [
+        "Candidatura Lider",
+        "Reggiborsa"
+      ],
+      "citazioneTop": "Invece che appoggiarla su una piaciuta di cane o scaracchio di vecchio"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 8.0,
+      "giudizio": "'Lo faro'!' sulla successione. 'Come sempre, tutto giustissimo'. Su Belve: 'C'e' Emma Bonino, una di noi'. A Adriano: 'Mi sa che non hai mai visto ne' la moglie di Mentana ne' Emma Bonino'. Guarito e combattivo.",
+      "messaggi": 6,
+      "mediaGiornaliera": 0.9,
+      "highlights": [
+        "Emma Bonino",
+        "Risposta RAI"
+      ],
+      "citazioneTop": "Mi sa che non hai mai visto ne' la moglie di Mentana ne' Emma Bonino"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 7.5,
+      "giudizio": "'Fremente e vibrante attesa'. 'Anche io lider Pasquale ho molti posti da suggerirti, tuttavia non lo faro' di mia sponte, confidando nella tua chiarissima saggezza'. 'Pesce, Bistecca, anche etnico, ho fede nella saggezza pasquale'. Fedele suddito.",
+      "messaggi": 6,
+      "mediaGiornaliera": 0.9,
+      "highlights": [
+        "Fede nel Lider",
+        "Suggerimenti cena"
+      ],
+      "citazioneTop": "Fremente e vibrante attesa"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 7.5,
+      "giudizio": "'Capisti a che cazzo serve quell'aggeggio?'. 'Pasquale sei il numero uno'. 'Grazie Pasquale, se organizzi cena avro' finalmente una scusa ineccepibile per quelli dell'ambasciata e potro' tornare a piacimento'. 'Assolutamente'. Entusiasta del ritorno.",
+      "messaggi": 8,
+      "mediaGiornaliera": 1.1,
+      "highlights": [
+        "Scusa ambasciata",
+        "Reggiborsa"
+      ],
+      "citazioneTop": "Se organizzi cena avro' finalmente una scusa ineccepibile per quelli dell'ambasciata"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 6.5,
+      "giudizio": "'Essai si vede' sui cocktail. Chiesa emoji. Presente ma silenzioso.",
+      "messaggi": 2,
+      "mediaGiornaliera": 0.3,
+      "highlights": [
+        "Commento foto"
+      ],
+      "citazioneTop": "Essai si vede"
+    }
+  ],
+  "awards": {
+    "mvp": "Alessio Macalùso",
+    "comico": "Adriano Sergio Lorenzo Facchini",
+    "cuore": "Fausto Petrini",
+    "fantasma": null
+  }
+}

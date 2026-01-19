@@ -1,0 +1,119 @@
+{
+  "anno": 2022,
+  "settimana": 46,
+  "startDate": "2022-11-15",
+  "endDate": "2022-11-20",
+  "stats": {
+    "totalMessages": 85,
+    "activeMembers": 6,
+    "avgPerMember": 14.2
+  },
+  "riassunto": "Cena dei 40enni delle contrade! Cosimo guarito ('So negativo dioca, non ne posso piu''). Spot Nike dei mondiali: 'Quelli vecchi erano piu' belli'. Adriano rompera' i coglioni a Giacomo chiedendo info sull'Arbia e i suoi affluenti. 'Si dice gay' su 'finocchi'. Alessio Mac sbaglia gruppo ('Sbagliato gruppo').",
+  "bestQuotes": [
+    {
+      "quote": "Sono sempre positivo dioca. Non ne posso piu'",
+      "author": "Cosimo Nenciòni",
+      "context": "Sul Covid persistente"
+    },
+    {
+      "quote": "Ti rompero' tutta la sera i coglioni chiedendoti mille info su Arbia e tutti i suoi luoghi",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "A Giacomo sulla cena"
+    },
+    {
+      "quote": "Si dice gay",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Correzione politically correct"
+    },
+    {
+      "quote": "Sbagliato gruppo",
+      "author": "Alessio Macalùso",
+      "context": "Dopo messaggio su Napoli"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 8.0,
+      "giudizio": "'Ti rompero' i coglioni chiedendoti mille info sull'Arbia' e' programma della serata. 'Si dice gay' corregge Cosimo. 'Spero che non sia una cena del cazzo'. Protagonista della cena.",
+      "messaggi": 20,
+      "mediaGiornaliera": 3.3,
+      "highlights": [
+        "Rompera' i coglioni",
+        "Si dice gay",
+        "Cena del cazzo?"
+      ],
+      "citazioneTop": "Ti rompero' tutta la sera i coglioni"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 7.0,
+      "giudizio": "Ha commentato lo spot Nike ('Davids non me lo aspettavo'). Presente alle discussioni sulla cena.",
+      "messaggi": 18,
+      "mediaGiornaliera": 3.0,
+      "highlights": [
+        "Spot Nike",
+        "Davids",
+        "Presente"
+      ],
+      "citazioneTop": "Davids non me lo aspettavo"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 7.5,
+      "giudizio": "'Sono sempre positivo dioca, non ne posso piu'' sul Covid. Ha chiesto lo spot Nike. 'Mannate foto di personaggi' per la cena. 'So negativo finocchi' finalmente guarito.",
+      "messaggi": 16,
+      "mediaGiornaliera": 2.7,
+      "highlights": [
+        "Sempre positivo",
+        "Mannate foto",
+        "So negativo finocchi"
+      ],
+      "citazioneTop": "Sono sempre positivo dioca"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 7.0,
+      "giudizio": "'Io saro' contentissimo di stare coi vecchi amici della Chiocciola'. 'Tanto sara' un po' un viavai'. Ha spiegato l'organizzazione della cena. Ottimista contradaiolo.",
+      "messaggi": 15,
+      "mediaGiornaliera": 2.5,
+      "highlights": [
+        "Vecchi amici Chiocciola",
+        "Viavai",
+        "Organizzazione cena"
+      ],
+      "citazioneTop": "Saro' contentissimo di stare coi vecchi amici della Chiocciola"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 7.0,
+      "giudizio": "Disponibile a rispondere su Arbia e affluenti. 'Se ti fa sentire fino sono ben contento'. Ha spiegato il programma della cena (Simone Masini). Enciclopedia fluviale.",
+      "messaggi": 11,
+      "mediaGiornaliera": 1.8,
+      "highlights": [
+        "Risponde su Arbia",
+        "Programma cena",
+        "Simone Masini"
+      ],
+      "citazioneTop": "Se ti fa sentire fino sono ben contento di rispondere"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 6.0,
+      "giudizio": "Ha sbagliato gruppo (messaggio su Napoli). 'MGno gaudio' sulla guarigione. Presente ma distratto.",
+      "messaggi": 5,
+      "mediaGiornaliera": 0.8,
+      "highlights": [
+        "Sbagliato gruppo",
+        "Mgno gaudio"
+      ],
+      "citazioneTop": "Sbagliato gruppo"
+    }
+  ],
+  "awards": {
+    "mvp": "Adriano Sergio Lorenzo Facchini - Programma dettagliato di rottura coglioni",
+    "comico": "Alessio Macalùso - Sbagliato gruppo",
+    "cuore": "Fausto Petrini - Contentissimo dei vecchi amici",
+    "fantasma": "Nessuno - Tutti presenti per la cena dei 40enni"
+  }
+}

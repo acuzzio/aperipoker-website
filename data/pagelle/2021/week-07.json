@@ -1,0 +1,103 @@
+{
+  "anno": 2021,
+  "settimana": 7,
+  "startDate": "2021-02-15",
+  "endDate": "2021-02-21",
+  "stats": {
+    "totalMessages": 87,
+    "activeMembers": 6,
+    "avgPerMember": 14.5
+  },
+  "riassunto": "Il gruppo si fa sentire con 87 messaggi. Cosimo il piu' loquace con 28 messaggi.",
+  "bestQuotes": [
+    {
+      "quote": "https://twitter.com/YourAnonOne/status/1362790899361677312?s=08",
+      "author": "Cosimo Nenciòni",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "https://www.reddit.com/r/rimesegate/comments/lncygo/educazione_esemplare/?utm_source=share&utm_medium=ios_app&utm_name=iossmf",
+      "author": "Alessio Macalùso",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Qualcuno di voi ha il video di quando facemmo l’origami da Cosimo e Renata?",
+      "author": "Alessio Macalùso",
+      "context": "Momento memorabile della settimana"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 8.0,
+      "giudizio": "Poche parole, massimo impatto. Il cecchino colpisce ancora.",
+      "messaggi": 28,
+      "mediaGiornaliera": 4.0,
+      "highlights": [
+        "Ha dominato la conversazione con il 32% dei messaggi"
+      ],
+      "citazioneTop": "https://twitter.com/YourAnonOne/status/1362790899361677312?s=08"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 6.5,
+      "giudizio": "Contributo solido, senza eccessi. Sta bene?",
+      "messaggi": 17,
+      "mediaGiornaliera": 2.4,
+      "highlights": [
+        "Tra i piu' attivi con 17 messaggi"
+      ],
+      "citazioneTop": ""
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 6.4,
+      "giudizio": "Contributo misurato, come nel suo stile. Ogni parola al suo posto.",
+      "messaggi": 14,
+      "mediaGiornaliera": 2.0,
+      "highlights": [
+        "Tra i piu' attivi con 14 messaggi"
+      ],
+      "citazioneTop": "https://www.reddit.com/r/rimesegate/comments/lncygo/educazione_esemplare/?utm_source=share&utm_medium=ios_app&utm_name=iossmf"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 6.6,
+      "giudizio": "Non la sua settimana migliore, ma c'era quando serviva.",
+      "messaggi": 14,
+      "mediaGiornaliera": 2.0,
+      "highlights": [
+        "Tra i piu' attivi con 14 messaggi"
+      ],
+      "citazioneTop": ""
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 5.9,
+      "giudizio": "Ha fatto il suo, tra proposte e organizzazione. Qualcuno l'ha pure ascoltato.",
+      "messaggi": 12,
+      "mediaGiornaliera": 1.7,
+      "highlights": [
+        "Ha contribuito con 12 messaggi"
+      ],
+      "citazioneTop": "Bio di pantani dove?"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 4.3,
+      "giudizio": "Silenzio da Poggibonsi. Niente domande innocue questa settimana.",
+      "messaggi": 2,
+      "mediaGiornaliera": 0.3,
+      "highlights": [
+        "Ha contribuito con 2 messaggi"
+      ],
+      "citazioneTop": ""
+    }
+  ],
+  "awards": {
+    "mvp": "Cosimo Nenciòni - Miglior voto della settimana con 8.0",
+    "comico": "Giacomo Dolfi - Il piu' divertente della settimana",
+    "cuore": "Alessio Macalùso - Presenza equilibrata e costante",
+    "fantasma": "Giacomo Dolfi - Il piu' silenzioso con 2 messaggi"
+  }
+}

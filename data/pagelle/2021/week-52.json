@@ -1,0 +1,104 @@
+{
+  "anno": 2021,
+  "settimana": 52,
+  "startDate": "2021-12-27",
+  "endDate": "2022-01-02",
+  "stats": {
+    "totalMessages": 107,
+    "activeMembers": 6,
+    "avgPerMember": 17.8
+  },
+  "riassunto": "Settimana 52 con 107 messaggi. Cosimo guida le danze con 39 contributi.",
+  "bestQuotes": [
+    {
+      "quote": "https://www.subito.it/animali/border-collie-grosseto-416092276.htm?utm_medium=referral&utm_source=subito&utm_campaign=free-engagement-ad_detail",
+      "author": "Cosimo Nenciòni",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "L'anno scorso ha iniziato a coltivare la canapa, chiaramente con tutti i permessi e denunce del caso",
+      "author": "Giacomo Dolfi",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Se usi troppo lo smartphone?",
+      "author": "Cosimo Nenciòni",
+      "context": "Momento memorabile della settimana"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 8.4,
+      "giudizio": "Il Provocatore Raffinato in grande forma: battute secche e taglienti.",
+      "messaggi": 39,
+      "mediaGiornaliera": 5.6,
+      "highlights": [
+        "Ha dominato la conversazione con il 36% dei messaggi"
+      ],
+      "citazioneTop": "https://www.subito.it/animali/border-collie-grosseto-416092276.htm?utm_medium=referral&utm_source=subito&utm_campaign=free-engagement-ad_detail"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 7.9,
+      "giudizio": "Il Re della Chat ha regnato con mano ferma e tastiera fumante.",
+      "messaggi": 27,
+      "mediaGiornaliera": 3.9,
+      "highlights": [
+        "Ha dominato la conversazione con il 25% dei messaggi",
+        "Ha stimolato la discussione con molte domande"
+      ],
+      "citazioneTop": "Il bimbo deve impare subito il potere dell’emarginazione sociale e culturale."
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 6.5,
+      "giudizio": "Ha fatto il suo, tra proposte e organizzazione. Qualcuno l'ha pure ascoltato.",
+      "messaggi": 16,
+      "mediaGiornaliera": 2.3,
+      "highlights": [
+        "Ha contribuito con 16 messaggi"
+      ],
+      "citazioneTop": ""
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 5.0,
+      "giudizio": "Ha partecipato senza eccessi. Il Fondatore veglia.",
+      "messaggi": 9,
+      "mediaGiornaliera": 1.3,
+      "highlights": [
+        "Ha contribuito con 9 messaggi"
+      ],
+      "citazioneTop": "L'anno scorso ha iniziato a coltivare la canapa, chiaramente con tutti i permessi e denunce del caso"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 5.0,
+      "giudizio": "Non la sua settimana migliore, ma c'era quando serviva.",
+      "messaggi": 9,
+      "mediaGiornaliera": 1.3,
+      "highlights": [
+        "Ha contribuito con 9 messaggi"
+      ],
+      "citazioneTop": ""
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 5.6,
+      "giudizio": "Anche per i suoi standard, troppo silenzioso. Meditava?",
+      "messaggi": 7,
+      "mediaGiornaliera": 1.0,
+      "highlights": [
+        "Ha contribuito con 7 messaggi"
+      ],
+      "citazioneTop": ""
+    }
+  ],
+  "awards": {
+    "mvp": "Cosimo Nenciòni - Miglior voto della settimana con 8.4",
+    "comico": "Cosimo Nenciòni - Il piu' divertente della settimana",
+    "cuore": "Fausto Petrini - Presenza equilibrata e costante",
+    "fantasma": "Alessio Macalùso - Il piu' silenzioso con 7 messaggi"
+  }
+}

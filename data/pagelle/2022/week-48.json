@@ -1,0 +1,113 @@
+{
+  "anno": 2022,
+  "settimana": 48,
+  "startDate": "2022-11-29",
+  "endDate": "2022-12-03",
+  "stats": {
+    "totalMessages": 32,
+    "activeMembers": 5,
+    "avgPerMember": 6.4
+  },
+  "riassunto": "Cosimo condivide Salvini ('Mi fa molto ridere quando dice ci sono le trote'). Salvini vuole il Ponte sullo Stretto ('Fa sul serio'). Cosimo beve prosecco con qualcuno: 'Una boccia uccisa in due in 15 minuti, ha un bel ritmo'. Fausto e Alessio V. discutono di Attack on Titan ('Episodi finali su Prime').",
+  "bestQuotes": [
+    {
+      "quote": "Mi fa molto ridere quando dice 'ci sono le trote'",
+      "author": "Cosimo Nenciòni",
+      "context": "Su Salvini"
+    },
+    {
+      "quote": "Una boccia di prosecco uccisa in due in 15 minuti. Ha un bel ritmo",
+      "author": "Cosimo Nenciòni",
+      "context": "Sull'aperitivo"
+    },
+    {
+      "quote": "L'altra sera non era cosi' brillante",
+      "author": "Giacomo Dolfi",
+      "context": "Su qualcuno ubriaco"
+    },
+    {
+      "quote": "Pezzi di gioventu' non goduti",
+      "author": "Fausto Petrini",
+      "context": "Sui rave"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Alessio Valentini",
+      "voto": 7.5,
+      "giudizio": "Ha discusso di Attack on Titan: 'Niente spoiler mi raccomando'. Ha spiegato che c'e' la parte 3 ancora da uscire. 'Secondo me e' spettacolare'. Esperto di anime.",
+      "messaggi": 10,
+      "mediaGiornaliera": 2.0,
+      "highlights": [
+        "Attack on Titan",
+        "Niente spoiler",
+        "E' spettacolare"
+      ],
+      "citazioneTop": "Niente spoiler mi raccomando"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 8.0,
+      "giudizio": "'Ci sono le trote' su Salvini e' il meme della settimana. 'Boccia uccisa in 15 minuti' e' alcolismo descrittivo. Ha condiviso video Neymar. Curatore di contenuti.",
+      "messaggi": 9,
+      "mediaGiornaliera": 1.8,
+      "highlights": [
+        "Ci sono le trote",
+        "Boccia uccisa",
+        "Ha un bel ritmo"
+      ],
+      "citazioneTop": "Mi fa ridere quando dice ci sono le trote"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 7.0,
+      "giudizio": "Ha scoperto Attack on Titan su Prime. 'L'altra sera era messo parecchio peggio'. Ha condiviso BlastometroTW e video Neymar ('Le medesime giocate'). Critico seriale.",
+      "messaggi": 9,
+      "mediaGiornaliera": 1.8,
+      "highlights": [
+        "Attack on Titan",
+        "Era messo peggio",
+        "Neymar"
+      ],
+      "citazioneTop": "L'altra sera era messo parecchio peggio"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 6.5,
+      "giudizio": "Ha condiviso Salvini sul Ponte ('Fa sul serio'). Tre messaggi ma informativi.",
+      "messaggi": 3,
+      "mediaGiornaliera": 0.6,
+      "highlights": [
+        "Salvini ponte",
+        "Fa sul serio"
+      ],
+      "citazioneTop": "Fa sul serio"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 6.0,
+      "giudizio": "'L'altra sera non era cosi' brillante' conferma il racconto di Cosimo. Un messaggio di supporto.",
+      "messaggi": 1,
+      "mediaGiornaliera": 0.2,
+      "highlights": [
+        "Non era brillante"
+      ],
+      "citazioneTop": "L'altra sera non era cosi' brillante"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 4.0,
+      "giudizio": "Zero messaggi questa settimana. Assente.",
+      "messaggi": 0,
+      "mediaGiornaliera": 0.0,
+      "highlights": [],
+      "citazioneTop": ""
+    }
+  ],
+  "awards": {
+    "mvp": "Cosimo Nenciòni - Ci sono le trote e boccia uccisa",
+    "comico": "Cosimo Nenciòni - Ha un bel ritmo (sul prosecco)",
+    "cuore": "Alessio Valentini - Niente spoiler mi raccomando",
+    "fantasma": "Alessio Macalùso - Zero messaggi"
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "anno": 2020,
+  "settimana": 13,
+  "startDate": "2020-03-23",
+  "endDate": "2020-03-29",
+  "stats": {
+    "totalMessages": 190,
+    "activeMembers": 6,
+    "avgPerMember": 31.7
+  },
+  "riassunto": "Una settimana all'insegna di cinema/film, uscite/cene, poker in pieno lockdown. 190 messaggi scambiati tra i 6 membri attivi, con il solito mix di ironia e discussioni serie.",
+  "bestQuotes": [
+    {
+      "quote": "Ahahah Elena vuole farsi sposare, è evidente",
+      "author": "Giacomo Dolfi",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Eh. Qual è il confine della mia abitazione? Tu almeno puoi andare avanti e indietro  sul terrazzo",
+      "author": "Cosimo Nenciòni",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "volete soluzione? nah, famo domani, no?",
+      "author": "Alessio Valentini",
+      "context": "Momento memorabile della settimana"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 8.5,
+      "giudizio": "Fiume in piena come sempre, ma questa settimana i suoi monologhi avevano un senso. Miracolo natalizio?",
+      "messaggi": 48,
+      "mediaGiornaliera": 6.9,
+      "highlights": [
+        "Molto attivo, tra i più presenti della settimana",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "I peregrini e intorno all’isolato"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 8.0,
+      "giudizio": "Il Fondatore si è fatto sentire: domande innocue che hanno scatenato dibattiti infiniti.",
+      "messaggi": 25,
+      "mediaGiornaliera": 3.6,
+      "highlights": [
+        "Buona partecipazione alle discussioni",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "Comunque se si devono avere Trump, Macron (almeno per il virus) o Johnson, teniamoci Conte vai"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 7.5,
+      "giudizio": "Il Provocatore Raffinato colpisce ancora. Con tre frasi ha detto più di altri in venti messaggi.",
+      "messaggi": 36,
+      "mediaGiornaliera": 5.1,
+      "highlights": [
+        "Molto attivo, tra i più presenti della settimana",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "Eh. Qual è il confine della mia abitazione? Tu almeno puoi andare avanti e indietro  sul terrazzo"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 7.5,
+      "giudizio": "Nonostante il fuso orario impossibile, Alessio V. ha tenuto alto il morale del gruppo.",
+      "messaggi": 33,
+      "mediaGiornaliera": 4.7,
+      "highlights": [
+        "Molto attivo, tra i più presenti della settimana",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "ci siamo fatti spedire la pasta che la de cecco è un mese che non c'è nei supermercati"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 7.5,
+      "giudizio": "Il Trascinatore ha proposto, organizzato, coordinato. Che poi nessuno abbia risposto è un altro discorso.",
+      "messaggi": 26,
+      "mediaGiornaliera": 4.3,
+      "highlights": [
+        "Buona partecipazione alle discussioni",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "Questo ragazzo a me fa morire sempre"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 7.0,
+      "giudizio": "Ha contribuito con la sua calma zen. Pochi messaggi ma sempre pertinenti.",
+      "messaggi": 22,
+      "mediaGiornaliera": 4.4,
+      "highlights": [
+        "Buona partecipazione alle discussioni",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "Io vado a lavoro #iononpossorestareacasa"
+    }
+  ],
+  "awards": {
+    "mvp": "Adriano Sergio Lorenzo Facchini",
+    "comico": "Giacomo Dolfi",
+    "cuore": "Adriano Sergio Lorenzo Facchini",
+    "fantasma": "Alessio Macalùso"
+  }
+}

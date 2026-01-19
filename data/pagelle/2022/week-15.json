@@ -1,0 +1,119 @@
+{
+  "anno": 2022,
+  "settimana": 15,
+  "startDate": "2022-04-11",
+  "endDate": "2022-04-17",
+  "stats": {
+    "totalMessages": 46,
+    "activeMembers": 6,
+    "avgPerMember": 7.7
+  },
+  "riassunto": "Si organizza il pranzo aperipoker del 21 aprile a Firenze da Zocchi. Giacomo propone di far venire Federico: 'Direi che la storia e' stata amara con Fede. Dobbiamo deliberare di persona. Tendo per il no.' Fausto e' categorico: 'Io no per fede. Quando e se sarai lider potrai fare come vuoi (forse)'. La fica profumina e' a giro. Si pianifica tennis prima del pranzo.",
+  "bestQuotes": [
+    {
+      "quote": "Ragazzi c'e' un problema: a giro c'e' la fica profumina",
+      "author": "Fausto Petrini",
+      "context": "Problema non meglio specificato"
+    },
+    {
+      "quote": "Io no per fede. Quando e se sarai lider potrai fare come vuoi (forse)",
+      "author": "Fausto Petrini",
+      "context": "Sul far venire Federico all'aperipoker"
+    },
+    {
+      "quote": "Direi che la storia e' stata amara con Fede. Dobbiamo deliberare di persona. Tendo per il no.",
+      "author": "Alessio Valentini",
+      "context": "Sulla questione Federico"
+    },
+    {
+      "quote": "Riesci sempre a rovinare tutto",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Sulla fica profumina"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 7.5,
+      "giudizio": "Ha proposto tennis alle 9 con Adriano, ha chiesto se far venire Federico (bocciato), ha gestito gli orari. 'Sarebbe fantastico' se Alessio V. venisse a vedere. Presente e organizzativo.",
+      "messaggi": 11,
+      "mediaGiornaliera": 1.6,
+      "highlights": [
+        "Ha proposto tennis prima del pranzo",
+        "Ha chiesto di Federico",
+        "Ha gestito gli orari di rientro"
+      ],
+      "citazioneTop": "vorrei dire a Federico di venire con noi, che ne dite?"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 7.5,
+      "giudizio": "Ha ufficializzato il pranzo del 21. La fica profumina lo distrae. Categorico su Federico: 'Quando e se sarai lider potrai fare come vuoi (forse)'. Ha visto Joker: capolavoro (con ritardo).",
+      "messaggi": 10,
+      "mediaGiornaliera": 1.4,
+      "highlights": [
+        "Ha ufficializzato il pranzo",
+        "Categorico su Federico",
+        "Ha visto Joker (nel 2022)"
+      ],
+      "citazioneTop": "Io no per fede. Quando e se sarai lider potrai fare come vuoi (forse)"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 7.0,
+      "giudizio": "Conferma la disponibilita' per il 21, lavora a Pasqua ('So a lavoro'), partira' quando vogliono. 'W il giardinaggio W l'edilizia' diventa un motto.",
+      "messaggi": 10,
+      "mediaGiornaliera": 1.4,
+      "highlights": [
+        "Lavora a Pasqua",
+        "Disponibile per il pranzo",
+        "W il giardinaggio W l'edilizia"
+      ],
+      "citazioneTop": "Si' W il giardinaggio W l'edilizia"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 7.0,
+      "giudizio": "Anche lui contrario a Federico ('la storia e' stata amara'). Vuole venire a vedere la partita di tennis. 'Qualsiasi cosa purche' si faccia.' Il Lider Maximo si sta assestando.",
+      "messaggi": 7,
+      "mediaGiornaliera": 1.0,
+      "highlights": [
+        "Contrario a Federico",
+        "Vuole vedere il tennis",
+        "Si sta assestando"
+      ],
+      "citazioneTop": "Direi che la storia e' stata amara con Fede"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 6.5,
+      "giudizio": "Commenta la pubblicita' del giardinaggio come un porno. Dice che Fausto riesce sempre a rovinare tutto. Sempre sul pezzo con battute.",
+      "messaggi": 5,
+      "mediaGiornaliera": 0.7,
+      "highlights": [
+        "Commento sul porno del giardinaggio",
+        "Ha criticato la fica profumina"
+      ],
+      "citazioneTop": "Piu' che una pubblicita' per il giardinaggio mi sembra l'incipit di un porno"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 7.0,
+      "giudizio": "Ha fissato da Zocchi alle 13:30. Ha mandato auguri di Pasqua con foto. Ha chiesto ad Alessio V. come va il rientro. Efficiente e affettuoso.",
+      "messaggi": 3,
+      "mediaGiornaliera": 0.4,
+      "highlights": [
+        "Ha prenotato da Zocchi",
+        "Auguri di Pasqua",
+        "Ha chiesto del rientro di Alessio"
+      ],
+      "citazioneTop": "Intanto ho fissato da zocchi ore 13.30 per giovedi'"
+    }
+  ],
+  "awards": {
+    "mvp": "Fausto Petrini - Ha ufficializzato il pranzo e difeso i confini del gruppo",
+    "comico": "Fausto Petrini - 'La fica profumina' senza contesto",
+    "cuore": "Cosimo Nenciòni - Ha prenotato e chiesto come sta Alessio",
+    "fantasma": "Nessuno - Tutti presenti nell'organizzazione"
+  }
+}

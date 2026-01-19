@@ -1,0 +1,106 @@
+{
+  "anno": 2023,
+  "settimana": 18,
+  "startDate": "2023-05-01",
+  "endDate": "2023-05-07",
+  "stats": {
+    "totalMessages": 31,
+    "activeMembers": 6,
+    "avgPerMember": 5.2
+  },
+  "riassunto": "Settimana della memoria e delle tette giganti. 'Per non dimenticare' (Mac) - ricordo di 8 anni fa. Lo speaker del Maradona piange: 'Ma che tette giganti ha????' Adriano e Cosimo ricordano il weekend 'noi uomini duri'. Giacomo rischia la galera come la Mondini ('Giec sei a un centimetro dalla galera'). Cocco in Scozia con foto misteriosa (pantheon a forma di fungo atomico?).",
+  "bestQuotes": [
+    {
+      "quote": "Ma che tette giganti ha????",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Sullo speaker del Maradona che piange"
+    },
+    {
+      "quote": "Giec, sei a un centimetro dalla galera",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Sulla vicenda Mondini-TG1"
+    },
+    {
+      "quote": "Un pantheon a forma di fungo atomico?",
+      "author": "Alessio Valentini",
+      "context": "Sulla foto dalla Scozia"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 7.5,
+      "giudizio": "Le tette dello speaker del Maradona lo colpiscono. Ricorda il weekend 'noi uomini duri' di 8 anni fa. 'Giovanni Rana?' per il ristorante nel bosco. Presente con qualita.",
+      "messaggi": 8,
+      "mediaGiornaliera": 1.1,
+      "highlights": [
+        "Osservazione tette speaker",
+        "Ricordo weekend storico"
+      ],
+      "citazioneTop": "Fu il week end noi uomini duri"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 7.5,
+      "giudizio": "'Le tette. 8 anni fa.' - contestualizza. In Scozia con foto misteriosa. 'Super leggere' di qualcosa. Sempre presente anche da lontano.",
+      "messaggi": 8,
+      "mediaGiornaliera": 1.1,
+      "highlights": [
+        "Foto dalla Scozia",
+        "Memoria storica"
+      ],
+      "citazioneTop": "Le tette. 8 anni fa."
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 7.0,
+      "giudizio": "'Per non dimenticare' - apre la settimana. Cerca il ristorante nel bosco all'Impruneta. 'Tutto il mondo è paese' sulla vicenda Mondini. Nostalgico e pratico.",
+      "messaggi": 6,
+      "mediaGiornaliera": 0.9,
+      "highlights": [
+        "Ricordo commemorativo",
+        "Ricerca ristorante"
+      ],
+      "citazioneTop": "Per non dimenticare"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 6.5,
+      "giudizio": "'Potevi fa la foto alla targhetta dio can'. 'Un pantheon a forma di fungo atomico?' sulla foto di Cocco. Presente da lontano con battute.",
+      "messaggi": 4,
+      "mediaGiornaliera": 0.6,
+      "highlights": [
+        "Commenti foto Scozia"
+      ],
+      "citazioneTop": "Un pantheon a forma di fungo atomico?"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 6.0,
+      "giudizio": "'Azz, sara stato JJ23'. 'Cantinetta di Rignana?' per il ristorante. 'Te sei per la comicita fine radical chic'. Presente ma limitato.",
+      "messaggi": 4,
+      "mediaGiornaliera": 0.6,
+      "highlights": [
+        "Proposta ristorante"
+      ],
+      "citazioneTop": "Te sei per la comicità fine radical chic"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 5.5,
+      "giudizio": "Solo emoji di risata sulla battuta della galera. Il Fondatore silenzioso.",
+      "messaggi": 1,
+      "mediaGiornaliera": 0.1,
+      "highlights": [
+        "Risata per la battuta"
+      ],
+      "citazioneTop": null
+    }
+  ],
+  "awards": {
+    "mvp": "Adriano Sergio Lorenzo Facchini",
+    "comico": "Cosimo Nenciòni",
+    "cuore": "Alessio Macalùso",
+    "fantasma": "Giacomo Dolfi"
+  }
+}

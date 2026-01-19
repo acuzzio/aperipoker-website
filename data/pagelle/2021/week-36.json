@@ -1,0 +1,103 @@
+{
+  "anno": 2021,
+  "settimana": 36,
+  "startDate": "2021-09-06",
+  "endDate": "2021-09-12",
+  "stats": {
+    "totalMessages": 123,
+    "activeMembers": 6,
+    "avgPerMember": 20.5
+  },
+  "riassunto": "Settimana 36 con 123 messaggi. Giacomo guida le danze con 34 contributi.",
+  "bestQuotes": [
+    {
+      "quote": "Ragazzi si organizza una cena fra noi la prossima settimana? Maca, jack, voi che siete i più impegnati, quando potreste infrasettimana?",
+      "author": "Fausto Petrini",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Ragazzi , sabato e domenica sono sacri ma posso vedere. Si andasse a Poggibonsi?",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Allora lavoriamo tutti per domenica 12, giusto? Cerchiamo di dare risposte per tempo. Per poggibonsi a me va bene,preferirei firenze ma insomma mi adatto",
+      "author": "Fausto Petrini",
+      "context": "Momento memorabile della settimana"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 7.8,
+      "giudizio": "Giacomo ha guidato le discussioni con saggezza poggibonsese.",
+      "messaggi": 34,
+      "mediaGiornaliera": 4.9,
+      "highlights": [
+        "Ha dominato la conversazione con il 28% dei messaggi"
+      ],
+      "citazioneTop": "@⁨Adriano Sergio Lorenzo Facchini⁩ ci pensi al posto per domenica?"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 7.0,
+      "giudizio": "Presente come sempre, non ha fatto mancare la sua voce al coro.",
+      "messaggi": 24,
+      "mediaGiornaliera": 3.4,
+      "highlights": [
+        "Tra i piu' attivi con 24 messaggi"
+      ],
+      "citazioneTop": "Ragazzi , sabato e domenica sono sacri ma posso vedere. Si andasse a Poggibonsi?"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 6.6,
+      "giudizio": "Contributo misurato, come nel suo stile. Ogni parola al suo posto.",
+      "messaggi": 21,
+      "mediaGiornaliera": 3.0,
+      "highlights": [
+        "Tra i piu' attivi con 21 messaggi"
+      ],
+      "citazioneTop": ""
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 6.5,
+      "giudizio": "Ha fatto il suo, tra proposte e organizzazione. Qualcuno l'ha pure ascoltato.",
+      "messaggi": 19,
+      "mediaGiornaliera": 2.7,
+      "highlights": [
+        "Tra i piu' attivi con 19 messaggi"
+      ],
+      "citazioneTop": "Ragazzi si organizza una cena fra noi la prossima settimana? Maca, jack, voi che siete i più impegnati, quando potreste infrasettimana?"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 6.0,
+      "giudizio": "Contributo equilibrato, con qualche perla sarcastica.",
+      "messaggi": 19,
+      "mediaGiornaliera": 2.7,
+      "highlights": [
+        "Tra i piu' attivi con 19 messaggi"
+      ],
+      "citazioneTop": ""
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 5.6,
+      "giudizio": "Disperso in qualche angolo del mondo. Internet troppo di merda.",
+      "messaggi": 6,
+      "mediaGiornaliera": 0.9,
+      "highlights": [
+        "Ha contribuito con 6 messaggi"
+      ],
+      "citazioneTop": ""
+    }
+  ],
+  "awards": {
+    "mvp": "Giacomo Dolfi - Miglior voto della settimana con 7.8",
+    "comico": "Alessio Valentini - Il piu' divertente della settimana",
+    "cuore": "Alessio Macalùso - Presenza equilibrata e costante",
+    "fantasma": "Alessio Valentini - Il piu' silenzioso con 6 messaggi"
+  }
+}

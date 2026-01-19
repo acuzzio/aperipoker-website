@@ -1,0 +1,109 @@
+{
+  "anno": 2023,
+  "settimana": 47,
+  "startDate": "2023-11-20",
+  "endDate": "2023-11-26",
+  "stats": {
+    "totalMessages": 148,
+    "activeMembers": 6,
+    "avgPerMember": 24.7
+  },
+  "riassunto": "SETTIMANA EPICA: pranzo Aperipoker, ChatGPT e COPPA DAVIS! Pranzo storico a Firenze con Adriano, Cocco, Fausto e Alessio V. Adriano scrive messaggio commovente: 'Quella sensazione che tutto sia sempre uguale, che il tempo non modifichi nulla. Anni che non ci vediamo e si ha la sensazione di essersi visto la sera prima'. Alessio V. usa ChatGPT per riscriverlo con Vasco Rossi, Valentino Rossi e il tennis! Mac scrive poesia per Adriano: 'Nel futuro come un faro luminoso, Adriano si erge, leader maestoso'. ADRIANO NUOVO LIDER! Poi ChatGPT war: Adriano scrive storie su Fausto invidioso, rancoroso. Fausto risponde: 'Te ricorda che quando hai bisogno io ci sono sempre'. Organizzazione cena 15 dicembre, zona Valdarno. Cocco: 'Noi dobbiamo spendere almeno 60 euro a testa, siamo upper class'. E poi COPPA DAVIS! Adriano a Malaga per la finale. Italia vs Serbia: 'Significa vedere Djokovic vs Sinner'. 'Sinner ribatte Djokovic'. Finale vs Australia: 'Se andiamo al doppio siamo fottuti'. ITALIA VINCE! Cocco: 'Godete ragazzi'. Adriano: 'Due alieni'. Biliardino americano: 'Da questo dettaglio si denota che siano un popolo di merda'.",
+  "bestQuotes": [
+    {
+      "quote": "Quella sensazione che tutto sia sempre uguale, che il tempo non modifichi nulla. Anni che non ci vediamo e si ha la sensazione di essersi visto la sera prima",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Sul pranzo Aperipoker"
+    },
+    {
+      "quote": "Nel futuro come un faro luminoso, Adriano si erge, leader maestoso",
+      "author": "Alessio Macalùso",
+      "context": "Investitura ChatGPT"
+    },
+    {
+      "quote": "Noi dobbiamo spendere almeno 60 euro a testa. Siamo upper class",
+      "author": "Cosimo Nenciòni",
+      "context": "Sulla cena Aperipoker"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 9.5,
+      "giudizio": "IL NUOVO LIDER! Messaggio commovente sul pranzo. A Malaga per la Coppa Davis! 'Significa vedere Djokovic vs Sinner'. 'Sinner ribatte Djokovic. Due alieni. Indescrivibile'. ChatGPT war con storie su Fausto. 'Anche da questo dettaglio sui biliardini si denota che siano un popolo di merda'. 'Se andiamo al doppio siamo fottuti'. 'E ora Sinnerino'. Protagonista assoluto.",
+      "messaggi": 42,
+      "mediaGiornaliera": 6.0,
+      "highlights": [
+        "Nuovo Lider",
+        "Coppa Davis Malaga"
+      ],
+      "citazioneTop": "Quella sensazione che tutto sia sempre uguale, che il tempo non modifichi nulla"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 8.5,
+      "giudizio": "'Ti si vole bene Adri'. 'La parte di Malaga mi fa taja'!'. 'Amo fatto late' su OpenAI. 'Noi dobbiamo spendere almeno 60 euro a testa, siamo upper class'. 'Salvo contrordini potrei non venire'. 'Mi piace il ruolo dell'anziano' su ChatGPT. Segue Davis: 'Siamo carichi? Gliela famo?'. 'Godete ragazzi'. Presente e entusiasta.",
+      "messaggi": 26,
+      "mediaGiornaliera": 3.7,
+      "highlights": [
+        "Upper class",
+        "Tifo Davis"
+      ],
+      "citazioneTop": "Noi dobbiamo spendere almeno 60 euro a testa. Siamo upper class"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 8.5,
+      "giudizio": "'Come lo vuoi? Piu' dolce?'. Usa ChatGPT per riscrivere con tennis, Roland Garros! 'Pasquale io non capisco perche' domandi, queste cose sono scandalose'. 'Tremendissimo' sulle storie di Fausto. 'Finalmente ChatGPT in una chat italiana'. 'Ma in America i biliardini che hanno 3 difensori?'. 'Sanno una sega cos'e' il calcio'. 'Io sono qua a vedere la partita con Renato'. Creativo e critico.",
+      "messaggi": 24,
+      "mediaGiornaliera": 3.4,
+      "highlights": [
+        "ChatGPT creativo",
+        "Biliardini americani"
+      ],
+      "citazioneTop": "Queste cose sono scandalose, come non puoi cena aperipoker?"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 8.5,
+      "giudizio": "Il Lider che abdica con stile! Poesia ChatGPT per Adriano: 'Nel futuro come un faro luminoso, Adriano si erge, leader maestoso'. 'Sarebbe il caso di fissare sta cena'. '6 dicembre' poi '15'. 'Che e' successo? Avete litigato ragazzi?' sulle storie. 'Che poi essendo lider non e' ignoranza, e' piu' umilta''. Maestro cerimoniere fino all'ultimo.",
+      "messaggi": 16,
+      "mediaGiornaliera": 2.3,
+      "highlights": [
+        "Poesia Adriano",
+        "Organizza cena"
+      ],
+      "citazioneTop": "Nel futuro come un faro luminoso, Adriano si erge, leader maestoso"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 8.0,
+      "giudizio": "'E forse per questo puoi ambire ad essere lider...'. 'Scarichi la 3.5, ma poi puoi upgradeare'. Risposta nobile alle storie: 'Te ricorda sempre che quando hai bisogno io ci sono sempre. Fai pure affidamento su di me'. 'Bisogna vinca ora via'. 'Bravo Panatta eh, chiamatele...'. 'Preso a pallate'. Nobile e appassionato di tennis.",
+      "messaggi": 18,
+      "mediaGiornaliera": 2.6,
+      "highlights": [
+        "Risposta nobile",
+        "Tifo Davis"
+      ],
+      "citazioneTop": "Te ricorda sempre che quando hai bisogno io ci sono sempre"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 7.5,
+      "giudizio": "'Io il 6 non posso'. 'Eh...cena della squadra di Pietro Dolfi portiere'. Condivide menu cena calcio. 'Manca me'. 'Anche per me il 15 ok'. 'Venite!' alla cena. 'Verità assoluta'. 'Grande Adri! Godetevela!' sulla Davis. 'Immagino il godimento!'. Impegnato ma presente.",
+      "messaggi": 14,
+      "mediaGiornaliera": 2.0,
+      "highlights": [
+        "Cena Pietro",
+        "Tifo Davis"
+      ],
+      "citazioneTop": "Immagino il godimento a vedere questa partita!"
+    }
+  ],
+  "awards": {
+    "mvp": "Adriano Sergio Lorenzo Facchini",
+    "comico": "Alessio Valentini",
+    "cuore": "Alessio Macalùso",
+    "fantasma": null
+  }
+}

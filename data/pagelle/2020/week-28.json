@@ -1,0 +1,108 @@
+{
+  "anno": 2020,
+  "settimana": 28,
+  "startDate": "2020-07-06",
+  "endDate": "2020-07-12",
+  "stats": {
+    "totalMessages": 70,
+    "activeMembers": 6,
+    "avgPerMember": 11.7
+  },
+  "riassunto": "Settimana normale con 70 messaggi e 6 membri attivi nella fase di riapertura. Si è parlato principalmente di uscite/cene, poker, viaggi. Il gruppo ha mantenuto il suo ritmo consueto tra battute e organizzazione di uscite.",
+  "bestQuotes": [
+    {
+      "quote": "Perché, non c’era la bilancia coi sassi????!!!!!",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "\"Così è deciso l'udienza è tolta?\" L'ha detto?",
+      "author": "Cosimo Nenciòni",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Il suo annuncio di morte, se lo è sceutto da solo",
+      "author": "Fausto Petrini",
+      "context": "Momento memorabile della settimana"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 8.0,
+      "giudizio": "Il Re della Chat ha dominato la settimana con la consueta verbosità. Quando Adriano parla, il gruppo ascolta (volente o nolente).",
+      "messaggi": 9,
+      "mediaGiornaliera": 1.8,
+      "highlights": [
+        "Presente ma non dominante",
+        "Costanza invidiabile: attivo quasi tutti i giorni"
+      ],
+      "citazioneTop": "Perché, non c’era la bilancia coi sassi????!!!!!"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 8.0,
+      "giudizio": "L'anima organizzativa del gruppo ha brillato. Quante uscite proposte? Quante andate in porto? Non importa.",
+      "messaggi": 12,
+      "mediaGiornaliera": 3.0,
+      "highlights": [
+        "Presente ma non dominante",
+        "Presente per buona parte della settimana"
+      ],
+      "citazioneTop": "Il suo annuncio di morte, se lo è sceutto da solo"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 7.5,
+      "giudizio": "Giacomo in grande spolvero. Le sue osservazioni hanno acceso la chat.",
+      "messaggi": 13,
+      "mediaGiornaliera": 6.5,
+      "highlights": [
+        "Presente ma non dominante"
+      ],
+      "citazioneTop": "Ma poi come a scuola: prima di entrare il giudice suona una campanella (identica a quella della scuola) e bisogna alzarsi tutti, pubblico incluso"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 7.0,
+      "giudizio": "Il solito Cosimo: poche parole, tutte giuste. O quasi.",
+      "messaggi": 16,
+      "mediaGiornaliera": 4.0,
+      "highlights": [
+        "Buona partecipazione alle discussioni",
+        "Presente per buona parte della settimana"
+      ],
+      "citazioneTop": "Cmq è la famigerata novella dello stento.."
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 7.0,
+      "giudizio": "Presente quando connesso, assente quando scollegato. Il solito Alessio V.",
+      "messaggi": 14,
+      "mediaGiornaliera": 3.5,
+      "highlights": [
+        "Presente ma non dominante",
+        "Presente per buona parte della settimana"
+      ],
+      "citazioneTop": "ma insomma e' andata bene?"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 6.0,
+      "giudizio": "Il solito Alessio Mac: pacato, presente, essenziale. Niente sprechi di parole.",
+      "messaggi": 6,
+      "mediaGiornaliera": 2.0,
+      "highlights": [
+        "Presente ma non dominante",
+        "Presente per buona parte della settimana"
+      ],
+      "citazioneTop": "Infatti mi trovi perfettamente d’accordo"
+    }
+  ],
+  "awards": {
+    "mvp": "Fausto Petrini",
+    "comico": "Cosimo Nenciòni",
+    "cuore": "Fausto Petrini",
+    "fantasma": "Alessio Macalùso"
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "anno": 2022,
+  "settimana": 7,
+  "startDate": "2022-02-14",
+  "endDate": "2022-02-20",
+  "stats": {
+    "totalMessages": 106,
+    "activeMembers": 6,
+    "avgPerMember": 17.7
+  },
+  "riassunto": "Giacomo finalmente negativo! Adriano propone di aggiungere Federico alla chat ma Alessio V. si oppone con veemenza ('La risposta e' chiaramente no'). Bocciato il referendum sulla cannabis, Alessio Mac indignato. Il sabato si organizza una cena epica da Adriano: Alessio Mac arriva con le frittelle, Cosimo da Firenze, Fausto 'forse si forse no' fino all'ultimo. 'Fausto e' nei pazzi' sentenzia Cosimo.",
+  "bestQuotes": [
+    {
+      "quote": "La risposta e' chiaramente no. Abbiamo gruppi con Federico. E lui non si e' dimostrato degno di entrare.",
+      "author": "Alessio Valentini",
+      "context": "Opposizione all'ingresso di Federico nel gruppo"
+    },
+    {
+      "quote": "Fausto e' nei pazzi",
+      "author": "Cosimo Nenciòni",
+      "context": "Sul comportamento indeciso di Fausto per la cena"
+    },
+    {
+      "quote": "Se cambiero' mai nome mi ribattezzo Tonino Guerra",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Sull'ottimismo nel contare i partecipanti"
+    },
+    {
+      "quote": "Se non porto io un po' di senesita' non ci pensa nessuno",
+      "author": "Alessio Macalùso",
+      "context": "Portando le frittelle alla cena"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 8.5,
+      "giudizio": "L'host della settimana. Ha organizzato la cena, ha fatto la spesa, ha accolto tutti. Ottimista sui numeri ('In realta' te sei un negativo'). Il 'Tonino Guerra' e' perfetto. Ha anche proposto Federico (bocciato).",
+      "messaggi": 38,
+      "mediaGiornaliera": 5.4,
+      "highlights": [
+        "Ha organizzato e ospitato la cena",
+        "Ha proposto di aggiungere Federico",
+        "Ottimismo contagioso sui partecipanti"
+      ],
+      "citazioneTop": "Quindi, facciamo uno sforzo e troviamoci a cena senza Fausto"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 7.0,
+      "giudizio": "Indeciso fino all'ultimo: con famiglia, senza famiglia, a cena, dopo cena. 'Fausto e' nei pazzi' e' meritato. Ha condiviso link interessanti e ha commentato il referendum. Alla fine e' venuto.",
+      "messaggi": 24,
+      "mediaGiornaliera": 3.4,
+      "highlights": [
+        "Indecisione epica sulla cena",
+        "Ha condiviso articolo su atleta olandese",
+        "Alla fine ha partecipato"
+      ],
+      "citazioneTop": "Forse anche a cena. Con family. Ma forse no. Dipende."
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 7.5,
+      "giudizio": "Ha bloccato Federico con veemenza ('E aggiungo dio maiale'). Intrappolato in America, guarda con invidia gli amici che si vedono. Ha condiviso foto del salottino. Scorbutico appena sveglio, come ammette lui stesso.",
+      "messaggi": 13,
+      "mediaGiornaliera": 1.9,
+      "highlights": [
+        "Ha bloccato l'ingresso di Federico",
+        "Ha espresso nostalgia per l'Italia",
+        "Ha condiviso foto da SF"
+      ],
+      "citazioneTop": "Scusate sono scorbutico appena sveglio"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 8.0,
+      "giudizio": "L'eroe delle frittelle. Ha portato la senesita' alla cena ('Se non porto io...'), e' arrivato primo da Adriano. Indignato sul referendum cannabis. Il suo 'Yes' alle 9 del mattino e' determinazione pura.",
+      "messaggi": 12,
+      "mediaGiornaliera": 1.7,
+      "highlights": [
+        "Ha portato le frittelle",
+        "Primo ad arrivare alla cena",
+        "Indignato sul referendum"
+      ],
+      "citazioneTop": "Se non porto io un po' di senesita' non ci pensa nessuno"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 7.5,
+      "giudizio": "Da Firenze a Siena per la cena, nonostante Luna con il raffreddore. 'Fausto e' nei pazzi' e' la sentenza della settimana. Non aveva capito una sega sulle date ma poi si e' organizzato.",
+      "messaggi": 12,
+      "mediaGiornaliera": 1.7,
+      "highlights": [
+        "Ha fatto 200 km per la cena",
+        "La sentenza su Fausto",
+        "Ha sbagliato chat ('Labbomba')"
+      ],
+      "citazioneTop": "Fausto e' nei pazzi"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 7.0,
+      "giudizio": "Finalmente negativo dopo settimane! Partecipa alla cena e propone di portare Risiko. 'Port risiko, poi si vede' e' la frase piu' Giacomo di sempre. Il Lider torna tra i vivi.",
+      "messaggi": 7,
+      "mediaGiornaliera": 1.0,
+      "highlights": [
+        "Finalmente negativo",
+        "Ha partecipato alla cena",
+        "Ha proposto Risiko"
+      ],
+      "citazioneTop": "Port risiko, poi si vede"
+    }
+  ],
+  "awards": {
+    "mvp": "Adriano Sergio Lorenzo Facchini - Ha organizzato e ospitato la cena del gruppo",
+    "comico": "Cosimo Nenciòni - 'Fausto e' nei pazzi' e' da incorniciare",
+    "cuore": "Alessio Macalùso - Ha portato le frittelle per tutti",
+    "fantasma": "Federico - Ancora fuori dal gruppo (per scelta collettiva)"
+  }
+}

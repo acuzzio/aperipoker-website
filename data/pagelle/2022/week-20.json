@@ -1,0 +1,117 @@
+{
+  "anno": 2022,
+  "settimana": 20,
+  "startDate": "2022-05-16",
+  "endDate": "2022-05-22",
+  "stats": {
+    "totalMessages": 69,
+    "activeMembers": 6,
+    "avgPerMember": 11.5
+  },
+  "riassunto": "Girmay vince una tappa al Giro e si spara il tappo dello spumante nell'occhio, deve ritirarsi. Il gruppo commenta con ironia ('Associazione tappo lesi', 'Sara' il primo champagne che beve'). Poi tragedia: Renata si rompe un piede correndo al centro vaccinale con gli zoccolacci. Settimana in Sardegna saltata, Cosimo devastato ('Mi ci viene da piangere'). Il gruppo si stringe.",
+  "bestQuotes": [
+    {
+      "quote": "Associazione tappo lesi",
+      "author": "Cosimo Nenciòni",
+      "context": "Sul ciclista che si e' fatto male col tappo"
+    },
+    {
+      "quote": "Sara' il primo champagne che beve. Sa una sega lui",
+      "author": "Cosimo Nenciòni",
+      "context": "Sul ciclista eritreo"
+    },
+    {
+      "quote": "Una storta faustiana mentre correva cogli zoccolacci al centro vaccinale a fare il booster",
+      "author": "Cosimo Nenciòni",
+      "context": "Su come Renata si e' rotta il piede"
+    },
+    {
+      "quote": "Tagliate il gesso prima e ciao a tutti. Stronger than fear",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Consiglio a Cosimo"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 8.0,
+      "giudizio": "Settimana da dimenticare: Renata si rompe il piede, Sardegna saltata, sfiga infinita. Pero' ha commentato il tappo di Girmay con ironia nera ('Associazione tappo lesi'). 'Mi ci viene da piangere' e' comprensibile.",
+      "messaggi": 25,
+      "mediaGiornaliera": 3.6,
+      "highlights": [
+        "Ha raccontato la tragedia di Renata",
+        "Ha commentato il tappo di Girmay",
+        "Sardegna saltata"
+      ],
+      "citazioneTop": "Una storta faustiana mentre correva cogli zoccolacci"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 7.5,
+      "giudizio": "Ha commentato Girmay con il gruppo, poi si e' attivato per Cosimo. 'Stronger than fear' e 'Hai bisogno di qualcosa?' mostrano il cuore. Ha anche chiesto orari del pronto soccorso.",
+      "messaggi": 19,
+      "mediaGiornaliera": 2.7,
+      "highlights": [
+        "Si e' attivato per Cosimo",
+        "Ha chiesto se serviva aiuto",
+        "Stronger than fear"
+      ],
+      "citazioneTop": "Tagliate il gesso prima e ciao a tutti"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 7.5,
+      "giudizio": "Ha offerto aiuto concreto: 'Dicci come ti si puo' aiutare'. Ha dato consigli medici basati sulla sua esperienza ('chiedi secondo consulto'). Ha coinvolto Eleonora per trovare specialisti.",
+      "messaggi": 11,
+      "mediaGiornaliera": 1.6,
+      "highlights": [
+        "Ha offerto aiuto",
+        "Ha dato consigli medici",
+        "Ha coinvolto Eleonora"
+      ],
+      "citazioneTop": "Dicci come ti si puo' aiutare, noi siamo presenti (quasi) sempre"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 6.5,
+      "giudizio": "Ha commentato Girmay ('e' stato un po' durottto'), poi si e' dispiaciuto per Renata ('Mi spiace a bomba'). Presente da lontano ma partecipe.",
+      "messaggi": 5,
+      "mediaGiornaliera": 0.7,
+      "highlights": [
+        "Ha commentato Girmay",
+        "Si e' dispiaciuto per Renata"
+      ],
+      "citazioneTop": "Mi spiace a bomba"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 6.5,
+      "giudizio": "Ha chiesto come e' successo, si e' preoccupato. 'No dai cazzo' e' la reazione giusta. Presente nei momenti difficili.",
+      "messaggi": 5,
+      "mediaGiornaliera": 0.7,
+      "highlights": [
+        "Ha chiesto dettagli",
+        "Si e' preoccupato"
+      ],
+      "citazioneTop": "No dai cazzo"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 6.0,
+      "giudizio": "Ha commentato il tappo ('Non e' abituato a stappare come noi'), poi 'Maledetti zoccoli' per Renata. Pochi messaggi ma solidali.",
+      "messaggi": 4,
+      "mediaGiornaliera": 0.6,
+      "highlights": [
+        "Ha commentato il tappo",
+        "Maledetti zoccoli"
+      ],
+      "citazioneTop": "Maledetti zoccoli"
+    }
+  ],
+  "awards": {
+    "mvp": "Cosimo Nenciòni - Ha gestito la tragedia con ironia e dignita'",
+    "comico": "Cosimo Nenciòni - 'Associazione tappo lesi' nonostante tutto",
+    "cuore": "Fausto Petrini - Ha offerto aiuto concreto e consigli medici",
+    "fantasma": "Nessuno - Tutti presenti per Cosimo"
+  }
+}

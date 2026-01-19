@@ -1,0 +1,103 @@
+{
+  "anno": 2021,
+  "settimana": 29,
+  "startDate": "2021-07-19",
+  "endDate": "2021-07-25",
+  "stats": {
+    "totalMessages": 86,
+    "activeMembers": 6,
+    "avgPerMember": 14.3
+  },
+  "riassunto": "Una settimana di ordinaria follia con 86 messaggi. Fausto in testa alla classifica.",
+  "bestQuotes": [
+    {
+      "quote": "Ahahah concordo in pieno! Ma sarebbe più reale una classifica che tenga conto anche dello sportivo da divano",
+      "author": "Giacomo Dolfi",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "perché questa me la ricordavo? ce l'hai attaccata da qualche parte vero?",
+      "author": "Alessio Valentini",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "#Tokyo2020 | Olympics out of context (@outofolympics) ha twittato: #Tokyo2020 https://t.co/RBveeORMz5 https://twitter.com/outofolympics/status/1417470822709661697?s=20",
+      "author": "Fausto Petrini",
+      "context": "Momento memorabile della settimana"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Fausto Petrini",
+      "voto": 7.4,
+      "giudizio": "Presente e propositivo, senza eccessi di entusiasmo.",
+      "messaggi": 21,
+      "mediaGiornaliera": 3.0,
+      "highlights": [
+        "Tra i piu' attivi con 21 messaggi"
+      ],
+      "citazioneTop": "#Tokyo2020 | Olympics out of context (@outofolympics) ha twittato: #Tokyo2020 https://t.co/RBveeORMz5 https://twitter.com/outofolympics/status/1417470822709661697?s=20"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 6.9,
+      "giudizio": "Presente nonostante i fusi orari avversi. Sempre affidabile.",
+      "messaggi": 20,
+      "mediaGiornaliera": 2.9,
+      "highlights": [
+        "Tra i piu' attivi con 20 messaggi"
+      ],
+      "citazioneTop": "perché questa me la ricordavo? ce l'hai attaccata da qualche parte vero?"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 6.5,
+      "giudizio": "Contributo equilibrato, con qualche perla sarcastica.",
+      "messaggi": 18,
+      "mediaGiornaliera": 2.6,
+      "highlights": [
+        "Tra i piu' attivi con 18 messaggi"
+      ],
+      "citazioneTop": "Muzzi Colonnese e Boldrini una spanna sopra agli altri."
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 5.8,
+      "giudizio": "Presente come sempre, non ha fatto mancare la sua voce al coro.",
+      "messaggi": 11,
+      "mediaGiornaliera": 1.6,
+      "highlights": [
+        "Ha contribuito con 11 messaggi"
+      ],
+      "citazioneTop": ""
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 5.7,
+      "giudizio": "Il suo 'Credo' di meta' settimana valeva un trattato filosofico.",
+      "messaggi": 10,
+      "mediaGiornaliera": 1.4,
+      "highlights": [
+        "Ha contribuito con 10 messaggi"
+      ],
+      "citazioneTop": ""
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 5.3,
+      "giudizio": "Il Lider si e' eclissato. Chi guida il gruppo?",
+      "messaggi": 6,
+      "mediaGiornaliera": 0.9,
+      "highlights": [
+        "Ha contribuito con 6 messaggi"
+      ],
+      "citazioneTop": "Ahahah concordo in pieno! Ma sarebbe più reale una classifica che tenga conto anche dello sportivo da divano"
+    }
+  ],
+  "awards": {
+    "mvp": "Fausto Petrini - Miglior voto della settimana con 7.4",
+    "comico": "Giacomo Dolfi - Il piu' divertente della settimana",
+    "cuore": "Adriano Sergio Lorenzo Facchini - Presenza equilibrata e costante",
+    "fantasma": "Giacomo Dolfi - Il piu' silenzioso con 6 messaggi"
+  }
+}

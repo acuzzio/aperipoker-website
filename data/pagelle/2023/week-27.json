@@ -1,0 +1,109 @@
+{
+  "anno": 2023,
+  "settimana": 27,
+  "startDate": "2023-07-03",
+  "endDate": "2023-07-09",
+  "stats": {
+    "totalMessages": 89,
+    "activeMembers": 6,
+    "avgPerMember": 14.8
+  },
+  "riassunto": "Settimana del viaggio in Australia! Giacomo parte con famiglia: 'Famiglia Dolfi in partenza verso l'Australia! Puzzo già prima di partire'. 31 ore porta a porta con scalo a Doha. Giovanni vomita. Canguri nel campo da golf! Alessio V. nelle Keys: 'Fa un caldo infernale'. 'A Miami parlano spagnolo, c'è chi l'inglese manco lo sa'. Cocco: 'Puoi andare a nuoto a Cuba'. Fausto analizza il Palio con audio spettacolari. Tutti chiedono foto di dingo, echidna, emù.",
+  "bestQuotes": [
+    {
+      "quote": "Famiglia Dolfi in partenza verso l'Australia! Puzzo già prima di partire",
+      "author": "Giacomo Dolfi",
+      "context": "Partenza per l'Australia"
+    },
+    {
+      "quote": "A Miami parlano spagnolo. C'è chi l'inglese manco lo sa",
+      "author": "Alessio Valentini",
+      "context": "Scoperta a Miami"
+    },
+    {
+      "quote": "Come sempre hai perso una ulteriore occasione per stare zitto",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "A Fausto sul lider"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 9.0,
+      "giudizio": "Protagonista assoluto! Partenza per Australia: '31 ore porta a porta'. 'Giovanni ha vomitato, e via'. Canguri nel campo da golf. 'Ieri siamo stati al punto dove si incontrano oceano indiano e oceano del sud'. 'Stanotte mi sono svegliato 5/6 volte'. Viaggio della vita.",
+      "messaggi": 24,
+      "mediaGiornaliera": 3.4,
+      "highlights": [
+        "Viaggio Australia",
+        "Canguri nel golf"
+      ],
+      "citazioneTop": "Da porta a porta 31 ore"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 8.0,
+      "giudizio": "Nelle Florida Keys: 'Fa un caldo infernale ma poteva andare peggio'. 'In Europa non mi fanno tornare, una vacanzina la devo pur fare'. 'A Miami parlano spagnolo'. 'Il fuso deve essere mostruoso'. Esploratore forzato.",
+      "messaggi": 20,
+      "mediaGiornaliera": 2.9,
+      "highlights": [
+        "Florida Keys",
+        "Scoperta Miami"
+      ],
+      "citazioneTop": "A Miami parlano spagnolo. C'è chi l'inglese manco lo sa"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 7.5,
+      "giudizio": "'Bella Giec, manna foto dingo e ornitorinco'. 'Puoi andare a nuoto a Cuba, poi però non ti fanno tornare'. 'Parete gemelli' su foto di famiglia. 'Si ma manna'. Richieste continue di foto australiane.",
+      "messaggi": 14,
+      "mediaGiornaliera": 2.0,
+      "highlights": [
+        "Battuta Cuba",
+        "Richieste foto animali"
+      ],
+      "citazioneTop": "Puoi andare a nuoto a Cuba. Poi però non ti fanno tornare"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 7.5,
+      "giudizio": "'Odore livello canguro!' 'Oppure l'odore di un canguro ingroppato da un dingo'. 'Come sempre hai perso un'ulteriore occasione per stare zitto' a Fausto. 'Che spettacolo!!!!' sull'Australia. 'Te stai cagando lo so'. Ironico e coinvolto.",
+      "messaggi": 16,
+      "mediaGiornaliera": 2.3,
+      "highlights": [
+        "Battute animali",
+        "Stuzzicate a Fausto"
+      ],
+      "citazioneTop": "Come sempre hai perso una ulteriore occasione per stare zitto"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 7.0,
+      "giudizio": "'Buon viaggio alla famiglia Dolfi!!' 'Anche emù'. 'Viaggio della vita'. Articolo sull'alcol. 'Sono cose che potrebbe pretendere solo il legittimo lider'. Audio spettacolari sul Palio. Presente e informativo.",
+      "messaggi": 10,
+      "mediaGiornaliera": 1.4,
+      "highlights": [
+        "Auguri viaggio",
+        "Analisi Palio"
+      ],
+      "citazioneTop": "Viaggio della vita"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 7.0,
+      "giudizio": "'Che figata' sulla partenza. 'Ma magari ti fanno la carta verde' a Alessio V. 'Il lider Pasquale, appena potrà ci manderà dei videi'. Location dall'Elba. Presente e ottimista.",
+      "messaggi": 10,
+      "mediaGiornaliera": 1.4,
+      "highlights": [
+        "Supporto viaggiatori",
+        "Vacanza Elba"
+      ],
+      "citazioneTop": "Ma magari ti fanno la carta verde"
+    }
+  ],
+  "awards": {
+    "mvp": "Giacomo Dolfi",
+    "comico": "Cosimo Nenciòni",
+    "cuore": "Fausto Petrini",
+    "fantasma": null
+  }
+}

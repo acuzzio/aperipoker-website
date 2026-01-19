@@ -1,0 +1,109 @@
+{
+  "anno": 2023,
+  "settimana": 12,
+  "startDate": "2023-03-20",
+  "endDate": "2023-03-26",
+  "stats": {
+    "totalMessages": 62,
+    "activeMembers": 6,
+    "avgPerMember": 10.3
+  },
+  "riassunto": "Settimana della cena spagnola! Cambio di programma: dalla Speranza allo Spagnolo di Poggibonsi ('I spagnoli si sa... so boncitti'). Luna di Cosimo dorme con le ciabatte giganti di Pietrodolfi. Cena fissata alle 20 da Giacomo. 'La fanno la Fiorentina? Col riso, nel senso che ti ridono in faccia'. Fede non viene e Giacomo 'si incazza'. Discussione sul bigne/occhio nuovo nella foto.",
+  "bestQuotes": [
+    {
+      "quote": "La fanno ma col riso. Nel senso che ti ridono in faccia",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Sulla Fiorentina al ristorante spagnolo"
+    },
+    {
+      "quote": "I spagnoli si sa ... So boncitti",
+      "author": "Cosimo Nenciòni",
+      "context": "Sui ritmi spagnoli per cenare tardi"
+    },
+    {
+      "quote": "La tentacolare Poggibonsi",
+      "author": "Cosimo Nenciòni",
+      "context": "Ironia sui locali post-cena"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 7.5,
+      "giudizio": "'Considerate che alle 22 ci buttano fuori'. La battuta sulla Fiorentina col riso. 'Si potrebbe andare alla Speranza e poi fermarsi a Bottega Tolta'. Domanda esistenziale sul bigne/occhio nella foto. Cerca cerchioni di bici per costruire attrezzo.",
+      "messaggi": 18,
+      "mediaGiornaliera": 2.6,
+      "highlights": [
+        "Battuta Fiorentina col riso",
+        "Progetto cerchioni"
+      ],
+      "citazioneTop": "La fanno ma col riso. Nel senso che ti ridono in faccia"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 7.5,
+      "giudizio": "'La tentacolare Poggibonsi'. Luna con le ciabatte di Pietrodolfi: 'La sto fiaccando'. 'I spagnoli so boncitti'. Video di Luna che fa ridere tutti. Qualità altissima nonostante pochi messaggi.",
+      "messaggi": 12,
+      "mediaGiornaliera": 1.7,
+      "highlights": [
+        "Video di Luna con le ciabatte",
+        "Ironia su Poggibonsi"
+      ],
+      "citazioneTop": "La tentacolare Poggibonsi"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 7.0,
+      "giudizio": "Prenota allo spagnolo alle 20. 'Fede non viene' e 'No invece mi incazz9'. 'A Poggibonsi ci sono locali per bere dopo cena'. Giovanni in piscina a Rapolano. Il Fondatore organizza nonostante i limiti.",
+      "messaggi": 12,
+      "mediaGiornaliera": 1.7,
+      "highlights": [
+        "Prenotazione ristorante",
+        "Incazzatura per Federico"
+      ],
+      "citazioneTop": "Fantastica! E che ciabatte!"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 6.5,
+      "giudizio": "Propone cambio posto: 'Se si deve anche scappare presto non è meglio cambiare?'. 'A me va bene qualsiasi, meglio vicino'. 'Siamo dentro' dal ristorante. Prossima cena il 19 aprile proposta per gli auguri ad Alessio V.",
+      "messaggi": 10,
+      "mediaGiornaliera": 1.4,
+      "highlights": [
+        "Proposta cambio logistico",
+        "Pianificazione prossima cena"
+      ],
+      "citazioneTop": "Prossima cena, 19 aprile, per farti gli auguri ovunque tu sia"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 6.5,
+      "giudizio": "'È fuori mano per lui?' su Fede. 'Siamo sempre in tempo per andare alla Speranza eh'. 'Speriamo facciano la Fiorentina'. 'Parcheggiato ora' - il report live. Presente e pragmatico.",
+      "messaggi": 8,
+      "mediaGiornaliera": 1.1,
+      "highlights": [
+        "Proposta Speranza alternativa",
+        "Speranza sulla Fiorentina"
+      ],
+      "citazioneTop": "Siamo sempre in tempo per andare alla Speranza eh"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 6.0,
+      "giudizio": "'Ma ndo è il ristorante spagnolo?' - la domanda del lontano. 'Fate foto mostri' per la cena. 'Eeeexcellent' per la prossima cena. 'È na cappella' sul bigne. Partecipa da remoto con affetto.",
+      "messaggi": 8,
+      "mediaGiornaliera": 1.1,
+      "highlights": [
+        "Richiesta foto dalla cena",
+        "Partecipazione emotiva da lontano"
+      ],
+      "citazioneTop": "Fate foto mostri"
+    }
+  ],
+  "awards": {
+    "mvp": "Adriano Sergio Lorenzo Facchini",
+    "comico": "Cosimo Nenciòni",
+    "cuore": "Fausto Petrini",
+    "fantasma": null
+  }
+}

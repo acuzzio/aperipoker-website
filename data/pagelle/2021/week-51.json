@@ -1,0 +1,103 @@
+{
+  "anno": 2021,
+  "settimana": 51,
+  "startDate": "2021-12-20",
+  "endDate": "2021-12-26",
+  "stats": {
+    "totalMessages": 87,
+    "activeMembers": 6,
+    "avgPerMember": 14.5
+  },
+  "riassunto": "Una settimana di ordinaria follia con 87 messaggi. Adriano in testa alla classifica.",
+  "bestQuotes": [
+    {
+      "quote": "Per chi parte da siena ci troviamo prima per un aperitivo?",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "ale che dici si va tutti in macchina insieme o preferisci prendere macchine separate?",
+      "author": "Giacomo Dolfi",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Giec se non sono inopportuno… ma il babbo di Lucia coltiva l’erba?",
+      "author": "Alessio Macalùso",
+      "context": "Momento memorabile della settimana"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 7.5,
+      "giudizio": "Contributo solido, senza eccessi. Sta bene?",
+      "messaggi": 20,
+      "mediaGiornaliera": 2.9,
+      "highlights": [
+        "Tra i piu' attivi con 20 messaggi"
+      ],
+      "citazioneTop": "Per chi parte da siena ci troviamo prima per un aperitivo?"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 7.5,
+      "giudizio": "Presente con il suo solito stile: curioso, ironico, pungente.",
+      "messaggi": 20,
+      "mediaGiornaliera": 2.9,
+      "highlights": [
+        "Tra i piu' attivi con 20 messaggi"
+      ],
+      "citazioneTop": "ale che dici si va tutti in macchina insieme o preferisci prendere macchine separate?"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 7.0,
+      "giudizio": "Contributo misurato, come nel suo stile. Ogni parola al suo posto.",
+      "messaggi": 18,
+      "mediaGiornaliera": 2.6,
+      "highlights": [
+        "Tra i piu' attivi con 18 messaggi"
+      ],
+      "citazioneTop": "Giec se non sono inopportuno… ma il babbo di Lucia coltiva l’erba?"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 6.3,
+      "giudizio": "Presente e propositivo, senza eccessi di entusiasmo.",
+      "messaggi": 17,
+      "mediaGiornaliera": 2.4,
+      "highlights": [
+        "Tra i piu' attivi con 17 messaggi"
+      ],
+      "citazioneTop": ""
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 5.8,
+      "giudizio": "Assente ingiustificato. Che ce metti in saccoccia se non scrivi?",
+      "messaggi": 7,
+      "mediaGiornaliera": 1.0,
+      "highlights": [
+        "Ha contribuito con 7 messaggi"
+      ],
+      "citazioneTop": ""
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 5.3,
+      "giudizio": "Assente o quasi. Forse cercava connessione WiFi.",
+      "messaggi": 5,
+      "mediaGiornaliera": 0.7,
+      "highlights": [
+        "Ha contribuito con 5 messaggi"
+      ],
+      "citazioneTop": ""
+    }
+  ],
+  "awards": {
+    "mvp": "Adriano Sergio Lorenzo Facchini - Miglior voto della settimana con 7.5",
+    "comico": "Giacomo Dolfi - Il piu' divertente della settimana",
+    "cuore": "Fausto Petrini - Presenza equilibrata e costante",
+    "fantasma": "Alessio Valentini - Il piu' silenzioso con 5 messaggi"
+  }
+}

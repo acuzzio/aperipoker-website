@@ -1,0 +1,104 @@
+{
+  "anno": 2021,
+  "settimana": 47,
+  "startDate": "2021-11-22",
+  "endDate": "2021-11-28",
+  "stats": {
+    "totalMessages": 191,
+    "activeMembers": 6,
+    "avgPerMember": 31.8
+  },
+  "riassunto": "Settimana 47 con 191 messaggi. Alessio M. guida le danze con 58 contributi.",
+  "bestQuotes": [
+    {
+      "quote": "incrocio le dita. Ma se hai fatto quella dei tamponi è solo una rottura di cazzo ingoiare saliva/etc. Il giorno che te li levi patisci ma poi godi.",
+      "author": "Alessio Valentini",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Cocchi, mi spiace per moon. Anche io notte in bianco ma per altri motivi. Sono in un albergo di merda al sud e ci sono le mosche dio cane.",
+      "author": "Alessio Valentini",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "io ragazzi sono in un hotel di merda in mezzo al niente invece",
+      "author": "Alessio Valentini",
+      "context": "Momento memorabile della settimana"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Alessio Macalùso",
+      "voto": 7.6,
+      "giudizio": "Il monaco zen ha parlato, e il gruppo ha ascoltato. Parole pesate come pietre.",
+      "messaggi": 58,
+      "mediaGiornaliera": 8.3,
+      "highlights": [
+        "Ha dominato la conversazione con il 30% dei messaggi"
+      ],
+      "citazioneTop": ""
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 6.2,
+      "giudizio": "Presente e propositivo, senza eccessi di entusiasmo.",
+      "messaggi": 33,
+      "mediaGiornaliera": 4.7,
+      "highlights": [
+        "Tra i piu' attivi con 33 messaggi"
+      ],
+      "citazioneTop": "https://www.ilpost.it/2021/11/23/dart-deviazione-asteroide-nasa-esa-inaf-liciacube/"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 6.2,
+      "giudizio": "Presente con il suo solito stile minimale ma incisivo.",
+      "messaggi": 31,
+      "mediaGiornaliera": 4.4,
+      "highlights": [
+        "Tra i piu' attivi con 31 messaggi"
+      ],
+      "citazioneTop": "Una cosa che mi fa ridere di Twitter sono le persone serie e intellettuali che mettono i mi piace alle foto delle fiche."
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 6.7,
+      "giudizio": "Il solito Adriano: affidabile, verboso, immancabile.",
+      "messaggi": 30,
+      "mediaGiornaliera": 4.3,
+      "highlights": [
+        "Tra i piu' attivi con 30 messaggi",
+        "Ha stimolato la discussione con molte domande"
+      ],
+      "citazioneTop": ""
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 5.8,
+      "giudizio": "Presente nonostante i fusi orari avversi. Sempre affidabile.",
+      "messaggi": 27,
+      "mediaGiornaliera": 3.9,
+      "highlights": [
+        "Ha contribuito con 27 messaggi"
+      ],
+      "citazioneTop": "incrocio le dita. Ma se hai fatto quella dei tamponi è solo una rottura di cazzo ingoiare saliva/etc. Il giorno che te li levi patisci ma poi godi."
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 5.8,
+      "giudizio": "Assente quasi totale. Forse impegnato con gossip politico offline.",
+      "messaggi": 12,
+      "mediaGiornaliera": 1.7,
+      "highlights": [
+        "Ha contribuito con 12 messaggi"
+      ],
+      "citazioneTop": ""
+    }
+  ],
+  "awards": {
+    "mvp": "Alessio Macalùso - Miglior voto della settimana con 7.6",
+    "comico": "Adriano Sergio Lorenzo Facchini - Il piu' divertente della settimana",
+    "cuore": "Cosimo Nenciòni - Presenza equilibrata e costante",
+    "fantasma": null
+  }
+}

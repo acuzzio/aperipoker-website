@@ -1,0 +1,108 @@
+{
+  "anno": 2023,
+  "settimana": 26,
+  "startDate": "2023-06-26",
+  "endDate": "2023-07-02",
+  "stats": {
+    "totalMessages": 58,
+    "activeMembers": 6,
+    "avgPerMember": 9.7
+  },
+  "riassunto": "Settimana del Palio e della casina GRATIS in North Carolina! Fausto spiega il termine 'vestirsi' con lezione magistrale: 'termine comunemente usato nelle contrade del Palio di Siena per indicare l'atto di mettersi la montura'. Adriano: 'Un vero lupaiolo'. Alessio V. arriva in North Carolina: 'Questa è la nuova ora a cui mi sveglio'. Un professore in sabbatico gli dà la casa GRATISSE fino a dicembre. Cocco: 'Ambientazione da Desperate Housewives'. Palio non entusiasmante: 'Un brutto palio come tanti'. Fausto vestito da alfiere per i santi patroni.",
+  "bestQuotes": [
+    {
+      "quote": "Vestirsi è termine comunemente usato nelle contrade del Palio di Siena per indicare l'atto di mettersi la montura",
+      "author": "Fausto Petrini",
+      "context": "Lezione di paliologia"
+    },
+    {
+      "quote": "Un professore in sabbatico è andato in Europa fino a dicembre e ci ha dato la casa GRATISSE",
+      "author": "Alessio Valentini",
+      "context": "Fortuna in North Carolina"
+    },
+    {
+      "quote": "Ambientazione da Desperate Housewives",
+      "author": "Cosimo Nenciòni",
+      "context": "Sulla casetta americana"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Fausto Petrini",
+      "voto": 8.5,
+      "giudizio": "Lezione magistrale sul 'vestirsi': spiega montura, tamburino, alfiere. 'La vedo buia per me, domani mi vado a vestire alle 6.30'. 'Paralitico' ad Adriano citando Nuti. 'Sembra carina la casina... in affitto o compra?' Vestito per i santi patroni Pietro e Paolo. Il chiocciolino doc.",
+      "messaggi": 12,
+      "mediaGiornaliera": 1.7,
+      "highlights": [
+        "Lezione vestirsi",
+        "Vestito per patroni"
+      ],
+      "citazioneTop": "Vestirsi è termine comunemente usato nelle contrade del Palio di Siena per indicare l'atto di mettersi la montura"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 8.0,
+      "giudizio": "Arriva in North Carolina: 'Questa è la nuova ora a cui mi sveglio'. Casa GRATIS da professore in sabbatico. 'Dovrei provare ad avvicinarmi ancora, ma la veggo buia'. '4-5 ore d'aereo in meno'. Fortunato ma sempre lontano.",
+      "messaggi": 14,
+      "mediaGiornaliera": 2.0,
+      "highlights": [
+        "Casa gratis",
+        "Avvicinamento a casa"
+      ],
+      "citazioneTop": "Un professore in sabbatico è andato in Europa fino a dicembre e ci ha dato la casa GRATISSE"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 7.5,
+      "giudizio": "'Stasera ci sono! Birretta????' 'Ma che devi fare?? Vestirti per cosa??' - finge di non capire per far spiegare Fausto. 'Ed io che volevo farti raccontare per metterti in luce'. 'Praticamente sei a casa'. 'Ma facci un video cazzo'. 'Dieci e lode' sul Palio. Stratega sociale.",
+      "messaggi": 12,
+      "mediaGiornaliera": 1.7,
+      "highlights": [
+        "Strategia far raccontare",
+        "Commento Palio"
+      ],
+      "citazioneTop": "Ed io che volevo farti raccontare per metterti in luce dinnanzi a tutti"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 7.5,
+      "giudizio": "'Mi taja'. 'Ciechi ma secchi come usci' sui muscolari. 'Con 100 diventi un fascio di muscoli'. Chiede sunto paliesco: 'Potete fare un sunto a me e all'Alessio d'America?' 'Fausto è vestito'. 'Ambientazione da Desperate Housewives'. Critico e assente dal Palio.",
+      "messaggi": 12,
+      "mediaGiornaliera": 1.7,
+      "highlights": [
+        "Richiesta sunto Palio",
+        "Battuta Desperate Housewives"
+      ],
+      "citazioneTop": "Ambientazione da Desperate Housewives"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 7.0,
+      "giudizio": "'Cioè? È ironico?' sul video. 'C'è Fausto per questo' sul sunto paliesco. 'È proprio una casetta di periferia'. 'Un brutto palio come tanti'. 'Eri in piazza Fausto?' 'La qualità delle immagini di Canale 3 è imbarazzante'. Presente e pratico.",
+      "messaggi": 10,
+      "mediaGiornaliera": 1.4,
+      "highlights": [
+        "Commento Palio",
+        "Critica TV"
+      ],
+      "citazioneTop": "La qualità delle immagini di Canale 3 è imbarazzante"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 5.5,
+      "giudizio": "Silenzioso questa settimana. In preparazione per l'Australia.",
+      "messaggi": 2,
+      "mediaGiornaliera": 0.3,
+      "highlights": [
+        "Preparazione viaggio"
+      ],
+      "citazioneTop": null
+    }
+  ],
+  "awards": {
+    "mvp": "Fausto Petrini",
+    "comico": "Cosimo Nenciòni",
+    "cuore": "Alessio Valentini",
+    "fantasma": "Giacomo Dolfi"
+  }
+}

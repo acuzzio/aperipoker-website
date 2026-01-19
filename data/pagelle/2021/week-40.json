@@ -1,0 +1,103 @@
+{
+  "anno": 2021,
+  "settimana": 40,
+  "startDate": "2021-10-04",
+  "endDate": "2021-10-10",
+  "stats": {
+    "totalMessages": 37,
+    "activeMembers": 6,
+    "avgPerMember": 6.2
+  },
+  "riassunto": "Settimana 40 con 37 messaggi. Adriano guida le danze con 20 contributi.",
+  "bestQuotes": [
+    {
+      "quote": "Bella roba…",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "L’attacco squadrista e fascista non andrebbe bene , ma in questa sede ( cgil) è poco! Dovevano andare con un plotone di esecuzione.",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Personaggio molto interessante. Faccela vedere di persona ! Organizziamo un pranzo con le mogli",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Momento memorabile della settimana"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 8.0,
+      "giudizio": "Ha scritto piu' lui che il resto del gruppo messo insieme. E per una volta aveva senso.",
+      "messaggi": 20,
+      "mediaGiornaliera": 2.9,
+      "highlights": [
+        "Ha dominato la conversazione con il 54% dei messaggi"
+      ],
+      "citazioneTop": "Bella roba…"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 5.9,
+      "giudizio": "Presente con il suo solito stile: curioso, ironico, pungente.",
+      "messaggi": 6,
+      "mediaGiornaliera": 0.9,
+      "highlights": [
+        "Tra i piu' attivi con 6 messaggi"
+      ],
+      "citazioneTop": ""
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 5.6,
+      "giudizio": "Contributo equilibrato, con qualche perla sarcastica.",
+      "messaggi": 5,
+      "mediaGiornaliera": 0.7,
+      "highlights": [
+        "Ha contribuito con 5 messaggi"
+      ],
+      "citazioneTop": ""
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 4.6,
+      "giudizio": "Il Trascinatore ha smesso di trascinare. Preoccupante.",
+      "messaggi": 2,
+      "mediaGiornaliera": 0.3,
+      "highlights": [
+        "Ha contribuito con 2 messaggi"
+      ],
+      "citazioneTop": ""
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 6.1,
+      "giudizio": "Assente o quasi. Forse cercava connessione WiFi.",
+      "messaggi": 2,
+      "mediaGiornaliera": 0.3,
+      "highlights": [
+        "Ha contribuito con 2 messaggi"
+      ],
+      "citazioneTop": "Jack ti sei ripreso?"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 6.1,
+      "giudizio": "Assente o quasi. Probabilmente raggiungeva l'illuminazione.",
+      "messaggi": 2,
+      "mediaGiornaliera": 0.3,
+      "highlights": [
+        "Ha contribuito con 2 messaggi"
+      ],
+      "citazioneTop": "Sì fissa per una cena?"
+    }
+  ],
+  "awards": {
+    "mvp": "Adriano Sergio Lorenzo Facchini - Miglior voto della settimana con 8.0",
+    "comico": "Alessio Macalùso - Il piu' divertente della settimana",
+    "cuore": "Giacomo Dolfi - Presenza equilibrata e costante",
+    "fantasma": "Fausto Petrini - Il piu' silenzioso con 2 messaggi"
+  }
+}

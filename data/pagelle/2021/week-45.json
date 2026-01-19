@@ -1,0 +1,103 @@
+{
+  "anno": 2021,
+  "settimana": 45,
+  "startDate": "2021-11-08",
+  "endDate": "2021-11-14",
+  "stats": {
+    "totalMessages": 78,
+    "activeMembers": 6,
+    "avgPerMember": 13.0
+  },
+  "riassunto": "Il gruppo si fa sentire con 78 messaggi. Alessio M. il piu' loquace con 17 messaggi.",
+  "bestQuotes": [
+    {
+      "quote": "Ops ho sbagliato gruppo ahahaha qui non c’è Federico…",
+      "author": "Alessio Macalùso",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Si ma cazzo, non lo conosceva nessuno, ora lo ha fatto girare per mezzo mondo, riportandolo in auge per anni. Il senso di certe campagne lo dovrebbero studiare come casi di epic fail",
+      "author": "Fausto Petrini",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "A una signora non far mai sapere quanto sia buono il cazzo tra le mele",
+      "author": "Fausto Petrini",
+      "context": "Momento memorabile della settimana"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Alessio Macalùso",
+      "voto": 6.8,
+      "giudizio": "Il suo 'Credo' di meta' settimana valeva un trattato filosofico.",
+      "messaggi": 17,
+      "mediaGiornaliera": 2.4,
+      "highlights": [
+        "Tra i piu' attivi con 17 messaggi"
+      ],
+      "citazioneTop": "Ops ho sbagliato gruppo ahahaha qui non c’è Federico…"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 7.0,
+      "giudizio": "Presente e propositivo, senza eccessi di entusiasmo.",
+      "messaggi": 17,
+      "mediaGiornaliera": 2.4,
+      "highlights": [
+        "Tra i piu' attivi con 17 messaggi"
+      ],
+      "citazioneTop": "Si ma cazzo, non lo conosceva nessuno, ora lo ha fatto girare per mezzo mondo, riportandolo in auge per anni. Il senso di certe campagne lo dovrebbero studiare come casi di epic fail"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 6.6,
+      "giudizio": "Ha partecipato con il suo solito stile affettuoso e diretto.",
+      "messaggi": 16,
+      "mediaGiornaliera": 2.3,
+      "highlights": [
+        "Tra i piu' attivi con 16 messaggi"
+      ],
+      "citazioneTop": ""
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 5.8,
+      "giudizio": "Il solito Adriano: affidabile, verboso, immancabile.",
+      "messaggi": 12,
+      "mediaGiornaliera": 1.7,
+      "highlights": [
+        "Tra i piu' attivi con 12 messaggi"
+      ],
+      "citazioneTop": ""
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 6.0,
+      "giudizio": "Contributo equilibrato del patriarca benevolo.",
+      "messaggi": 8,
+      "mediaGiornaliera": 1.1,
+      "highlights": [
+        "Ha contribuito con 8 messaggi"
+      ],
+      "citazioneTop": ""
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 5.6,
+      "giudizio": "Non ha brillato, ma neanche deluso. Il suo 'mah' valeva mille parole.",
+      "messaggi": 8,
+      "mediaGiornaliera": 1.1,
+      "highlights": [
+        "Ha contribuito con 8 messaggi"
+      ],
+      "citazioneTop": "https://twitter.com/90sfootball/status/1457452804025425920?t=Z3NIcoyltmdMk2dFwPPQFg&s=08"
+    }
+  ],
+  "awards": {
+    "mvp": "Fausto Petrini - Miglior voto della settimana con 7.0",
+    "comico": "Alessio Macalùso - Il piu' divertente della settimana",
+    "cuore": "Adriano Sergio Lorenzo Facchini - Presenza equilibrata e costante",
+    "fantasma": "Giacomo Dolfi - Il piu' silenzioso con 8 messaggi"
+  }
+}

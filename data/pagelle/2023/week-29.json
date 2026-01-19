@@ -1,0 +1,109 @@
+{
+  "anno": 2023,
+  "settimana": 29,
+  "startDate": "2023-07-17",
+  "endDate": "2023-07-23",
+  "stats": {
+    "totalMessages": 103,
+    "activeMembers": 6,
+    "avgPerMember": 17.2
+  },
+  "riassunto": "Settimana degli squali, dei delfini e della grandinata devastante! Giacomo vede delfini, tartarughe e 3 squali: 'Gli squali erano troppo vicini'. Spiaggia di sole conchiglie. Cocco in autostrada becca grandinata epica: 'Mi ha portato via lo specchietto, distrutto il parabrezza e fatto non meno di 20 ciombe sulla carrozzeria'. Vacanze iniziate alla grande. Mac commenta audio leggendario: 'Ti spompinei'. Alessio V. in chaos promette aggiornamenti. Adriano: 'La famosa nuvola dell'impiegato'.",
+  "bestQuotes": [
+    {
+      "quote": "Mi ha portato via lo specchietto, distrutto il parabrezza e fatto non meno di 20 ciombe sulla carrozzeria",
+      "author": "Cosimo Nenciòni",
+      "context": "Grandinata in autostrada"
+    },
+    {
+      "quote": "Ti spompinei",
+      "author": "Alessio Macalùso",
+      "context": "Audio leggendario"
+    },
+    {
+      "quote": "Noi abbiamo fatto il bagno nell'acqua fino al polpaccio. Gli squali erano troppo vicini",
+      "author": "Giacomo Dolfi",
+      "context": "Bagno con squali"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 8.5,
+      "giudizio": "Cronache australiane incredibili! 'Delfini, tartaruga e 3 squali'. 'Gli squali erano troppo vicini'. Spiaggia di miniconchiglie bianchissime. 'Sto cercando di convincere Pietro e Giovanni' sulle conchiglie. 'Oggi era sia caldo che freddo'. 'Noi australiani siamo così!' Esploratore con famiglia.",
+      "messaggi": 26,
+      "mediaGiornaliera": 3.7,
+      "highlights": [
+        "Avvistamento squali",
+        "Spiaggia conchiglie"
+      ],
+      "citazioneTop": "Noi abbiamo fatto il bagno nell'acqua fino al polpaccio. Gli squali erano troppo vicini"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 8.5,
+      "giudizio": "Vittima della grandinata epica! 'Specchietto via, parabrezza distrutto, 20 ciombe'. 'Ci siamo fatti un pacco di merda'. 'Vacanze iniziate alla grande'. 'Roba che se ti prende in testa ti apre il capo'. 'Ricordati di non portare via conchiglie o verrai arrestato'. 'De seim'. Sfortunato ma ironico.",
+      "messaggi": 24,
+      "mediaGiornaliera": 3.4,
+      "highlights": [
+        "Grandinata devastante",
+        "Consigli conchiglie"
+      ],
+      "citazioneTop": "Vacanze iniziate alla grande"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 7.5,
+      "giudizio": "'Spettacolo VERO, mamma mia che bellezza' sulle foto australiane. 'Ti spompinei... ogni 3-4 ore vado nell'altro gruppo e me lo riascolto'. 'Prometto aggiornamenti ma qua siamo in chaos'. 'Meno male eri in macchina' a Cocco. In chaos ma partecipe.",
+      "messaggi": 18,
+      "mediaGiornaliera": 2.6,
+      "highlights": [
+        "Audio ti spompinei",
+        "Chaos promesso"
+      ],
+      "citazioneTop": "Sei troppo bello... poi la pausa... e poi ti spompinei"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 7.5,
+      "giudizio": "'Stanno' correzione grammaticale. 'Sembra bello'. 'Belloooo mai visto un delfino!!!!' 'Spettacolo vero'. 'Ti spompinei' - audio leggendario. 'Peggio di come pensavo... pazienza so solo soldi' sulla grandinata di Cocco. Solidale e autore di culto.",
+      "messaggi": 12,
+      "mediaGiornaliera": 1.7,
+      "highlights": [
+        "Audio leggendario",
+        "Solidarietà Cocco"
+      ],
+      "citazioneTop": "Ti spompinei"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 7.0,
+      "giudizio": "'Insomma in Australia gli australiani non fanno una sega'. 'Quanta volgarità'. 'Qualcuno me lo contestualizza?' sull'audio. 'Che sfiga di merda, mi dispiace'. 'La famosa nuvola dell'impiegato. Non ci si può combattere'. 'Immagina quelli in moto'. Solidale e filosofico.",
+      "messaggi": 12,
+      "mediaGiornaliera": 1.7,
+      "highlights": [
+        "Battuta australiani",
+        "Nuvola impiegato"
+      ],
+      "citazioneTop": "La famosa nuvola dell'impiegato. Non ci si può combattere"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 7.0,
+      "giudizio": "'Stanno' conferma. 'Bella foto'. 'Belli e felici la famiglia Dolfi'. Articolo sull'oggetto misterioso in Australia: 'Jack hai lasciato roba a giro?' 'Vedi i programmi di cultura quanto servono?' 'Maiala' sulla grandinata. 'Assicurazione?'. Informativo e solidale.",
+      "messaggi": 10,
+      "mediaGiornaliera": 1.4,
+      "highlights": [
+        "Battuta oggetto misterioso",
+        "Solidarietà grandinata"
+      ],
+      "citazioneTop": "Jack hai lasciato roba a giro?"
+    }
+  ],
+  "awards": {
+    "mvp": "Giacomo Dolfi",
+    "comico": "Alessio Macalùso",
+    "cuore": "Cosimo Nenciòni",
+    "fantasma": null
+  }
+}

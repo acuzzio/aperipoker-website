@@ -1,0 +1,115 @@
+{
+  "anno": 2022,
+  "settimana": 41,
+  "startDate": "2022-10-11",
+  "endDate": "2022-10-15",
+  "stats": {
+    "totalMessages": 40,
+    "activeMembers": 5,
+    "avgPerMember": 8.0
+  },
+  "riassunto": "Il figlio di Fausto ha sognato la Meloni! ('Dobbiamo smettere di parlare di politica in casa'). Alessio V. viene fotografato in palestra a Roma e la foto arriva alla sua mamma via catena di conoscenze ('I degrees of freedom'). Adriano al PalaWanny: 'Un posto imbarazzante, file kilometriche'. Si discute dell'ora legale tutto l'anno.",
+  "bestQuotes": [
+    {
+      "quote": "Giulio stanotte ti sei svegliato, che hai sognato? - La Meloni",
+      "author": "Fausto Petrini",
+      "context": "Sul sogno del figlio"
+    },
+    {
+      "quote": "La mi mamma mi manda una foto di me in palestra che avevo fatto il giorno prima",
+      "author": "Alessio Valentini",
+      "context": "Sulla catena di conoscenze"
+    },
+    {
+      "quote": "Puttana Eva dove sei! Fai video!",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Al PalaWanny"
+    },
+    {
+      "quote": "Vabbè ma cazzo mica e' il Santiago Bernabeu. Sembra un capannone del cazzo",
+      "author": "Cosimo Nenciòni",
+      "context": "Sul PalaWanny"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Alessio Valentini",
+      "voto": 8.0,
+      "giudizio": "Protagonista della storia della foto in palestra! Ha spiegato i degrees of freedom e Kevin Bacon. L'aeroporto di Francoforte unisce mezzo mondo. Divulgatore scientifico.",
+      "messaggi": 13,
+      "mediaGiornaliera": 2.6,
+      "highlights": [
+        "Foto dalla palestra",
+        "Degrees of freedom",
+        "Kevin Bacon"
+      ],
+      "citazioneTop": "La mi mamma mi manda una foto di me in palestra"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 7.5,
+      "giudizio": "'Tutta colpa di Giec' x2 sull'ora legale. Al PalaWanny: 'Puttana Eva dove sei!' e 'File kilometriche'. Ha dato consigli sui bagni. Tifoso impaziente.",
+      "messaggi": 11,
+      "mediaGiornaliera": 2.2,
+      "highlights": [
+        "Tutta colpa di Giec",
+        "PalaWanny",
+        "File kilometriche"
+      ],
+      "citazioneTop": "Puttana Eva dove sei!"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 7.5,
+      "giudizio": "'Sembra un capannone del cazzo' sul PalaWanny e' critica architettonica. 'Cuore comunista' sul figlio di Fausto. Ha dato consigli sui cessi. Osservatore acuto.",
+      "messaggi": 7,
+      "mediaGiornaliera": 1.4,
+      "highlights": [
+        "Capannone del cazzo",
+        "Cuore comunista",
+        "Consigli sui cessi"
+      ],
+      "citazioneTop": "Mica e' il Santiago Bernabeu, sembra un capannone"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 8.0,
+      "giudizio": "Il figlio ha sognato la Meloni! 'Dobbiamo smettere di parlare di politica in casa' e' genitorialita' responsabile. Ha condiviso video ciclismo per Cosimo. Padre ansioso.",
+      "messaggi": 6,
+      "mediaGiornaliera": 1.2,
+      "highlights": [
+        "Figlio sogna Meloni",
+        "Basta politica in casa",
+        "Video ciclismo"
+      ],
+      "citazioneTop": "Che hai sognato? - La Meloni"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 6.0,
+      "giudizio": "Ha condiviso l'articolo sull'ora legale ('Tema vecchio ma ancora non risolto'). 'Poro citto' sul figlio di Fausto. Tre messaggi informativi.",
+      "messaggi": 3,
+      "mediaGiornaliera": 0.6,
+      "highlights": [
+        "Articolo ora legale",
+        "Poro citto"
+      ],
+      "citazioneTop": "Tema vecchio ma ancora non risolto"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 4.0,
+      "giudizio": "Zero messaggi questa settimana. Assente.",
+      "messaggi": 0,
+      "mediaGiornaliera": 0.0,
+      "highlights": [],
+      "citazioneTop": ""
+    }
+  ],
+  "awards": {
+    "mvp": "Alessio Valentini - Storia della foto in palestra e degrees of freedom",
+    "comico": "Fausto Petrini - Il figlio sogna la Meloni",
+    "cuore": "Cosimo Nenciòni - Consigli sui cessi del PalaWanny",
+    "fantasma": "Alessio Macalùso - Zero messaggi"
+  }
+}

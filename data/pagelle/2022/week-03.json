@@ -1,0 +1,119 @@
+{
+  "anno": 2022,
+  "settimana": 3,
+  "startDate": "2022-01-18",
+  "endDate": "2022-01-23",
+  "stats": {
+    "totalMessages": 57,
+    "activeMembers": 6,
+    "avgPerMember": 9.5
+  },
+  "riassunto": "Giulio positivo, Fausto in quarantena forzata. Cosimo sull'orlo dell'esaurimento nervoso per i tamponi infiniti ('se non mi sono negativizzato mi viene un esaurimento'). Finalmente il 21 arriva la buona notizia: 'Tampax negativo. Free at last.' Fausto invece diventa positivo il 23 ('Io penso positivo, perche' son vivo, e positivo'). Durante la quarantena Fausto diventa il reporter del gruppo, condividendo storie sui macachi giapponesi e la squadra di bob giamaicana.",
+  "bestQuotes": [
+    {
+      "quote": "Tampax negativo. Menomale. Free at last.",
+      "author": "Cosimo Nenciòni",
+      "context": "La liberazione dopo settimane di positivita'"
+    },
+    {
+      "quote": "Io penso positivo, perche' son vivo, e positivo",
+      "author": "Fausto Petrini",
+      "context": "L'annuncio della positivita' in stile Jovanotti"
+    },
+    {
+      "quote": "Ne rimarra' solo uno.",
+      "author": "Alessio Valentini",
+      "context": "Commento profetico sulla catena di contagi"
+    },
+    {
+      "quote": "Continuero' ad inviarvi belle storie dal mondo, mentre sono a cacare",
+      "author": "Fausto Petrini",
+      "context": "La missione del reporter in quarantena"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Fausto Petrini",
+      "voto": 8.5,
+      "giudizio": "Il reporter dalla quarantena. Tra macachi giapponesi, bob giamaicano e aggiornamenti sanitari, ha tenuto vivo il gruppo. 'Io penso positivo, perche' son vivo, e positivo' e' un capolavoro. La promessa di mandare storie 'mentre sono a cacare' e' stata mantenuta.",
+      "messaggi": 21,
+      "mediaGiornaliera": 3.0,
+      "highlights": [
+        "L'annuncio della positivita' in stile Jovanotti",
+        "Reporter di storie assurde dal mondo",
+        "Ha resistito una settimana con due positivi in casa"
+      ],
+      "citazioneTop": "Io penso positivo, perche' son vivo, e positivo"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 7.0,
+      "giudizio": "Presente con messaggi di supporto e battute. 'Incubazione perfetta' a Fausto e' cinico ma azzeccato. Si offre di pagare da bere a Cosimo se risulta positivo (spoiler: non e' successo). Curioso sul regno dei macachi.",
+      "messaggi": 15,
+      "mediaGiornaliera": 2.1,
+      "highlights": [
+        "Ha offerto aperitivo a Cosimo in caso di positivita'",
+        "Interessato al regno dei macachi",
+        "Supporto costante agli amici in quarantena"
+      ],
+      "citazioneTop": "Incubazione perfetta"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 7.0,
+      "giudizio": "Il filosofo della settimana: 'l'importante e' che stai bene' e 'Ne godiamo anche noi' sulla negativita' di Cosimo. Poche parole ma sempre al momento giusto. Supporto emotivo zen.",
+      "messaggi": 8,
+      "mediaGiornaliera": 1.1,
+      "highlights": [
+        "Supporto emotivo a Cosimo",
+        "Ha goduto della negativita' dell'amico",
+        "Filosofia zen sul Covid"
+      ],
+      "citazioneTop": "E poi pensa che l'importante e' che stai bene"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 7.5,
+      "giudizio": "L'eroe della settimana: dopo settimane di positivita' e rischio esaurimento nervoso, finalmente 'Free at last'. Il sollievo nel suo messaggio e' palpabile. Ha chiesto aggiornamenti su Giulio con affetto.",
+      "messaggi": 6,
+      "mediaGiornaliera": 0.9,
+      "highlights": [
+        "Finalmente negativo dopo settimane",
+        "Ha chiesto come stava Giulio",
+        "Ha resistito alla quarantena"
+      ],
+      "citazioneTop": "Tampax negativo. Menomale. Free at last."
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 6.5,
+      "giudizio": "Presente ma contenuto. Si informa sulla salute di tutti, condivide un video esilarante su Instagram, commenta con brevi ma sentiti messaggi. Il Lider osserva piu' che partecipa.",
+      "messaggi": 5,
+      "mediaGiornaliera": 0.7,
+      "highlights": [
+        "Ha condiviso video divertente",
+        "Si e' informato sulla salute di tutti",
+        "Commenti brevi ma sentiti"
+      ],
+      "citazioneTop": "Capolavoro!"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 6.0,
+      "giudizio": "Due soli messaggi ma uno e' leggendario: 'Ne rimarra' solo uno.' riferito alla catena di contagi. Profetico. L'altro e' una richiesta di continuare a ricevere storie da Fausto. Essenziale.",
+      "messaggi": 2,
+      "mediaGiornaliera": 0.3,
+      "highlights": [
+        "Battuta profetica sui contagi",
+        "Ha apprezzato le storie di Fausto"
+      ],
+      "citazioneTop": "Ne rimarra' solo uno."
+    }
+  ],
+  "awards": {
+    "mvp": "Fausto Petrini - Reporter dalla quarantena con stile",
+    "comico": "Alessio Valentini - 'Ne rimarra' solo uno' e' da applausi",
+    "cuore": "Alessio Macalùso - Supporto zen a Cosimo in crisi",
+    "fantasma": "Nessuno - Tutti presenti anche se con messaggi ridotti"
+  }
+}

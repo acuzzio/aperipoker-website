@@ -1,0 +1,109 @@
+{
+  "anno": 2023,
+  "settimana": 24,
+  "startDate": "2023-06-12",
+  "endDate": "2023-06-18",
+  "stats": {
+    "totalMessages": 125,
+    "activeMembers": 6,
+    "avgPerMember": 20.8
+  },
+  "riassunto": "Settimana della morte di Berlusconi e Francesco Nuti! Giacomo apre: 'Insomma alla fine è morto anche Silvio'. Fausto: 'Mai troppo presto'. Mac ricorda Nuti: 'Persona veramente divertente... mi dispiace ma ha smesso di soffrire'. Discussione epica sui film di Nuti: Caruso Pascosky, 'Je suis frocio', il paralitico. Adriano analizza: 'Quando si picchiano si mettono allo stesso livello'. Mac e Fausto citano battute a memoria: 'Io amo Giulia, Giulia ama me e te sei omosessuale'. Cocco perde al quiz sull'oggetto misterioso (apribarattoli): 'Sono deluso'. Mac trova la soluzione. Siena sott'acqua con cascata impressionante.",
+  "bestQuotes": [
+    {
+      "quote": "Mai troppo presto",
+      "author": "Fausto Petrini",
+      "context": "Sulla morte di Berlusconi"
+    },
+    {
+      "quote": "Diranno di oggi che due grandi comici italiani se ne sono andati",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Su Berlusconi e Nuti"
+    },
+    {
+      "quote": "Non è tanto COSA fa, ma COME lo fa",
+      "author": "Alessio Valentini",
+      "context": "Sull'apribarattoli rivoluzionario"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Alessio Valentini",
+      "voto": 8.5,
+      "giudizio": "'Ho paura a rivedere Caruso Pascosky... è il mio film commedia favorito'. Ricorda scene devastanti: 'Je suis frocio', 'Il nero che si lancia dalla finestra'. 'TROIA!' citando il film. Sull'apribarattoli: 'Non è tanto COSA fa, ma COME lo fa'. 'CONOSCETE IL VERO APRISCATOLE'. Video sulla banda a Sezze e cascata a Siena. Nostalgico e entusiasta.",
+      "messaggi": 36,
+      "mediaGiornaliera": 5.1,
+      "highlights": [
+        "Ricordi film Nuti",
+        "Rivelazione apriscatole"
+      ],
+      "citazioneTop": "Il fatto che adesso CONOSCETE IL VERO APRISCATOLE sarebbe la cosa più importante di oggi"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 8.0,
+      "giudizio": "Annuncia la morte di Nuti: 'Persona veramente divertente... ha smesso di soffrire'. Cita battute a memoria: 'Io amo Giulia, Giulia ama me e te sei omosessuale'. Trova l'apribarattoli: 'Trovato! Per stappare i barattoli'. 'Una persona insopportabile' sul cretino alla cena. 'Tipico senesotto'. Cinefilo e investigatore.",
+      "messaggi": 28,
+      "mediaGiornaliera": 4.0,
+      "highlights": [
+        "Ricordo Nuti",
+        "Soluzione apribarattoli"
+      ],
+      "citazioneTop": "Io amo Giulia, Giulia ama me e te sei omosessuale"
+    },
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 8.0,
+      "giudizio": "'Dispiace' su Berlusconi. Analisi profonda su Nuti: 'Quando si picchiano si mettono allo stesso livello... Nuti ha affrontato tematiche scomode'. 'Diranno che due grandi comici italiani se ne sono andati'. 'Questa pioggia mi ha un pochino rotto i coglioni'. Intellettuale e meteoropatico.",
+      "messaggi": 22,
+      "mediaGiornaliera": 3.1,
+      "highlights": [
+        "Analisi Nuti",
+        "Commento pioggia"
+      ],
+      "citazioneTop": "Nuti ha affrontato nella sua troppo breve carriera tematiche scomode al grande pubblico"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 8.0,
+      "giudizio": "'Mai troppo presto' su Berlusconi - lapidario. Su Nuti: 'Con la testa di ora li ho gustati ancora di più... apprezzi meglio il genio insito nel nonsense'. 'La scena con Haber rimane una delle vette più dissacranti del cinema mondiale'. 'Ehhhhh questa la sa solo il Mac'. Super esperto nutiano.",
+      "messaggi": 16,
+      "mediaGiornaliera": 2.3,
+      "highlights": [
+        "Commento Berlusconi",
+        "Expertise Nuti"
+      ],
+      "citazioneTop": "Mai troppo presto"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 7.5,
+      "giudizio": "Apre la settimana: 'Insomma alla fine è morto anche Silvio'. 'Mediaset a reti unificate'. 'Apribarattoli?' - intuizione corretta. 'Cocco hai perso, basta. Macaluso - Dolfi WIN'. 'Oggi Sienona sott'acqua davvero'. Notiziario e vincitore.",
+      "messaggi": 14,
+      "mediaGiornaliera": 2.0,
+      "highlights": [
+        "Notizia Berlusconi",
+        "Vittoria quiz"
+      ],
+      "citazioneTop": "Macaluso - Dolfi WIN"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 7.0,
+      "giudizio": "'Ma figuriamoci' e 'È un manico universale per coperchi' - sbaglia l'oggetto. 'Veramente troppo facile' e 'Sono deluso' quando perde. 'È strepitosa' sulla signora con le galline. 'A Sezze sono dei sottosviluppati veri'. Perdente dignitoso.",
+      "messaggi": 10,
+      "mediaGiornaliera": 1.4,
+      "highlights": [
+        "Sconfitta quiz",
+        "Giudizio su Sezze"
+      ],
+      "citazioneTop": "A Sezze sono dei sottosviluppati veri"
+    }
+  ],
+  "awards": {
+    "mvp": "Alessio Valentini",
+    "comico": "Fausto Petrini",
+    "cuore": "Alessio Macalùso",
+    "fantasma": null
+  }
+}

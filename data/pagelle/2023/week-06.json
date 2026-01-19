@@ -1,0 +1,109 @@
+{
+  "anno": 2023,
+  "settimana": 6,
+  "startDate": "2023-02-06",
+  "endDate": "2023-02-12",
+  "stats": {
+    "totalMessages": 134,
+    "activeMembers": 6,
+    "avgPerMember": 22.3
+  },
+  "riassunto": "Settimana del TERREMOTO a Siena! Scossa di magnitudo 3.5 che fa tremare tutti. Adriano ed Elena nel panico, Giacomo terrorizzato, Cosimo non sente niente da Firenze. Sciame sismico con 20+ scosse. Si parla di Sanremo, FantaSanremo, Mengoni. Adriano sostituisce il camino con una stufa in terracotta e chiede password di PornHub per la febbre. Discussione epica sul porno premium.",
+  "bestQuotes": [
+    {
+      "quote": "Avevo davanti le finestre grande sembrano lo specchio di uno stagno quando ci lanci un sasso",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Descrizione poetica del terremoto"
+    },
+    {
+      "quote": "Ragazzi, so a casa con la febbre, qualcuno ha le password di porn hub da condividere?",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Richiesta spontanea durante la convalescenza"
+    },
+    {
+      "quote": "Se vuoi ti posso condividere qualche ottima chiave di ricerca su xnxx. Tipo: Maid threesome",
+      "author": "Fausto Petrini",
+      "context": "Aiuto pratico ad Adriano"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 9.0,
+      "giudizio": "Settimana monumentale. Vive il terremoto come un poeta ('lo specchio di uno stagno'), si ammala con 38.5 di febbre, sostituisce il camino, e chiede password di PornHub al gruppo. 'Il porno di serie c è gratis' - conoscitore.",
+      "messaggi": 42,
+      "mediaGiornaliera": 6.0,
+      "highlights": [
+        "Racconto del terremoto in tempo reale",
+        "Richiesta memorabile di porno premium"
+      ],
+      "citazioneTop": "Nessuno di voi che viaggia in top class? Naturalmente scherzo"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 7.5,
+      "giudizio": "Terrorizzato dal terremoto: 'Da cacarsi sotto', 'Che coglioni', 'Boati continui'. Condivide il comunicato del Ggiani. Al Fantasanremo per il secondo anno. Propone l'Aperieroica. Il Fondatore ha paura ma non molla.",
+      "messaggi": 20,
+      "mediaGiornaliera": 2.9,
+      "highlights": [
+        "Report terremoto in diretta",
+        "Proposta Aperieroica"
+      ],
+      "citazioneTop": "Da cacarsi sotto"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 7.0,
+      "giudizio": "Non sente il terremoto da Firenze ma solidarizza: 'Mi dispiace ragazzi. È una merda.' Commenta Sanremo ('Terribile. Cmq meglio di usa 94') e apprezza la stufa nuova di Adriano. Sempre sarcastico, sempre presente.",
+      "messaggi": 18,
+      "mediaGiornaliera": 2.6,
+      "highlights": [
+        "Solidarietà da Firenze",
+        "Commenti su Sanremo"
+      ],
+      "citazioneTop": "Io non ho sentito cazzo"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 7.5,
+      "giudizio": "Mentre tutti tremano, lui condivide contenuti culturali. La mamma al telefono durante la scossa. Difende Sanremo ('il livello quest'anno era buono'), consiglia chiavi di ricerca porno ad Adriano. Trascinatore su ogni fronte.",
+      "messaggi": 22,
+      "mediaGiornaliera": 3.1,
+      "highlights": [
+        "Difesa di Sanremo",
+        "Consigli porno pratici"
+      ],
+      "citazioneTop": "Maid threesome"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 6.5,
+      "giudizio": "Al lavoro durante il terremoto, non sente niente. Poi torna a casa e sente le scosse. Condivide Disney+ con Fausto per Giulio malato. 'Ormai il porno è gratis' - filosofo pragmatico. Fantasanremo fatto.",
+      "messaggi": 14,
+      "mediaGiornaliera": 2.0,
+      "highlights": [
+        "Condivisione Disney+",
+        "Partecipazione Fantasanremo"
+      ],
+      "citazioneTop": "Ormai il porno è gratis"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 6.0,
+      "giudizio": "Da lontano commenta 'Ma poi epicentro a siena preciso eh'. Ricorda la stufa di Jago che lo fece dormire in canottiera. Pochi messaggi ma sempre pertinenti. Il fuso orario pesa.",
+      "messaggi": 8,
+      "mediaGiornaliera": 1.1,
+      "highlights": [
+        "Ricordo della stufa di Jago",
+        "Commento epicentro"
+      ],
+      "citazioneTop": "Misi un extra legno prima di andare a letto e mi toccò dormire in canottiera fuori dalle coperte."
+    }
+  ],
+  "awards": {
+    "mvp": "Adriano Sergio Lorenzo Facchini",
+    "comico": "Fausto Petrini",
+    "cuore": "Cosimo Nenciòni",
+    "fantasma": null
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "anno": 2021,
+  "settimana": 42,
+  "startDate": "2021-10-18",
+  "endDate": "2021-10-24",
+  "stats": {
+    "totalMessages": 82,
+    "activeMembers": 6,
+    "avgPerMember": 13.7
+  },
+  "riassunto": "Il gruppo si fa sentire con 82 messaggi. Adriano il piu' loquace con 25 messaggi.",
+  "bestQuotes": [
+    {
+      "quote": "hahahah un manga vivente",
+      "author": "Alessio Valentini",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "Che roba è? Delta? solo booster? Facci sapere come stai",
+      "author": "Alessio Valentini",
+      "context": "Momento memorabile della settimana"
+    },
+    {
+      "quote": "https://twitter.com/TheMagicJackass/status/1450477119713185799?t=vwIfg5rFFyY3jiv5drab1Q&s=08",
+      "author": "Cosimo Nenciòni",
+      "context": "Momento memorabile della settimana"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 8.0,
+      "giudizio": "Il fiume in piena ha esondato questa settimana, ma almeno ha irrigato bene la chat.",
+      "messaggi": 25,
+      "mediaGiornaliera": 3.6,
+      "highlights": [
+        "Ha dominato la conversazione con il 30% dei messaggi"
+      ],
+      "citazioneTop": ""
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 7.7,
+      "giudizio": "Ha fatto il suo, tra proposte e organizzazione. Qualcuno l'ha pure ascoltato.",
+      "messaggi": 20,
+      "mediaGiornaliera": 2.9,
+      "highlights": [
+        "Tra i piu' attivi con 20 messaggi"
+      ],
+      "citazioneTop": "Per una scommessa: mi dite che cosa è un bocchino secondo voi?"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 6.6,
+      "giudizio": "Contributo equilibrato, con qualche perla sarcastica.",
+      "messaggi": 15,
+      "mediaGiornaliera": 2.1,
+      "highlights": [
+        "Tra i piu' attivi con 15 messaggi"
+      ],
+      "citazioneTop": "https://twitter.com/TheMagicJackass/status/1450477119713185799?t=vwIfg5rFFyY3jiv5drab1Q&s=08"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 6.1,
+      "giudizio": "Contributo misurato, come nel suo stile. Ogni parola al suo posto.",
+      "messaggi": 10,
+      "mediaGiornaliera": 1.4,
+      "highlights": [
+        "Ha contribuito con 10 messaggi"
+      ],
+      "citazioneTop": ""
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 6.7,
+      "giudizio": "Ha partecipato con il suo solito stile affettuoso e diretto.",
+      "messaggi": 10,
+      "mediaGiornaliera": 1.4,
+      "highlights": [
+        "Ha contribuito con 10 messaggi"
+      ],
+      "citazioneTop": "hahahah un manga vivente"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 5.8,
+      "giudizio": "Silenzio da Poggibonsi. Niente domande innocue questa settimana.",
+      "messaggi": 2,
+      "mediaGiornaliera": 0.3,
+      "highlights": [
+        "Ha contribuito con 2 messaggi"
+      ],
+      "citazioneTop": ""
+    }
+  ],
+  "awards": {
+    "mvp": "Adriano Sergio Lorenzo Facchini - Miglior voto della settimana con 8.0",
+    "comico": "Alessio Macalùso - Il piu' divertente della settimana",
+    "cuore": "Cosimo Nenciòni - Presenza equilibrata e costante",
+    "fantasma": "Giacomo Dolfi - Il piu' silenzioso con 2 messaggi"
+  }
+}

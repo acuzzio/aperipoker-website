@@ -1,0 +1,109 @@
+{
+  "anno": 2023,
+  "settimana": 52,
+  "startDate": "2023-12-25",
+  "endDate": "2023-12-31",
+  "stats": {
+    "totalMessages": 98,
+    "activeMembers": 6,
+    "avgPerMember": 16.3
+  },
+  "riassunto": "SETTIMANA DI NATALE E CAPODANNO: auguri, covid di Mac e CENA FISSATA IL 4! Auguri natalizi! Adriano: 'Auguri a tutti'. Cocco: 'Grande Ale! Cosi' si fa! Vedrai che strage ora'. MAC HA IL COVID! 'Ma per me il pranzo di Natale' - saltato! Adriano: 'Chissa' chi ti ha contagiato'. Fausto: 'Cocco San Giuseppe' sulla foto famiglia. 'Maca mi spiace tantissimo, proveremo ad intrattenerti con una videochiamata'. Giacomo: 'Buon Natale a tutti. E buona guarigione a Pasquale. Anzi, Buon Natale Pasquale'. Alessio V. epico: 'Buon Pasquale a tutti'. Foto di suinita': 'Mio fratello Angelo fa 50 anni. E si festeggia'. 'Sua suinita' non tradisce'. Cocco: 'Io invece ho il mal di testa da 15 giorni. Mortale'. Adriano: 'Prete appassionato di anagrammi rifiuta il trasferimento a Codroipo. Licenziato'. Capodanno: Cocco a Pitigliano con suoceri 'andiamo a letto alle 21.30'. Fausto con coppie del quartiere. Adriano da Mac! 'Io ed Elena si verrebbe molto volentieri'. Mac negativo! 'Ho fatto 2 tamponi entrambi negativi'. CENA FISSATA IL 4 GENNAIO! Auguri finali: Cocco: 'Auguri stronzi. Buon anno! Che io vona letto tra mezz'ora'. Mac: 'Buon anno pecorella'.",
+  "bestQuotes": [
+    {
+      "quote": "Buon Pasquale a tutti",
+      "author": "Alessio Valentini",
+      "context": "Gioco di parole natalizio"
+    },
+    {
+      "quote": "Auguri stronzi. Buon anno! Che io vona letto tra mezz'ora",
+      "author": "Cosimo Nenciòni",
+      "context": "Capodanno da padre"
+    },
+    {
+      "quote": "Prete appassionato di anagrammi rifiuta il trasferimento a Codroipo. Licenziato",
+      "author": "Adriano Sergio Lorenzo Facchini",
+      "context": "Battuta random"
+    }
+  ],
+  "pagelle": [
+    {
+      "name": "Adriano Sergio Lorenzo Facchini",
+      "voto": 8.5,
+      "giudizio": "'Auguri a tutti'. 'Zam zam. Evvai!!!'. 'Chissa' chi ti ha contagiato' a Mac. 'Bellissimi' su foto Cocco. 'Ma quanto e' boncitto Diego'. 'Altre suinita'. Mio fratello Angelo fa 50 anni. E si festeggia'. 'Prete appassionato di anagrammi rifiuta il trasferimento a Codroipo. Licenziato'. 'Amo l'amicizia a kilometro zero' su Fausto. 'Troppi Dio bono' sui tamponi. 'Io ed Elena si verrebbe molto volentieri' da Mac. 'Cosa state facendo vi scaccolate i piedi?'. Protagonista festivo.",
+      "messaggi": 26,
+      "mediaGiornaliera": 3.7,
+      "highlights": [
+        "Capodanno da Mac",
+        "50 anni Angelo"
+      ],
+      "citazioneTop": "Prete appassionato di anagrammi rifiuta il trasferimento a Codroipo"
+    },
+    {
+      "name": "Cosimo Nenciòni",
+      "voto": 8.0,
+      "giudizio": "'Grande Ale! Cosi' si fa! Vedrai che strage ora'. 'Buonissime' sulle foto. 'E' un umarell' sulla stampa 3D. 'Niente male' su suinita'. 'Io invece ho il mal di testa da 15 giorni. Mortale'. 'Bello. E' una gran foto. Con del raccapriccio certamente'. Capodanno: 'Nell'ipotesi piu' trasgressiva cercheremo di arrivare alla mezzanotte. Nell'ipotesi piu' probabile andiamo a letto alle 21.30 come sempre'. 'Auguri stronzi. Buon anno! Che io vona letto tra mezz'ora'. 'Vai Pasquale fissa'. Padre stanco ma presente.",
+      "messaggi": 22,
+      "mediaGiornaliera": 3.1,
+      "highlights": [
+        "Pitigliano Capodanno",
+        "Auguri stronzi"
+      ],
+      "citazioneTop": "Auguri stronzi. Buon anno! Che io vona letto tra mezz'ora"
+    },
+    {
+      "name": "Alessio Macalùso",
+      "voto": 8.0,
+      "giudizio": "IL LIDER COVID! 'Auguri aperipokeristi'. 'Poco o niente mal di gola e febbricola'. 'Ma per me il pranzo di Natale' - saltato! 'Tanta regalita'' sulle suinita'. 'Niente stavolta non l'ho quasi sentito'. 'Sto bene. Ora fo tampone'. 'Sono negativo ho fatto 2 tamponi entrambi negativi'. 'Questo non e' verita', ti ho invitato io' ad Adriano. 'Il 4. 4 gennaio. Per il posto si decide democraticamente'. 'Buon anno pecorella'. Guarisce e organizza.",
+      "messaggi": 18,
+      "mediaGiornaliera": 2.6,
+      "highlights": [
+        "Covid guarito",
+        "Fissa cena 4"
+      ],
+      "citazioneTop": "Il 4 gennaio. Per il posto si decide democraticamente"
+    },
+    {
+      "name": "Fausto Petrini",
+      "voto": 7.5,
+      "giudizio": "'Che voldì?' sugli auguri. 'Cocco San Giuseppe' sulla foto. 'Auguri a tutti!!'. 'Maca mi spiace tantissimo, proveremo ad intrattenerti con una videochiamata'. 'Meglio'. 'Quindi si potrebbe fare questa cena, il 3, o il 4, o l'8...'. 'Noi con altre due coppie del quartiere (tra cui Nannipieri) coi bimbi'. 'Quindi la cena? Si puo' fissare data per favore?'. 'Vai lider, hai tutte le carte in mano'. 'Eseguiamo'. 'Per me va bene tutto'. 'Auguri a tutti ragazzi'. Esecutore fedele.",
+      "messaggi": 16,
+      "mediaGiornaliera": 2.3,
+      "highlights": [
+        "Capodanno quartiere",
+        "Eseguiamo"
+      ],
+      "citazioneTop": "Vai lider, hai tutte le carte in mano"
+    },
+    {
+      "name": "Giacomo Dolfi",
+      "voto": 7.5,
+      "giudizio": "'Buon Natale a tutti'. 'E buona guarigione a Pasquale'. 'Anzi, Buon Natale Pasquale'. 'Adoro' sulla stampa 3D. 'Sua suinita' non tradisce'. 'Pasquale come stai? Per l'ultimo dell'anno che fate?'. 'Io l'ho fatta vedere a tutto l'ufficio' la foto. 'Buongiorno. Appena spostato il viaggio a Milano. Tranne il 5 e il 6 ci sono'. 'Buon anno a tutti, soprattutto a Pasquale'. Presente e affettuoso.",
+      "messaggi": 12,
+      "mediaGiornaliera": 1.7,
+      "highlights": [
+        "Milano spostato",
+        "Auguri Pasquale"
+      ],
+      "citazioneTop": "Buon anno a tutti, soprattutto a Pasquale"
+    },
+    {
+      "name": "Alessio Valentini",
+      "voto": 8.0,
+      "giudizio": "'Aaao'. 'BUON PASQUALE A TUTTI' - EPICO gioco di parole! 'Wow'. 'Bellissime' sulle suinita'. 'Auguri Cocchi e auguri a tutti'. Padre fresco di Lucia. Minimale ma memorabile.",
+      "messaggi": 8,
+      "mediaGiornaliera": 1.1,
+      "highlights": [
+        "Buon Pasquale",
+        "Neo papa'"
+      ],
+      "citazioneTop": "Buon Pasquale a tutti"
+    }
+  ],
+  "awards": {
+    "mvp": "Adriano Sergio Lorenzo Facchini",
+    "comico": "Alessio Valentini",
+    "cuore": "Alessio Macalùso",
+    "fantasma": null
+  }
+}
