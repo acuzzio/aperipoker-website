@@ -1,0 +1,1058 @@
+{
+  "year": 2017,
+  "totalMessages": 4670,
+  "memberStats": {
+    "Giacomo Dolfi": {
+      "messageCount": 534,
+      "wordCount": 3088,
+      "avgWordsPerMessage": 5.8,
+      "longestMessage": "Grande Max!\n21/07/17, 21:25 - Cocco: <Media omessi>\n22/07/17, 11:00 - +39 348 813 1011: <Media omessi>\n22/07/17, 23:38 - Alecs: <Media omessi>"
+    },
+    "Fausto Petrini": {
+      "messageCount": 729,
+      "wordCount": 7443,
+      "avgWordsPerMessage": 10.2,
+      "longestMessage": "🐷🐷🐷🐷🐷🐷🐷\n🐷🐷🐷🐷🐷🐷🐷\n🐷🐷                  🐷🐷\n🐷🐷                   🐷🐷\n🐷🐷                  🐷🐷\n🐷🐷                 🐷🐷\n🐷🐷🐷🐷🐷🐷🐷\n🐷🐷\n🐷🐷\n🐷🐷\n🐷🐷\n🐷🐷🐷🐷\n🐷🐷🐷🐷🐷🐷🐷\n🐷🐷                🐷🐷\n🐷🐷                🐷🐷\n🐷🐷                🐷🐷\n🐷🐷🐷🐷🐷🐷🐷\n🐷🐷🐷🐷\n🐷🐷🐷🐷🐷🐷🐷\n🐷🐷🐷🐷🐷🐷🐷🐷\n🐷🐷               🐷🐷🐷\n🐷🐷               🐷🐷🐷\n🐷🐷              🐷🐷🐷\n🐷🐷🐷🐷🐷🐷🐷\n🐷🐷🐷🐷🐷🐷\n🐷🐷            🐷🐷\n🐷🐷             🐷🐷\n🐷🐷              🐷🐷\n🐷🐷              🐷🐷\n🐷🐷🐷🐷🐷\n🐷🐷🐷🐷🐷🐷🐷\n🐷🐷\n🐷🐷\n🐷🐷\n🐷🐷🐷🐷🐷🐷🐷\n🐷🐷🐷🐷🐷\n🐷🐷🐷🐷\n🐷🐷🐷🐷🐷🐷🐷\n🐷🐷                🐷🐷\n🐷🐷                🐷🐷\n🐷🐷                🐷🐷\n🐷🐷🐷"
+    },
+    "Alessio Valentini": {
+      "messageCount": 727,
+      "wordCount": 5744,
+      "avgWordsPerMessage": 7.9,
+      "longestMessage": "Buongiorno a tutti. È SICURAMENTE dovuto all'ecomaratona e alla risonanza che questa cosa sta avendo. Sarei terribilmente curioso di analizzare i dati di che periodo siano, ma credo che migliaia di persone ogni anno oramai vengono a Castelnuovo per la corsa, godendo e lasciando recensioni buone in ristoranti, agriturismi etc. L'algoritmo, come NON succede per Roma e Firenze, ha solo notato uno spike in recensioni ottime, e i \"voti nuovi\" valgono di più di quelli vecchi."
+    },
+    "Adriano Sergio Lorenzo Facchini": {
+      "messageCount": 1291,
+      "wordCount": 8688,
+      "avgWordsPerMessage": 6.7,
+      "longestMessage": "DUE PAROLE SULLA DÉBÂCLE DELL'ITALIA CALCISTICA\nOk il calcio non è così importante e ce ne faremo tutti quanti una ragione, d'accordo! Tuttavia c'è davvero qualcosa di grave in tutta questa faccenda, e non è tanto il fatto sportivo quanto le modalità con cui si è consumata la \"tragedia\", terribilmente rappresentative di una certa maniera all'italiana di fare le cose... A casa mia si direbbe ad minchiam.\nIn ordine sparso, alcuni esempi... La Federazione nomina allenatore un signore sulla settanti"
+    },
+    "Cosimo Nenciòni": {
+      "messageCount": 834,
+      "wordCount": 5249,
+      "avgWordsPerMessage": 6.3,
+      "longestMessage": "Ok.ricapitolando.poi se ne riparla stasera. Sabato 25 a Certaldo da me ci sono Alessio  chiara e Adriano per ora. Mac mi dirà. Renata dovrebbe avere l' parrucchiere perciò o viene la sera di sabato o la domenica. Domenica dopo il matrimonio rimangono a dormire Alessio chiara Fausto e Elena io e Renata. Mac e Adri mi diranno. Per ora mi pare sia così la faccenda."
+    },
+    "Alessio Macalùso": {
+      "messageCount": 409,
+      "wordCount": 2992,
+      "avgWordsPerMessage": 7.3,
+      "longestMessage": "Praticamente inizialmente avevo appeso la tabella nella nostra stanza e ogni volta che uno faceva una cazzata si mettevano le \"stelline\" però dopo pochi giorni la gente ha iniziato ad abusarne allora tengo la tabella nel mio computer e le metto solo io, quando io non sono a lavoro mi mandano i messaggi per mettere le stelline. A fine giornata mando la classifica su WhatsApp. Poi si è sparsa la voce e mi arrivano messaggi anche dai nostri capi o da altri reparti di gente che dimostra durezza. È d"
+    }
+  },
+  "monthlyActivity": {
+    "2017-01": 285,
+    "2017-02": 639,
+    "2017-03": 358,
+    "2017-04": 301,
+    "2017-05": 376,
+    "2017-06": 691,
+    "2017-07": 257,
+    "2017-08": 255,
+    "2017-09": 366,
+    "2017-10": 303,
+    "2017-11": 344,
+    "2017-12": 349
+  },
+  "sampleMessages": [
+    {
+      "sender": "Cosimo Nenciòni",
+      "text": "Spero di si per domenica mattina ma potrei non esserci. Sabato sera di sicuro. Mac.. per domani sentiamoci. Se il giorno non si fa niente vengo a dritto la sera, ma qualcosa si potrebbe fare eh.. cazzo.",
+      "date": "2017-01-06"
+    },
+    {
+      "sender": "Cosimo Nenciòni",
+      "text": "Chi c'è sti giorni? Io stasera so co rena a Firenze ma da domani sono solo. Ci vediamo a Firenze? A Siena? Sabato devo cmq essere a Siena.",
+      "date": "2017-01-06"
+    },
+    {
+      "sender": "Alessio Macalùso",
+      "text": "Ok da qui a domattina riordino le idee, in casa ho il caos e ho saputo da poco che domani non lavoro",
+      "date": "2017-01-06"
+    },
+    {
+      "sender": "Cosimo Nenciòni",
+      "text": "Diocristo ma nel bonifico ci sta il nome eh... Bastava sapere l iban e era fatto\n01/06/17, 19:25 - Cocco: <Media omessi>",
+      "date": "2017-01-06"
+    },
+    {
+      "sender": "Giacomo Dolfi",
+      "text": "Io sabato ci dovrei essere, ma accompagno i miei a Roma e quando torno devo vedere come sto",
+      "date": "2017-01-06"
+    },
+    {
+      "sender": "Cosimo Nenciòni",
+      "text": "Manna\n01/07/17, 19:00 - +39 348 813 1011: <Media omessi>\n01/07/17, 19:00 - +39 348 813 1011: <Media omessi>\n01/07/17, 19:00 - +39 348 813 1011: <Media omessi>",
+      "date": "2017-01-07"
+    },
+    {
+      "sender": "Fausto Petrini",
+      "text": "...però anche uomo che fa notizia\n02/09/17, 18:30 - Cocco: <Media omessi>\n02/09/17, 18:40 - Alessio Valentini: <Media omessi>\n02/09/17, 18:43 - Cocco: <Media omessi>\n02/09/17, 19:08 - Giec: <Media omessi>\n02/09/17, 20:19 - +39 348 813 1011: <Media omessi>",
+      "date": "2017-01-09"
+    },
+    {
+      "sender": "Alessio Macalùso",
+      "text": "Sono a siena stiamo scaricando\n01/10/17, 18:10 - Alecs: <Media omessi>\n01/10/17, 18:55 - Fausto: <Media omessi>",
+      "date": "2017-01-10"
+    },
+    {
+      "sender": "Alessio Macalùso",
+      "text": "Quello che mi stupisce è che ci sono 2 persone oltre a Fausto che si sono prestate per compiere questa cosa",
+      "date": "2017-01-12"
+    },
+    {
+      "sender": "Giacomo Dolfi",
+      "text": "Io ho molto gradito la pizza tonno e cipolla dei due pini che mi hanno portato i cognati",
+      "date": "2017-01-12"
+    },
+    {
+      "sender": "Alessio Valentini",
+      "text": "Chi parla o agisce con ipocrisia, fingendo virtù, buone qualità, buoni sentimenti che non ha, ostentando falsa devozione o amicizia, o dissimulando le proprie qualità negative, i proprî sentimenti di avversione e di malanimo, sia abitualmente per carattere, sia in particolari circostanze, e sempre a",
+      "date": "2017-01-13"
+    },
+    {
+      "sender": "Giacomo Dolfi",
+      "text": "È del tutto evidente che nel tennis Adriano prova ad essere opportunista come da definizione del corriere, ma con scarsi risultati",
+      "date": "2017-01-13"
+    },
+    {
+      "sender": "Cosimo Nenciòni",
+      "text": "Io so rientrato ora lider. Dalle 8 stamattina e non magno da ieri a cena. C'ho il fiato tipo fogna attoppata a ferragosto. E un dito del piede sanguinolento perché mi fa male una scarpa",
+      "date": "2017-01-23"
+    },
+    {
+      "sender": "Adriano Sergio Lorenzo Facchini",
+      "text": "Ieri mi è arrivato questo messaggio:\nIl negro BASTARDO non è venuto a pagare, kiamalo!\nCit. Il mi babbo..( una persona sempre moderata)",
+      "date": "2017-01-26"
+    },
+    {
+      "sender": "Adriano Sergio Lorenzo Facchini",
+      "text": "Se qualcuno mi invita a cena la sett prox perché rischio di fare come quello del magic bus\n31/01/17, 21:28 - Cocco: <Media omessi>",
+      "date": "2017-01-31"
+    },
+    {
+      "sender": "Cosimo Nenciòni",
+      "text": "Devi andare sul sito, ci trovi il link del sito dell' agenzia, ci vai, ti registri con tutti i crismi, poi fai il login, scrivi quanto paghi, ti segni l'iban e la causale, poi vai sul tuo home banking e fai pay.",
+      "date": "2017-02-06"
+    },
+    {
+      "sender": "Cosimo Nenciòni",
+      "text": "Cmq io so a casa a farmi le seghe repubblicane. Fatemi sapere chi c'è oggi/stasera così decido se interrompere e tornare o farmelo a punta",
+      "date": "2017-02-06"
+    },
+    {
+      "sender": "Giacomo Dolfi",
+      "text": "Si poteva andare anche a Montepulciano, ma ci risultava un pochino fuori mano visto che s'era a Monteriggioni",
+      "date": "2017-02-06"
+    },
+    {
+      "sender": "Giacomo Dolfi",
+      "text": "Ma secondo voi se io faccio direttamente il bonifico usando l'iban che il buon cocco ha condiviso?",
+      "date": "2017-02-06"
+    },
+    {
+      "sender": "Alessio Macalùso",
+      "text": "Cosimo c'aveva il foco al culo ma ancora non si vede\n02/06/17, 19:13 - Cocco: <Media omessi>",
+      "date": "2017-02-06"
+    },
+    {
+      "sender": "Fausto Petrini",
+      "text": "favoriti sulla carta sono quindi onda (fantino stravincente e cavallo esperto), pantera (cavallo vincente, ma fantino  insignificante ma figlio del bruschelli, ne parleremo dopo), giraffa, civetta e tartuca (fantini vincenti andati su cavalli che allenano da tempo e che sono ben chiaccherati, forse ",
+      "date": "2017-02-07"
+    },
+    {
+      "sender": "Fausto Petrini",
+      "text": "se voi foste un panterino vi immaginate quindi il giramento a scoprire  he su questo  cavallo montate lui. le due correnti di pensiero sono: 1)è lì perchè l'aquila ha pagato bene per non farci andare un buon fantino e quindi hanno scelto una politica rischiosa, di cui parlo dopo). 2) si sono fatti i",
+      "date": "2017-02-07"
+    },
+    {
+      "sender": "Fausto Petrini",
+      "text": "rispetto alla politica della pantera io penso cbe la lettura sia questa: essendo andati gli altri big su cavalli  he già gli interessavano di più e che per l'appunto sono toccati a contrade da cui avevano gia preso soldi/preso acclrdi la pantera si è trovata senza monta e probabilmente con il brusch",
+      "date": "2017-02-07"
+    },
+    {
+      "sender": "Fausto Petrini",
+      "text": "quindi il capitano della pantera ha due scelte: monto il bruschellino, nell'aquila va una merda di fantino e io cmq ho un potenziale alleato in piazza se sono davanti, alla fine il cavallo va... oppure montare cmq una merda, avere il bruschelli grande sulla confrada nemica e non mi aiuta nessuno? sc",
+      "date": "2017-02-07"
+    },
+    {
+      "sender": "Fausto Petrini",
+      "text": "quindi la domanda finale sarà: il  bruschelli grande ha in mente di lanciare il figliolo cercando di apparecchiargli il palio, visto che lui entro un paio dk anni sarà cmq fuori, o viceversa lo userà come pedina per provare a fare il palio in tartuca? a siena molti scommettono sulla sua vittoria, io",
+      "date": "2017-02-07"
+    },
+    {
+      "sender": "Fausto Petrini",
+      "text": "oraun tema di interesse è la pantera, che aveva uno dei due primi cavalli ma a sorpresa monta non un big, ma il figlil del bruschelli, che ha già corso 3 volte (scelto dai capitani per ingraziarsi il babbo o assecondare le sue strategie) senza mai impressionare.",
+      "date": "2017-02-07"
+    },
+    {
+      "sender": "Fausto Petrini",
+      "text": "il lotto è basso:non ci sono bomboloni dichiarati, ma solo due o tre cavalli più esperti, uno ha vinto già un palio (mississippi nella pantera)  ma senza impressionare, quindi si è saltato per cavalli esperti, ma qualche esordiente potrebbe essere più forte di tutti a sorpresa",
+      "date": "2017-02-07"
+    },
+    {
+      "sender": "Fausto Petrini",
+      "text": "allo stato attuale è un palio molto condizionato dal maltrmpo: con poche prove per la pioggia ed un lotto di molti cavalli esordienti o  che comunque non si sono mai visti molto i pronostici sono difficili e l'esperienza dei fantini potrebbe fare la differenza.",
+      "date": "2017-02-07"
+    },
+    {
+      "sender": "Fausto Petrini",
+      "text": "siccome mi piacciono anche salasso e  come monta sul cavallo del bruco la mia lista dei papabili finale (più scaramantica che sulla carta) è onda, civetta, bruco per la  ittoria fi ale",
+      "date": "2017-02-07"
+    },
+    {
+      "sender": "Fausto Petrini",
+      "text": "pare molto forte quello della civetta(ieri è partito con i primi nonostante il fantino non abbia nemmeno provato a parfire per tenersi nascosto, a occhio pare proprio un bel cavallo, potente).",
+      "date": "2017-02-07"
+    },
+    {
+      "sender": "Adriano Sergio Lorenzo Facchini",
+      "text": "Fai una foto al palazzo comunale e ti dico\n02/07/17, 18:35 - Giec: <Media omessi>\n02/07/17, 19:00 - +39 348 813 1011: <Media omessi>",
+      "date": "2017-02-07"
+    },
+    {
+      "sender": "Fausto Petrini",
+      "text": "per allietare la mattina del lider, porto un estratto dalla serie di racconti: \"come fausto può farsi male con le cose più innoque\"\n02/12/17, 10:28 - Fausto: <Media omessi>",
+      "date": "2017-02-12"
+    },
+    {
+      "sender": "Adriano Sergio Lorenzo Facchini",
+      "text": "L'ultimo anno é stato silente e ha reso flaccide le menti e le fantasie del popolo\n02/12/17, 07:51 - +39 348 813 1011: <Media omessi>",
+      "date": "2017-02-12"
+    },
+    {
+      "sender": "Alessio Valentini",
+      "text": "A nessun italiano ho visto fare questi versi... Gli hostess urlavano \"SEDUTIIIII\"... a me hanno fatto cambiare posto 2 volte. L'hostess quello pelato della foto, solo perché facevo quello che diceva, è venuto, mi ha toccato il braccio e detto:\"many thanks\"",
+      "date": "2017-02-13"
+    },
+    {
+      "sender": "Alessio Valentini",
+      "text": "Dopo aver visto gli ebrei in azione sull'aereo è difficile tornare a stupirsi, sinceramente. Il mercato di Napoli a confronto è niente. Questi so di fuori come campane.",
+      "date": "2017-02-13"
+    },
+    {
+      "sender": "Alessio Valentini",
+      "text": "Io avevo due ragazzi accanto, fratelli. Siccome la mamma non ci arrivava, mi faceva passare a me le cose... Coca cola, panini, patatine, barre di cioccolato...",
+      "date": "2017-02-13"
+    },
+    {
+      "sender": "Alessio Valentini",
+      "text": "Gli hostess col carrello NON passavano e questi si alzavano stavano nel mezzo gridavano... Per mettersi a sedere insieme tre signore hanno fatto i NUMERI.",
+      "date": "2017-02-13"
+    },
+    {
+      "sender": "Cosimo Nenciòni",
+      "text": "Un cliente vende un sh150 con ABS bauletto start and stop pure col coprigambe Tucano . molto bello mai battuto. 25000 km. Me lo darebbe per 2000 euro. Sto cercando di capire se è un prezzo onesto. Lui dice che la Honda gli da 2200 perché prende il modello nuovo. È un bel mezzo, ma 25000 km in città ",
+      "date": "2017-02-16"
+    },
+    {
+      "sender": "Cosimo Nenciòni",
+      "text": "In realtà è una persona molto affidabile, della quale mi fido eh.. cioè, se lui dice che gli danno 2200 la Honda ci credo, e la cosa mi fa pensare che potrebbe essere una valutazione giusta. Poi non so tra patentino e passaggio di proprietà quanto altro mi costa.idee?",
+      "date": "2017-02-16"
+    },
+    {
+      "sender": "Cosimo Nenciòni",
+      "text": "Sto pensando di comprare uno scooter. Secondo voi tra comprare un 125 è un 150 cosa mi cambia? Pro e contro? Io non me ne intendo.",
+      "date": "2017-02-16"
+    },
+    {
+      "sender": "Cosimo Nenciòni",
+      "text": "È una domanda intelligente, in realtà come ben sai ho pensato molto spesso a quanto il motorino mi semplificherebbe la vita. Mi ero poi detto di lasciare passare l'inverno. Ciò non toglie che sopravvivo benissimo senza ma allo stesso tempo, se voglio comprarlo, vorrei un bel mezzo e non un troiaio. ",
+      "date": "2017-02-17"
+    },
+    {
+      "sender": "Alessio Macalùso",
+      "text": "Forza gilardino!\n19/02/17, 20:22 - Fausto: <Media omessi>\n19/02/17, 20:23 - Fausto: <Media omessi>\n19/02/17, 20:23 - Fausto: <Media omessi>\n19/02/17, 20:23 - Fausto: <Media omessi>",
+      "date": "2017-02-19"
+    },
+    {
+      "sender": "Giacomo Dolfi",
+      "text": "Ho fatto casino.....Giovedi quasi sicuramente non posso perché devo portare Pietro a una festa di carnevale",
+      "date": "2017-02-19"
+    },
+    {
+      "sender": "Giacomo Dolfi",
+      "text": "Non per non rispettare le precise volontà di Adriano, ma se venerdì alle 20.30 s'andasse al cinema e poi dal Mac?",
+      "date": "2017-02-22"
+    },
+    {
+      "sender": "Adriano Sergio Lorenzo Facchini",
+      "text": "E dopo possiamo andare a prenderci delle pizze e le mangiamo anche da me o da ale se poi la gente e forse io non è in grado di tornare",
+      "date": "2017-02-23"
+    },
+    {
+      "sender": "Giacomo Dolfi",
+      "text": "Io c'ho ancora\n24/02/17, 19:03 - Fausto: <Media omessi>\n24/02/17, 19:06 - +39 348 813 1011: <Media omessi>",
+      "date": "2017-02-24"
+    },
+    {
+      "sender": "Giacomo Dolfi",
+      "text": "Hai preso due pagine che mi fanno morire dal ridere\n28/02/17, 18:20 - Cocco: <Media omessi>",
+      "date": "2017-02-27"
+    },
+    {
+      "sender": "Alessio Macalùso",
+      "text": "Fausto dove sei? Quando torni? Perché non mandi foto?\n03/06/17, 17:04 - Fausto: <Media omessi>\n03/06/17, 17:07 - Fausto: <Media omessi>\n03/06/17, 17:07 - Fausto: <Media omessi>\n03/06/17, 17:07 - Fausto: <Media omessi>\n03/06/17, 17:07 - Fausto: <Media omessi>\n03/06/17, 17:07 - Fausto: <Media omessi>\n",
+      "date": "2017-03-06"
+    },
+    {
+      "sender": "Adriano Sergio Lorenzo Facchini",
+      "text": "Nel gruppo poi come ho scritto anche in privato ci sono degli EGOISTI DI MERDA CHE MI HANNO ROTTO IL CAZZO.",
+      "date": "2017-03-06"
+    },
+    {
+      "sender": "Fausto Petrini",
+      "text": "1) Il cavallo è stato dopato, e male, per questo ha sclerato. Stalla Tartuca bocciata con ignominia, Bruschelli allenatore e professore, ridicolizzato. La contrada non poteva che sperare in un allungamento dle brodo per andare al rinvio e sperare di prendere almeno 2 lire al canape nono stante il ca",
+      "date": "2017-03-07"
+    },
+    {
+      "sender": "Fausto Petrini",
+      "text": "2) Gli hanno usato fin troppa cortesia, un altra contrada o un altro fantino lo avrebbero richiamato e poi alla fine espulso, alla fine non hanno potuto fare altro che andare avanti, un rinvio sarebbe costato caro a tutti e forse avrebbe dato più eco a questo strano ritiro del cavallo (dopato), ma i",
+      "date": "2017-03-07"
+    },
+    {
+      "sender": "Fausto Petrini",
+      "text": "3 bis) la tartuca non prende soldi dalla mossa, manda definitivamente a puttane la credibilità della stalla e del bruschelli, che comunque dovranno pagare quanto pattuito (anzi potrebbe anche incazzarsi lui con loro visti gli esiti...), e se domenica tutto va bene e non escano (sarebbe la terza volt",
+      "date": "2017-03-07"
+    },
+    {
+      "sender": "Fausto Petrini",
+      "text": "Beh ragazzi, c'è poco da dire. Ovviamente come sempre tutte le mie previsioni si sono rivelate poco utili, ma il bello del palio alla fine è proprio la sua imprevedibilità.",
+      "date": "2017-03-07"
+    },
+    {
+      "sender": "Fausto Petrini",
+      "text": "3) il Bartoletti si sta rivelando non solo il più fort, ma anche un gran bel personaggio (vedere intervista lunghissima a canale tre per approfondimenti), il petes sagan del palio",
+      "date": "2017-03-07"
+    },
+    {
+      "sender": "Cosimo Nenciòni",
+      "text": "Se poi sono libretti al portatore puoi pulirtici l'ano\n03/07/17, 18:38 - +39 348 813 1011: <Media omessi>\n03/07/17, 18:38 - +39 348 813 1011: <Media omessi>",
+      "date": "2017-03-07"
+    },
+    {
+      "sender": "Adriano Sergio Lorenzo Facchini",
+      "text": "E cmq ora rimane solo Lino Banfi\n03/07/17, 18:32 - +39 348 813 1011: <Media omessi>\n03/07/17, 18:33 - +39 348 813 1011: <Media omessi>",
+      "date": "2017-03-07"
+    },
+    {
+      "sender": "Alessio Macalùso",
+      "text": "Le bombe atomiche funzionavano a fissione nucleare la stessa reazione che si usa per ricavare energia nelle centrali mentre la bomba a idrogeno funziona con la fusione ed è l'unico campo di utilizzo di questa reazione",
+      "date": "2017-03-09"
+    },
+    {
+      "sender": "Cosimo Nenciòni",
+      "text": "Mi piacerebbe che chi è più informato di me mi chiarisse cos'è la bomba h, che differenza c'è con la bomba atomica tipo Hiroshima soprattutto in termini di radioattività",
+      "date": "2017-03-09"
+    },
+    {
+      "sender": "Alessio Valentini",
+      "text": "Buongiorno a tutti. È SICURAMENTE dovuto all'ecomaratona e alla risonanza che questa cosa sta avendo. Sarei terribilmente curioso di analizzare i dati di che periodo siano, ma credo che migliaia di persone ogni anno oramai vengono a Castelnuovo per la corsa, godendo e lasciando recensioni buone in r",
+      "date": "2017-03-22"
+    },
+    {
+      "sender": "Alessio Valentini",
+      "text": "Sisi, chiaro... Ma io dicevo perché proprio Castelnuovo e non Siena... In un sito come trip advisor i voti recenti sono giocoforza considerati di più, altrimenti i ristoranti nuovi nn avrebbero possibilità con i \"soliti classici\". È chiaro che Castelnuovo sia una anomalia dell'algoritmo, che è invec",
+      "date": "2017-03-22"
+    },
+    {
+      "sender": "Alessio Valentini",
+      "text": "Ma questo è il motivo per cui proprio Castelnuovo spicca sui vari siena/san gimignano/pienza... Non ho i dati, non ho il 100% su quel sicuramente di cui sopra, ma insomma vedrai il motivo si aggira per lì.",
+      "date": "2017-03-22"
+    },
+    {
+      "sender": "Alessio Valentini",
+      "text": "Aggiungi che questa zona, e intendo siena chianti crete e dintorni, ha comunque una base di ottime recensioni ristorazione/godimento su cui un effetto del genere si somma.",
+      "date": "2017-03-22"
+    },
+    {
+      "sender": "Adriano Sergio Lorenzo Facchini",
+      "text": "Basta svegliarsi alle 5, fare colazione, barba, vestirsi, prendere la macchina, parcheggiare alla Leopolda, arrivare a piedi alka stazione, salire sul treno..fatto",
+      "date": "2017-03-22"
+    },
+    {
+      "sender": "Fausto Petrini",
+      "text": "quello al centro è l'ex direttore degli uffizi che ci ha fatto una lezione privata nel chiostro di santossima annunziata su pontormo andrea del sarto e rosso fiorentino",
+      "date": "2017-03-23"
+    },
+    {
+      "sender": "Fausto Petrini",
+      "text": "avrei bisogno dei dati anagrafici più codice fiscale della d'errico per motivi contabili (gli avevamo fatto un rimborso spese per le stampe). qualcuno ha almeno il suo numero?",
+      "date": "2017-03-30"
+    },
+    {
+      "sender": "Adriano Sergio Lorenzo Facchini",
+      "text": "Per il Lider: Ho fatto una cacata di cotanta portata che ho dovuto poi stringere di un buco la cintura.\nSo' soddisfazioni",
+      "date": "2017-03-30"
+    },
+    {
+      "sender": "Fausto Petrini",
+      "text": "Se ricevi un video che si chiama i 10 più bei cani del mondo non aprirlo è una truffa ti scarica un app che ti costa 5 euro al giorno. Fallo girare. (fonte polizia postale)\n04/01/17, 11:59 - Fausto: <Media omessi>",
+      "date": "2017-04-01"
+    },
+    {
+      "sender": "Adriano Sergio Lorenzo Facchini",
+      "text": "Ovviamente i sudditi nascono liberi, e hanno la piena scelta delle loro azioni.. Ma per il rispetto del popolo stesso, almeno in questa fase iniziale non posso accettare il non aver partecipato ad una prova tanto semplice.",
+      "date": "2017-04-12"
+    },
+    {
+      "sender": "Adriano Sergio Lorenzo Facchini",
+      "text": "Ecco, si, due sudditi tra il popolo non hanno portato a termine la prova. In altri regni, ciò poteva essere tollerato, ma non qui, nel regno di ADMA.",
+      "date": "2017-04-12"
+    },
+    {
+      "sender": "Adriano Sergio Lorenzo Facchini",
+      "text": "Perciò chiedo al popolo se é giusto dare un segnale di cambiamento punendo i sudditi Nencioni e Valentini con una prova speciale..solo per loro.",
+      "date": "2017-04-12"
+    },
+    {
+      "sender": "Adriano Sergio Lorenzo Facchini",
+      "text": "Anche perché, il loro messaggio lo dovranno scrivere non su una tastiera, non su un foglio di carta, non sulla sabbia ma.........",
+      "date": "2017-04-12"
+    },
+    {
+      "sender": "Alessio Valentini",
+      "text": "Ottimo\n13/04/17, 21:37 - Cocco: <Media omessi>\n13/04/17, 22:42 - Fausto: <Media omessi>\n13/04/17, 22:42 - Fausto: <Media omessi>\n13/04/17, 22:42 - Fausto: <Media omessi>\n14/04/17, 15:23 - Cocco: <Media omessi>",
+      "date": "2017-04-13"
+    },
+    {
+      "sender": "Alessio Macalùso",
+      "text": "Quando la prendo mi sveglio senza mettere la sveglia\n13/04/17, 13:16 - Alessio Valentini: <Media omessi>\n13/04/17, 13:16 - Alessio Valentini: <Media omessi>",
+      "date": "2017-04-13"
+    },
+    {
+      "sender": "Giacomo Dolfi",
+      "text": "Io mi sono svegliato lezzo perché avevo scoperto, appena finito di fare roba con Lucia, che trombava anche con un altro",
+      "date": "2017-04-13"
+    },
+    {
+      "sender": "Fausto Petrini",
+      "text": "Prendi 2 minuti e leggi questo,per favore\nMettiamo che siano le 20:15 e vai a casa (per esempio) dopo una giornata insolitamente dura al lavoro.\nSei molto stanco,infastidito e frustrato.\nAll'improvviso cominci a sentire un forte dolore che corre verso il braccio sinistro e fino alla mandibola e la p",
+      "date": "2017-04-22"
+    },
+    {
+      "sender": "Fausto Petrini",
+      "text": "bossoli, si dà il caso che io sia riuscito a liberarmi per il finesettimana del 27 maggio. siccome si era parlato di un piccolo viaggio avventura tra soli uomini, come sareste messi?",
+      "date": "2017-04-26"
+    },
+    {
+      "sender": "Fausto Petrini",
+      "text": "uhm...\n27/04/17, 23:40 - Fausto: <Media omessi>\n27/04/17, 23:44 - Fausto: <Media omessi>\n27/04/17, 23:46 - Fausto: <Media omessi>\n27/04/17, 23:47 - Fausto: <Media omessi>\n27/04/17, 23:47 - Fausto: <Media omessi>\n27/04/17, 23:47 - Fausto: <Media omessi>",
+      "date": "2017-04-27"
+    },
+    {
+      "sender": "Alessio Valentini",
+      "text": "Applaudo il video pieno do vento, il messaggio e le foto. Fantastico.\n27/04/17, 23:50 - Fausto: <Media omessi>\n27/04/17, 23:50 - Fausto: <Media omessi>",
+      "date": "2017-04-27"
+    },
+    {
+      "sender": "Giacomo Dolfi",
+      "text": "In realtà Fausto sta trombando Elena in talmente tanti posti e posizioni che non trova la forza di fare foto altre fighette canarine",
+      "date": "2017-04-27"
+    },
+    {
+      "sender": "Giacomo Dolfi",
+      "text": "Io la settimana prima vado due giorni a Roma senza Lucia, il che mi fa giocare buona parte delle già poche possibilità",
+      "date": "2017-04-27"
+    },
+    {
+      "sender": "Fausto Petrini",
+      "text": "coppie di nudisti miste a famigliole. nessuno dei due si fa problemi. io sono all'antica e quindi forse un po...\n28/04/17, 10:35 - Fausto: <Media omessi>\n28/04/17, 10:35 - Fausto: <Media omessi>",
+      "date": "2017-04-28"
+    },
+    {
+      "sender": "Alessio Macalùso",
+      "text": "Ci sono ma non so da che ora perché sto aspettando una mia ex collega per un saluto",
+      "date": "2017-04-29"
+    },
+    {
+      "sender": "Alessio Macalùso",
+      "text": "http://corrieredisiena.corr.it/news/cronaca/260507/caffe-bollente-si-presenta-al-bar-a-seno-nudo.html\n01/05/17, 23:39 - Fausto: <Media omessi>\n01/05/17, 23:39 - Fausto: <Media omessi>\n01/05/17, 23:39 - Fausto: <Media omessi>",
+      "date": "2017-04-30"
+    },
+    {
+      "sender": "Alessio Macalùso",
+      "text": "Secondo me gli antibiotici non influiscono sui valori ma se li prendi vuol dire che hai uno stato di malessere che sicuramente influisce sulle analisi. Per me non è opportuno",
+      "date": "2017-05-05"
+    },
+    {
+      "sender": "Adriano Sergio Lorenzo Facchini",
+      "text": "Fai troppe pompe\n05/05/17, 23:32 - +39 348 813 1011: <Media omessi>\n05/05/17, 23:33 - +39 348 813 1011: <Media omessi>",
+      "date": "2017-05-05"
+    },
+    {
+      "sender": "Alessio Valentini",
+      "text": "Ricordo che l'ultimo fra jack e cocco che manda la foto con sconosciuti gli puzza il culo. Malissimo che ve ne siate dimenticati...\n15/05/17, 12:20 - +39 348 813 1011: <Media omessi>",
+      "date": "2017-05-14"
+    },
+    {
+      "sender": "Adriano Sergio Lorenzo Facchini",
+      "text": "4 uova in tegamino piú due hamburgher da 100g l'uno. Tre fette di pane, pecorino di pienza morbido. Due kiwi, tre nespole.",
+      "date": "2017-05-20"
+    },
+    {
+      "sender": "Cosimo Nenciòni",
+      "text": "Il naso non è da stasare. Ma starnutisco di continuo. Perciò cmq va bene. Potrei essere anche in fase di allergia. Both of problems. Disaster!",
+      "date": "2017-05-24"
+    },
+    {
+      "sender": "Alessio Macalùso",
+      "text": "Dicci dicci\n24/05/17, 13:14 - Alecs: <Media omessi>\n24/05/17, 14:18 - Cocco: <Media omessi>\n24/05/17, 15:35 - Cocco: <Media omessi>",
+      "date": "2017-05-24"
+    },
+    {
+      "sender": "Cosimo Nenciòni",
+      "text": "Mi sono ripreso. Posti molto belli, purtroppo me ne ritornerò con la solita amarezza che all'estero ci sanno fare troppo più di noi. Io i francesi li schifo ma noi famo sempre la figura dei peracottari con tutti. Co2.",
+      "date": "2017-05-25"
+    },
+    {
+      "sender": "Cosimo Nenciòni",
+      "text": "Domani, se ci riusciamo, andiamo a fare rafting in un posto molto bello. Speriamo bene perché non sono stato capace di prenotare. Le merde francesi parlano solo  in francese quindi la cosa crea disagio talvolta.",
+      "date": "2017-05-25"
+    },
+    {
+      "sender": "Adriano Sergio Lorenzo Facchini",
+      "text": "Quindi mettiti l'anima in pace..è andata cosí.\nSe eravamo in quattro, partivate in tre.. Ma eravamo in tre..e il terzo era Mau",
+      "date": "2017-05-29"
+    },
+    {
+      "sender": "Alessio Macalùso",
+      "text": "Ah giusto tu sei in un altro paese\n29/05/17, 18:09 - +39 348 813 1011: <Media omessi>",
+      "date": "2017-05-29"
+    },
+    {
+      "sender": "Alessio Valentini",
+      "text": "e che non capisce cosa sia un tribunale\n06/01/17, 12:24 - Cocco: <Media omessi>\n06/01/17, 12:24 - Cocco: <Media omessi>\n06/01/17, 12:25 - Cocco: <Media omessi>\n06/01/17, 12:25 - Cocco: <Media omessi>\n06/01/17, 12:25 - Cocco: <Media omessi>\n06/01/17, 12:25 - Cocco: <Media omessi>\n06/01/17, 12:25 - Co",
+      "date": "2017-06-01"
+    },
+    {
+      "sender": "Alessio Valentini",
+      "text": "E adesso il bus passa dalle vetrine del red light district. Ci sono le troie anche di mattina. Dei bei cavedani eh, ma insomma è sempre bello passarci davanti...",
+      "date": "2017-06-03"
+    },
+    {
+      "sender": "Adriano Sergio Lorenzo Facchini",
+      "text": "Stanotte ho fatto un sogno strutturato a matrioska.\nSognavo che dormivo e che sognavo che ero ad una festa in piscina di pomeriggio.\nPoi mi svegliavo e dicevo cazzo devo andare a lavoro ma ho la valigia in macchina!!! E dicevo, vabbè dormo altri 5 minuti..e risognavo il pomeriggio in piscina.\nPoi mi",
+      "date": "2017-06-07"
+    },
+    {
+      "sender": "Cosimo Nenciòni",
+      "text": "È in pianificazione una mezza serata a Firenze. Per ora sul dopocena zona lungarni ma alla fine se è il caso si può pure uscire a cena",
+      "date": "2017-06-08"
+    },
+    {
+      "sender": "Adriano Sergio Lorenzo Facchini",
+      "text": "Cos'è la felicità?\nFelicità è quando accendi la TV e scopri che fra venti minuti c'è il moto gp..e ovviamente te ne eri dimenticato",
+      "date": "2017-06-08"
+    },
+    {
+      "sender": "Cosimo Nenciòni",
+      "text": "Avete qualche consiglio in merito all utilizzo di caselle email usa e getta? Secondo voi sono affidabili? Avete qualche sito da consigliarmi? Tipo dispose.it lo conoscete?",
+      "date": "2017-06-12"
+    },
+    {
+      "sender": "Cosimo Nenciòni",
+      "text": "Per la sera prima non abbiamo deciso un tubo. Io avevo una mezza idea di andare a Certaldo anche il giorno prima. Non è comodissimo per le femminucce che si devono vestire con dovizia di particolari ma se si adattano si può fare",
+      "date": "2017-06-14"
+    },
+    {
+      "sender": "Fausto Petrini",
+      "text": "ragazzi ho un problema e vi chiedo infinitamente scusa da ora, soprattutto a mac. venerdì per una serie di motivi organizzativi che non vi sto a spiegare, ma che fino a ora non erano così evidenti, non possiamo venire a cena 😥😥😥",
+      "date": "2017-06-14"
+    },
+    {
+      "sender": "Cosimo Nenciòni",
+      "text": "Per la sera del matrimonio puoi dormire senz'altro da me a Certaldo. Se possibile venite un po' organizzati (lenzuolo o sacco a pelo) I letti sono da fare e ci sono, ma sono siamo in tanti non bastano.",
+      "date": "2017-06-14"
+    },
+    {
+      "sender": "Fausto Petrini",
+      "text": "anticipo subito che non potremmo nemmeno sabato (cena compleanno  babbo), anche se dopo cena ci siamo. potremmo caso mai domenica ma è evidente che non sarebbe comodo ai più. fatela voi, e scusate",
+      "date": "2017-06-14"
+    },
+    {
+      "sender": "Alessio Valentini",
+      "text": "Io allora dove dormo per il matrimonio vigni? Fausto, la sera prima da te e la sera dopo andiamo nella casa di cocco a merdaldo? Mi riconfermate un paio di cose?",
+      "date": "2017-06-14"
+    },
+    {
+      "sender": "Fausto Petrini",
+      "text": "io ho problema:alla fine il 26 i merdosi mi hanno messo una skype importantissima e non rinviabile, alle 10. credo a sto punto che torneremo a casa a dormire😒😔",
+      "date": "2017-06-14"
+    },
+    {
+      "sender": "Alessio Macalùso",
+      "text": "Fausto ti ci vuole una vacanza per staccare\n14/06/17, 20:13 - +39 348 813 1011: <Media omessi>\n14/06/17, 20:14 - +39 348 813 1011: <Media omessi>",
+      "date": "2017-06-14"
+    },
+    {
+      "sender": "Cosimo Nenciòni",
+      "text": "Poi direi per dormire il 26 a sto punto non vedo problemi di posto. Di massima ci possiamo andare sabato a sto punto.",
+      "date": "2017-06-14"
+    },
+    {
+      "sender": "Fausto Petrini",
+      "text": "ma voglio raccontarvi meglio di ieri. eravamo sotto alla tribuna vip per vedere se  col buio riuscivo a far arrampicare ele. sopra di noi c'era Cristiano De Andrè, che all'inizio mi stava sulle pallle, poi però è stato l'unico, tra attorucoli e subrettine presenti, a mettersi a sedere per terra alla",
+      "date": "2017-06-15"
+    },
+    {
+      "sender": "Alessio Macalùso",
+      "text": "Praticamente inizialmente avevo appeso la tabella nella nostra stanza e ogni volta che uno faceva una cazzata si mettevano le \"stelline\" però dopo pochi giorni la gente ha iniziato ad abusarne allora tengo la tabella nel mio computer e le metto solo io, quando io non sono a lavoro mi mandano i messa",
+      "date": "2017-06-15"
+    },
+    {
+      "sender": "Alessio Macalùso",
+      "text": "Tutte le sere redigo una classifica a punti su chi è stato il più duro fra i miei colleghi\n15/06/17, 21:06 - Alecs: <Media omessi>",
+      "date": "2017-06-15"
+    },
+    {
+      "sender": "Alessio Macalùso",
+      "text": "poi oggi ho iniziato a mandare la classifica senza nomi perchè siamo a ridosso della premiazione per creare suspance",
+      "date": "2017-06-15"
+    },
+    {
+      "sender": "Cosimo Nenciòni",
+      "text": "Ok.ricapitolando.poi se ne riparla stasera. Sabato 25 a Certaldo da me ci sono Alessio  chiara e Adriano per ora. Mac mi dirà. Renata dovrebbe avere l' parrucchiere perciò o viene la sera di sabato o la domenica. Domenica dopo il matrimonio rimangono a dormire Alessio chiara Fausto e Elena io e Rena",
+      "date": "2017-06-16"
+    },
+    {
+      "sender": "Fausto Petrini",
+      "text": "mac posso obiettare solo che è un ottimo modo per far smettere la faida, ma che c'è il rischio che il vincitore sia lo scemo a vita? i capi non dovrebbero sapere l'esito...",
+      "date": "2017-06-16"
+    },
+    {
+      "sender": "Giacomo Dolfi",
+      "text": "Detto che Marcella è sempre la numero e che Mindie (giusto?) è una fica atomica, t'ho preso il vestito e stasera lo lascio al nencio",
+      "date": "2017-06-16"
+    },
+    {
+      "sender": "Cosimo Nenciòni",
+      "text": "Per chi c'è aperitivo circa ore 18.00 in luogo da decidere around Siena. Spero di non fare tardi ma nel caso avverto ho ancora parecchio da fare. Alecs e Adri ci siete? Io poi mi levo daicazzo",
+      "date": "2017-06-17"
+    },
+    {
+      "sender": "Cosimo Nenciòni",
+      "text": "Allora io ho bisogno di 10  minuti. Poi dove vi pare. Qui intorno mi viene in mente botteganova, scacciapensieri o vicoalto",
+      "date": "2017-06-17"
+    },
+    {
+      "sender": "Cosimo Nenciòni",
+      "text": "Qualcuno di voi è in grado di rimediare per domenica un fucile ad acqua come si deve? Magari di figli o nipoti.",
+      "date": "2017-06-18"
+    },
+    {
+      "sender": "Adriano Sergio Lorenzo Facchini",
+      "text": "In cuor mio lo sapevo che 23 anni fa non lo dovevo rompere quel super liquidator 100...\n19/06/17, 21:37 - +39 348 813 1011: <Media omessi>",
+      "date": "2017-06-19"
+    },
+    {
+      "sender": "Cosimo Nenciòni",
+      "text": "Da quando Adriano è la persona giusta per un consiglio di moda, galateo, bon ton?\n21/06/17, 23:43 - Cocco: <Media omessi>",
+      "date": "2017-06-21"
+    },
+    {
+      "sender": "Alessio Macalùso",
+      "text": "E una tuta che non si sa mai\n23/06/17, 15:36 - Alecs: <Media omessi>\n23/06/17, 15:36 - Alecs: <Media omessi>\n23/06/17, 15:36 - Alecs: <Media omessi>",
+      "date": "2017-06-23"
+    },
+    {
+      "sender": "Cosimo Nenciòni",
+      "text": "Ma fai te. Solo che sul bianco non andare a risparmio che ci viene il mal di testa a tutti. E non esagerare, una boccia di rosso la porto io.\n24/06/17, 12:55 - Fausto: <Media omessi>\n24/06/17, 12:59 - Fausto: <Media omessi>",
+      "date": "2017-06-24"
+    },
+    {
+      "sender": "Alessio Valentini",
+      "text": "APERIPOKER - Ernesto vi chiede di MANDARE FOTO per vedere come si sta svolgendo la giornata... che Lui fara' lo stesso con il suo viaggio. Ottimo Cosimo mi hai praticamente letto nel pensiero !",
+      "date": "2017-06-24"
+    },
+    {
+      "sender": "Adriano Sergio Lorenzo Facchini",
+      "text": "Già mi sono perso un viaggio a Madrid( io, il mio l'ho già strafatto), un giorno di ferie lunedí, se mi perdo anche la prima vittoria vi VR 46 con il nuovo telaio sclero",
+      "date": "2017-06-24"
+    },
+    {
+      "sender": "Alessio Valentini",
+      "text": "Ora vado a rispondere \"roba da matti\"\n24/06/17, 14:05 - Alessio Valentini: <Media omessi>\n24/06/17, 14:07 - Alecs: <Media omessi>\n24/06/17, 14:14 - +39 348 813 1011: <Media omessi>",
+      "date": "2017-06-24"
+    },
+    {
+      "sender": "Alessio Valentini",
+      "text": "grande MAC\n24/06/17, 11:11 - Alecs: <Media omessi>\n24/06/17, 11:19 - Cocco: <Media omessi>\n24/06/17, 11:22 - Giec: <Media omessi>\n24/06/17, 11:26 - Fausto: <Media omessi>",
+      "date": "2017-06-24"
+    },
+    {
+      "sender": "Alessio Valentini",
+      "text": "Mandate posizione o indirizzo bagnano qualcosa?\n24/06/17, 21:54 - Fausto: <Media omessi>\n24/06/17, 21:54 - Alessio Valentini: <Media omessi>\n24/06/17, 22:04 - Alessio Valentini: <Media omessi>",
+      "date": "2017-06-24"
+    },
+    {
+      "sender": "Giacomo Dolfi",
+      "text": "Fausto a questo punto fai meglio a fermarti da un tabaccaio e comprare una busta dove mettere i soldi",
+      "date": "2017-06-24"
+    },
+    {
+      "sender": "Alessio Macalùso",
+      "text": "Eh sono di turno alla misericordia perché non mi andava di andare al beach party e alla mise sono in emergenza perché sono tutti in ferie",
+      "date": "2017-07-07"
+    },
+    {
+      "sender": "Cosimo Nenciòni",
+      "text": "No non andiamo. Sono venuti Andrea e Flaminia. Stasera siamo a cena con loro è un altra coppia di amici di Pisa qui a Castiglioncello.",
+      "date": "2017-07-07"
+    },
+    {
+      "sender": "Alessio Valentini",
+      "text": "Livello Habemus Capam -> \"seduce amanti mantidi con manti di diamanti\" (ci metti due ore per capirla, torna, e' fantastica, ed e' in una canzone metafora insetti/politica che e' COLOSSALE)\nLivello Museica -> \"Sfooogati, Sfiiigato\" (Messaggio superficiale con cambio di accento perche' nemmeno torna.)",
+      "date": "2017-07-09"
+    },
+    {
+      "sender": "Fausto Petrini",
+      "text": "però se è la prima che fa uscire... non avrà scelto la peggiore. cmq io lo apprezzo sempre, tutti i grandi artisti hanno anche periodi controversi, e cmq io museica non lo  butto perniente, è solo un pò inferiore.",
+      "date": "2017-07-09"
+    },
+    {
+      "sender": "Fausto Petrini",
+      "text": "faccio un gruppo nuovo per non far sformare il lider con messaggi su organizzazione di una cena cui non potrà partecipare, poi gli manderemo una foto, ma almeno non lo tediamo",
+      "date": "2017-07-09"
+    },
+    {
+      "sender": "Alessio Valentini",
+      "text": "ci aveva abituato male... tutto qua.ha inanellato 3-4 album spettacolari... ma e' anche il motivo per cui sono fan e mi aspetto di piu'...",
+      "date": "2017-07-09"
+    },
+    {
+      "sender": "Adriano Sergio Lorenzo Facchini",
+      "text": "BARZELLETTA\n😃😃😃😃😃😃😃\n*LA CONFESSIONE*\n\" Signor parroco,\nmi vorrei confessare\".\n\"Certo figliolo, qual è il tuo nome?\"\n*Renzi, padre*\n\"Ah! L'ex Presidente del Consiglio...\nAscolta figliolo.....mi pare proprio che il tuo caso richieda una competenza superiore.\nCredo sia meglio che tu ti rechi dal Vescov",
+      "date": "2017-07-16"
+    },
+    {
+      "sender": "Giacomo Dolfi",
+      "text": "Dall'articolo emerge che Piero Angela è un riferimento per tutti e che definisce pseudo-scienza l'omeopatia che invece garba tanto a Fausto",
+      "date": "2017-07-17"
+    },
+    {
+      "sender": "Alessio Valentini",
+      "text": "E Luca Giurato\n18/07/17, 17:09 - +39 348 813 1011: <Media omessi>\n19/07/17, 00:13 - Giec: <Media omessi>\n19/07/17, 11:04 - Alessio Valentini: <Media omessi>\n19/07/17, 12:07 - +39 348 813 1011: <Media omessi>",
+      "date": "2017-07-18"
+    },
+    {
+      "sender": "Giacomo Dolfi",
+      "text": "Grande Max!\n21/07/17, 21:25 - Cocco: <Media omessi>\n22/07/17, 11:00 - +39 348 813 1011: <Media omessi>\n22/07/17, 23:38 - Alecs: <Media omessi>",
+      "date": "2017-07-19"
+    },
+    {
+      "sender": "Giacomo Dolfi",
+      "text": "Ho potuto vedere solo la parte in cui parlava di terra e pianeti e velocità della luce",
+      "date": "2017-07-26"
+    },
+    {
+      "sender": "Adriano Sergio Lorenzo Facchini",
+      "text": "Che prima cosa, è il cane che si è preso la Fiorentina da solo..avendola lasciata alla mercé di tutti fuori accanto al barbecue..\nMa non è certo colpa tua visto che dormivi sul mio divano sotto una coperta di finto montone con 30 gradi !",
+      "date": "2017-07-28"
+    },
+    {
+      "sender": "Giacomo Dolfi",
+      "text": "Fausto ci manderà le foto della fica solo per sollazzare il lider espatriato. E noi per questo ne godremo due volte",
+      "date": "2017-08-03"
+    },
+    {
+      "sender": "Alessio Valentini",
+      "text": "trovo che l'utilizzo dei balsami da barba sia da considerare solo quando la barba diventa estremamente lunga... dopo il terzo quarto mese. Non ho mai comprato balsami per la barba perchè c'e' già nello shampoo e poi non è che io ci tenga molto alla cura della persona, ecco.",
+      "date": "2017-08-04"
+    },
+    {
+      "sender": "Cosimo Nenciòni",
+      "text": "Che cazzo c'entra il virile? Se ci metti il balsamo la barba è più morbida, più profumata e più liscia. Tale e quale ai capelli. Poi sticazzi. Mica è obbligo.",
+      "date": "2017-08-04"
+    },
+    {
+      "sender": "Cosimo Nenciòni",
+      "text": "Anche la fica pelosa può piacere o meno. Ma se poi nel mentre ci puzza la fregna  a me la cosa non fa impazzire di gioia.",
+      "date": "2017-08-04"
+    },
+    {
+      "sender": "Alessio Macalùso",
+      "text": "Fausto ora te lo porto così vi pigliate per il culo di persona\n08/04/17, 18:03 - Alecs: <Media omessi>",
+      "date": "2017-08-04"
+    },
+    {
+      "sender": "Cosimo Nenciòni",
+      "text": "Hai preso la spesa di un altro. Che c'è di bono?\n08/05/17, 19:04 - +39 348 813 1011: <Media omessi>\n08/05/17, 19:04 - +39 348 813 1011: <Media omessi>",
+      "date": "2017-08-05"
+    },
+    {
+      "sender": "Fausto Petrini",
+      "text": "grazie ale. ma si parla di una cena tra omini(di)? per giovedì si può fare, ma senza far tardi, per ven vengo a siena, ma credo di essere con ele",
+      "date": "2017-08-06"
+    },
+    {
+      "sender": "Adriano Sergio Lorenzo Facchini",
+      "text": "Menomale non so venuto.\nIl pensiero che sicuramente nessuna me l'avrebbe data mi fa sentire come Ceccherini nel Ciclone.\nLevante tappami",
+      "date": "2017-08-07"
+    },
+    {
+      "sender": "Cosimo Nenciòni",
+      "text": "A parte che è un video fantastico\n09/08/17, 15:52 - Cocco: <Media omessi>\n09/08/17, 15:52 - Cocco: <Media omessi>\n09/08/17, 16:07 - Alecs: <Media omessi>",
+      "date": "2017-08-08"
+    },
+    {
+      "sender": "Adriano Sergio Lorenzo Facchini",
+      "text": "Tranne Alessio Valentini tutti i sudditi hanno fatto veramente divertire Agnus Dei Michele Arcangelo.\nIl vostro lider vi ringrazia e vi augura un felice ponte ovunque voi siate.\n08/12/17, 22:33 - Fausto: <Media omessi>\n08/12/17, 22:34 - Fausto: <Media omessi>",
+      "date": "2017-08-12"
+    },
+    {
+      "sender": "Fausto Petrini",
+      "text": "Ernesto di certo apprezzerà questa poesiola dell'autore che ultimamente apprezzo. finale a sorpresa nella parte 2, sul quale sarebbe simpatico cimentarsi nel dare l'interpretazione\n13/08/17, 21:26 - Fausto: <Media omessi>\n13/08/17, 21:26 - Fausto: <Media omessi>",
+      "date": "2017-08-13"
+    },
+    {
+      "sender": "Adriano Sergio Lorenzo Facchini",
+      "text": "E soprattutto ringrazio fausto che sa stare allo scherzo e che offre sempre dei gran materiali di supporto.\nUn best friend for ever..and ever( come aggiungerebbe Giec)\n09/04/17, 14:32 - Cocco: <Media omessi>",
+      "date": "2017-09-04"
+    },
+    {
+      "sender": "Alessio Valentini",
+      "text": "vado al supermercato, e inizio a fare la spesa. Il bagno schiuma vedo pacchetti da 2, che costano 7 euro, \" Ottimo\", dico, compro un pacco da 2 cosi' quando lo rifinisco ce l'ho gia'.",
+      "date": "2017-09-05"
+    },
+    {
+      "sender": "Alessio Valentini",
+      "text": "Cmq ora nn posso raccontare che sono nel bus... Ho bisogno di essere a casa. Vediamo se stasera mi ricordo.\n09/05/17, 13:53 - Fausto: <Media omessi>",
+      "date": "2017-09-05"
+    },
+    {
+      "sender": "Alessio Valentini",
+      "text": "Ora, a parte che quei figli di maiale mettono il prezzo per unita', e scoppiassero sono uscito con 14 euro di bagnoschiuma dio cane.",
+      "date": "2017-09-05"
+    },
+    {
+      "sender": "Adriano Sergio Lorenzo Facchini",
+      "text": "Allora mi chiedo, quante sono le probabilità che vada in vacanza e rivinca la Lupa? E quante sono le probabilità che rimanga e vinca l'istrice??",
+      "date": "2017-09-07"
+    },
+    {
+      "sender": "Fausto Petrini",
+      "text": "matrimonio della costy rossa sabato scorso. era stato chiesto abbigliamebto eccentrico ( da qui la cravatta) e poi loro per le foto avevano messo a disposizione degli oggetti di scena",
+      "date": "2017-09-09"
+    },
+    {
+      "sender": "Adriano Sergio Lorenzo Facchini",
+      "text": "Poi mi ero dimenticato questa cosa: mi ha chiamato mamma Marcella chiedendomi se avevo i vestiti del figlio. Io le ho detto che li avrei dati al Dolfi. Lei era un po' preoccupata perché non voleva disturbare il buon ginec e distrarlo dal suo lavoro. L'ho subito tranquillizzata quando le ho spiegato ",
+      "date": "2017-09-10"
+    },
+    {
+      "sender": "Giacomo Dolfi",
+      "text": "Il chicchero\n09/12/17, 17:49 - Fausto: <Media omessi>\n09/12/17, 18:55 - +39 348 813 1011: <Media omessi>",
+      "date": "2017-09-12"
+    },
+    {
+      "sender": "Cosimo Nenciòni",
+      "text": "How to Protect Yourself from the Zika Virus\nThe best way to ensure you don’t contract the Zika virus is to avoid traveling to places where it’s been found.",
+      "date": "2017-09-14"
+    },
+    {
+      "sender": "Giacomo Dolfi",
+      "text": "Del resto anche loro hanno il diritto di salutare i loro amici che sono andati a cena",
+      "date": "2017-09-14"
+    },
+    {
+      "sender": "Alessio Macalùso",
+      "text": "Su internet costa 0,50€ la presentazione magari mando un messaggio alla Tozzetti se ce li tiene da parte",
+      "date": "2017-09-15"
+    },
+    {
+      "sender": "Cosimo Nenciòni",
+      "text": "Io mi sono appena svegliato per andare in bici. Ho un sonno crepo, è buio pesto, è zero gradi.  Non mi pare di essere molto più furbo di te.",
+      "date": "2017-09-30"
+    },
+    {
+      "sender": "Alessio Macalùso",
+      "text": "Ragazzi ho fatto una cazzata sono a un esercitazione della protezione civile a montegabbione ho appena fatto cena",
+      "date": "2017-09-30"
+    },
+    {
+      "sender": "Adriano Sergio Lorenzo Facchini",
+      "text": "Entrasti in quel supermercato a comprare il whiskey con una sicurezza tale che sembrava tu stessi comprando un diamante prezioso scelto con cura e studiato nel dettaglio.",
+      "date": "2017-10-07"
+    },
+    {
+      "sender": "Adriano Sergio Lorenzo Facchini",
+      "text": "Cari sudditi, ho un piccolo desiderio da aggiungere alla lista delle cose che piacciono ad ADMA. Ecco, questa settimana sono a Milano e mi piacerebbe poter portarmi con me un po' di allegria..quel che vi chiedo é di mandarmi i Vostri  tormentoni musicali. Cioé quelle canzoni che poi vi rimangono in ",
+      "date": "2017-10-12"
+    },
+    {
+      "sender": "Adriano Sergio Lorenzo Facchini",
+      "text": "Per Alessio Mac: banana Joe già la ascolto regolarmente\n10/12/17, 17:50 - Fausto: <Media omessi>\n10/12/17, 17:50 - Fausto: <Media omessi>\n10/12/17, 17:51 - Fausto: <Media omessi>\n10/12/17, 17:51 - Fausto: <Media omessi>\n10/12/17, 17:51 - Fausto: <Media omessi>",
+      "date": "2017-10-12"
+    },
+    {
+      "sender": "Cosimo Nenciòni",
+      "text": "Andare domani sera dopo cena? Sennò c: è il caso che vado stasera. Era per dirlo a fiamma che ci sta si unisce",
+      "date": "2017-10-20"
+    },
+    {
+      "sender": "Alessio Macalùso",
+      "text": "Ragazzi siccome stasera ci sono anche Jacopo e Bernadette per non invitarli a cena a casa di altri vi andrebbe di venire a cena da me? Se poi dovete andare al cinema andate lo stesso",
+      "date": "2017-10-21"
+    },
+    {
+      "sender": "Cosimo Nenciòni",
+      "text": "Dai Adri andiamo a Siena. Tanto non è. Che è un film da effetti speciali. Poi anche gli altri so a Siena",
+      "date": "2017-10-21"
+    },
+    {
+      "sender": "Adriano Sergio Lorenzo Facchini",
+      "text": "L'unica cosa che mi infastidisce è la scritta - 60%di grassi saturi.\nQuindi mi volete dire che da bambino mangiavo la merda??????",
+      "date": "2017-10-21"
+    },
+    {
+      "sender": "Adriano Sergio Lorenzo Facchini",
+      "text": "Tu sapessi quanto sto di merda, capiresti che azzeccare il momento giusto sarebbe come rubare una caramella a un bambino\n27/10/17, 10:58 - Alessio Valentini: <Media omessi>",
+      "date": "2017-10-22"
+    },
+    {
+      "sender": "Fausto Petrini",
+      "text": "🐷🐷🐷🐷🐷🐷🐷\n🐷🐷🐷🐷🐷🐷🐷\n🐷🐷                  🐷🐷\n🐷🐷                   🐷🐷\n🐷🐷                  🐷🐷\n🐷🐷                 🐷🐷\n🐷🐷🐷🐷🐷🐷🐷\n🐷🐷\n🐷🐷\n🐷🐷\n🐷🐷\n🐷🐷🐷🐷\n🐷🐷🐷🐷🐷🐷🐷\n🐷🐷                🐷🐷\n🐷🐷                🐷🐷\n🐷🐷                🐷🐷\n🐷🐷🐷🐷🐷🐷🐷\n🐷🐷🐷🐷\n🐷🐷🐷🐷🐷🐷🐷\n🐷🐷🐷🐷🐷🐷🐷🐷\n🐷🐷               🐷🐷🐷\n🐷🐷               🐷🐷🐷\n🐷🐷              🐷🐷🐷\n🐷🐷🐷🐷",
+      "date": "2017-10-28"
+    },
+    {
+      "sender": "Giacomo Dolfi",
+      "text": "No, solo che ieri sera è tornata da lavoro alle 17.30 e ha detto che si sentiva un po' giù, s'è misurata la febbre e c'aveva 39.2",
+      "date": "2017-11-03"
+    },
+    {
+      "sender": "Giacomo Dolfi",
+      "text": "Però se domattina qualcuno ha voglia di venire a fare una passeggiata con me e Pietro ci fate piacere",
+      "date": "2017-11-03"
+    },
+    {
+      "sender": "Adriano Sergio Lorenzo Facchini",
+      "text": "Te la prendi per niente...disolito fate nero me, e non su w up ma nella vita reale davanti a estranei e non dico nulla.",
+      "date": "2017-11-04"
+    },
+    {
+      "sender": "Adriano Sergio Lorenzo Facchini",
+      "text": "Quindi dear Faust, non mi dare troppo retta se ti prendo in giro, perché se ti arrabbi non mi diverto piú..",
+      "date": "2017-11-04"
+    },
+    {
+      "sender": "Alessio Valentini",
+      "text": "Quando sono andato a trovare Youness (prima del palio di agosto) eravamo nel bar davanti al porrione. Youness va dal barista e dice: \"due birre per i miei amici, e a me IL SOLITO\". Ore 11:00. Il barista fa la birra a me e a quell'altro... e a youness gli porta un INVISIBILE ALLA FRAGOLA. Mentre io b",
+      "date": "2017-11-09"
+    },
+    {
+      "sender": "Alessio Macalùso",
+      "text": "Youness lavora al casato in città mentre noi potremmo andare a cena al casato a colle: questo è il riassunto per i più duri",
+      "date": "2017-11-09"
+    },
+    {
+      "sender": "Adriano Sergio Lorenzo Facchini",
+      "text": "Predisposti in pile di 6, pronti per l'immersione.\nUnico limite é la grandezza della bocca e l'agilità nel non farli rompere rialzandoli dall'inzuppo.",
+      "date": "2017-11-10"
+    },
+    {
+      "sender": "Alessio Valentini",
+      "text": "Sentite. Domanda seriosa, specialmente per quelli di Siena. Siccome e' Venerdi', possiamo fare un poco piu' tardi e quindi posso scegliere un ristorante che mi garba a me (tipo ad un'ora da siena... io ho un aereo quel giorno eh...) ... o abbiamo dei vincoli particolari (Jack specialmente)... se mi ",
+      "date": "2017-11-15"
+    },
+    {
+      "sender": "Adriano Sergio Lorenzo Facchini",
+      "text": "DUE PAROLE SULLA DÉBÂCLE DELL'ITALIA CALCISTICA\nOk il calcio non è così importante e ce ne faremo tutti quanti una ragione, d'accordo! Tuttavia c'è davvero qualcosa di grave in tutta questa faccenda, e non è tanto il fatto sportivo quanto le modalità con cui si è consumata la \"tragedia\", terribilmen",
+      "date": "2017-11-16"
+    },
+    {
+      "sender": "Fausto Petrini",
+      "text": "condivido soprattutto che i giocatori non siano scarsi di per sè, come l'analisi del precedente europeo dovrebbe insegnare (con conte la stessa squadra o quasi fece fuori 2 a 0 belgio e spagna e uscì ai rigori con la grmania che poi vinse, facendo 1-1",
+      "date": "2017-11-16"
+    },
+    {
+      "sender": "Cosimo Nenciòni",
+      "text": "Ho fatto un aggiornamento del sistema ieri (cellulare). E non mi apre più parallell e quindi manco l account WhatsApp che stava lì è che è quello del lavoro. Avete idea di cosa posso fare?",
+      "date": "2017-11-30"
+    },
+    {
+      "sender": "Alessio Valentini",
+      "text": "e aspetta. E disabilita gli aggiornamenti automatici. Digli che scarichi e controlli gli aggiornamenti ma che decidi te quando installarli. Quando ti appare, aspetta sempre qualche giorno (anche una settimana o piu').",
+      "date": "2017-11-30"
+    },
+    {
+      "sender": "Adriano Sergio Lorenzo Facchini",
+      "text": "Alla tv ho guardato una trasmissione dove un rappresentante del Dalai-lama affermava che per ottenere la pace interiore dobbiamo sempre finire ciò che abbiamo iniziato....ed a questa condizione potremo beneficiare della calma nella nostra esistenza.\nHo fatto il giro di casa per trovare le cose che a",
+      "date": "2017-12-01"
+    },
+    {
+      "sender": "Giacomo Dolfi",
+      "text": "Io allora confermo la presenza....Salvo imprevisti imprevedibili dell'ultima ora! Se si cerca un posto in città mi piacerebbe bagoga",
+      "date": "2017-12-01"
+    },
+    {
+      "sender": "Alessio Valentini",
+      "text": "Dal muro del pianto che è stato recentemente rialzato perché i musulmani dall'altro lato tiravano le pietre a chi pregava il venerdì, ho visto una messa in cui cattolici e ortodossi sono divisi dalla POLIZIA perché entrambi vogliono essere alle 4 a incensare la stessa pietra...  E cantano canzoni di",
+      "date": "2017-12-02"
+    },
+    {
+      "sender": "Alessio Valentini",
+      "text": "Campane e muezzin nello stesso tempo, con la gente che corre e prega per strada... Signore rumene che si fermano in mezzo ad una via e iniziano a cantare... Passa gente che porta la croce per la \"via dolorosa\"... Mamme con i burka completi che mangiano SOTTO IL VESTITO (mai visti di persona, sono al",
+      "date": "2017-12-02"
+    },
+    {
+      "sender": "Alessio Valentini",
+      "text": "Gli ebrei al muro sono ipnotizzanti, e la quantità di luoghi che sono volenti e nolenti CHIAVI della nostra cultura non si contano sulle mani... La chiesa dove Gesù ha fatto il tal miracolo, l'orto dei getsemani, il tempio dove Maria ha fatto questo, etc etc.\nE poi tutte le storie tipo la porta dell",
+      "date": "2017-12-02"
+    },
+    {
+      "sender": "Alessio Valentini",
+      "text": "La storia di betlemme è fantastica. Praticamente betlemme è a nord vicino a nazareth, ma siccome era troppo lontana, una regina (so una sega quando) ha deciso di accorciare la strada e ha ricreato betlemme vicino a Gerusalemme, in modo che i pellegrini potessero arrivarci in un giorno, e, tipo il ba",
+      "date": "2017-12-02"
+    },
+    {
+      "sender": "Alessio Valentini",
+      "text": "Tal chiesa è stata prima moschea, poi chiesa, poi arrivarono quelli e l'hannno rotta e gli ebrei l'hanno ricostruita, poi se la sono ripresa i cristiani. C'è una quantità di storia e di lotte in questa città pari se non superiore a... roba del calibro di ROMA.",
+      "date": "2017-12-02"
+    },
+    {
+      "sender": "Alessio Valentini",
+      "text": "Tu ci DEVI venire. Io scusami, ne parlo da superconvinto skeptic, e ne parlo in termini di \"so di fuori come balconi\", ma chiunque abbia un minimo di spiritualità deve visitare questo posto. E anche chi non ce l'ha.",
+      "date": "2017-12-02"
+    },
+    {
+      "sender": "Alessio Valentini",
+      "text": "Ne vorrei parlare a voce guarda, ma la quantità di storia e di le differenti culture che cozzano insieme è, semplicemente, al livello che se fossi in grado di scrivertelo farei lo scrittore di lavoro.",
+      "date": "2017-12-02"
+    },
+    {
+      "sender": "Alessio Valentini",
+      "text": "Teenager (militari) a giro con mitragliatrici e LANCIAGRANATE, case e università con i BUNKER, stanze dedicate \"in caso di guerra\", attrezzate con pareti di ferro e cibi a lunga durata...  Cioè... È incredibile...",
+      "date": "2017-12-02"
+    },
+    {
+      "sender": "Alessio Valentini",
+      "text": "Facciamoci un bel selfie CON UN'ALTRA PERSONA che nessuno degli altri aperipoker conosce!\nL'ultimo che manda il selfie gli puzza il culo!\n12/05/17, 14:01 - Alessio Valentini: <Media omessi>\n12/05/17, 14:06 - Alecs: <Media omessi>",
+      "date": "2017-12-05"
+    },
+    {
+      "sender": "Cosimo Nenciòni",
+      "text": "Allora si può andare all' uscita di san donato. C'è un posto pure lì ci so stato da poco. Menù terra e pizza mi sa. Ma se vuoi c hanno pure il pesce",
+      "date": "2017-12-09"
+    },
+    {
+      "sender": "Fausto Petrini",
+      "text": "la canzone più entrante degli ultimi 10 anni. però almeno è allegra\n15/12/17, 00:18 - +39 348 813 1011: <Media omessi>\n15/12/17, 00:18 - +39 348 813 1011: <Media omessi>",
+      "date": "2017-12-14"
+    },
+    {
+      "sender": "Fausto Petrini",
+      "text": "io non parlerei mai di costabtino della gherardesc\n22/12/17, 08:57 - Fausto: <Media omessi>\n22/12/17, 11:39 - Cocco: <Media omessi>\n22/12/17, 13:58 - Cocco: <Media omessi>\n22/12/17, 13:58 - Cocco: <Media omessi>",
+      "date": "2017-12-21"
+    },
+    {
+      "sender": "Alessio Macalùso",
+      "text": "La quantità è quella ma la consistenza no\n28/12/17, 15:42 - +39 348 813 1011: <Media omessi>",
+      "date": "2017-12-27"
+    },
+    {
+      "sender": "Adriano Sergio Lorenzo Facchini",
+      "text": "Città niente di che ma mangiare super ok\n28/12/17, 22:37 - +39 348 813 1011: <Media omessi>\n28/12/17, 22:38 - +39 348 813 1011: <Media omessi>",
+      "date": "2017-12-28"
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "year": 2013,
+  "totalMessages": 33,
+  "memberStats": {
+    "Alessio Macalùso": {
+      "messageCount": 5,
+      "wordCount": 17,
+      "avgWordsPerMessage": 3.4,
+      "longestMessage": "No\n04/01/14, 19:09 - Cocco: <Media omessi>"
+    },
+    "Giacomo Dolfi": {
+      "messageCount": 7,
+      "wordCount": 25,
+      "avgWordsPerMessage": 3.6,
+      "longestMessage": "Questa fa morire\n30/12/13, 13:04 - Alecs: <Media omessi>"
+    },
+    "Cosimo Nenciòni": {
+      "messageCount": 5,
+      "wordCount": 22,
+      "avgWordsPerMessage": 4.4,
+      "longestMessage": "La maiala..\n28/12/13, 18:45 - Cocco: <Media omessi>"
+    },
+    "Alessio Valentini": {
+      "messageCount": 12,
+      "wordCount": 74,
+      "avgWordsPerMessage": 6.2,
+      "longestMessage": "io non avrei la minima idea di come iniziare a farlo...\n28/12/13, 19:58 - Alessio Valentini: <Media omessi>"
+    },
+    "Fausto Petrini": {
+      "messageCount": 4,
+      "wordCount": 30,
+      "avgWordsPerMessage": 7.5,
+      "longestMessage": "Ricordiamoci sempre di questo capolavoro\n30/12/13, 07:51 - Cocco: <Media omessi>"
+    }
+  },
+  "monthlyActivity": {
+    "2013-12": 33
+  },
+  "sampleMessages": [
+    {
+      "sender": "Cosimo Nenciòni",
+      "text": "La maiala..\n28/12/13, 18:45 - Cocco: <Media omessi>",
+      "date": "2013-12-18"
+    },
+    {
+      "sender": "Cosimo Nenciòni",
+      "text": "La maiala..\n28/12/13, 18:45 - Cocco: <Media omessi>",
+      "date": "2013-12-18"
+    },
+    {
+      "sender": "Alessio Valentini",
+      "text": "io non avrei la minima idea di come iniziare a farlo...\n28/12/13, 19:58 - Alessio Valentini: <Media omessi>",
+      "date": "2013-12-28"
+    },
+    {
+      "sender": "Alessio Valentini",
+      "text": "la mi mamma gli ha chiesto di levare quell omino da dietro...",
+      "date": "2013-12-28"
+    },
+    {
+      "sender": "Alessio Valentini",
+      "text": "da questa foto\n28/12/13, 19:58 - Alessio Valentini: <Media omessi>",
+      "date": "2013-12-28"
+    },
+    {
+      "sender": "Alessio Valentini",
+      "text": "la cerco un so dove caizo l'ho salvata",
+      "date": "2013-12-28"
+    },
+    {
+      "sender": "Cosimo Nenciòni",
+      "text": "Fico..\n29/12/13, 12:26 - Cocco: <Media omessi>",
+      "date": "2013-12-28"
+    },
+    {
+      "sender": "Alessio Valentini",
+      "text": "guardate forte Chiara con Photoshop",
+      "date": "2013-12-28"
+    },
+    {
+      "sender": "Alessio Valentini",
+      "text": "ao, secondo me è mostruoso...",
+      "date": "2013-12-28"
+    },
+    {
+      "sender": "Alessio Valentini",
+      "text": "guardate forte Chiara con Photoshop",
+      "date": "2013-12-28"
+    },
+    {
+      "sender": "Cosimo Nenciòni",
+      "text": "Fico..\n29/12/13, 12:26 - Cocco: <Media omessi>",
+      "date": "2013-12-28"
+    },
+    {
+      "sender": "Alessio Valentini",
+      "text": "la mi mamma gli ha chiesto di levare quell omino da dietro...",
+      "date": "2013-12-28"
+    },
+    {
+      "sender": "Alessio Valentini",
+      "text": "ao, secondo me è mostruoso...",
+      "date": "2013-12-28"
+    },
+    {
+      "sender": "Alessio Valentini",
+      "text": "la cerco un so dove caizo l'ho salvata",
+      "date": "2013-12-28"
+    },
+    {
+      "sender": "Alessio Valentini",
+      "text": "da questa foto\n28/12/13, 19:58 - Alessio Valentini: <Media omessi>",
+      "date": "2013-12-28"
+    },
+    {
+      "sender": "Fausto Petrini",
+      "text": "Levare lomino lo sapevo fare ina volta\n29/12/13, 15:31 - Fausto: <Media omessi>",
+      "date": "2013-12-29"
+    },
+    {
+      "sender": "Fausto Petrini",
+      "text": "Ricordiamoci sempre di questo capolavoro\n30/12/13, 07:51 - Cocco: <Media omessi>",
+      "date": "2013-12-29"
+    },
+    {
+      "sender": "Fausto Petrini",
+      "text": "Ricordiamoci sempre di questo capolavoro\n30/12/13, 07:51 - Cocco: <Media omessi>",
+      "date": "2013-12-29"
+    },
+    {
+      "sender": "Fausto Petrini",
+      "text": "Levare lomino lo sapevo fare ina volta\n29/12/13, 15:31 - Fausto: <Media omessi>",
+      "date": "2013-12-29"
+    },
+    {
+      "sender": "Giacomo Dolfi",
+      "text": "Questa fa morire\n30/12/13, 13:04 - Alecs: <Media omessi>",
+      "date": "2013-12-30"
+    },
+    {
+      "sender": "Giacomo Dolfi",
+      "text": "Questa fa morire\n30/12/13, 13:04 - Alecs: <Media omessi>",
+      "date": "2013-12-30"
+    },
+    {
+      "sender": "Alessio Macalùso",
+      "text": "No\n04/01/14, 19:09 - Cocco: <Media omessi>",
+      "date": "2013-12-31"
+    },
+    {
+      "sender": "Alessio Valentini",
+      "text": "ci stavo pensando anche io...",
+      "date": "2013-12-31"
+    },
+    {
+      "sender": "Alessio Valentini",
+      "text": "ci stavo pensando anche io...",
+      "date": "2013-12-31"
+    },
+    {
+      "sender": "Alessio Macalùso",
+      "text": "No\n04/01/14, 19:09 - Cocco: <Media omessi>",
+      "date": "2013-12-31"
+    }
+  ]
+}

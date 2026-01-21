@@ -1,0 +1,1064 @@
+{
+  "year": 2025,
+  "totalMessages": 4747,
+  "memberStats": {
+    "Alessio Macalùso": {
+      "messageCount": 500,
+      "wordCount": 3125,
+      "avgWordsPerMessage": 6.2,
+      "longestMessage": "SONDAGGIO:\nCena aperipoker\nOPZIONE: Infrasettimana 10-13 Novembre (‎6 voti)\nOPZIONE: 14 Novembre (‎4 voti)\nOPZIONE: 15 Novembre (‎1 voto)\nOPZIONE: 29 Novembre (‎4 voti)\nOPZIONE: 30 Novembre (‎7 voti)"
+    },
+    "Giacomo Dolfi": {
+      "messageCount": 439,
+      "wordCount": 3464,
+      "avgWordsPerMessage": 7.9,
+      "longestMessage": "Non credo che le regole non scritte di aperipoker prevedessero la possibilità di un'uscita, in questo modo per di più. Francamente continuo a non trovare giustificazioni a questo comportamento di Adriano, a prescindere dall'essere lider, ma sono anche convinto che la priorità sia che stiamo tutti e 6 in aperipoker, anche perché se manca uno cambia tutto, verso la fine secondo me. Detto questo, credo che sia indispensabile trovare il modo di far rientrare quel bossolo"
+    },
+    "Fausto Petrini": {
+      "messageCount": 607,
+      "wordCount": 5730,
+      "avgWordsPerMessage": 9.4,
+      "longestMessage": "Demenza\n05/04/25, 23:44 - Fausto: Sto guardando il documentario che è uscito sulla RAI e si trova sul raiplay su Edoardo Bennato e a parte la grandezza del personaggio di quello che viene raccontato che è molto bello Vi consiglio di vedere e a parte che lui è assolutamente da giovane il sosia di Adriano o Adriano e il sosia di Eduardo Bennato la cosa incredibile è anche da vedere per cui ve lo consiglio è che viene scritto all'inizio hanno fatto un sacco di immagini con l'intelligenza artificial"
+    },
+    "Adriano Sergio Lorenzo Facchini": {
+      "messageCount": 1141,
+      "wordCount": 8896,
+      "avgWordsPerMessage": 7.8,
+      "longestMessage": "⸻\n✅ 1. Il punto di partenza: un’idea adolescenziale\nCiti un concetto grezzo e offensivo (“le donne sono tutte troie”) che circolava quando avevate 14 anni.\nIl senso è: da adolescenti, senza strumenti emotivi o sociali, si tendeva a semplificare la realtà femminile con frasi caricaturali.\n⸻\n✅ 2. Le due possibilità che poni\nNel messaggio apri due scenari logici:\nA. Possibilità 1 (che tu in realtà scarti):\nLe donne sono “così” per natura, per genetica, per indole.\n→ Tu stesso fai capire che non ci "
+    },
+    "Alessio Valentini": {
+      "messageCount": 705,
+      "wordCount": 5808,
+      "avgWordsPerMessage": 8.2,
+      "longestMessage": "Domanda 9 (Punti 6):\nIl gioco si basa su una pista a forma di \"8\" con 7 nodi numerati da 1 a 7. Le regole sono:\n1. Non si possono spostare monete.\n2. Due punti con numeri dispari adiacenti non possono avere entrambi una moneta.\nMarta inizia. Obiettivo: essere sicura di vincere (cioè lasciare Guido senza mosse legali).\n---\nAnalisi strategica:\nNodi e connessioni (dalla figura):\n1 è connesso a 2, 4 e 7\n2 è connesso a 1 e 3\n3 è connesso a 2 e 4\n4 è connesso a 1, 3 e 5\n5 è connesso a 4 e 6\n6 è connes"
+    },
+    "Cosimo Nenciòni": {
+      "messageCount": 921,
+      "wordCount": 7714,
+      "avgWordsPerMessage": 8.4,
+      "longestMessage": "L ultimo mese sono stato fuori perché mi aspettavo più mare mosso e invece forse valeva la pena spingere. Cmq chiudiamo il 2025 con un 5.80% circa. Purtroppo ci ha remato conto un dollaro che si è svalutato di oltre il 10% ed io non amo coprire le valute. Considerando che non avevo praticità con questi strumenti sono abbastanza soddisfatto.  Il prox anno se i mercati ci daranno una mano si può fare meglio. Ho più chiaro il funzionamento di certi strumenti, gli orari in cui posso operare e gli im"
+    },
+    "Federico Ceccuzzi": {
+      "messageCount": 319,
+      "wordCount": 2546,
+      "avgWordsPerMessage": 8.0,
+      "longestMessage": "Ma che ne sapete voi , ora Adriano è alla scoperta ( o meglio già le conosceva ora vuole viverle)  delle tradizioni italiane più note , farà la regata storica di Venezia , la barcolana a Trieste , parteciperà alle feste in Alto Adige con i Krampus, per dirne due o tre nordiche .  Siamo noi che,  aridi di cultura , schiavi dei social, non apprezziamo"
+    }
+  },
+  "monthlyActivity": {
+    "2025-01": 394,
+    "2025-02": 240,
+    "2025-03": 266,
+    "2025-04": 260,
+    "2025-05": 390,
+    "2025-06": 379,
+    "2025-07": 644,
+    "2025-08": 380,
+    "2025-09": 256,
+    "2025-10": 364,
+    "2025-11": 750,
+    "2025-12": 309
+  },
+  "sampleMessages": [
+    {
+      "sender": "Fausto Petrini",
+      "text": "Noi abbiamo fissato con jack e famiglia, fiamma, adri, ecc. Forse si aggiunge costanza, o forse no. Chi volesse aggiungersi.... pensavo che forse il maca e fede non lo sanno",
+      "date": "2025-01-02"
+    },
+    {
+      "sender": "Cosimo Nenciòni",
+      "text": "Luna stasera nel delirio pre sonno a letto mi ha chiesto in serie:\nDi che è fatta la pelle?\nDi che è fatto il legno?\nDi che è fatto il ferro?\nCome si chiama l'osso del piede?\nCome nascono i bambini?\nOvviamente non ho saputo rispondere a nessuna ma accetto suggerimenti per l'ultima.",
+      "date": "2025-01-04"
+    },
+    {
+      "sender": "Fausto Petrini",
+      "text": "Non so se vi ricordate 2de luigi quando lo imitava e faceva stiantare, in ogni caso mi sta troppo simpatico anche l'originale, ma soprattutto deve essere un tiramisù da casco in terra",
+      "date": "2025-01-04"
+    },
+    {
+      "sender": "Adriano Sergio Lorenzo Facchini",
+      "text": "Giusto, ma ripeto, il vero appassionato coinvolge gli altri.\nSiete ciclisti evidentemente minori, ma non fisicamente eh, ma moralmente!!\nPogacar è una leggenda vera!\nAnzi Tadej..",
+      "date": "2025-01-05"
+    },
+    {
+      "sender": "Fausto Petrini",
+      "text": "Ragazzi, sto guardando la serie di maccio capatonda, si chciama sconfort zone, ed è ECCEZIONALE. non è nulla di quello che vi aspettereste, ha del genio, e non parlo di comicità",
+      "date": "2025-01-08"
+    },
+    {
+      "sender": "Fausto Petrini",
+      "text": "Sono troppo curioso di capire come si evolverà tutto il tema body shaming ecc... cioè: se scrivo dul suo profilo che è una gtan fica e me la scoperei brutta troia, è reato?? E se si sdogana questo, allora si potrebbero produrre video tipo snuff movie per pedofili, o con lei che eviene violentata a m",
+      "date": "2025-01-10"
+    },
+    {
+      "sender": "Adriano Sergio Lorenzo Facchini",
+      "text": "Quando ti faranno vedere immagini e video che te le daranno per reali e di reali non hanno nulla, saremo soggiogati, e pilotati più di quanto stiano facendo ora.",
+      "date": "2025-01-10"
+    },
+    {
+      "sender": "Alessio Valentini",
+      "text": "secondo me succedera' come le pocce finte. Prima tanto slop, poi la gente iniziera' a fare pubblicita' con \"video con bambini VERI!\"",
+      "date": "2025-01-10"
+    },
+    {
+      "sender": "Fausto Petrini",
+      "text": "Ragazzi noi siamo a siena, avrei concordato con jack che ci vediamo 7.30 al chiasso largo pee un ape, poi noi si riparte per fi. Scuaate se non vi ho risposto subito ma era tutto un pò a caso. Se poi siete a firenze possiamo vedere dopo quando sono tornato, ma senza impegno",
+      "date": "2025-01-11"
+    },
+    {
+      "sender": "Giacomo Dolfi",
+      "text": "Se ho capito bene stasera fausto viene a Siena e ci si potrebbe vedere per un aperitivo anche con Andre",
+      "date": "2025-01-11"
+    },
+    {
+      "sender": "Giacomo Dolfi",
+      "text": "La prossima volta il tuo compito sarà di prendere un libro in prestito alla biblioteca della coop, così potrai parlarcene e ci farai sapere se ti é piaciuto",
+      "date": "2025-01-13"
+    },
+    {
+      "sender": "Fausto Petrini",
+      "text": "Per il resto, però, Musk è stato per anni una delle figure di riferimento di un certo tipo di gamer, ovvero il giovane maschio, quasi sempre bianco, ostile all’idea che i videogiochi si rivolgessero anche a un pubblico femminile o queer, e quindi facilmente attratto dalle posizioni antifemministe de",
+      "date": "2025-01-23"
+    },
+    {
+      "sender": "Alessio Valentini",
+      "text": "avere tutto questo successo deve semplicemente dare alla testa. La gente non si rende conto la vita è un gioco di Monopoli dove hai soldi iniziali random. Tutti vorrebbero comprare parco della Vittoria, ma se c'hai 0 soldi di partenza o semplicemente non ti ci fermi mai... eh oh, non lo compri te lo",
+      "date": "2025-01-23"
+    },
+    {
+      "sender": "Fausto Petrini",
+      "text": "Va detto che lui non doveva essere un super riccone da prima eh, poi li ha fatti più per furbizia e culo secondi me che per genialità, ma insomma...",
+      "date": "2025-01-23"
+    },
+    {
+      "sender": "Alessio Valentini",
+      "text": "questo tipo di evento ti dimostra quanto siano out of touch con la realtà. Come Trump stesso che non sapeva cosa fosse una friggitrice.",
+      "date": "2025-01-23"
+    },
+    {
+      "sender": "Adriano Sergio Lorenzo Facchini",
+      "text": "Ciao, ho una notizia brutta cazzo da darti. Andrea, il marito di Costanza, ieri è stato ricoverato in codice rosso al Careggi andando subito in coma e dopo accertamenti gli hanno trovato la meningite batterica ed è in condizioni gravi. È intubato in terapia intensiva e i medici non si esprimono su c",
+      "date": "2025-01-24"
+    },
+    {
+      "sender": "Fausto Petrini",
+      "text": "Ha sentito ele costanza: dice che lei è nei pazzi per capire dove lui ha le cose burocratiche, e va beh roba che la tiene impegnata su cosa può fare ora. Dicevano che alle 13 le davano qualche altra notizia, ma non si è saputo altro",
+      "date": "2025-01-24"
+    },
+    {
+      "sender": "Giacomo Dolfi",
+      "text": "Dalla clinica è sicuramente meningite batterica ma non sanno da quale batterio potrebbe essere anche un semplice haemophilus influenza che in un soggetto con difese più basse riesce a diventare sistemico, in più Andre è senza milza quindi le difese sono sicuramente ridotte",
+      "date": "2025-01-24"
+    },
+    {
+      "sender": "Cosimo Nenciòni",
+      "text": "Dice che alle 13 si doveva sapere qualcosa. Io però non me la sento tanto di scrivere o chiamarla. Ha i suoi contatti e se ci sono novità ci arriveranno. Io sono traumatizzato da questa cosa non riesco a fare nulla.",
+      "date": "2025-01-24"
+    },
+    {
+      "sender": "Fausto Petrini",
+      "text": "No, stanotte stavo per andare ma lei mi ha detto di non andare perchè era in terapia intensiva e non facevano passare nessuno, inoltre teme di poter essere contagiosa anche lei e no. Vorrebbe responsabilità",
+      "date": "2025-01-24"
+    },
+    {
+      "sender": "Alessio Valentini",
+      "text": "le 13 sono passate in italia, se c'è roba nuova fate sapere. È in coma farmacologico 100%, e a rischio delle cose più brutte che ci sono. La meningite è una brutta bestia.",
+      "date": "2025-01-24"
+    },
+    {
+      "sender": "Fausto Petrini",
+      "text": "Proverò a riparlare per capire su questo che le hanno detto, in base alla risposta magari io e cocco si era detto che forse ci si passava, ma magari insieme",
+      "date": "2025-01-24"
+    },
+    {
+      "sender": "Cosimo Nenciòni",
+      "text": "Ragazzi Andrea se n'è andato. Elena ha parlato ora con la Renata e le ha detto che è stata dichiarata la morte cerebrale. Magari ci aggiorniamo più tardi. Non mi è chiaro cosa succede adesso  e quando e dove sarà possibile andare a trovare lui e Costanza.. Credo che qualcuno verrà da Siena oggi pome",
+      "date": "2025-01-25"
+    },
+    {
+      "sender": "Fausto Petrini",
+      "text": "Sono qui al reparto. Costi e fuori con alcuni parenti e di noi siamo in 4, dicono che, poiché ha dato il consenso altrapianto di alcuni organi, aspetteranno fino alle 7 di stasera in reparto, poi andrà in sala operatoria per l'aspianto.  Alle cappelle ci andrà domani",
+      "date": "2025-01-25"
+    },
+    {
+      "sender": "Cosimo Nenciòni",
+      "text": "Ragazzi io consiglio di aspettare un attimo che ci facciano sapere qualcosa. Se lo portano all obitorio chiaramente si può andare altrimenti in reparto non credo facciano entrare a tutte le ore. Almeno credo che sia così.",
+      "date": "2025-01-25"
+    },
+    {
+      "sender": "Giacomo Dolfi",
+      "text": "A quanto ci hanno detto é stata dichiarata la morte cerebrale, per cui per ora non si parla di obitorio",
+      "date": "2025-01-25"
+    },
+    {
+      "sender": "Cosimo Nenciòni",
+      "text": "Domattina provo a chiamare un fioraio di Barberino e ordino una corona da parte degli amici di Siena. La faccio portare in chiesa prima del funerale. Sempre che si faccia così e che ci facciano sapere qual è la chiesa.",
+      "date": "2025-01-26"
+    },
+    {
+      "sender": "Fausto Petrini",
+      "text": "Sembra che il funerale possa essere spostato a martedì perché sembra che sia chiuso il cimitero domani ma Martina cj deve far sapere più tardi che è in contatto con Cristina",
+      "date": "2025-01-26"
+    },
+    {
+      "sender": "Giacomo Dolfi",
+      "text": "Fiori per Andrea:\n1) adriano\n2) elena\n3) dolfi\n4) ceccuzzi\n5) fausto e elena\n6) Ale e Eli\n7) Mac\n8) Andrea L",
+      "date": "2025-01-26"
+    },
+    {
+      "sender": "Alessio Macalùso",
+      "text": "Fiori per Andrea:\n1) adriano\n2) elena\n3) dolfi\n4) ceccuzzi\n5) fausto e elena\n6) Ale e Eli\n7) Mac",
+      "date": "2025-01-26"
+    },
+    {
+      "sender": "Cosimo Nenciòni",
+      "text": "Ragazzi ovviamente sto avendo più difficoltà del previsto. Non sapendo qual'e la chiesa del funerale sto provando a chiamarle entrambe (stanno due a ben vedere) ma non mi rispondono. Quindi non so al momento dove fare arrivare i fiori. In più l'unico fiorista che trovo a Barberino sembra chiuso. Ora",
+      "date": "2025-01-27"
+    },
+    {
+      "sender": "Alessio Valentini",
+      "text": "essai qua è pieno\n29/01/25, 14:53 - Fausto: <Media omessi>\n29/01/25, 14:53 - Fausto: <Media omessi>\n29/01/25, 14:54 - Fausto: <Media omessi>",
+      "date": "2025-01-29"
+    },
+    {
+      "sender": "Adriano Sergio Lorenzo Facchini",
+      "text": "D’altronde il mal voluto non è mai troppo\n04/01/25, 15:27 - Alessio Valentini Giusto: <Media omessi>\n04/01/25, 15:27 - Alessio Valentini Giusto: <Media omessi>",
+      "date": "2025-02-01"
+    },
+    {
+      "sender": "Adriano Sergio Lorenzo Facchini",
+      "text": "Ieri sera ho visto Partenope di Sorrentino. Come disse cocco direi sopravvalutato ma è una questione di gusti. Resta il fatto che l’attrice protagonista è così bella e figa che non riesco a pensare ad altro. Scioccante.",
+      "date": "2025-02-03"
+    },
+    {
+      "sender": "Alessio Valentini",
+      "text": "Vado a Calgary una settimana a Luglio, a Telluride una ad a Agosto e nello Yucatan due settimane a Natale. In tutto questo torno in italia dal 19 Maggio al 17 Giugno.",
+      "date": "2025-02-03"
+    },
+    {
+      "sender": "Alessio Valentini",
+      "text": "era nel menù come item \"così grande che era per 2\" e il prezzo era a persona. Io ho visto 110 (c'è la mancia) e ho detto: \"è costosa ma magari è buona, vaffanculo\". Buona era buona. Anche costosa. Il doppio + mancia. Morissero oggi.",
+      "date": "2025-02-07"
+    },
+    {
+      "sender": "Cosimo Nenciòni",
+      "text": "Piscio ogni ora come i vecchi e come te se non ricordo male. Se non faccio così rischio di pisciarmi sotto e cmq sentirei male. Per il resto qualche fastidio e un po' di debolezza ma nel complesso faccio tutto normalmente",
+      "date": "2025-02-08"
+    },
+    {
+      "sender": "Fausto Petrini",
+      "text": "\n02/08/25, 18:54 - Fausto: <Media omessi>\n02/08/25, 18:54 - Fausto: <Media omessi>\n02/08/25, 18:54 - Fausto: <Media omessi>\n02/08/25, 18:54 - Fausto: <Media omessi>\n02/08/25, 18:54 - Fausto: <Media omessi>",
+      "date": "2025-02-08"
+    },
+    {
+      "sender": "Federico Ceccuzzi",
+      "text": "Lato mio considera che ho fatto lo stesso tempo di 20 gg ma in sali e scendi a Siena . Però non avevo la tonsillite e mille medicinali in corpo ( come ai vecchi tempi)",
+      "date": "2025-02-11"
+    },
+    {
+      "sender": "Adriano Sergio Lorenzo Facchini",
+      "text": "Non c’è stato un cantante che abbia mai fatto una sbavatura. Essendo un live la cosa mi ha un po’ insospettito e cercando cercando….",
+      "date": "2025-02-15"
+    },
+    {
+      "sender": "Adriano Sergio Lorenzo Facchini",
+      "text": "Se vince Fedez ho perso veramente tutto il tempo ⏱️. Se invece vince un’altro…pure, ma almeno non avrà vinto Fedez. <Questo messaggio è stato modificato>",
+      "date": "2025-02-16"
+    },
+    {
+      "sender": "Fausto Petrini",
+      "text": "Mah, direi che magari annullano le differenze di tempo, ma la vittoria è giusto cmq darla a lui, se no lo prende in culo quei pochi che hanno fatto bene",
+      "date": "2025-02-19"
+    },
+    {
+      "sender": "Alessio Macalùso",
+      "text": "Per ora ho dolore ma tutto a posto\n27/02/25, 17:25 - Adriano: <Media omessi>\n27/02/25, 17:51 - Fausto: <Media omessi>",
+      "date": "2025-02-27"
+    },
+    {
+      "sender": "Giacomo Dolfi",
+      "text": "è arrivata l'ultima quota e Cosimo ha verificato che ad oggi, dopo i brillanti picchi dei giorni scorsi, il saldo è in sostanziale pareggio (i guadagni si sono azzerati). A questo punto, la quota che Cosimo, per conto nostro, ha a disposizione è di 6000 euro",
+      "date": "2025-03-02"
+    },
+    {
+      "sender": "Cosimo Nenciòni",
+      "text": "Ragazzi a parte gli scherzi. Ora tocca sta boni e fermi. Quantomeno sappiate che il portafoglio è investito al 60% il resto l ho tenuto liquido vista la puzza di merda che girava già da un paio di settimane",
+      "date": "2025-03-04"
+    },
+    {
+      "sender": "Fausto Petrini",
+      "text": "Memore di precedenti esperienze io vorrei NON sapere niente fino a prossimi eventi ufficiali, questo per non far sentire cocco sotto pressione. Per me come va va, mi affido completamente",
+      "date": "2025-03-04"
+    },
+    {
+      "sender": "Adriano Sergio Lorenzo Facchini",
+      "text": "Latte d’avena o soia o latte normale, fiocchi d’avena integrarli, uvetta sultanina, noci tostate, noci, mandorle, talvolta un dattero, mezzo frutto, un cucchiaino di miele, un cucchiaio di burro d’arachidi e due bicchieri d’acqua.\nUna cosa normale.",
+      "date": "2025-03-15"
+    },
+    {
+      "sender": "Giacomo Dolfi",
+      "text": "Come ho detto ora a Fausto, se venite a Siena ci sta che passi a farvi un saluto ma non so quando, se andate a Firenze di sicuro no, ma siccome é tutto un dubbio, fate come vi viene meglio e io mi muovo di conseguenza",
+      "date": "2025-03-16"
+    },
+    {
+      "sender": "Alessio Macalùso",
+      "text": "Vabbè se vi va per me si può fare anche tardi, se volete si fa a metà strada o a Firenze o anche in settimana. I compleanni di domenica ci stanno era solo una battuta quella di Adriano",
+      "date": "2025-03-16"
+    },
+    {
+      "sender": "Fausto Petrini",
+      "text": "Io direi di venire con cocco ovunque, ma in ogni caso se non si riesce a venire presto farebbe più comodo essere un pò più vicini, per non dire come sarebbe se veniste a fi.. 😁",
+      "date": "2025-03-16"
+    },
+    {
+      "sender": "Adriano Sergio Lorenzo Facchini",
+      "text": "Barberino vald’elsa. Mezza strada precisa e non ci siamo mai andati. Me lo consigliarono tempo fa per la pizza a quanto pare , ma a questo punto da verificare , molto buona.",
+      "date": "2025-03-16"
+    },
+    {
+      "sender": "Giacomo Dolfi",
+      "text": "È il motivo per cui io sono nella cacca....Pietro ha un compleanno a castelnuovo e io vado con Gio al bowling",
+      "date": "2025-03-16"
+    },
+    {
+      "sender": "Alessio Valentini",
+      "text": "appena accendo il computer per gaming, ci faccio una bella animazione\n18/03/25, 16:01 - Alessio Valentini Giusto: <Media omessi>\n18/03/25, 16:10 - Alessio Valentini Giusto: <Media omessi>",
+      "date": "2025-03-18"
+    },
+    {
+      "sender": "Fausto Petrini",
+      "text": "Poi a me piace tanto Vecchia Piazza a Tavarnelle,che é anche pizzeria  quindi un ambiente in po diverso ma sempre carino comunque!!! Poi ti favvio  un vocale dopo meglio😘❤️",
+      "date": "2025-04-05"
+    },
+    {
+      "sender": "Adriano Sergio Lorenzo Facchini",
+      "text": "E se un giorno decidessero che quel che era giusto non lo fosse più?\nChi riuscirebbe a sovvertire un sistema sbagliato come fecero i nostri nonni?",
+      "date": "2025-04-05"
+    },
+    {
+      "sender": "Giacomo Dolfi",
+      "text": "ora sarà senza dubbio appeso in piazza nudo a testa in giù e frustato, prima che un proiettore gli venga infilato nell'anop",
+      "date": "2025-04-09"
+    },
+    {
+      "sender": "Cosimo Nenciòni",
+      "text": "Chiaro. Io mercoledì sono andato a mangiare la pizza in un posto eccellente che il mercoledì fanno tutte le pizze a 3.50 euro anche quelle gourmet. Sembrava di essere in un campo profughi africano il giorno della distribuzione degli aiuti umanitari. Luna ha preso una puzza bianca col prosciutto cott",
+      "date": "2025-04-18"
+    },
+    {
+      "sender": "Cosimo Nenciòni",
+      "text": "Ciao Adri! Noi per il momento non facciamo un cazzo. Siamo a Pitigliano e l'idea era di fare una grigliata a casa in campagna. Però sta tutto mezzo alluvionato e mette acqua anche per pasqua e pasquetta quindi butta male",
+      "date": "2025-04-18"
+    },
+    {
+      "sender": "Cosimo Nenciòni",
+      "text": "La mi cognata vuole andare al mare ma io la sto sabotando. Non mi va di mettermi in macchina con tutta la banda e poi magari sta coperto o piove. Se posso essere inculato vengo inculato ultimamente.",
+      "date": "2025-04-18"
+    },
+    {
+      "sender": "Fausto Petrini",
+      "text": "Anche se con estremo ritardo, che mi perdonerà visto che ero in viaggio proprio quel giorno, faccio i miei più sentiti auguri al buon amico Alessio, che il 19 faceva 43 annoni",
+      "date": "2025-04-22"
+    },
+    {
+      "sender": "Alessio Valentini",
+      "text": "io ho mandato questo nella chat della mia compagnia:\nToday is April 25th! In Italy this is \"Festa della Liberazione\" – Liberation Day. It commemorates the end of Nazi occupation and the fall of Mussolini's Fascist regime in 1945.\nIf you are searching for a comprehensive answer to the question \"what ",
+      "date": "2025-04-25"
+    },
+    {
+      "sender": "Alessio Valentini",
+      "text": "\"Uncanny Valley\" (in italiano \"valle perturbante\" o \"valle inquietante\") è un concetto che descrive questo fenomeno:\nQuando un oggetto o un essere artificiale (come un robot, un'animazione, un manichino...) sembra quasi umano, ma non del tutto, provoca nelle persone una forte sensazione di disagio o",
+      "date": "2025-04-25"
+    },
+    {
+      "sender": "Alessio Valentini",
+      "text": "la uncanny valley e' quando c'hai quella sensazione strana dovuta a qualcosa che e' quasi perfetto, ma siccome non e' perfetto, il tuo cervello e' stranito... Si usa molto in ambito robotica/AI",
+      "date": "2025-04-25"
+    },
+    {
+      "sender": "Alessio Valentini",
+      "text": "in realta' oggigiorno viene usato come sinonimo di qualcosa che ti fa sentire a disagio\n25/04/25, 18:52 - Cocco: <Media omessi>",
+      "date": "2025-04-25"
+    },
+    {
+      "sender": "Cosimo Nenciòni",
+      "text": "Io domani vado a Pitigliano e torno domenica. Proviamo a organizzare per un cenino la prossima settimana o quella dopo? Potete cortesemente metterci la testa? Io non vedo giec dalla cena aperipoker mi sa.",
+      "date": "2025-04-29"
+    },
+    {
+      "sender": "Fausto Petrini",
+      "text": "Ci devo ancora un po' mettere le mani su come funziona questo nuovo cellulare le nuove funzioni con hai integrata ma sono tornato se ho capito bene vide può dire solo se giovedì va bene per cena giusto\n30/04/25, 22:32 - Fausto: <Media omessi>\n30/04/25, 22:33 - Fausto: <Media omessi>",
+      "date": "2025-04-30"
+    },
+    {
+      "sender": "Alessio Macalùso",
+      "text": "A incisa oltre a osteria dei giusti (che è quella al casello) c’è anche l’osteria dei medici, sennò il fiasco a faella (l’amica di Fausto), o agriturismo la casina che è tipo il fiasco",
+      "date": "2025-04-30"
+    },
+    {
+      "sender": "Alessio Valentini",
+      "text": "Mi faceva impazzí, ho una immagine di lui che si butta di testa per levare un pallone che stava per essere calciato. Ha rischiato la vita. Ma aveva questo sesto senso per levatti quel cazzo di pallone a te.",
+      "date": "2025-05-01"
+    },
+    {
+      "sender": "Alessio Valentini",
+      "text": "Ho chiesto spiegazioni in italiano sulla mia tesi di Dottorato:\n------------------------------\nOh, wow, hai finalmente deciso di chiedere qualcosa che non sia completamente stupido? Bene, iniziamo. Il termine \"Tully Surface Hop\" è probabilmente una tua goffa interpretazione di concetti scientifici c",
+      "date": "2025-05-02"
+    },
+    {
+      "sender": "Alessio Valentini",
+      "text": "E' molto bello, ma in italiano perde un po' della sua capacita' offensiva... lo vedi che ci tiene comunque a spiegartelo bene (e lo fa eh, tutto quello che dice e' corretto)",
+      "date": "2025-05-02"
+    },
+    {
+      "sender": "Cosimo Nenciòni",
+      "text": "Ha detto che sarà la riviera del medio oriente... Come il Berlusconi che voleva fare i casino' a Lampedusa\n05/02/25, 13:33 - Cocco: <Media omessi>\n05/02/25, 14:39 - Fausto: <Media omessi>",
+      "date": "2025-05-02"
+    },
+    {
+      "sender": "Alessio Valentini",
+      "text": "tiene il personaggio infatti, u Fausto right. Ma credeteci o no, io non so che ha detto. Sono fuori da tutte le news e da tutti i social.",
+      "date": "2025-05-02"
+    },
+    {
+      "sender": "Alessio Macalùso",
+      "text": "Mito\n05/03/25, 14:41 - Fausto: <Media omessi>\n05/03/25, 14:42 - Fausto: <Media omessi>\n05/03/25, 15:48 - Alessio Valentini Giusto: <Media omessi>",
+      "date": "2025-05-03"
+    },
+    {
+      "sender": "Fausto Petrini",
+      "text": "Demenza\n05/04/25, 23:44 - Fausto: Sto guardando il documentario che è uscito sulla RAI e si trova sul raiplay su Edoardo Bennato e a parte la grandezza del personaggio di quello che viene raccontato che è molto bello Vi consiglio di vedere e a parte che lui è assolutamente da giovane il sosia di Adr",
+      "date": "2025-05-04"
+    },
+    {
+      "sender": "Adriano Sergio Lorenzo Facchini",
+      "text": "Per aggiornare il popolo di aperipoker sulla mia personale sfida di leggere in un anno un numero di libri compreso tra i 30 e i 50. Oltre i 50 libri letti organizzerò una serata in quel posto a Terranova Bracciolini di cui non ricordo il nome.\n05/12/25, 10:38 - Adriano: <Media omessi>",
+      "date": "2025-05-12"
+    },
+    {
+      "sender": "Giacomo Dolfi",
+      "text": "Il leader stasera é stanco e non so se avró voglia da qui alla fine del liderato affrontare anche la questione del versamento di Federico o preferiró lasciare la cosa al prossimo leader. Vi farò comunque sapere, perché come ha detto giustamente Alessio V. sono buono",
+      "date": "2025-05-13"
+    },
+    {
+      "sender": "Cosimo Nenciòni",
+      "text": "Scusate non c entra niente ma ci provo😄\nBuongiorno\nVendo al prezzo di acquisto 98€ biglietto per CONCERTO VASCO ROSSI A FIRENZE GIOVEDÌ 05/06/2025.\nPrato gold.\nConsegna a mano.\nChi fosse interessato puoi contattarmi in privato.\nGrazie",
+      "date": "2025-05-13"
+    },
+    {
+      "sender": "Federico Ceccuzzi",
+      "text": "Comunque la partita è finita 6-6 . Al tie-break sul 6-6 si è deciso di chiudere per evitare una cocente delusione ( di uno dei due )",
+      "date": "2025-05-15"
+    },
+    {
+      "sender": "Adriano Sergio Lorenzo Facchini",
+      "text": "E come bovi si viene pascolati nelle strade della città eterna.\n17/05/25, 11:42 - Adriano: <Media omessi>\n18/05/25, 22:03 - Cocco: <Media omessi>\n18/05/25, 22:07 - Giec: <Media omessi>",
+      "date": "2025-05-17"
+    },
+    {
+      "sender": "Alessio Valentini",
+      "text": "arrivo a Firenze domani mattina alle 10. Ma sono con Eli quindi ci vengono a prendere i miei suoceri e il canaccio",
+      "date": "2025-05-19"
+    },
+    {
+      "sender": "Cosimo Nenciòni",
+      "text": "Io sono a cena fuori il 26 e il 28. Il 29 sono a Bologna e torno la notte. Tutti impegni di lavoro. Quindi si. Il 27 ci sono e Renata mi inculera' con dolore. Meglio sarebbe la settimana successiva ma tant'è. Il lider sei te",
+      "date": "2025-05-22"
+    },
+    {
+      "sender": "Giacomo Dolfi",
+      "text": "Buongiorno compagni, direi che è arrivato il momento di fissare la cena aperipoker considerato il rientro del compagno Alessio. Io pensavo a martedì 27 maggio. Fatemi sapere come siete messi",
+      "date": "2025-05-22"
+    },
+    {
+      "sender": "Alessio Valentini",
+      "text": "che ci sarebbe 5 6 7 8, MA, siccome è aperipoker, non posso dire di no e se troviamo solo il 5 che va bene a tutti",
+      "date": "2025-05-22"
+    },
+    {
+      "sender": "Alessio Valentini",
+      "text": "Domanda 9 (Punti 6):\nIl gioco si basa su una pista a forma di \"8\" con 7 nodi numerati da 1 a 7. Le regole sono:\n1. Non si possono spostare monete.\n2. Due punti con numeri dispari adiacenti non possono avere entrambi una moneta.\nMarta inizia. Obiettivo: essere sicura di vincere (cioè lasciare Guido s",
+      "date": "2025-05-24"
+    },
+    {
+      "sender": "Alessio Valentini",
+      "text": "vi ho mai detto che lì dove sono io c'è un liceo per geni, e Elisa ha una studentessa di 16 anni che è un MOOOOOOSTRO",
+      "date": "2025-05-24"
+    },
+    {
+      "sender": "Alessio Valentini",
+      "text": "fa della roba incredibile, a volte Elisa mi fa leggere i suoi report e sono devastanti, roba che io ho capito dopo DECENNI che la studiavo",
+      "date": "2025-05-24"
+    },
+    {
+      "sender": "Giacomo Dolfi",
+      "text": "Semifinali delle olimpiadi di matematica a Pisa per il Pietrone nazionale. Speriamo di incrociare l'amico, tifos del Pisa, di Anna",
+      "date": "2025-05-24"
+    },
+    {
+      "sender": "Fausto Petrini",
+      "text": "Ragazzi (e qui mi rivolgo soprattutto a cocco e alessio vale), allora venerdì sera siamo insieme qui a firenze? Si cena con famiglie e dopo magari si va a fare una birra tra uomini? Senza impegno, ma per organizzarmi",
+      "date": "2025-05-27"
+    },
+    {
+      "sender": "Adriano Sergio Lorenzo Facchini",
+      "text": "Te l’ho già detto a cena cosa pensavo, e te ne sei sbattuto. Mille euro ad oggi non li ho, tra qualche giorno ho la risposta.",
+      "date": "2025-06-01"
+    },
+    {
+      "sender": "Adriano Sergio Lorenzo Facchini",
+      "text": "Su Gaza , hanno fatto un’intervista ad una report italiana che lavora per purtroppo mi pareva repubblica, e ha descritto una scena terribile della striscia. Raccontava che è stata fatta volare in elicottero che che si notava palesemente che la zona confinante con Israele 🇮🇱, ribattezzata buffer zone",
+      "date": "2025-06-02"
+    },
+    {
+      "sender": "Adriano Sergio Lorenzo Facchini",
+      "text": "Se non ascolto Rai radio 1 ascolto Rai radio 3 cultura, ma un po’ pesa. C’è di buono che non devo ascoltare tutte le puttanate dei dj moderni che mi fanno cagare e non mi fanno assolutamente ridere.",
+      "date": "2025-06-02"
+    },
+    {
+      "sender": "Adriano Sergio Lorenzo Facchini",
+      "text": "Praticamente mi sta succedendo come quella volta che apprezzai da bambino un gruppo musicale dicendo, cavolo questo mi piacciono un casino! È il mi fratello vincenzo, complimenti hai appena scoperto i Beatles😂",
+      "date": "2025-06-02"
+    },
+    {
+      "sender": "Fausto Petrini",
+      "text": "Mah, ci sarà gente che si sarà già organizzata coi bimbi e tutto, quindi intanto voi vi vedete il 10, l'11 non so se con la family vengo a siena ve lo dico prima magari\n06/10/25, 07:09 - Fede: <Media omessi>",
+      "date": "2025-06-10"
+    },
+    {
+      "sender": "Federico Ceccuzzi",
+      "text": "\n16/06/25, 13:29 - Fede: <Media omessi>\n16/06/25, 13:29 - Fede: <Media omessi>\n16/06/25, 13:29 - Fede: <Media omessi>\n16/06/25, 13:29 - Fede: <Media omessi>",
+      "date": "2025-06-16"
+    },
+    {
+      "sender": "Adriano Sergio Lorenzo Facchini",
+      "text": "Sempre un piacere quando torni in Italia, e sempre un dispiacere quando ritorni negli USA 🇺🇸. Ma va bene così\n21/06/25, 19:47 - Fede: <Media omessi>",
+      "date": "2025-06-18"
+    },
+    {
+      "sender": "Fausto Petrini",
+      "text": "Finalmente dal mio barbiere cingalese, che come spesso fa mi ha illustrato la sua personale visione della politica internazionale: itan buoni perchè unici che hanno aiutato lo sri lanka ad uscire da 33 anni di guerra; americani \"zingari in cravatta\". Tutto ciò mentre una accanto parlava di coccodril",
+      "date": "2025-06-23"
+    },
+    {
+      "sender": "Federico Ceccuzzi",
+      "text": "Ma che ne sapete voi , ora Adriano è alla scoperta ( o meglio già le conosceva ora vuole viverle)  delle tradizioni italiane più note , farà la regata storica di Venezia , la barcolana a Trieste , parteciperà alle feste in Alto Adige con i Krampus, per dirne due o tre nordiche .  Siamo noi che,  ari",
+      "date": "2025-06-25"
+    },
+    {
+      "sender": "Federico Ceccuzzi",
+      "text": "Ps Cosimo a te non perdono la valutazione del paintball , soprattuto quelli a tema ( sbarco in Normandia su tutti)",
+      "date": "2025-06-25"
+    },
+    {
+      "sender": "Federico Ceccuzzi",
+      "text": "Comunque non ho fatto nulla ma da quando Fausto pose la fatidica domanda, quando vado a pisciare penso: chissà quanti ci si segano ?",
+      "date": "2025-06-30"
+    },
+    {
+      "sender": "Giacomo Dolfi",
+      "text": "Non credo che le regole non scritte di aperipoker prevedessero la possibilità di un'uscita, in questo modo per di più. Francamente continuo a non trovare giustificazioni a questo comportamento di Adriano, a prescindere dall'essere lider, ma sono anche convinto che la priorità sia che stiamo tutti e ",
+      "date": "2025-07-01"
+    },
+    {
+      "sender": "Fausto Petrini",
+      "text": "Io fino a sabato non lo voglio cercare, mica per altro, ma voglio vedere che fa. Dopo di che anche io. Voglio che risia dentro, ma tipo \"piccino è spastica e vanno accolti\", dopo di che la responsabilità dei gesti è bene che a 40 anni ciascuno se la pigli",
+      "date": "2025-07-01"
+    },
+    {
+      "sender": "Giacomo Dolfi",
+      "text": "Fino all'anno scorso ascoltavo anche una trasmissione con una giornalista insopportabile il pomeriggio che faceva inchieste altrettanto insopportabili in maniera insopportabile\n08/02/25, 20:19 - Adriano: <Media omessi>",
+      "date": "2025-07-02"
+    },
+    {
+      "sender": "Alessio Macalùso",
+      "text": "Buonasera ragazzi, brutte notizie il babbo di Jacopo Baldi ha avuto un’emorragia cerebrale e pare che non ci sia niente da fare",
+      "date": "2025-07-07"
+    },
+    {
+      "sender": "Cosimo Nenciòni",
+      "text": "La grotta di Leo\nLorenzo de medici\nNon li conosco ma sono in zona, sono grandi e con prezzi abbordabili. Forse mercanteggiando ti fanno un menu per quella cifra ma non ci giurerei.  Sennò bisogna che senti qualche albergo in zona che magari sono piu attrezzati per i gruppi e gli eventi aziendali",
+      "date": "2025-07-10"
+    },
+    {
+      "sender": "Cosimo Nenciòni",
+      "text": "Io ci devo pensare. Ora c'ho troppo da fa\n14/07/25, 16:42 - Alessio Valentini Giusto: <Media omessi>\n14/07/25, 16:42 - Alessio Valentini Giusto: <Media omessi>\n14/07/25, 16:43 - Alessio Valentini Giusto: <Media omessi>",
+      "date": "2025-07-14"
+    },
+    {
+      "sender": "Cosimo Nenciòni",
+      "text": "\" Lo stent assicura che il rene possa continuare a drenare correttamente, preservandone la funzionalità fino a quando il calcolo non viene espulso spontaneamente o rimosso con altre procedure.\nIn alcuni casi, lo stent viene posizionato come misura temporanea prima di un intervento chirurgico definit",
+      "date": "2025-07-18"
+    },
+    {
+      "sender": "Cosimo Nenciòni",
+      "text": "“Nessuna violenza può strumentalizzare il nome di Dio. A Gerusalemme ho sentito frange fondamentaliste farsi scudo delle Scritture per calpestare i diritti umani. In realtà non c’è più modo di tentare una spiegazione. La lettura fondamentalista della Bibbia richiama la distruzione totale del nemico?",
+      "date": "2025-07-22"
+    },
+    {
+      "sender": "Cosimo Nenciòni",
+      "text": "Aggiornamento. Ieri mattina mi hanno finalmente tolto il catetere e dopo pranzo mi hanno dimesso. Siamo stati un po' spavaldi ma abbiamo deciso  con Renata e di partire subito e raggiungere Luna che era già  coi nonni ad Andalo. Ci siamo giocati 2 GG di montagna ma va bene lo stesso. Non potrò fare ",
+      "date": "2025-07-22"
+    },
+    {
+      "sender": "Giacomo Dolfi",
+      "text": "Comunque va bene la feniglia, ma come ti dissi Adri noi non faremo molta strada sulla spiaggia prima di trovare dove fermarci",
+      "date": "2025-07-28"
+    },
+    {
+      "sender": "Alessio Macalùso",
+      "text": "Per ora non posso confermare per venerdì perché non mi stanno dando ferie ma insomma al limite parto alle 22",
+      "date": "2025-07-28"
+    },
+    {
+      "sender": "Giacomo Dolfi",
+      "text": "Io ci sono stato la settimana scorsa in campeggio e c'era scirocco ed il mare era più bello alla giannella",
+      "date": "2025-07-28"
+    },
+    {
+      "sender": "Federico Ceccuzzi",
+      "text": "Il Miglior giocatore di doppio italiano di tutti i tempi e Diego Nargiso\n31/07/25, 10:08 - Fede: <Media omessi>\n31/07/25, 10:08 - Fede: <Media omessi>",
+      "date": "2025-07-30"
+    },
+    {
+      "sender": "Adriano Sergio Lorenzo Facchini",
+      "text": "Trattasi del circolo tennis le cascine , tra i più storici di firenze, che impone ai propri soci un fuoriloghissimo dress code bianco che certo non aiuta a mascherare determinate siluette o a mitigare carnagioni pallide in stati di pseduso semidecomposizione o plastificazione.",
+      "date": "2025-08-02"
+    },
+    {
+      "sender": "Adriano Sergio Lorenzo Facchini",
+      "text": "La mia delusione nello scoprire un tale concentrato di bruttezza è stata così grande che ho voluto condividere con voi la mia avversione.\nLo so , non si fa, ma io l’ho fatto. ✅",
+      "date": "2025-08-02"
+    },
+    {
+      "sender": "Alessio Valentini",
+      "text": "direic he qualche anno di esilio e' stato piu' che sufficiente per non aver voluto superare la prova del Leader al suo tempo",
+      "date": "2025-08-05"
+    },
+    {
+      "sender": "Giacomo Dolfi",
+      "text": "ieri ci siamo scambiati un po' di messaggi e mi ha detto chiaramente che sembra che non ci sia più niente da fare",
+      "date": "2025-08-07"
+    },
+    {
+      "sender": "Alessio Macalùso",
+      "text": "SONDAGGIO:\nCena aperipoker\nOPZIONE: Infrasettimana 10-13 Novembre (‎6 voti)\nOPZIONE: 14 Novembre (‎4 voti)\nOPZIONE: 15 Novembre (‎1 voto)\nOPZIONE: 29 Novembre (‎4 voti)\nOPZIONE: 30 Novembre (‎7 voti)",
+      "date": "2025-08-11"
+    },
+    {
+      "sender": "Adriano Sergio Lorenzo Facchini",
+      "text": "Cosa dovete portare?? Quello che volete, ma nel caso direi una bottiglia di vino da pasto , il prosecco ce l’ho, e una delizia come dolce.",
+      "date": "2025-08-11"
+    },
+    {
+      "sender": "Adriano Sergio Lorenzo Facchini",
+      "text": "Grazie ragazzi!\nGrazie per gli auguri che mi fanno un gran piacere.\nLa prima cosa che farò stamattina è farmi questa barba Bianca per sembrare più giovane.",
+      "date": "2025-08-13"
+    },
+    {
+      "sender": "Cosimo Nenciòni",
+      "text": "Io se volete mangiare pesce conosco un paio di posti a Fire. Uno da provare. Ma in generale mi viene bene anche non pesce e in zona Poggibonsi top che devo andare da Decathlon",
+      "date": "2025-08-15"
+    },
+    {
+      "sender": "Fausto Petrini",
+      "text": "Anche solo fare la foto alle descrizioni e farsele leggere mentre le guardi, o fare foto allel opere (riconosce davvero tutto) e farsi descrivere i dettagli che eti interessano di più",
+      "date": "2025-08-21"
+    },
+    {
+      "sender": "Federico Ceccuzzi",
+      "text": "Per i fiorentini sapete darmi in nome di un’oculista specializzato nei bambini su Firenze ? A Siena c’è Vanni ma volevo vedere le alternative . Grazie\n23/08/25, 13:47 - Fausto: <Media omessi>",
+      "date": "2025-08-23"
+    },
+    {
+      "sender": "Federico Ceccuzzi",
+      "text": "Grazie Fausto ok,  mandamelo, poi quando si decide magari ti chiamo ( non è urgente ) grazie\n24/08/25, 19:00 - Adriano: <Media omessi>",
+      "date": "2025-08-23"
+    },
+    {
+      "sender": "Adriano Sergio Lorenzo Facchini",
+      "text": "Sono 100 pezzi ok?\n10 x 10 ottimale.\nPer avere un rettangolo e avere 100 pezzi dovresti avere un 20 x 5, o 25x 4. Ma te lo immagini che cazzo di puzzle viene fuori? Praticamente una striscia!!",
+      "date": "2025-09-02"
+    },
+    {
+      "sender": "Cosimo Nenciòni",
+      "text": "Ragazzi volevo confessarvi che ieri ero così deluso e incazzato con alcaraz e tutta la spagna di merda per la finale del Roland Garros che ho avuto una nottata pessima. L'apice dello psicodramma è stato sognare che stavo in campo io e non Sinner e che l'avversario era quel cazzone di Jaume invece di",
+      "date": "2025-09-06"
+    },
+    {
+      "sender": "Adriano Sergio Lorenzo Facchini",
+      "text": "Ho visto solo il primo game che è durato 12 minuti e ho capito quello che sarebbe potuto succedere. Memore della finale tra Federer e Djokovic del 2017 o 18 non ricordo, tanta fu la mia delusione per aver passato un pomeriggio intero a sperare che Roger vincesse contro quel serbo di merda,  che ho d",
+      "date": "2025-09-06"
+    },
+    {
+      "sender": "Adriano Sergio Lorenzo Facchini",
+      "text": "Se vogliamo vedere il lato positivo, questa sconfitta gingantesca e dolorosissima, consacra ulteriormente Sinner nell’immaginario tennistico italiano e non solo.\nIl buono che perde, l’eroe che viene sconfitto e che soffre come soffrono i comuni mortali. Uguali nel momento del pianto .\nIeri sera tutt",
+      "date": "2025-09-06"
+    },
+    {
+      "sender": "Giacomo Dolfi",
+      "text": "Ciao a tutti, per venerdì ho già prenotato! Ritrovo ore 19.30/20, da decidere insieme, dalla Lilla a Casetta per aperitivo veloce",
+      "date": "2025-09-06"
+    },
+    {
+      "sender": "Cosimo Nenciòni",
+      "text": "\"L'intera procedura, compresa la preparazione e una breve osservazione post-procedura, potrebbe richiedere un po' di tempo, ma l'atto di estrazione dello stent è molto veloce.\n​Durante la rimozione, un sottile strumento (il cistoscopio) dotato di una telecamera viene inserito attraverso l'uretra fin",
+      "date": "2025-09-09"
+    },
+    {
+      "sender": "Federico Ceccuzzi",
+      "text": "Ti dico quello che mi disse l’infermiere tanti anni fa. Uno pensa che il cazzo sia delicato ed invece no, ci si può infilare senza problemi il cistoscopio, quindi non ti preoccupare",
+      "date": "2025-09-09"
+    },
+    {
+      "sender": "Adriano Sergio Lorenzo Facchini",
+      "text": "Ho scoperto che quel cazzo di fine settimana, signore santo benedetto e misericordioso, esempio in terra di giustizia e correttezza, fratello di spirito, padre spirituale, guida eterna nella ricerca del bene, ho degli amici di Elena che vengono a Siena. Due genitori e due bambini.",
+      "date": "2025-09-21"
+    },
+    {
+      "sender": "Cosimo Nenciòni",
+      "text": "Allora.. argomento cena.salute permettendo se si fa in settimana mi organizzo meglio. Se nel weekend  non ci sono ne il prox e nemmeno quello dopo. Quindi per me si andrebbe al 10 11 12 ottobre",
+      "date": "2025-09-21"
+    },
+    {
+      "sender": "Adriano Sergio Lorenzo Facchini",
+      "text": "Perché in realtà mi piacerebbe , se fosse del gran bel tempo, organizzare un barbecue di livello super easy.\n23/09/25, 13:22 - Fausto: <Media omessi>",
+      "date": "2025-09-21"
+    },
+    {
+      "sender": "Alessio Macalùso",
+      "text": "Ok per 10 11 12, per me si può fare anche infrasettimana tranne la prossima <Questo messaggio è stato modificato>",
+      "date": "2025-09-21"
+    },
+    {
+      "sender": "Alessio Valentini",
+      "text": "solo queste due settimane ce ne sono state una valanga. Abebaijan vs Albania? Il capo dell'FBI che gli fanno le domande e lui fa: \"eh, ma non posso fare queste cose\" - \"io odio i miei opponenti\" - Guardate quelle ruspe, stiamo costruendo la ballroom.",
+      "date": "2025-09-23"
+    },
+    {
+      "sender": "Alessio Valentini",
+      "text": "e cmq devo dire che questo video minuto 15 e' NIENTE in confronto a quello che vediamo qua. L'intervento di Tucker Carlson al mortuario di Charlie Kirk mi ha fatto venire i brividi.",
+      "date": "2025-09-23"
+    },
+    {
+      "sender": "Alessio Macalùso",
+      "text": "Caro Fausto come promesso ho preso in prestito e letto un libro alla coop, purtroppo il tuo babbo non ce l’ho più trovato\n10/03/25, 18:25 - Alecs: <Media omessi>",
+      "date": "2025-10-03"
+    },
+    {
+      "sender": "Fausto Petrini",
+      "text": "Scusate ma ho fatto confusione tra i due finesettimana: se ho capito bene quindi il 2 o 3 agosto si profila giornata alla feniglia con facchini's, dolfi's mac e fausto, giusto??",
+      "date": "2025-10-07"
+    },
+    {
+      "sender": "Giacomo Dolfi",
+      "text": "Io invece stamani ho avuto la prima, terribile, esperienza con le emorroidi e pensavo di ammattire. Ho cacato con molta fatica tipo un sasso e dopo poco ha iniziato a farmi un male assurdo il culo, tanto da non stare prima a sedere, poi nemmeno in piedi, ma solo disteso. Sono andato a casa: cremina ",
+      "date": "2025-10-09"
+    },
+    {
+      "sender": "Alessio Macalùso",
+      "text": "Erano trapelati dei fotogrammi della ricostruzione che hanno usato per il processo, penso che questo sia uno di quei fotogrammi originali in cui hanno cambiato il colore della pelle dell’aggressore",
+      "date": "2025-10-09"
+    },
+    {
+      "sender": "Federico Ceccuzzi",
+      "text": "Siccome netflix mette tutti attori di minoranze etniche ad interpretare ruoli “ bianchi”,  l’immagine è un meme di quello che potrebbe fare in caso di film su questo omicidio",
+      "date": "2025-10-09"
+    },
+    {
+      "sender": "Federico Ceccuzzi",
+      "text": "Ps nel frattempo hanno ucciso un para politico di destra che aveva un buon seguito . Vecchio cecchino e colpo alla gola\n11/09/25, 14:32 - Adriano: <Media omessi>",
+      "date": "2025-10-09"
+    },
+    {
+      "sender": "Federico Ceccuzzi",
+      "text": "Tematica razziale, un nero con n precendenti ha ucciso una ragazza ucraina a caso in metro con un coltello . Sta arrivando anche in Italia la notizia",
+      "date": "2025-10-09"
+    },
+    {
+      "sender": "Giacomo Dolfi",
+      "text": "Figurati se Adriano c'è\n10/10/25, 20:56 - Fausto: <Media omessi>\n10/10/25, 21:09 - Cocco: <Media omessi>\n10/10/25, 21:10 - Fausto: <Media omessi>",
+      "date": "2025-10-10"
+    },
+    {
+      "sender": "Giacomo Dolfi",
+      "text": "Ieri sera è tornato da Milano e ha saputo la notizia in macchina. Quando é salito su era parecchio scosso, ovviamente",
+      "date": "2025-10-17"
+    },
+    {
+      "sender": "Adriano Sergio Lorenzo Facchini",
+      "text": "Napoletani imbattibili.. mi aspettavo più Roma o Milano ma ok.\n23/10/25, 15:19 - Fausto: <Media omessi>\n23/10/25, 15:19 - Fausto: <Media omessi>\n23/10/25, 15:19 - Fausto: <Media omessi>\n23/10/25, 15:19 - Fausto: <Media omessi>\n23/10/25, 15:19 - Fausto: <Media omessi>",
+      "date": "2025-10-22"
+    },
+    {
+      "sender": "Fausto Petrini",
+      "text": "Vi voglio fare leggere questr cose, che invio per ridere, ma in realtà per non piangerci. Si tratta di un omino anziano e completamente folle, solo solo, che crede di aver trovato la cura per i l cancro e che ogni volta mi tiene minuti e minuti a parlare del fatto che farà il brevetto e sarà ricco. ",
+      "date": "2025-10-23"
+    },
+    {
+      "sender": "Cosimo Nenciòni",
+      "text": "Bravo\n28/10/25, 12:50 - Alessio Valentini Giusto: <Media omessi>\n28/10/25, 12:50 - Alessio Valentini Giusto: <Media omessi>\n28/10/25, 12:50 - Alessio Valentini Giusto: <Media omessi>\n28/10/25, 12:50 - Alessio Valentini Giusto: <Media omessi>",
+      "date": "2025-10-28"
+    },
+    {
+      "sender": "Alessio Valentini",
+      "text": "\n28/10/25, 13:09 - Alessio Valentini Giusto: <Media omessi>\n28/10/25, 13:09 - Alessio Valentini Giusto: <Media omessi>\n28/10/25, 13:09 - Alessio Valentini Giusto: <Media omessi>\n28/10/25, 13:09 - Alessio Valentini Giusto: <Media omessi>",
+      "date": "2025-10-28"
+    },
+    {
+      "sender": "Alessio Macalùso",
+      "text": "Questo è l’unico vernacoliere che ho\n28/10/25, 16:03 - Alessio Valentini Giusto: <Media omessi>\n28/10/25, 16:04 - Alecs: <Media omessi>\n28/10/25, 16:05 - Cocco: <Media omessi>",
+      "date": "2025-10-28"
+    },
+    {
+      "sender": "Fausto Petrini",
+      "text": "A volerci perdere 2 minuti in più secondo me veniva uguale all'originale. Cioè, se gli davo un altra foto di cocco visto di profilo e lavorando un pò sui prompt\n29/10/25, 15:31 - Alecs: <Media omessi>\n29/10/25, 15:43 - Alessio Valentini Giusto: <Media omessi>\n29/10/25, 15:43 - Alessio Valentini Gius",
+      "date": "2025-10-29"
+    },
+    {
+      "sender": "Federico Ceccuzzi",
+      "text": "Ps non faccio la maratona , con la scusa della corsa 15 km , ho fatto una capatina in Turchia\n31/10/25, 10:30 - Fede: <Media omessi>",
+      "date": "2025-10-31"
+    },
+    {
+      "sender": "Fausto Petrini",
+      "text": "Io un mesetto fa lanlasciai sotto casa e hanno provato a fottermela, me l'hanno un po ciancicata, ma la mia catena nobus pagata con un rene ha resistito a tutti gli attacchi (devastata ma non ha ceduto). Ho molto ringraziato il negoziante che mi convinse a prendere quella e non una catena del cazzo",
+      "date": "2025-11-06"
+    },
+    {
+      "sender": "Giacomo Dolfi",
+      "text": "cocco meno male l'avevi già comprata, ma dicci che bici hai preso o manda foto gnamo\n11/06/25, 11:04 - Cocco: <Media omessi>",
+      "date": "2025-11-06"
+    },
+    {
+      "sender": "Federico Ceccuzzi",
+      "text": "Lo dovevo fare no? chiaramente mi toccherà farlo ora che sono tornato dalle ferie e ho speso un botto….. ma mi chiedo o meglio lo chiedo al Leader se l’obbiettivo è pagare le cene come funzionerà nel caso andasse in Buon attivo? Bisognerebbe che qualcuno lo dicesse , così pare un fondo pensione",
+      "date": "2025-11-08"
+    },
+    {
+      "sender": "Alessio Valentini",
+      "text": "cmq e' vero, io quando guardo i cani ed i padroni che li portanoi a giro, ho sempre quella strana sensazione che la gente abbia bisogno di essere pettata, raramente sono solo i cani. <Questo messaggio è stato modificato>",
+      "date": "2025-11-08"
+    },
+    {
+      "sender": "Cosimo Nenciòni",
+      "text": "Di ben 22 euro. Quindi la cautela del lider è giustificata. Cmq la strada per la ricchezza è lunga e piena di peripezie e ostacoli. Ma la fede ci guiderà al successo",
+      "date": "2025-11-08"
+    },
+    {
+      "sender": "Federico Ceccuzzi",
+      "text": "Marco violi è un fissato della Roma su X che viene sempre preso per il culo\n11/09/25, 21:45 - Cocco: <Media omessi>",
+      "date": "2025-11-09"
+    },
+    {
+      "sender": "Cosimo Nenciòni",
+      "text": "Nulla di nuovo. Ma coi mercati tirati così basta una scurreggia. Ieri il nasdaq è tracollato oggi è venerdì quindi la possibilità di un 🚀 anale era molto alta e in effetti sta andando così\n14/11/25, 14:11 - Cocco: <Media omessi>",
+      "date": "2025-11-14"
+    },
+    {
+      "sender": "Alessio Valentini",
+      "text": "cmq devo dire una cosa controversa, ma il Vernacoliere non mi ha mai fatto troppo ridere. Sono forti, per la religione/politica siamo ovviamente allineati, dispiace se ne dovessero andare, ma insomma non mi è mai capitato (compreso questo numero) di leggerlo e... semplicemente... ridere.",
+      "date": "2025-11-18"
+    },
+    {
+      "sender": "Alessio Valentini",
+      "text": "non dico che Don Zauker non sia leggendario. Dico che il vernacoliere, per quanto molto meglio del 99% delle cose che prob trovo in edicola, per il 99% (anche) non mi fa ridere.\n18/11/25, 21:03 - Alessio Valentini Giusto: <Media omessi>",
+      "date": "2025-11-18"
+    },
+    {
+      "sender": "Giacomo Dolfi",
+      "text": "Dalla mitica Monja all'arbia ne è arrivato uno e lei c'ha tenuto a specificarmi che l'ha messo via perché gliel'hanno chiesto in 4/5",
+      "date": "2025-11-18"
+    },
+    {
+      "sender": "Alessio Valentini",
+      "text": "è per andare trendy come quella che parlava il corsivo\n19/11/25, 16:10 - Adriano: <Media omessi>\n19/11/25, 16:15 - Adriano: <Media omessi>\n19/11/25, 16:16 - Adriano: <Media omessi>\n19/11/25, 16:17 - Adriano: <Media omessi>\n19/11/25, 16:26 - Adriano: <Media omessi>",
+      "date": "2025-11-19"
+    },
+    {
+      "sender": "Alessio Macalùso",
+      "text": "Una menzione speciale a facchini perché a differenza di molti di voi non è un lettore del vernacoliere dell’ultima ora",
+      "date": "2025-11-20"
+    },
+    {
+      "sender": "Cosimo Nenciòni",
+      "text": "Non è che per caso hai un' idea sulla location della cena aperipoker di domenica? Mi sarebbe d'aiuto per organizzarmi onde evitare spericolati andirivieni tra Siena e Firenze.  Ma non voglio tediarti con le mie facezie",
+      "date": "2025-11-24"
+    },
+    {
+      "sender": "Alessio Valentini",
+      "text": "perché nel porno, nella moda, nel mondo dell'immagine, sono le donne ad avere \"potere\" rispetto agli uomini, ma affogati del perbenismo, nessuno ne parla dalla versione al \"contrario\". Invece di parlare di femminismo come uguaglianza, c'è una branca woke che parla di femminismo con l'unica ottica fe",
+      "date": "2025-11-26"
+    },
+    {
+      "sender": "Cosimo Nenciòni",
+      "text": "Tuttavia non mi sembra, ma potrei sbagliare,  che esistano delle aggravanti legate al concetto di omicidio \"di genere\". Poi magari bastavano quelle senza istituire un nuovo reato ma ho idea che il concetto cambi di poco per quelli che sono contrari a questo tipo di approccio.  Cioè a quelli che vedo",
+      "date": "2025-11-26"
+    },
+    {
+      "sender": "Cosimo Nenciòni",
+      "text": "Io sono d'accordo sul fatto che bastonare la moglie a morte perché ti vuole lasciare non sia come tirare una coltellata al mio capo perché mi ha fatto un torto per dire. Come sono d'accordo che ammazzare un negro perché è negro è peggio che ammazzare un tizio (bianco o nero) durante una rapina. Ma d",
+      "date": "2025-11-26"
+    },
+    {
+      "sender": "Cosimo Nenciòni",
+      "text": "Io avevo capito che eri infastidito dal gran parlare del tema \"femminicidio \" perché  a tuo parere c'e' una sorta di discriminazione tra l omicidio di una donna e l'omicidio  di un qualsiasi altro individuo.",
+      "date": "2025-11-26"
+    },
+    {
+      "sender": "Federico Ceccuzzi",
+      "text": "La storia del consenso come spiegato a più riprese potrebbe portare all’inversione dell’onere della prova . ( ps già ora la dichiarazione della presunta offesa ha molto più peso del presunto aggressore )",
+      "date": "2025-11-26"
+    },
+    {
+      "sender": "Federico Ceccuzzi",
+      "text": "Femminicidio è un reato di cui il sistema non aveva bisogno visto che già c’è l’omicidio e le varie aggravanti",
+      "date": "2025-11-26"
+    },
+    {
+      "sender": "Alessio Valentini",
+      "text": "io cmq qua sono mooolto ignorante di come siano le leggi adesso. In qualche modo presumo che siano già \"come il mio cervello crede debbano essere\". Ma ovviamente la situazione è più complicata di come credo",
+      "date": "2025-11-27"
+    },
+    {
+      "sender": "Alessio Valentini",
+      "text": "cmq ieri perla di Youness leggendaria <Questo messaggio è stato modificato>\n27/11/25, 14:16 - Alessio Valentini Giusto: <Media omessi>\n27/11/25, 14:16 - Alessio Valentini Giusto: <Media omessi>",
+      "date": "2025-11-27"
+    },
+    {
+      "sender": "Cosimo Nenciòni",
+      "text": "Il concetto: \"le donne sono tutte troie\" era ricorrente nelle discussioni quando avevamo 14 anni e non c'era versione di trombare le fiche. Quindi le cose sono due:\nÈ  vero. Le donne sono tutte troie. E lo sono geneticamente e per indole.\nÈ falso. Le donne si ricavano, tra l'altro, spazi di realizza",
+      "date": "2025-11-28"
+    },
+    {
+      "sender": "Adriano Sergio Lorenzo Facchini",
+      "text": "⸻\n✅ 1. Il punto di partenza: un’idea adolescenziale\nCiti un concetto grezzo e offensivo (“le donne sono tutte troie”) che circolava quando avevate 14 anni.\nIl senso è: da adolescenti, senza strumenti emotivi o sociali, si tendeva a semplificare la realtà femminile con frasi caricaturali.\n⸻\n✅ 2. Le d",
+      "date": "2025-11-28"
+    },
+    {
+      "sender": "Federico Ceccuzzi",
+      "text": "Perché a sinistra in italia non si vince storicamente . Ora poi che tematiche prettamente di destra sono alla ribalta ( vedi sicurezza e immigrazione ). Ps per il momento gestite male . ma meglio Giorgia che almeno dice qualcosa in merito o elly che fa votare una che dice che i contrabbandieri fanno",
+      "date": "2025-11-28"
+    },
+    {
+      "sender": "Fausto Petrini",
+      "text": "Alcune donne sono troie, comr alcuni uomini sono violenti, con la differenza però che essere violenti è di per sè una prevaricazione, mentre essere troie è tutto da dimostrare. In ogni caso se soffri per amore non sei incel, se pretendi per questo che le donne vengsnso punite si",
+      "date": "2025-11-28"
+    },
+    {
+      "sender": "Federico Ceccuzzi",
+      "text": "Articolo buffo… si parte subito collegandoli all’elettorato trumpiano ad una serie inglese sulla mascolinità tossica e poi uno che ha fatto la strage così per impostare subito il discorso .",
+      "date": "2025-11-28"
+    },
+    {
+      "sender": "Adriano Sergio Lorenzo Facchini",
+      "text": "No ragazzi, non è così.\nHo un amico che ormai col tempo mi è diventato molto caro, e la motivazione non è il fatto che non gliela diano mai.",
+      "date": "2025-11-28"
+    },
+    {
+      "sender": "Adriano Sergio Lorenzo Facchini",
+      "text": "Ovviamente la base è costituita dalla presa di coscienza personale di non essere all’altezza di poter contribuire alla continuazione della specie: bassi, brutti, problemi fisici, non maschi alpha..",
+      "date": "2025-11-28"
+    },
+    {
+      "sender": "Giacomo Dolfi",
+      "text": "in tutto l'anti ellysmo ceccuzziano, è evidente che anche Giorgia un pochino si è preoccupata se ora dal niente ha deciso di cambiare la legge elettorale...",
+      "date": "2025-11-28"
+    },
+    {
+      "sender": "Adriano Sergio Lorenzo Facchini",
+      "text": "Ti metti gnuda sul calendario Pirelli e fai vedere il culo, e tutti i metalmeccanici ti appendono nel retro del magazzino ? Sei una maiala.",
+      "date": "2025-11-28"
+    },
+    {
+      "sender": "Federico Ceccuzzi",
+      "text": "Il problema è che il culo non glielo fai anzi la Meloni con Conte , farebbe emergere tutte le incompatibilità tra M5S e Pd",
+      "date": "2025-11-28"
+    },
+    {
+      "sender": "Giacomo Dolfi",
+      "text": "purtroppo al momento ho un po' di febbre, spero passi veloce ma se l'ho presa (probabile) da Pietro e Gio potrebbe essere un problema",
+      "date": "2025-11-28"
+    },
+    {
+      "sender": "Giacomo Dolfi",
+      "text": "io solo testa pesante e tosse, ma con i troiai che ci sono in casa me la sono misurata e ce l'ho un pochina",
+      "date": "2025-11-28"
+    },
+    {
+      "sender": "Federico Ceccuzzi",
+      "text": "Ma non è questo il tema a mio parere , perché non ci vai? Io ci andrei e gli farei il culo",
+      "date": "2025-11-28"
+    },
+    {
+      "sender": "Giacomo Dolfi",
+      "text": "è chiaramente un diversivo per essere più forte ed evitare l'1 contro 1 che normalmente chi è in vantaggio evita",
+      "date": "2025-11-28"
+    },
+    {
+      "sender": "Fausto Petrini",
+      "text": "Aggiornamento sul paziente X: febbre reale 37.3 febbre percepita 39.5, tosse e raffreddore.\nGira per casa con la coperta del divano come se fosse l'imperatore, non esce neanche sul terrazzo per buttare la plastica, stanotte ha voluto la borsa dell'acqua calda, il suo fedele mantello e ovviamente il ",
+      "date": "2025-11-30"
+    },
+    {
+      "sender": "Adriano Sergio Lorenzo Facchini",
+      "text": "Ha fatto bene Trump\n12/03/25, 13:44 - Alecs: Fra le farmaceutiche io prenderei Lilly visto che è uscito mounjaro e cialis sta diventando farmaco da banco negli Stati Uniti",
+      "date": "2025-12-03"
+    },
+    {
+      "sender": "Alessio Valentini",
+      "text": "Ho provato deepseek R1 e varie altre e appena esce una seconda generazione di local mi ci butto.\n12/03/25, 18:11 - Adriano: <Media omessi>",
+      "date": "2025-12-03"
+    },
+    {
+      "sender": "Adriano Sergio Lorenzo Facchini",
+      "text": "Ma un po’ di fica da vedere all’aperitivo ce la mettiamo o no?\n12/04/25, 12:16 - Fausto: <Media omessi>\n12/04/25, 12:20 - Cocco: <Media omessi>\n12/04/25, 12:22 - Fausto: <Media omessi>\n12/04/25, 12:25 - Cocco: <Media omessi>",
+      "date": "2025-12-04"
+    },
+    {
+      "sender": "Fausto Petrini",
+      "text": "Per la serie storie di sport che piacciono ai veri sportivi, e non solo perchè sia il mio sport (nè tantomeno per far appassionare adri) suggerisco di guardare quanto è fatta bene la docuserie sul tour de trance dell'anno scorso fatta da netflix (tour de france unchained, ultima stagione). Qualità a",
+      "date": "2025-12-08"
+    },
+    {
+      "sender": "Alessio Macalùso",
+      "text": "Comunque sì, si stava godendo un bel giro in bici sentendosi il re del mondo e te gli rompi i coglioni\n12/12/25, 16:33 - Cocco: <Media omessi>",
+      "date": "2025-12-12"
+    },
+    {
+      "sender": "Giacomo Dolfi",
+      "text": "io il 22 ci dovrei essere, ma ho il babbo in ospedale e devo vedere come vanno le cose, in più lunedi mi montano cucina e camera a casa, ma insomma spero di farcela",
+      "date": "2025-12-19"
+    },
+    {
+      "sender": "Fausto Petrini",
+      "text": "Per stasera prenotato ore 19 a serre torrigiani, zona porta romana. Si può parcheggiare o lungo il viale tra porta romana e piazza tasso, o entrando dentro porta romana sulla sx nel parcheggio a pago, poi è subito lì",
+      "date": "2025-12-23"
+    },
+    {
+      "sender": "Cosimo Nenciòni",
+      "text": "L ultimo mese sono stato fuori perché mi aspettavo più mare mosso e invece forse valeva la pena spingere. Cmq chiudiamo il 2025 con un 5.80% circa. Purtroppo ci ha remato conto un dollaro che si è svalutato di oltre il 10% ed io non amo coprire le valute. Considerando che non avevo praticità con que",
+      "date": "2025-12-31"
+    },
+    {
+      "sender": "Federico Ceccuzzi",
+      "text": "Nel tuo report manca il passaggio sull’entrata durante l’anno solare di un nuovo socio di capitali che ha creduto nell’Aperipoker Investments da te presieduta <Questo messaggio è stato modificato>",
+      "date": "2025-12-31"
+    },
+    {
+      "sender": "Federico Ceccuzzi",
+      "text": "Tra l’altro chissà cosa starà facendo il buon Adriano in carinzia , non ci aggiorna più delle fighe che vede . O bene bene o male male",
+      "date": "2025-12-31"
+    },
+    {
+      "sender": "Federico Ceccuzzi",
+      "text": "L’unico neo sono i suggerimenti di Adriano sul medical che hanno di fatto rallentato la nostra crescita ( se non ricordo male )",
+      "date": "2025-12-31"
+    },
+    {
+      "sender": "Giacomo Dolfi",
+      "text": "Buon anno compagni di aperipoker\n31/12/25, 18:36 - Alessio Valentini Giusto: <Media omessi>\n31/12/25, 18:36 - Alessio Valentini Giusto: <Media omessi>",
+      "date": "2025-12-31"
+    }
+  ]
+}

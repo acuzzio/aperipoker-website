@@ -1,105 +1,166 @@
 {
   "yearsActive": 13,
-  "totalMessages": 30588,
-  "foundingDate": "3 Settembre 2013",
+  "totalMessages": 61166,
+  "foundingDate": "Dicembre 2013",
   "founder": "Giacomo Dolfi",
   "timeline": [
     {
-      "date": "Settembre 2013",
+      "date": "Dicembre 2013",
       "title": "La Fondazione",
-      "description": "Giacomo Dolfi crea il gruppo 'Aperipoker?' con un punto interrogativo che rimarrà per sempre la cifra stilistica del gruppo: fare cose, forse, boh."
+      "description": "Giacomo Dolfi crea il gruppo 'Aperipoker?' su WhatsApp. I primi messaggi sono foto modificate con Photoshop e battute tra amici. Solo 33 messaggi, ma l'inizio di una leggenda."
     },
     {
-      "date": "2013-2019",
-      "title": "Gli Anni del Silenzio",
-      "description": "Un periodo misterioso di cui non resta traccia digitale. Cosa succedeva? Nessuno lo sa. Forse si vedevano di persona, come i primitivi."
+      "date": "2014",
+      "title": "L'Anno del Leader Maca I",
+      "description": "Il gruppo esplode: quasi 3000 messaggi. Alessio Macaluso si autoproclama 'Leader' e assegna punti ai sudditi. Arriva Adriano. Tra cene da Cocco, partite a tennis e la classifica dei sudditi prediletti, nasce lo spirito goliardico di AperiPoker."
     },
     {
-      "date": "Aprile 2019",
-      "title": "La Rinascita",
-      "description": "Cosimo viene aggiunto al gruppo e chiede 'Boh.. avrò fatto bene?'. Alessio risponde 'Credo. Grande fede.' Il gruppo rinasce ufficialmente."
+      "date": "2015",
+      "title": "L'Anno d'Oro",
+      "description": "Record assoluto: 11.260 messaggi. Nasce Pietro Dolfi. Fausto organizza la proposta di matrimonio a Elena con l'aiuto segreto di tutto il gruppo. I Lider si susseguono tra prove assurde e linguaggio aulico. Il Palio, le discussioni su Parigi, i viaggi a Madrid. L'apice della chat."
     },
     {
-      "date": "Aprile 2019",
-      "title": "Il Primo Viaggio",
-      "description": "Il gruppo organizza una gita misteriosa. Cosimo non sa dove si va ('Cervinia o Gallipoli?') e deve fare la sacca senza sapere cosa metterci. Adriano consiglia: 'A cipolla non sbagli mai.'"
+      "date": "2016",
+      "title": "Riflessioni e Trump",
+      "description": "Il gruppo matura: riflessioni esistenziali sulla mortalita, il viaggio epico di Fausto in Giappone documentato foto per foto, e l'elezione shock di Trump che scatena la lettera parodia di Cosimo al 'President Trump'. Il matrimonio di Fausto ed Elena corona l'anno."
+    },
+    {
+      "date": "2017",
+      "title": "Il Regno di ADMA",
+      "description": "Adriano diventa Lider indiscusso con il nome d'arte Caravaggio. Matrimonio Vigni a Certaldo. Alessio racconta Gerusalemme con descrizioni epiche. Fausto e' l'oracolo del Palio. Prove speciali ai sudditi e linguaggio da corte medievale."
+    },
+    {
+      "date": "2018",
+      "title": "La Svolta di Adriano",
+      "description": "Adriano firma il nuovo contratto mentre e' in riunione con i vecchi capi. Nasce Giulia, nipote di Mac. Cocco va in Botswana. Il gruppo si divide sulla politica italiana tra Renzi, Salvini e M5S. La Lupa vince il Palio."
+    },
+    {
+      "date": "2019",
+      "title": "Nasce Leone",
+      "description": "Cosimo regna come Lider 'Federico', dispensando citazioni letterarie. Fausto ed Elena accolgono Leone a novembre. Il gruppo supporta Adriano durante l'operazione della mamma. Prima apparizione di Federico Ceccuzzi nella chat."
     },
     {
       "date": "2020",
       "title": "L'Anno del COVID",
-      "description": "Con oltre 6000 messaggi, il gruppo esplode. Chiusi in casa, gli AperiPoker diventano chiacchieroni seriali. È l'anno d'oro della messaggistica."
+      "description": "La pandemia trasforma AperiPoker: dalle cene alle videochiamate, dai ristoranti ai dibattiti su mascherine e tamponi. Adriano domina con 1476 messaggi e bistecche da 1,8 kg. Giec aspetta un figlio. Alessio e' bloccato in California. Il gruppo si stringe."
     },
     {
       "date": "2021",
-      "title": "Il Picco Storico",
-      "description": "Ancora 6136 messaggi. Il gruppo consolida le sue dinamiche: Adriano parla, Fausto organizza, gli altri commentano."
+      "title": "Rinascita e Stanford",
+      "description": "Lenta risalita verso la normalita'. Alessio Valentini firma con Stanford, facendo sognare tutti. Luna tiene banco con avventure pediatriche. Cocco si dimette da MPS. Vaccini, picnic all'aperto e la sensazione di potersi rivedere."
     },
     {
-      "date": "2022-2024",
-      "title": "La Normalizzazione",
-      "description": "La vita riprende, i messaggi calano. Ma il gruppo resta saldo: 3500 messaggi all'anno di pura goliardia."
+      "date": "2022",
+      "title": "Napoli e la Guerra",
+      "description": "L'anno dei tamponi infiniti e dell'invasione dell'Ucraina. La leggendaria trasferta a Napoli: trekking delle scalinate e Napoli sotterranea. Dibattiti sulla pasta cotta a fuoco spento. Elezioni che portano i fascisti al governo."
+    },
+    {
+      "date": "2023",
+      "title": "Riconnessione Globale",
+      "description": "Giec porta la famiglia in Australia (31 ore di viaggio). Alessio vive tra Yosemite e North Carolina. Il pranzo di novembre riporta tutti insieme: 'quella sensazione che tutto sia sempre uguale quando si sta con i vecchi amici'."
+    },
+    {
+      "date": "2024",
+      "title": "L'Anno di Sinner",
+      "description": "Sinner domina nel tennis, Adriano gode. Alessio vive l'eclissi totale con contrazioni da adrenalina. Cocco compra casa nuova (venduta in un giorno dopo 18 visite). Fausto smette col caffe. Le cene sono sempre piu' difficili da organizzare."
     },
     {
       "date": "2025",
-      "title": "L'Arrivo di Federico",
-      "description": "Federico Ceccuzzi entra nel gruppo portando prospettive fresche e conoscenza dei social. Il gruppo sale a 7 membri ufficiali. Alessio va ai Caraibi."
+      "title": "La Perdita e la Forza",
+      "description": "La perdita improvvisa di Andrea unisce il gruppo in un abbraccio collettivo. Cocco affronta coliche renali epiche (stent da 26 cm). L'Aperipoker Investments chiude a +5.80%. Federico diventa membro attivo. Il gruppo dimostra di essere famiglia."
     },
     {
       "date": "Gennaio 2026",
-      "title": "L'Era Digitale",
-      "description": "Nasce il sito AperiPoker. La storia del gruppo viene finalmente documentata per i posteri. Fausto vuole fare 'struscio', come sempre."
+      "title": "L'Era dell'AI",
+      "description": "Alessio scatena l'intelligenza artificiale su 13 anni di chat, generando pagelle esilaranti e il sito AperiPoker. Fausto esplora San Frediano in cerca della 'vera fica'. Cocco ricoverato di nuovo per calcoli. Nasce questo archivio digitale."
     }
   ],
   "yearlyStats": {
-    "2019": {
-      "messages": 2288,
-      "activeMembers": 6,
-      "mvp": "Cosimo Nenciòni",
-      "highlight": "La rinascita del gruppo dopo anni di silenzio"
+    "2013": {
+      "messages": 33,
+      "activeMembers": 5,
+      "mvp": "Alessio Valentini",
+      "highlight": "La nascita del gruppo a fine dicembre, tra foto con Photoshop e i primi ricordi condivisi"
     },
-    "2020": {
-      "messages": 6107,
-      "activeMembers": 6,
-      "mvp": "Adriano Sergio Lorenzo Facchini",
-      "highlight": "Lockdown = boom di messaggi. Il gruppo diventa terapia collettiva."
-    },
-    "2021": {
-      "messages": 6136,
-      "activeMembers": 6,
-      "mvp": "Adriano Sergio Lorenzo Facchini",
-      "highlight": "L'anno record. Ogni giorno una media di 17 messaggi."
-    },
-    "2022": {
-      "messages": 3505,
-      "activeMembers": 6,
-      "mvp": "Fausto Petrini",
-      "highlight": "La vita riprende, i messaggi calano ma la qualità resta."
-    },
-    "2023": {
-      "messages": 3874,
-      "activeMembers": 6,
-      "mvp": "Cosimo Nenciòni",
-      "highlight": "Cosimo torna protagonista con le sue provocazioni."
-    },
-    "2024": {
-      "messages": 3496,
+    "2014": {
+      "messages": 2964,
       "activeMembers": 6,
       "mvp": "Alessio Valentini",
-      "highlight": "Alessio gira il mondo e racconta dal vivo."
+      "highlight": "L'ascesa del Leader Maca I e delle sue richieste bizzarre ai sudditi fedeli"
+    },
+    "2015": {
+      "messages": 11260,
+      "activeMembers": 6,
+      "mvp": "Adriano Sergio Lorenzo Facchini",
+      "highlight": "Record assoluto di messaggi. La proposta di matrimonio di Fausto organizzata con tutto il gruppo"
+    },
+    "2016": {
+      "messages": 6225,
+      "activeMembers": 6,
+      "mvp": "Fausto Petrini",
+      "highlight": "Il viaggio epico in Giappone e lo shock dell'elezione di Trump"
+    },
+    "2017": {
+      "messages": 4670,
+      "activeMembers": 6,
+      "mvp": "Adriano Sergio Lorenzo Facchini",
+      "highlight": "Il regno di ADMA/Caravaggio e il matrimonio Vigni a Certaldo"
+    },
+    "2018": {
+      "messages": 3716,
+      "activeMembers": 6,
+      "mvp": "Cosimo Nencioni",
+      "highlight": "Adriano cambia lavoro, nasce la nipote Giulia, dibattiti politici infuocati"
+    },
+    "2019": {
+      "messages": 3204,
+      "activeMembers": 7,
+      "mvp": "Adriano Sergio Lorenzo Facchini",
+      "highlight": "Nasce Leone Petrini. Cosimo regna come Lider Federico"
+    },
+    "2020": {
+      "messages": 6771,
+      "activeMembers": 6,
+      "mvp": "Adriano Sergio Lorenzo Facchini",
+      "highlight": "La pandemia trasforma il gruppo: dalle cene alle videochiamate"
+    },
+    "2021": {
+      "messages": 6150,
+      "activeMembers": 6,
+      "mvp": "Adriano Sergio Lorenzo Facchini",
+      "highlight": "Rinascita post-lockdown. Alessio firma con Stanford"
+    },
+    "2022": {
+      "messages": 3517,
+      "activeMembers": 6,
+      "mvp": "Adriano Sergio Lorenzo Facchini",
+      "highlight": "La guerra in Ucraina e la mitica gita a Napoli"
+    },
+    "2023": {
+      "messages": 3889,
+      "activeMembers": 6,
+      "mvp": "Adriano Sergio Lorenzo Facchini",
+      "highlight": "Riconnessione globale: Australia, USA, e pranzi memorabili"
+    },
+    "2024": {
+      "messages": 3492,
+      "activeMembers": 6,
+      "mvp": "Adriano Sergio Lorenzo Facchini",
+      "highlight": "L'anno di Sinner, l'eclissi totale, e la casa nuova di Cocco"
     },
     "2025": {
-      "messages": 4761,
+      "messages": 4747,
       "activeMembers": 7,
       "mvp": "Adriano Sergio Lorenzo Facchini",
-      "highlight": "Arriva Federico, il gruppo si espande. Ripresa dei messaggi."
+      "highlight": "La perdita di Andrea e la forza del gruppo nel sostenersi"
     },
     "2026": {
-      "messages": 421,
+      "messages": 528,
       "activeMembers": 7,
-      "mvp": "Adriano Sergio Lorenzo Facchini",
-      "highlight": "Nasce il sito. Fausto propone serate, come sempre."
+      "mvp": "Alessio Valentini",
+      "highlight": "L'AI analizza 13 anni di chat. Nasce il sito AperiPoker"
     }
   },
-  "evolutionNarrative": "L'AperiPoker nacque in un giorno di settembre del 2013, quando Giacomo Dolfi, con la lungimiranza di un visionario e la prudenza di un italiano, creò un gruppo WhatsApp con un nome che era già una domanda esistenziale: 'Aperipoker?'. Quel punto interrogativo avrebbe definito l'essenza stessa del gruppo per i decenni a venire.\n\nI primi anni furono avvolti nel mistero. Dal 2013 al 2019 non restano tracce digitali significative. Si dice che in quegli anni gli amici si vedessero di persona, come i primitivi, senza bisogno di coordinamento via chat. Un'epoca barbara ma forse più autentica.\n\nLa vera rinascita avvenne nell'aprile 2019, quando Cosimo fu aggiunto al gruppo e pose la domanda fondamentale: 'Boh.. avrò fatto bene?'. La risposta di Alessio ('Credo. Grande fede.') divenne il mantra non ufficiale del gruppo: fare le cose senza sapere se sono giuste, ma farle comunque.\n\nPoi arrivò il 2020 e il mondo si fermò. Ma non l'AperiPoker. Con oltre 6000 messaggi, il gruppo esplose in una supernova di chiacchiere, meme, discussioni filosofiche sul nulla, e tentativi di organizzare aperitivi virtuali. Adriano emerse come il campione indiscusso della prolissità, un titolo che difende ancora oggi.\n\nGli anni successivi videro un assestamento. I messaggi calarono ma la qualità restò alta. Fausto continuò instancabilmente a proporre 'seratone' e 'struscio', ottenendo risposte tiepide ma mai perdendo la speranza. Nel 2025 arrivò Federico, portando sangue nuovo e competenze social che il gruppo non sapeva di aver bisogno.\n\nOggi, nel gennaio 2026, l'AperiPoker celebra la sua storia con questo sito. Tredici anni di amicizia, quasi 31000 messaggi, e la certezza che qualunque cosa proponga Fausto, almeno metà del gruppo risponderà 'Io non ci sono'.",
-  "generatedAt": "2026-01-18T12:00:00"
+  "evolutionNarrative": "L'AperiPoker nacque in un giorno di dicembre del 2013, quando Giacomo Dolfi creo' un gruppo WhatsApp per organizzare poker e aperitivi tra amici toscani. I primi messaggi furono foto ritoccate con Photoshop e battute da bar. Nessuno immaginava che quel gruppo sarebbe diventato un archivio di 61.000 messaggi e 13 anni di amicizia.\n\nIl 2014 vide l'esplosione: Alessio Macaluso si autoproclamo' 'Leader' e comincio' ad assegnare punti ai 'sudditi' per prove bizzarre. Arrivo' Adriano, che sarebbe diventato il membro piu' prolifico della storia. Il 2015 fu l'anno d'oro: 11.260 messaggi, la nascita di Pietro, e la proposta di matrimonio di Fausto organizzata segretamente con tutti gli amici.\n\nGli anni seguenti videro l'evoluzione del 'Lider': da gioco goliardico a tradizione con tanto di alias (Caravaggio, Federico, Ottavio, Pasquale). I regni si susseguivano tra prove assurde, linguaggio aulico e la responsabilita' di organizzare la prossima cena.\n\nIl 2020 e il COVID trasformarono tutto: dalle cene ai ristoranti alle videochiamate, il gruppo si strinse attorno a chi era lontano o in difficolta'. Adriano domino' con quasi 1500 messaggi, bistecche fotografate e opinioni su tutto.\n\nNel 2025 la perdita improvvisa di Andrea dimostro' che AperiPoker non e' solo un gruppo WhatsApp: e' famiglia. Il gruppo si uni' in un abbraccio collettivo che ando' oltre le battute e il poker.\n\nOggi, nel 2026, Alessio ha dato in pasto 13 anni di chat all'intelligenza artificiale, generando questo sito. Un monumento alla goliardia toscana, all'amicizia che resiste al tempo, e alla certezza che qualunque cosa proponga Fausto, almeno meta' del gruppo rispondera' 'Io non ci sono'.",
+  "generatedAt": "2026-01-21T12:00:00"
 }
